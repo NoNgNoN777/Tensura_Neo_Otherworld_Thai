@@ -2,7 +2,7 @@
 "lang|tensura|enchantment.tensura.barrier_piercing.desc": "ทำลายบาเรียทุกชนิดที่อาวุธสัมผัส และเจาะเกราะได้บางส่วน",
 "lang|tensura|enchantment.tensura.breathing_support.desc": "ป้องกันไม่ให้ฟองอากาศสำหรับหายใจลดลง",
 "lang|tensura|enchantment.tensura.crushing.desc": "เพิ่มความเสียหายของอาวุธ แลกกับความทนทานที่ลดลง",
-"lang|tensura|enchantment.tensura.dead_end_rainbow.desc": "หากเป็นไปตามเงื่อนไข จะลดพลังชีวิตทางจิตวิญญาณของเป้าหมายเหลือ 0 หลังโจมตีครบ 7 ครั้ง",
+"lang|tensura|enchantment.tensura.dead_end_rainbow.desc": "ตามหลักแล้วจะลดพลังชีวิตทางจิตวิญญาณของเป้าหมายเหลือ 0 หลังโจมตีครบ 7 ครั้ง",
 "lang|tensura|enchantment.tensura.elemental_boost.desc": "เพิ่มความเสียหายที่สร้างจากเอฟเฟกต์ธรรมชาติตามจำนวนอุปกรณ์ที่สวมใส่",
 "lang|tensura|enchantment.tensura.elemental_resistance.desc": "ลดความเสียหายที่ได้รับจากเอฟเฟกต์ธรรมชาติตามจำนวนอุปกรณ์ที่สวมใส่",
 "lang|tensura|enchantment.tensura.energy_protection.desc": "ลดปริมาณพลังงานที่ถูกขโมยจากผู้สวมใส่",

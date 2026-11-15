@@ -1,0 +1,119 @@
+[
+  {
+    "round": 1,
+    "check": "JSON, batch coverage and saved source",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "batches": 14,
+      "translated": 402,
+      "selected": 723
+    }
+  },
+  {
+    "round": 2,
+    "check": "Saved English against installed JAR",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "entries": 723,
+      "jars": 1
+    }
+  },
+  {
+    "round": 3,
+    "check": "Placeholders and brace tokens",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "entries": 402
+    }
+  },
+  {
+    "round": 4,
+    "check": "Numeric tokens and multiplicity",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "entries": 402
+    }
+  },
+  {
+    "round": 5,
+    "check": "Encoding, controls, formatting and line breaks",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "entries": 402
+    }
+  },
+  {
+    "round": 6,
+    "check": "Selected glossary names and untranslated text",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "names": [
+        "Dwargon",
+        "Stellar Gold coin",
+        "Gold coin",
+        "Unique Skill",
+        "Harvest Festival",
+        "Demon Lord Seed",
+        "True Demon Lord",
+        "EP",
+        "XP",
+        "Magic Ore",
+        "Labyrinth"
+      ],
+      "unchanged": [
+        "lang|tensura|item.tensura.dwargon_banner_pattern.desc"
+      ],
+      "note": "Targeted glossary check; not a complete semantic proof"
+    }
+  },
+  {
+    "round": 7,
+    "check": "Context review regressions",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "memory_entries": 12,
+      "evidence": "CharybdisCoreBlock javap: COOLDOWN -> inert; original Dead End Rainbow English"
+    }
+  },
+  {
+    "round": 8,
+    "check": "Toolkit full validation",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "stdout": "errors=0 warnings=2 (report: D:\\Git\\Tensura_Neo_Otherworld_Thai\\work\\validate.md)",
+      "report": "# Validate 20261115-205556\n\nerrors: 0, warnings: 2\n\n- warn `progress`: 321 items still untranslated (will stay English)\n- warn `lang|tensura|item.tensura.dwargon_banner_pattern.desc`: left in English\n"
+    }
+  },
+  {
+    "round": 9,
+    "check": "ZIP CRC, paths, metadata and delivery scope",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "members": [
+        "pack.mcmeta",
+        "assets/tensura/lang/th_th.json"
+      ]
+    }
+  },
+  {
+    "round": 10,
+    "check": "ZIP/folder parity with all translations",
+    "passed": true,
+    "errors": [],
+    "details": {
+      "expected": 402,
+      "output": 402,
+      "remaining": 321,
+      "zip_sha256": "f556d053ec3a9259d83ff802e1973eb31ab47e81c5d78b1db5daa43360d8461d"
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "batch": "025",
+  "how_to": "Context correction of a reused memory entry; audit override only, not additional source scope.",
+  "items": {
+    "lang|tensura|tooltip.tensura.charybdis_core.inert": "Inert"
+  }
+}

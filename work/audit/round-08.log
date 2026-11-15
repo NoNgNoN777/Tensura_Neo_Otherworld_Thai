@@ -1,0 +1,10 @@
+01 PASS JSON, batch coverage and saved source
+02 PASS Saved English against installed JAR
+03 PASS Placeholders and brace tokens
+04 PASS Numeric tokens and multiplicity
+05 PASS Encoding, controls, formatting and line breaks
+06 PASS Selected glossary names and untranslated text
+07 PASS Context review regressions
+08 PASS Toolkit full validation
+09 PASS ZIP CRC, paths, metadata and delivery scope
+10 PASS ZIP/folder parity with all translations
