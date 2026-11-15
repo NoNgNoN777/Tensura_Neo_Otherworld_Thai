@@ -1,0 +1,50 @@
+{
+  "lang|tensura|tensura.ability.on_cooldown": {
+    "th": "คูลดาวน์: %s วินาที",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.dialogue_window.cancel": {
+    "th": "ยกเลิก",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.dialogue_window.confirm": {
+    "th": "ยืนยัน",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.dialogue_window.rename": {
+    "th": "เปลี่ยนชื่อ",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.dialogue_window.save": {
+    "th": "บันทึก",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.charybdis_core.active": {
+    "th": "ทำงานอยู่",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.charybdis_core.inactive": {
+    "th": "ไม่ทำงาน",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.charybdis_core.inert": {
+    "th": "ไม่ทำงาน",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.great_sage_menu.crafting": {
+    "th": "กำลังคราฟต์",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.kiln.empty": {
+    "th": "ว่าง",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.kiln.mixing_left": {
+    "th": "ก่อนหน้า",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.kiln.mixing_right": {
+    "th": "ถัดไป",
+    "via": "text-memory"
+  }
+}

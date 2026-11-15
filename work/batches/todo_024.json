@@ -1,0 +1,27 @@
+{
+  "batch": "024",
+  "how_to": "Translate each value of `items` to Thai following references/translation-rules.md. Write done_024.json with the SAME keys: {\"items\": {key: thai}}. List values stay lists.",
+  "items": {
+    "lang|tensura|tooltip.tensura.reset_scroll.disable": "It's not allowed to reset at this state.",
+    "lang|tensura|tooltip.tensura.reset_scroll.disable.name": "It's not allowed to reset %s at the current state.",
+    "lang|tensura|tooltip.tensura.reset_scroll.not_safe": "It's not safe to reset here.",
+    "lang|tensura|tooltip.tensura.reset_scroll.penalty": "The gamerule [resetIncompletePenalty] is enabled, using this scroll while you haven't completed all Reset Counter requirements will result in the lost of %s reset point(s).",
+    "lang|tensura|tooltip.tensura.reset_scroll.race": "Reset the user's Statistic, Naming status, Awakening status, Spirits, Resistances and Race along with its Intrinsic Skills.",
+    "lang|tensura|tooltip.tensura.reset_scroll.skill": "Reset every skill of every type from the user except their Race's Intrinsic Skills.",
+    "lang|tensura|tooltip.tensura.reset_scroll.skill_warning": "This scroll will not cover your Unique SKill's MP cost. Be careful, or else you can end up with no Unique Skills.",
+    "lang|tensura|tooltip.tensura.return": "Return",
+    "lang|tensura|tooltip.tensura.shadow_storage.name": "Shadow: %s",
+    "lang|tensura|tooltip.tensura.smithing_table.lack_schematic": "Schematic required.",
+    "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode": "§aShift Right-click§r to change modes.",
+    "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode_magic": "Mode: §bMagic Bullet§r.",
+    "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode_physical": "Mode: §bPhysical Bullet§r.",
+    "lang|tensura|tooltip.tensura.spatial_blade.tooltip.blade": "§aBlade Mode§r: §eRight-click§r to shoot out blades.",
+    "lang|tensura|tooltip.tensura.spatial_blade.tooltip.hilt": "§aHilt Mode§r: §eRight-click§r to replenish blades.",
+    "lang|tensura|tooltip.tensura.spell_cast_item.list": "Used Magic:",
+    "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon": "Summon Slime",
+    "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon.control": "Control",
+    "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon.summon": "Summon",
+    "lang|tensura|tooltip.tensura.web_gun.projectile": "Projectile:",
+    "lang|tensura|tooltip.tensura.wip": "This feature is a work in progress. It will likely not work as intended and how it currently looks and works may be subject to change in the future."
+  }
+}
