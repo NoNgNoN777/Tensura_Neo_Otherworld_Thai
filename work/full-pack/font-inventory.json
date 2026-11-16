@@ -1,0 +1,54 @@
+[
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_blue.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_golden.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_gray.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_light_blue.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_light_gray.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_light_green.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_light_red.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_pastel_blue.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_purple.json"
+  },
+  {
+    "jar": "Beyond_Adventures-Neoforge-1.1.9.jar",
+    "path": "assets/beyond_gacha_c/font/tensura_red.json"
+  },
+  {
+    "jar": "greatsage-0.0.7.1.jar",
+    "path": "assets/greatsage/font/mincho.json"
+  },
+  {
+    "jar": "kubejs-neoforge-2101.7.2-build.348.jar",
+    "path": "assets/kubejs/font/icons.json"
+  },
+  {
+    "jar": "tensura_tno-1.0.6.4.jar",
+    "path": "assets/tensura_tno/font/greatsage_cjk.json"
+  }
+]

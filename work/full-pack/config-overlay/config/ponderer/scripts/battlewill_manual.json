@@ -1,0 +1,201 @@
+{
+  "id": "ponderer:battlewill_manual",
+  "items": [
+    "tensura:battlewill_manual"
+  ],
+  "title": {
+    "en_us": "Battlewill Manual: หาจากดันเจี้ยนและเรียนสกิล",
+    "zh_cn": "战斗意志手册 - 地牢战利品与技能学习",
+    "th_th": "Battlewill Manual: หาจากดันเจี้ยนและเรียนสกิล"
+  },
+  "structures": [
+    "ponderer:basic"
+  ],
+  "tags": [],
+  "scenes": [
+    {
+      "id": "obtainment",
+      "title": {
+        "en_us": "วิธีหาและคำแนะนำเบื้องต้น",
+        "zh_cn": "获取方式",
+        "th_th": "วิธีหาและคำแนะนำเบื้องต้น"
+      },
+      "steps": [
+        {
+          "type": "show_structure",
+          "structure": "ponderer:basic",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "replace_blocks",
+          "block": "minecraft:stone_bricks",
+          "blockPos": [
+            0,
+            0,
+            0
+          ],
+          "blockPos2": [
+            4,
+            0,
+            4
+          ],
+          "spawnParticles": false
+        },
+        {
+          "type": "set_block",
+          "block": "minecraft:chest",
+          "blockPos": [
+            2,
+            1,
+            2
+          ],
+          "spawnParticles": false,
+          "immediateDisplay": false,
+          "entranceAnimation": "none"
+        },
+        {
+          "type": "create_item_entity",
+          "pos": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "motion": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "item": "tensura:battlewill_manual",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "show_controls",
+          "duration": 70,
+          "point": [
+            3.0,
+            1.8,
+            3.0
+          ],
+          "direction": "down",
+          "item": "tensura:battlewill_manual",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 40
+        },
+        {
+          "type": "text",
+          "duration": 50,
+          "text": {
+            "en_us": "มีโอกาส 50% ที่จะพบในหีบดันเจี้ยน",
+            "zh_cn": "在地牢遗迹的箱子中有 50% 几率找到战斗意志手册。",
+            "th_th": "มีโอกาส 50% ที่จะพบในหีบดันเจี้ยน"
+          },
+          "point": [
+            2.5,
+            1.5,
+            2.0
+          ],
+          "color": "green",
+          "placeNearTarget": true,
+          "attachKeyFrame": true
+        }
+      ]
+    },
+    {
+      "id": "usage",
+      "title": {
+        "en_us": "วิธีใช้เพื่อเรียนสกิล Battlewill",
+        "zh_cn": "使用与技能学习",
+        "th_th": "วิธีใช้เพื่อเรียนสกิล Battlewill"
+      },
+      "steps": [
+        {
+          "type": "show_structure"
+        },
+        {
+          "type": "idle",
+          "duration": 20
+        },
+        {
+          "type": "create_item_entity",
+          "pos": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "motion": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "item": "tensura:battlewill_manual",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 40
+        },
+        {
+          "type": "show_controls",
+          "duration": 40,
+          "point": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "direction": "down",
+          "action": "right",
+          "item": "tensura:battlewill_manual",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "text",
+          "duration": 50,
+          "text": {
+            "en_us": "กดคลิกขวาค้างเพื่อใช้ แล้วสุ่มเรียนสกิล Battlewill หนึ่งอย่าง",
+            "zh_cn": "长按右键使用，随机学习一种斗气技能。",
+            "th_th": "กดคลิกขวาค้างเพื่อใช้ แล้วสุ่มเรียนสกิล Battlewill หนึ่งอย่าง"
+          },
+          "point": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "color": "green",
+          "placeNearTarget": true
+        },
+        {
+          "type": "idle",
+          "duration": 60
+        },
+        {
+          "type": "indicate_success",
+          "blockPos": [
+            2,
+            2,
+            2
+          ],
+          "attachKeyFrame": true
+        },
+        {
+          "type": "text",
+          "duration": 50,
+          "text": {
+            "en_us": "เรียน Hazy Style Fighting สำเร็จแล้ว!",
+            "zh_cn": "成功学习气斗法！",
+            "th_th": "เรียน Hazy Style Fighting สำเร็จแล้ว!"
+          },
+          "point": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "color": "green",
+          "placeNearTarget": true
+        }
+      ]
+    }
+  ]
+}

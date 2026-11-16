@@ -1,0 +1,230 @@
+{
+  "id": "ponderer:toms_storage_tutorial",
+  "items": [
+    "toms_storage:storage_terminal"
+  ],
+  "title": {
+    "en_us": "วิธีใช้ Tom's Simple Storage",
+    "zh_cn": "汤姆的简易存储教程",
+    "th_th": "วิธีใช้ Tom's Simple Storage"
+  },
+  "structures": [
+    "ponderer:basic"
+  ],
+  "tags": [],
+  "editable": false,
+  "scenes": [
+    {
+      "id": "core_chests_terminal",
+      "title": {
+        "en_us": "ส่วนหลัก หีบ และ Terminal",
+        "zh_cn": "核心、箱子与终端",
+        "th_th": "ส่วนหลัก หีบ และ Terminal"
+      },
+      "steps": [
+        {
+          "type": "show_structure",
+          "structure": "ponderer:basic",
+          "blockPos": [
+            5,
+            5,
+            5
+          ],
+          "blockPos2": [
+            5,
+            5,
+            5
+          ],
+          "attachKeyFrame": true
+        },
+        {
+          "type": "replace_blocks",
+          "block": "minecraft:oak_planks",
+          "blockPos": [
+            0,
+            0,
+            0
+          ],
+          "blockPos2": [
+            4,
+            0,
+            4
+          ],
+          "spawnParticles": false
+        },
+        {
+          "type": "idle",
+          "duration": 20
+        },
+        {
+          "type": "set_block",
+          "block": "toms_storage:inventory_proxy",
+          "blockPos": [
+            2,
+            1,
+            2
+          ],
+          "immediateDisplay": true,
+          "entranceAnimation": "none",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "text",
+          "duration": 50,
+          "text": {
+            "en_us": "วาง Inventory Proxy ซึ่งเป็นศูนย์กลางเครือข่าย",
+            "zh_cn": "放置存储核心，这是网络的中枢。",
+            "th_th": "วาง Inventory Proxy ซึ่งเป็นศูนย์กลางเครือข่าย"
+          },
+          "point": [
+            2.5,
+            1.5,
+            2.0
+          ],
+          "color": "blue",
+          "placeNearTarget": true,
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 45
+        },
+        {
+          "type": "set_block",
+          "block": "minecraft:chest",
+          "blockPos": [
+            2,
+            1,
+            1
+          ],
+          "spawnParticles": true,
+          "attachKeyFrame": true
+        },
+        {
+          "type": "set_block",
+          "block": "minecraft:chest",
+          "blockPos": [
+            2,
+            1,
+            3
+          ],
+          "spawnParticles": true
+        },
+        {
+          "type": "set_block",
+          "block": "minecraft:chest",
+          "blockPos": [
+            1,
+            1,
+            2
+          ],
+          "spawnParticles": true
+        },
+        {
+          "type": "set_block",
+          "block": "minecraft:chest",
+          "blockPos": [
+            3,
+            1,
+            2
+          ],
+          "spawnParticles": true
+        },
+        {
+          "type": "text",
+          "duration": 50,
+          "text": {
+            "en_us": "วางหีบติดกับส่วนหลัก หีบจะเชื่อมเข้าเครือข่ายอัตโนมัติ",
+            "zh_cn": "紧挨核心放置箱子，它们会自动加入网络。",
+            "th_th": "วางหีบติดกับส่วนหลัก หีบจะเชื่อมเข้าเครือข่ายอัตโนมัติ"
+          },
+          "point": [
+            2.5,
+            1.5,
+            1.0
+          ],
+          "color": "green",
+          "placeNearTarget": true,
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 60
+        },
+        {
+          "type": "set_block",
+          "block": "toms_storage:storage_terminal",
+          "blockProperties": {
+            "facing": "south"
+          },
+          "blockPos": [
+            2,
+            2,
+            2
+          ],
+          "immediateDisplay": true,
+          "entranceAnimation": "none",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "text",
+          "duration": 50,
+          "text": {
+            "en_us": "กดย่อพร้อมคลิกขวาที่ส่วนหลักเพื่อติดตั้ง Storage Terminal",
+            "zh_cn": "对着核心潜行右键安装存储终端。",
+            "th_th": "กดย่อพร้อมคลิกขวาที่ส่วนหลักเพื่อติดตั้ง Storage Terminal"
+          },
+          "point": [
+            2.5,
+            2.5,
+            2.0
+          ],
+          "color": "blue",
+          "placeNearTarget": true,
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 60
+        },
+        {
+          "type": "show_controls",
+          "duration": 50,
+          "point": [
+            2.0,
+            3.0,
+            2.3
+          ],
+          "direction": "down",
+          "action": "right",
+          "item": "toms_storage:storage_terminal",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 20
+        },
+        {
+          "type": "text",
+          "duration": 50,
+          "text": {
+            "en_us": "คลิกขวาที่ Storage Terminal เพื่อเปิดดูช่องเก็บของทั้งหมดรวมกัน",
+            "zh_cn": "右键存储终端，打开统一储物界面。",
+            "th_th": "คลิกขวาที่ Storage Terminal เพื่อเปิดดูช่องเก็บของทั้งหมดรวมกัน"
+          },
+          "point": [
+            2.5,
+            2.5,
+            2.0
+          ],
+          "color": "green",
+          "placeNearTarget": true
+        },
+        {
+          "type": "idle",
+          "duration": 60
+        }
+      ]
+    }
+  ]
+}

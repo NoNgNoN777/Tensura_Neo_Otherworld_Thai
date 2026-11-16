@@ -1,0 +1,274 @@
+[
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.1",
+    "en": "Acquisition of the Demon Lord Seed is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.2",
+    "en": "The right to devour souls has been obtained."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.3",
+    "en": "By offering the required number of souls, awakening into a True Demon Lord becomes possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.1",
+    "en": "The designated individual, the host, meets the conditions for species evolution. A petition is addressed to the Voice of the World. Evolution requested."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.2",
+    "en": "...... Approval confirmed. The designated individual, the host,"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.3",
+    "en": "has succeeded in evolving. A rise in existence value, and a restructuring of innate skills, are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.1",
+    "en": "The conditions have been met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.2",
+    "en": "The Harvest Festival begins now."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.3",
+    "en": "Souls serve as the price; existential evolution is executed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.4",
+    "en": "Temporary loss of consciousness confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.5",
+    "en": "Relocating to a safe place is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.1",
+    "en": "Acquisition of the Hero's Egg is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.2",
+    "en": "The vessel of the soul begins to transmute."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.3",
+    "en": "Await the hour of awakening."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.1",
+    "en": "The Harvest Festival is complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.2",
+    "en": "The designated individual, the host, has awakened as a True Demon Lord."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.3",
+    "en": "A rise in all ability values, and the evolution of subordinates, are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.4",
+    "en": "Continuing, I shall report the skills acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.1",
+    "en": "Fulfilment of the awakening conditions is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.2",
+    "en": "The designated individual, the host, awakens as a True Hero."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.3",
+    "en": "The vessel of the soul has been rebuilt."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.4",
+    "en": "All ability values have risen sharply."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.koku",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.houkoku",
+    "en": "Continuing, I shall report the skills acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.01",
+    "en": "The human souls required by the evolution conditions are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.02",
+    "en": "The required conditions have been met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.03",
+    "en": "The Harvest Festival begins now."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.04",
+    "en": "Souls serve as the price; existential evolution is executed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.05",
+    "en": "Temporary loss of consciousness confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.06",
+    "en": "Shifting to low-activity mode."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.07",
+    "en": "Relocating to a safe place is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.01",
+    "en": "The Harvest Festival is complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.02",
+    "en": "Reconstruction of the host's soul: commencing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.03",
+    "en": "Existence value, rising..."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.04",
+    "en": "Measurement limit exceeded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.05",
+    "en": "A rise in all ability values is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.06",
+    "en": "The designated individual, the host, has awakened as a True Demon Lord."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.07",
+    "en": "Notice from the Voice of the World. The birth of a new Demon Lord is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.08",
+    "en": "Bestowal of the Gift upon the monsters of the lineage: commencing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.09",
+    "en": "The evolution of subordinates is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.01",
+    "en": "Acquisition of the Demon Lord Seed is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.02",
+    "en": "The right to devour souls has been obtained."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.03",
+    "en": "By offering the required number of souls,"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.04",
+    "en": "awakening into a True Demon Lord becomes possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.hero_egg.01",
+    "en": "Acquisition of the Hero's Egg is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.hero_egg.02",
+    "en": "The vessel of the soul begins to transmute."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.hero_egg.03",
+    "en": "Await the hour of awakening."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.01",
+    "en": "Fulfilment of the awakening conditions is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.02",
+    "en": "The designated individual, the host, awakens as a True Hero."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.03",
+    "en": "The vessel of the soul has been rebuilt."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.04",
+    "en": "All ability values have risen sharply."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.01",
+    "en": "The designated individual, the host, meets the conditions for species evolution."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.02",
+    "en": "A petition to the Voice of the World."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.03",
+    "en": "Species evolution requested."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.04",
+    "en": "Approval confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.05",
+    "en": "The designated individual, the host,"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.06",
+    "en": "has succeeded in evolving."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.07",
+    "en": "A rise in existence value, and a restructuring of innate skills, are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.fusion.01",
+    "en": "Notice. Skill fusion: commencing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.naming.02",
+    "en": "Naming successful."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.naming.03",
+    "en": "You have been given a name."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.naming.04",
+    "en": "Confirmed: the individual has evolved through naming."
+  }
+]

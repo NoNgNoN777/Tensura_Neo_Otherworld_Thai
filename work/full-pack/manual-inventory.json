@@ -1,0 +1,578 @@
+[
+  {
+    "jar": "iceandfire-2.1.4.jar",
+    "path": "assets/iceandfire/patchouli_books/iceandfire/en_us/categories/introduction.json"
+  },
+  {
+    "jar": "iceandfire-2.1.4.jar",
+    "path": "assets/iceandfire/patchouli_books/iceandfire/en_us/entries/introduction.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/categories/alchemy.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/categories/pills.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/categories/races.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/categories/rune_mysteries.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/categories/skills.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/categories/talismans.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/alchemy/alchemy_furnace.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/alchemy/fuels.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/pills/foundation_building_pill.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/pills/giant_spirit_pill.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/pills/heaven_cleansing_elixir.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/pills/mystic_void_elixir.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/pills/spirit_cleansing_pill.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/pills/stellar_core_pill.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/pills/void_refinement_pill.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/races/wastelander.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/runes/deciphering.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/runes/mainline_overview.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/runes/manuals.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/runes/rune_table.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/runes/scholar_table_analysis.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/runes/stele_and_spirit_glasses.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/runes/zhao_ying_zhu.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/alchemist_fire.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/alchemy_prodigy.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/cultivating_the_mystic_dao.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/early_cultivation.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/great_sage.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/hundred_ghosts_surge.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/mischief.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/myriad_swords_return.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/qi_flight.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/size_transformation.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/sword_flight.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/skills/talisman_master.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/talismans/fasting_talisman.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/talismans/monster_gathering_talisman.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/talismans/nourishing_qi_talisman.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/talismans/puppet_talisman.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/talismans/scholar_table_talismans.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/entries/talismans/thunder_talisman.json"
+  },
+  {
+    "jar": "mortal_cultivation-1.0.6.1.jar",
+    "path": "assets/mortal_cultivation/patchouli_books/cultivation_guide/en_us/templates/alchemy_recipe.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/categories/creating.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/categories/devices.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/categories/effects.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/categories/intro.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/categories/items.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/categories/practices.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/categories/using.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/ancient_tree.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/animal_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/chorus_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/end_flower.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/firework_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/flower_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/generator_limit_remover.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/moss_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/oak_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/on_generating.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/potion_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/projectile_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/creating/slime_split_generator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/animal_container.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/aura_detector.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/aura_timer.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/auto_crafter.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/grated_chute.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/item_distributor.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/mover_cart.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/pickup_stopper.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/devices/powder_placer.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/anger.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/animal.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/breathlessness.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/cache_recharge.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/decay.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/effect_powder.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/explosions.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/nether_decay.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/nether_grass.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/ore_spawn.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/effects/plant_boost.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/intro/aura.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/intro/baubles.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/intro/botany.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/intro/intro.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/aura_cache.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/aura_trove.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/break_prevention.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/cave_finder.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/color_changer.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/crimson_meal.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/death_ring.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/depth_armor.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/depth_ingot.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/depth_tools.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/end_city_finder.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/ender_access.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/eye.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/eye_improved.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/fortress_finder.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/infused_iron_armor.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/infused_iron_tools.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/light_staff.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/loot_finder.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/netherite_finder.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/outpost_finder.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/pet_reviver.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/range_visualizer.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/shockwave_creator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/sky_armor.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/items/sky_tools.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/practices/aura_bottle.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/practices/aura_plants.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/practices/gold_trees.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/practices/offering.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/practices/tree_ritual.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/altar.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/animal_spawner.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/aura_mending.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/aura_mending_enchantability.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/blast_furnace_booster.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/chunk_loader.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/conversion_catalyst.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/crushing_catalyst.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/dimension_rail.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/ender_crate.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/field_creator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/furnace_heater.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/hopper_upgrade.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/lower_limiter.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/placer.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/rf_converter.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/snow_creator.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/spawn_lamp.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/spring.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/time_changer.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/entries/using/weather_changer.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/templates/altar.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/templates/animal_spawner.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/templates/offering.json"
+  },
+  {
+    "jar": "NaturesAura-41.10.jar",
+    "path": "assets/naturesaura/patchouli_books/book/en_us/templates/tree_ritual.json"
+  }
+]

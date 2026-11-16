@@ -1,0 +1,532 @@
+[
+  {
+    "file": "config\\ponderer\\scripts\\alchemy_furnace.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "New Scene - alchemy_furnace",
+    "thai": "แนะนำ Alchemy Furnace",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\alchemy_furnace.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      3,
+      "text",
+      "en_us"
+    ],
+    "english": "The placement of the alchemy ing",
+    "thai": "วางวัตถุดิบปรุงยาตามตำแหน่งที่แสดง หากมีเอฟเฟกต์เปลวไฟ แสดงว่ากำลังปรุงยา",
+    "used_alternate_locale_due_to_truncation": true
+  },
+  {
+    "file": "config\\ponderer\\scripts\\alchemy_furnace.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      5,
+      "text",
+      "en_us"
+    ],
+    "english": "The refining speed can be increa",
+    "thai": "ใช้ The Supreme Alchemy Canon หรือ Essence Charcoal เพื่อเพิ่มความเร็วในการปรุงยา",
+    "used_alternate_locale_due_to_truncation": true
+  },
+  {
+    "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Battlewill Manual - Dungeon Loot & Skill Learning",
+    "thai": "Battlewill Manual: หาจากดันเจี้ยนและเรียนสกิล",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Obtainment & Introduction",
+    "thai": "วิธีหาและคำแนะนำเบื้องต้น",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      6,
+      "text",
+      "en_us"
+    ],
+    "english": "Found in dungeon chests with a 50% chance.",
+    "thai": "มีโอกาส 50% ที่จะพบในหีบดันเจี้ยน",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+    "path": [
+      "scenes",
+      1,
+      "title",
+      "en_us"
+    ],
+    "english": "Usage – Learning a Battlewill Skill",
+    "thai": "วิธีใช้เพื่อเรียนสกิล Battlewill",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+    "path": [
+      "scenes",
+      1,
+      "steps",
+      5,
+      "text",
+      "en_us"
+    ],
+    "english": "Hold right-click to use. Learns a random Battlewill skill.",
+    "thai": "กดคลิกขวาค้างเพื่อใช้ แล้วสุ่มเรียนสกิล Battlewill หนึ่งอย่าง",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+    "path": [
+      "scenes",
+      1,
+      "steps",
+      8,
+      "text",
+      "en_us"
+    ],
+    "english": "Successfully learned Hazy Style Fighting!",
+    "thai": "เรียน Hazy Style Fighting สำเร็จแล้ว!",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\book.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Is this the quest book?",
+    "thai": "ที่นี่คือสมุดเควสต์หรือเปล่า?",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\book.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Rimuru!",
+    "thai": "Rimuru!",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\book.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      5,
+      "text",
+      "en_us"
+    ],
+    "english": "Hey! Hello there, Reincarnate!",
+    "thai": "เฮ้ สวัสดี ผู้กลับชาติมาเกิด!",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\charybdis_core.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Introduction to the Charybdis Co",
+    "thai": "แนะนำ Charybdis Core",
+    "used_alternate_locale_due_to_truncation": true
+  },
+  {
+    "file": "config\\ponderer\\scripts\\charybdis_core.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Underground Structure",
+    "thai": "สิ่งปลูกสร้างใต้ดิน",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\charybdis_core.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      4,
+      "text",
+      "en_us"
+    ],
+    "english": "The egg-like core used to summon",
+    "thai": "แกนรูปร่างคล้ายไข่ ใช้อัญเชิญ Charybdis",
+    "used_alternate_locale_due_to_truncation": true
+  },
+  {
+    "file": "config\\ponderer\\scripts\\charybdis_core.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      6,
+      "text",
+      "en_us"
+    ],
+    "english": "Activates when charged with 100K",
+    "thai": "ชาร์จครบ 100K EP เพื่อเปิดใช้งาน จากนั้นใช้รับ EP หรือคลิกขวาเพื่ออัญเชิญบอส",
+    "used_alternate_locale_due_to_truncation": true
+  },
+  {
+    "file": "config\\ponderer\\scripts\\kiln_usage.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Kiln Usage Tutorial",
+    "thai": "วิธีใช้ Kiln",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\kiln_usage.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "GUI usage tutorial",
+    "thai": "แนะนำหน้าจอใช้งาน",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\magic_ore_shard.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Some uses of Magic Ore Shards.",
+    "thai": "ตัวอย่างการใช้ Magic Ore Shard",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\magic_ore_shard.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Usage 1: Twilight Portal.",
+    "thai": "วิธีที่ 1: เปิดประตูสู่ Twilight Forest",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\magic_ore_shard.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      13,
+      "text",
+      "en_us"
+    ],
+    "english": "Throw magic_ore_shard into water.",
+    "thai": "โยน Magic Ore Shard ลงน้ำ",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\mining_station.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "New Scene - mining_station",
+    "thai": "วิธีใช้ Mining Station",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\mining_station.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Scene 1",
+    "thai": "ฉากที่ 1",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\mining_station.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      4,
+      "text",
+      "en_us"
+    ],
+    "english": "Right-click to open and insert raw ore. Raw metal items are not accepted.",
+    "thai": "คลิกขวาเพื่อเปิดแล้วใส่บล็อกแร่ ไม่รับไอเทมโลหะดิบ",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\mithril_block.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Feldway’s summoning ritual",
+    "thai": "พิธีอัญเชิญ Feldway",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\mithril_block.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Feldway’s summoning ritual",
+    "thai": "พิธีอัญเชิญ Feldway",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\mithril_block.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      5,
+      "text",
+      "en_us"
+    ],
+    "english": "Right-click the Magic Silver Blo",
+    "thai": "คลิกขวาที่ Mithril Block เพื่ออัญเชิญ Feldway",
+    "used_alternate_locale_due_to_truncation": true
+  },
+  {
+    "file": "config\\ponderer\\scripts\\mithril_block.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      6,
+      "text",
+      "en_us"
+    ],
+    "english": "(Paths Gate dimension only)",
+    "thai": "(ใช้ได้เฉพาะมิติ Paths Gate)",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\orb_of_prophec.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "New Scene - orb_of_prophec",
+    "thai": "ฉากใหม่: orb_of_prophec",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\orb_of_prophec.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Scene 1",
+    "thai": "ฉากที่ 1",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\orb_of_prophec.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      2,
+      "text",
+      "en_us"
+    ],
+    "english": "Edit this ponder scene!",
+    "thai": "แก้ไขฉาก Ponder นี้!",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\orb_of_prophecy.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "New Scene - orb_of_prophecy",
+    "thai": "ฉากใหม่: orb_of_prophecy",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\orb_of_prophecy.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Scene 1",
+    "thai": "ฉากที่ 1",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\orb_of_prophecy.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      3,
+      "text",
+      "en_us"
+    ],
+    "english": "Right-click the portal frame to ",
+    "thai": "คลิกขวาที่กรอบประตูเพื่อเปิดประตูเข้าสู่มิติ",
+    "used_alternate_locale_due_to_truncation": true
+  },
+  {
+    "file": "config\\ponderer\\scripts\\smithing_bench.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Usage of the Smithing Bench",
+    "thai": "วิธีใช้ Smithing Bench",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\smithing_bench.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Purpose of Blueprints",
+    "thai": "หน้าที่ของ Blueprint",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\smithing_bench.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      2,
+      "text",
+      "en_us"
+    ],
+    "english": "To craft here, you need to unlock the recipe with a blueprint. Blueprints are obtained by acquiring certain materials.",
+    "thai": "ก่อนคราฟต์ที่นี่ ต้องใช้ Blueprint ปลดล็อกสูตรก่อน รับ Blueprint ได้เมื่อได้รับวัตถุดิบบางชนิด",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+    "path": [
+      "title",
+      "en_us"
+    ],
+    "english": "Tom's Simple Storage Tutorial",
+    "thai": "วิธีใช้ Tom's Simple Storage",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+    "path": [
+      "scenes",
+      0,
+      "title",
+      "en_us"
+    ],
+    "english": "Core, Chests & Terminal",
+    "thai": "ส่วนหลัก หีบ และ Terminal",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      4,
+      "text",
+      "en_us"
+    ],
+    "english": "Place the Inventory Proxy. It is the network hub.",
+    "thai": "วาง Inventory Proxy ซึ่งเป็นศูนย์กลางเครือข่าย",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      10,
+      "text",
+      "en_us"
+    ],
+    "english": "Place chests directly next to the core. They will automatically join the network.",
+    "thai": "วางหีบติดกับส่วนหลัก หีบจะเชื่อมเข้าเครือข่ายอัตโนมัติ",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      13,
+      "text",
+      "en_us"
+    ],
+    "english": "Sneak + right-click on the core to install the Storage Terminal.",
+    "thai": "กดย่อพร้อมคลิกขวาที่ส่วนหลักเพื่อติดตั้ง Storage Terminal",
+    "used_alternate_locale_due_to_truncation": false
+  },
+  {
+    "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+    "path": [
+      "scenes",
+      0,
+      "steps",
+      17,
+      "text",
+      "en_us"
+    ],
+    "english": "Right-click the Storage Terminal to open a unified inventory view.",
+    "thai": "คลิกขวาที่ Storage Terminal เพื่อเปิดดูช่องเก็บของทั้งหมดรวมกัน",
+    "used_alternate_locale_due_to_truncation": false
+  }
+]

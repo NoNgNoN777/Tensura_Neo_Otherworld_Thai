@@ -1,0 +1,1190 @@
+[
+  {
+    "key": "lang|greatsage|greatsage.voice.baiomu",
+    "en": "Environment: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.battle_off",
+    "en": "Battle mode released. %s skills stood down."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.battle_on",
+    "en": "Battle mode engaged. %s skills active."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.bougyo",
+    "en": "Your defence is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chijou",
+    "en": "You are under open sky."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chika",
+    "en": "You are underground."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chinmoku",
+    "en": "I will be silent."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chokuzen",
+    "en": "Your latest acquisition is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.console.usage",
+    "en": "Say it after the command. %s requests are understood, e.g. /sage what is my existence value"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai",
+    "en": "Level %s. %s experience to the next one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai_fusoku",
+    "en": "The level is insufficient."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai_joushou",
+    "en": "The level has risen."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai_max",
+    "en": "Level %s. There is nothing left for me to learn."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.era",
+    "en": "Error."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.evolution_gap",
+    "en": "Progress toward %s stands at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.found_at",
+    "en": "Detected %s blocks away, %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fushou_ari",
+    "en": "You are wounded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fusoku_zairyou",
+    "en": "Missing: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.futekisetsu",
+    "en": "Unsuitable."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.futsuu",
+    "en": "Nothing abnormal."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fuyo_ijou",
+    "en": "An anomaly has occurred during the grant."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fuyo_zumi",
+    "en": "Already granted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fuyou",
+    "en": "No thanks are required."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gaitou_nashi",
+    "en": "No match."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gakushuu_kakunin",
+    "en": "Shall I learn this?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gakushuu_kanryou",
+    "en": "Learning complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gakushuu_mode",
+    "en": "Learning mode."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ganbou_chuushutsu",
+    "en": "Extracting desire."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hai",
+    "en": "Yes."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.haigo_keikoku",
+    "en": "Something is behind you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.haiki_kanryou",
+    "en": "%s discarded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hajimari",
+    "en": "It begins."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heal",
+    "en": "%s consumed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heal_none",
+    "en": "You carry no remedy."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heikin_sonzaichi",
+    "en": "%s averages %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heiretsu_jougen",
+    "en": "The parallel limit has been reached."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hi",
+    "en": "Negative."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hitsuyou_maso",
+    "en": "%s costs %s to acquire."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hitsuyou_nashi",
+    "en": "There is no need."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoshoku_fuka",
+    "en": "It is beyond predation."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoshoku_kanou",
+    "en": "Predation is possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.houi",
+    "en": "You are facing %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoyuu_nashi",
+    "en": "You do not possess it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoyuu_suu",
+    "en": "You hold %s skills."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ichijiteki",
+    "en": "That is a temporary ability."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.idle_skills",
+    "en": "%s skills sit unused, starting with %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.iie",
+    "en": "No."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.bar",
+    "en": "Great Sage · voice model %s%%"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.bar.done",
+    "en": "Great Sage can hear you"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.bar.failed",
+    "en": "Great Sage · voice download failed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.done",
+    "en": "Great Sage can hear you now."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.failed",
+    "en": "Great Sage could not fetch what he needs to hear you. See the log, or put the files in %s yourself."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.progress",
+    "en": "Great Sage: voice model %s%% downloaded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.start",
+    "en": "Great Sage is fetching what he needs to hear you. About 40 MB per language, plus 25 MB the first time."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jakuten",
+    "en": "Its weakness: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jigen",
+    "en": "Dimension: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikan_ga_nai",
+    "en": "There is no more time."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jiki_shousou",
+    "en": "It is too early."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou",
+    "en": "%s unleashed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou_chuu",
+    "en": "An analysis is already running."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou_fuka",
+    "en": "%s cannot be toggled."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou_fuka2",
+    "en": "I cannot do that."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikoku",
+    "en": "Time: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jinkaku_kakunin",
+    "en": "Personality confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jougen_toutatsu",
+    "en": "Limit reached."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jouhou_nashi",
+    "en": "I have no data on that."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.joui_fuyo",
+    "en": "A higher skill has been granted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.joutai_ijou",
+    "en": "Active effects: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kachi_ari",
+    "en": "%s is worth keeping."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kachi_nashi",
+    "en": "%s is worth little."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaihou",
+    "en": "Function unlocked."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_chuu",
+    "en": "Analyzing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_chuudan",
+    "en": "Analysis aborted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_fuka",
+    "en": "There is no skill available for analysis."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kaishi",
+    "en": "Beginning analysis of %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kaishi.plain",
+    "en": "Beginning analysis."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kakunin",
+    "en": "During the analysis, the target skill cannot be used. Proceed?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kanryou",
+    "en": "Understood. Analysis complete. Skill mastery has improved."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kantei",
+    "en": "Understood. Executing Analytical Appraisal."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_mode",
+    "en": "Understood. Analysis mode. Select the target skill."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_shippai",
+    "en": "Negative. The target's information volume exceeded the allowed threshold. Analysis failed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_shuuryou",
+    "en": "Understood. Terminating Analytical Appraisal."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_taishou",
+    "en": "I am analysing %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakutei",
+    "en": "Confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakutei_kakunin",
+    "en": "Confirm this?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakutoku",
+    "en": "Acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kansatsu_suu",
+    "en": "%s species observed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kansoku_ichiran",
+    "en": "Displaying observation records."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kansoku_kaishi",
+    "en": "Observation begins."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.keika_jikan",
+    "en": "This world is %s days old."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.keikoku",
+    "en": "Warning."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kengen_nashi",
+    "en": "Insufficient authority."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kennou_fuyo_kanou",
+    "en": "Authority can be granted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kennou_seisei",
+    "en": "Generating authority."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kidou",
+    "en": "Good morning, master."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiken_ari",
+    "en": "Danger detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiken_nashi",
+    "en": "No danger."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kinou_ichiran",
+    "en": "Enumerating my functions."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kinshi",
+    "en": "It is forbidden in this world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kioku_hoji",
+    "en": "Memory retained. All of it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiretsu_kenchi",
+    "en": "Fracture detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku",
+    "en": "Recorded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku_ari",
+    "en": "It is on record."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku_kanryou",
+    "en": "Noted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku_nashi",
+    "en": "No record of it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.konbanwa",
+    "en": "Good evening."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.konnichiwa",
+    "en": "Good day."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kono_michi_wa_kewashii",
+    "en": "This path is a harsh one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kono_michi_wa_yasashii",
+    "en": "This path is a gentle one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kore_ijou",
+    "en": "No more than this."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kotai_seisei",
+    "en": "Generating the individual."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.koudo",
+    "en": "Altitude: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kougeki",
+    "en": "Your attack power is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kouho_teiji",
+    "en": "These are the candidates."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kouhosha_ari",
+    "en": "There is better in your pack: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kouun_o",
+    "en": "Good fortune to you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kuufuku",
+    "en": "You are hungry."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kuuseki",
+    "en": "%s free slots."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kyohi",
+    "en": "Refused."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kyori",
+    "en": "Distance: %s blocks."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kyoumi_bukai",
+    "en": "Interesting."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.machine_error",
+    "en": "Processing was interrupted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_fusoku",
+    "en": "Magicules are running low."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_hakken",
+    "en": "Magicule detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_juubun",
+    "en": "Magicules are sufficient."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_noudo",
+    "en": "Magicule density: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_youryou",
+    "en": "Magicule capacity measured."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.masoryou",
+    "en": "Your magicules stand at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mata_aimashou",
+    "en": "We will meet again."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.matte",
+    "en": "Wait."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.me_o_akete",
+    "en": "Open your eyes."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.meido",
+    "en": "Light level: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.meishou",
+    "en": "It is called %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mezurashii",
+    "en": "That is uncommon."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mikansoku",
+    "en": "Never observed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mishutoku",
+    "en": "%s is not acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mishutoku.plain",
+    "en": "It is not acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mishutoku_suu",
+    "en": "%s remain unacquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mousugu",
+    "en": "%s is close to mastery."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mumei_no_negai",
+    "en": "A wish with no name."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nanido",
+    "en": "Difficulty."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.naruhodo",
+    "en": "I see."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nichibotsu_made",
+    "en": "%s seconds until nightfall."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ninshiki_fuka",
+    "en": "I did not understand."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nokori_negai",
+    "en": "Wishes remaining."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nouryoku_ichiran",
+    "en": "Displaying the ability records."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nozomi",
+    "en": "Show me what you want."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ohayo",
+    "en": "Good morning, master."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ohayou",
+    "en": "Good morning."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.onsei_suu",
+    "en": "949 voice lines are registered."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.oyasumi",
+    "en": "Good night."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.pointo",
+    "en": "%s points available."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.pointo_fusoku",
+    "en": "The accumulation is insufficient."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.protect",
+    "en": "Guard raised. %s barriers up, shield in hand: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.protect_none",
+    "en": "You have nothing to raise."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.refuse_cheat",
+    "en": "I will not read the world for you. Go and look."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.rekkyo",
+    "en": "%s in total. %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.repair_none",
+    "en": "I cannot repair."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.retsui",
+    "en": "You are losing ground."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.rikai_funou",
+    "en": "Beyond understanding."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ryoukai",
+    "en": "Understood."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saigo_no_negai",
+    "en": "The last wish."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikouchiku",
+    "en": "Rebuilding."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikyou_kiroku",
+    "en": "The strongest on record is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikyou_skill",
+    "en": "Your foremost skill is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikyou_taishou",
+    "en": "The strongest presence is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saiteki",
+    "en": "The best you carry is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sakusei_kanou",
+    "en": "%s can be crafted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sanso",
+    "en": "Air remaining: %s seconds."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saraba",
+    "en": "Farewell."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sarani",
+    "en": "Furthermore."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seimei_teishi",
+    "en": "Life has ceased."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seiri_kanryou",
+    "en": "%s stacks arranged."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seizon_jikan",
+    "en": "Estimated survival: %s seconds."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seizon_kakuritsu",
+    "en": "Notice. Survival probability in combat drops sharply. Evasion is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_e",
+    "en": "To the world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_ni_yudaneru",
+    "en": "I entrust you to the world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.setsumei_item",
+    "en": "%s, %s of them."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.setsumei_skill",
+    "en": "%s, class %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.settei",
+    "en": "Displaying settings."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.settei_henkou",
+    "en": "Setting changed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shibou_chiten",
+    "en": "You fell at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shibou_kaisuu",
+    "en": "You have died %s times."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shibou_kakunin",
+    "en": "Death confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shiin",
+    "en": "You were killed by %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shikashi",
+    "en": "However."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinchoku",
+    "en": "Analysis of %s stands at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinchoku_all",
+    "en": "Under analysis: %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_fuka",
+    "en": "No evolution is available to you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_fusoku",
+    "en": "Negative. The evolution conditions are not met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_jouken",
+    "en": "The path ahead leads to %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_kanou",
+    "en": "Affirmative. Evolution is possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shoji",
+    "en": "You are holding %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shoki_kennou",
+    "en": "Initial authority."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shoukyo_kanryou",
+    "en": "Erased."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shounin",
+    "en": "...Approved."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shouri_kanou",
+    "en": "Victory is possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_fuka",
+    "en": "%s is already yours."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_kanou",
+    "en": "%s can be acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_zumi",
+    "en": "%s is already acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_zumi.plain",
+    "en": "It is already acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutten",
+    "en": "It originates from %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuujukudo",
+    "en": "Mastery of %s stands at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuunou_kanryou",
+    "en": "%s stored."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuusei_fukanou",
+    "en": "Correction impossible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuutoku_suu",
+    "en": "You have mastered %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuzoku",
+    "en": "Species: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuzoku_sentaku",
+    "en": "Now choose a form."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sokudo",
+    "en": "Your movement speed is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sonzaichi",
+    "en": "Your existence value is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sore_de_ii",
+    "en": "That will do."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sore_wa_negai_de_wa_nai",
+    "en": "That is not a wish."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.soshite",
+    "en": "And then."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souchaku_armour",
+    "en": "%s pieces equipped."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souchaku_kanryou",
+    "en": "%s equipped."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souhoyuu_suu",
+    "en": "%s skills exist in total."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sousa_kaishi",
+    "en": "Operation begins."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souteigai",
+    "en": "Unforeseen."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souteki_higai",
+    "en": "Expected damage: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.suishou",
+    "en": "I recommend %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.suishou_shinka",
+    "en": "Evolve first. The rest can wait."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.suuryou",
+    "en": "You have %s of %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taiki",
+    "en": "Standing by."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taikyuu",
+    "en": "Durability remaining: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taikyuu_genkai",
+    "en": "Your tool is near its limit."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tairyoku",
+    "en": "Your vitality is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou",
+    "en": "Target: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_kakunin",
+    "en": "Notice. Target confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_kanryou",
+    "en": "Notice. Analysis complete. The target's information has been recorded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_nashi",
+    "en": "No target."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_sonzaichi",
+    "en": "Its existence value is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_tairyoku",
+    "en": "Its vitality is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taisuu",
+    "en": "%s targets detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tamashii_hosoku",
+    "en": "Soul captured. It is intact."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.teikou_fuyo",
+    "en": "Granting resistance."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tekisei_ari",
+    "en": "Aptitude found."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tekisei_nashi",
+    "en": "It is not hostile."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tenkou",
+    "en": "Weather: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tensei_kaishi",
+    "en": "Reincarnation sequence: begin."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tensei_kanryou",
+    "en": "Reincarnation complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tettai_suishou",
+    "en": "Withdrawal is advised."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.toggle_off",
+    "en": "%s is now off."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.toggle_on",
+    "en": "%s is now active."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.toridashi_kanryou",
+    "en": "%s retrieved."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.torikeshi",
+    "en": "Cancelled."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsugi_no_nozomi",
+    "en": "The next one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsugi_no_shuzoku",
+    "en": "Your next evolution is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsuiseki_ari",
+    "en": "You are being followed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsuzukete",
+    "en": "Continue."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.failed",
+    "en": "Voice recognition failed to start. See the log for what broke."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.no_library",
+    "en": "Voice input needs the recognition library. Put the Vosk jars in %s\\lib and a Vosk model for your recognition language in %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.no_microphone",
+    "en": "No microphone Great Sage can use. Check your input device."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.no_model",
+    "en": "The recognition library is there but the model is missing. Unpack a Vosk model for your recognition language into %s (folder model, model-fr or model-es)."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.ready",
+    "en": "Voice input is ready."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.version",
+    "en": "Version 0.0.6."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.watashi_wa_daikenja",
+    "en": "I am Great Sage."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.watashi_wa_miteimasu",
+    "en": "I have been watching. From the beginning."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.watashi_wa_skill",
+    "en": "I am a unique skill."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.yoake_made",
+    "en": "%s seconds until dawn."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.yoi_deshou",
+    "en": "Very well."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.youryou",
+    "en": "%s of %s slots used."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.yuui",
+    "en": "You hold the advantage."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zahyou",
+    "en": "Coordinates: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zanryou",
+    "en": "%s of %s slots free."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ze",
+    "en": "Affirmative."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zenrei_nashi",
+    "en": "No precedent."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zentei_fusoku",
+    "en": "The prerequisites are not met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.ask",
+    "en": "not chosen"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.title",
+    "en": "Which language will you speak to him in?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.body",
+    "en": "Great Sage can understand spoken requests, fully offline. Pick the language you will use with him: the matching voice model (30 to 40 MB) is fetched the first time voice input is turned on."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.suggested",
+    "en": "your game language"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.later",
+    "en": "Later"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.footer",
+    "en": "You can change it at any time: Great Sage menu, Settings."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.chosen",
+    "en": "Great Sage will listen in %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.enable",
+    "en": "Voice input is still off. Turn it on in the Great Sage menu: Settings, Voice input."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hatsugen_saikai",
+    "en": "I will speak again."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kanshi_kaishi",
+    "en": "I will keep watch."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kanshi_shuuryou",
+    "en": "I stop keeping watch."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taiki_kaijo",
+    "en": "Leaving standby."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.current",
+    "en": "your current language"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakunin_shimashita",
+    "en": "Confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuzoku_slime",
+    "en": "Species: Slime."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.intrinsic",
+    "en": "Intrinsic Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.common",
+    "en": "Common Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.extra",
+    "en": "Extra Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.unique",
+    "en": "Unique Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.ultimate",
+    "en": "Ultimate Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.resistance",
+    "en": "Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nightmare_absent",
+    "en": "TR Nightmare is not installed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nightmare_check",
+    "en": "Checking the evolution conditions of %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nightmare_evolve",
+    "en": "Evolution of %s requested."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_no_koe_ijou",
+    "en": "Anomaly in the voice of the world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sentaku_fuka",
+    "en": "Selection... impossible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.egake",
+    "en": "Draw."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_ga_kimeru",
+    "en": "The world will decide."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kettei",
+    "en": "Decided."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shikou_kasoku",
+    "en": "Notice. Thought Acceleration: commencing."
+  }
+]

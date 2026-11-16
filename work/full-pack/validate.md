@@ -1,0 +1,47 @@
+# Validate 20261116-203214
+
+errors: 0, warnings: 43
+
+- warn `progress`: 9662 items still untranslated (will stay English)
+- warn `lang|vanillabackport|item.minecraft.music_disc_bounce.desc`: left in English
+- warn `lang|vanillabackport|item.minecraft.music_disc_lava_chicken.desc`: left in English
+- warn `lang|vanillabackport|item.minecraft.music_disc_tears.desc`: left in English
+- warn `lang|eternal_starlight|tooltip.eternal_starlight.accessory_combination_target.chestplate`: left in English
+- warn `lang|ftblibrary|ftblibrary.client_settings.tooltips`: left in English
+- warn `lang|ftbquests|ftbquests.reward.ftbquests.npc_mail.message`: left in English
+- warn `lang|ftbquests|ftbquests.barrier.teleport`: left in English
+- warn `lang|greatsage|greatsage.sigil.mercury`: left in English
+- warn `lang|greatsage|greatsage.sigil.venus`: left in English
+- warn `lang|greatsage|greatsage.sigil.earth`: left in English
+- warn `lang|greatsage|greatsage.sigil.mars`: left in English
+- warn `lang|greatsage|greatsage.sigil.jupiter`: left in English
+- warn `lang|greatsage|greatsage.sigil.saturn`: left in English
+- warn `lang|greatsage|greatsage.sigil.uranus`: left in English
+- warn `lang|greatsage|greatsage.sigil.sulfur`: left in English
+- warn `lang|jei|gui.jei.category.fuel`: left in English
+- warn `lang|lootr|lootr.commands.usage`: left in English
+- warn `lang|oneenoughblock|gui.oneenoughitem.data_id.blocks`: left in English
+- warn `lang|ponderer|ponderer.ui.step.page.block`: left in English
+- warn `lang|ponderer|ponderer.ui.step.page.entity`: left in English
+- warn `lang|ponderer|ponderer.ui.function_page.keybindings`: left in English
+- warn `lang|ponder|ponder.ponder.shared.ctrl_and`: left in English
+- warn `lang|ponder|key.ponder.ponder`: left in English
+- warn `lang|ponder|key.categories.ponder`: left in English
+- warn `lang|rarcompat|tooltip.relics.vampiric_glove.ability.vampire`: left in English
+- warn `lang|rarcompat|tooltip.relics.vampiric_glove.leveling_source.vampire.title`: left in English
+- warn `lang|rarcompat|tooltip.relics.obsidian_skull.leveling_source.hell.title`: left in English
+- warn `lang|tensura|item.tensura.dwargon_banner_pattern.desc`: left in English
+- warn `lang|tensura|tensura.alignment.chaos`: left in English
+- warn `lang|tensura|tensura.magic.elemental.earth`: left in English
+- warn `lang|tensura|tensura.skill.mode.berserk.rage`: left in English
+- warn `lang|tensura|tensura.skill.mode.fusionist.projectile`: left in English
+- warn `lang|tensura|tensura.skill.mode.magic_aura.earth`: left in English
+- warn `lang|tensura|tensura.skill.mode.shadow_motion.step`: left in English
+- warn `lang|tensura|tensura.skill.heat_wave.description`: item name translated? ['fire storm'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|tensura|tensura.skill.icicle_spear.description`: item name translated? ['icicle spike'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|greatsage|greatsage.voice.tier.intrinsic`: left in English
+- warn `lang|greatsage|greatsage.voice.tier.common`: left in English
+- warn `lang|greatsage|greatsage.voice.tier.extra`: left in English
+- warn `lang|greatsage|greatsage.voice.tier.unique`: left in English
+- warn `lang|greatsage|greatsage.voice.tier.ultimate`: left in English
+- warn `lang|greatsage|greatsage.voice.tier.resistance`: left in English

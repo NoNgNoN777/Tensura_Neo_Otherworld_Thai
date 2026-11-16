@@ -1,0 +1,5706 @@
+[
+  {
+    "key": "lang|greatsage|gamerule.announcementsRequireGreatSage.description",
+    "en": "Skill announcements, ceremonies and evolutions only play for players who have the Unique Skill Great Sage. Off (default): everyone gets them. This does not give access to the menu: see requireGreatSage."
+  },
+  {
+    "key": "lang|greatsage|gamerule.requireGreatSage.description",
+    "en": "The G menu, assess mode, voice commands, analyses, the Sage's tips and growth experience need the Unique Skill Great Sage (or Raphael). Off: every player can use them without the skill."
+  },
+  {
+    "key": "lang|greatsage|gamerule.sageInterface.description",
+    "en": "The menu, the assess gaze, the voice and analysis. Turn this off and only skill announces and ceremonies remain."
+  },
+  {
+    "key": "lang|greatsage|gamerule.sageShaderRendering.description",
+    "en": "On: the menu and every announcement (skills, evolutions, Demon Lord, Harvest Festival...) are drawn by shaders. Off: the classic menu and announcements. Both say and do the same things."
+  },
+  {
+    "key": "lang|greatsage|gamerule.sageProgression.description",
+    "en": "Great Sage starts limited and grows: only intrinsic and common skills can be analysed until you open the rest. Turn this off to have everything unlocked from the start, the way it worked before."
+  },
+  {
+    "key": "lang|greatsage|gamerule.sageReincarnation.description",
+    "en": "Replaces Tensura's reincarnation screen with the Voice of the World scene. Off gives you the original screen, untouched."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.alreadyMastered",
+    "en": "That skill is already mastered."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.budget",
+    "en": "Budget %s%%"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.busy",
+    "en": "An analysis is already running. Cancel it first."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.forbidden",
+    "en": "Analysing that is not allowed in this world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.free",
+    "en": "FREE"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.freeSlot",
+    "en": "Free thread"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.held",
+    "en": "Held"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.latent",
+    "en": "You have not begun to grasp this. It will take far longer, and cost more."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.locked",
+    "en": "LOCKED"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.noMagicule",
+    "en": "Not enough magicules. %s required."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.noResistance",
+    "en": "Resistances cannot be analysed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.noSlot",
+    "en": "No thread free. You can run %s at a time."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.notOwned",
+    "en": "You do not have that skill yet."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.rankLocked",
+    "en": "He cannot break down %s skills yet."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.rankSealed",
+    "en": "%s skills are still sealed: open them in the Growth tree."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.remaining",
+    "en": "%s left"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.resources",
+    "en": "ANALYSIS RESOURCES"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.shareHint",
+    "en": "click to raise, right click to lower"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.temporary",
+    "en": "Temporary skills cannot be analysed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.unknown",
+    "en": "That skill cannot be analysed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.archive.average",
+    "en": "Average existence value"
+  },
+  {
+    "key": "lang|greatsage|greatsage.archive.samples",
+    "en": "Observations"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.done",
+    "en": "Analysis complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.ep",
+    "en": "Own existence value: %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.epLabel",
+    "en": "Existence value"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.far",
+    "en": "Too far. Close in."
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.health",
+    "en": "Health"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.hold",
+    "en": "Hold the scan key."
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.idle",
+    "en": "Aim at a target and hold the scan key."
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.mode",
+    "en": "ANALYTICAL APPRAISAL — ACTIVE"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.more",
+    "en": "+%s more"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.notable",
+    "en": "Notable abilities"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.race",
+    "en": "Species"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.scanning",
+    "en": "Scanning..."
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.unreadable",
+    "en": "Information volume exceeded. Unreadable."
+  },
+  {
+    "key": "lang|greatsage|greatsage.battle.hold.none",
+    "en": "cannot be held"
+  },
+  {
+    "key": "lang|greatsage|greatsage.battle.hold.recast",
+    "en": "recast"
+  },
+  {
+    "key": "lang|greatsage|greatsage.battle.hold.toggle",
+    "en": "held"
+  },
+  {
+    "key": "lang|greatsage|greatsage.battle.suspended",
+    "en": "%s does not go on cooldown, so battle mode will not recast it. It stays linked, it just will not loop."
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.awakened",
+    "en": "True Hero or True Demon Lord"
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.degenerate",
+    "en": "Degenerate mastered"
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.ep",
+    "en": "Existence value"
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.failure",
+    "en": "FAILURE"
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.great_sage",
+    "en": "Great Sage mastered"
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.magicule",
+    "en": "Magicule capacity"
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.title",
+    "en": "It did not yield."
+  },
+  {
+    "key": "lang|greatsage|greatsage.capstone.tree",
+    "en": "Growth completed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ceremony.demon_lord_seed",
+    "en": "Demon Lord Seed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ceremony.harvest_festival",
+    "en": "Harvest Festival"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ceremony.hero_egg",
+    "en": "Hero Egg"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ceremony.true_demon_lord",
+    "en": "True Demon Lord"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ceremony.true_hero",
+    "en": "True Hero"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.cost",
+    "en": "Learning cost"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.id",
+    "en": "Identifier"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.mastery",
+    "en": "Mastery"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.maxMastery",
+    "en": "Mastery cap"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.missing",
+    "en": "Not acquired"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.owned",
+    "en": "Acquired"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.state",
+    "en": "State"
+  },
+  {
+    "key": "lang|greatsage|greatsage.detail.tier",
+    "en": "Class"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.carries",
+    "en": "Carries"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.none",
+    "en": "Nothing matches those criteria."
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.order",
+    "en": "Order"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort",
+    "en": "Sort by"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort.cost",
+    "en": "Cost"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort.ep",
+    "en": "Existence value"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort.mastery",
+    "en": "Mastery"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort.name",
+    "en": "Name"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort.recent",
+    "en": "Last seen"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort.samples",
+    "en": "Readings"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.sort.tier",
+    "en": "Class"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.source",
+    "en": "Mod"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.state",
+    "en": "State"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.state.all",
+    "en": "All"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.state.analysable",
+    "en": "Analysable"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.state.learning",
+    "en": "In progress"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.state.mastered",
+    "en": "Mastered"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.state.missing",
+    "en": "Missing"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.state.owned",
+    "en": "Acquired"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier",
+    "en": "Class"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier.common",
+    "en": "Common"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier.extra",
+    "en": "Extra"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier.intrinsic",
+    "en": "Intrinsic"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier.resistance",
+    "en": "Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier.ultimate",
+    "en": "Ultimate"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier.unique",
+    "en": "Unique"
+  },
+  {
+    "key": "lang|greatsage|greatsage.filter.tier.unknown",
+    "en": "Unclassed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.abnormal_condition_resistance",
+    "en": "Abnormal Condition Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.absolute_severance",
+    "en": "Absolute Severance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.all_seeing_eye",
+    "en": "All Seeing Eye"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.analyst",
+    "en": "Analyst"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.anti_skill",
+    "en": "Anti Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.berserk",
+    "en": "Berserk"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.berserker",
+    "en": "Berserker"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.bewilder",
+    "en": "Bewilder"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.body_double",
+    "en": "Body Double"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.chant_annulment",
+    "en": "Chant Annulment"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.chef",
+    "en": "Chef"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.chosen_one",
+    "en": "Chosen One"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.coercion",
+    "en": "Coercion"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.cold_resistance",
+    "en": "Cold Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.commander",
+    "en": "Commander"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.cook",
+    "en": "Cook"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.corrosion",
+    "en": "Corrosion"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.corrosion_resistance",
+    "en": "Corrosion Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.creator",
+    "en": "Creator"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.danger_sense",
+    "en": "Danger Sense"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.darkness_attack_resistance",
+    "en": "Darkness Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.degenerate",
+    "en": "Degenerate"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.divine_berserker",
+    "en": "Divine Berserker"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.earth_attack_resistance",
+    "en": "Earth Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.electricity_resistance",
+    "en": "Electricity Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.engorger",
+    "en": "Engorger"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.envy",
+    "en": "Envy"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.falsifier",
+    "en": "Falsifier"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.farsight",
+    "en": "Farsight"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.fighter",
+    "en": "Fighter"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.flame_attack_resistance",
+    "en": "Flame Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.fusionist",
+    "en": "Fusionist"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.gluttony",
+    "en": "Gluttony"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.godly_craftsman",
+    "en": "Godly Craftsman"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.gourmand",
+    "en": "Gourmand"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.gourmet",
+    "en": "Gourmet"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.gravity_attack_resistance",
+    "en": "Gravity Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.great_sage",
+    "en": "Great Sage"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.greed",
+    "en": "Greed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.guardian",
+    "en": "Guardian"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.haki",
+    "en": "Haki"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.healer",
+    "en": "Healer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.heat_resistance",
+    "en": "Heat Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.heat_wave",
+    "en": "Heat Wave"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.holy_attack_resistance",
+    "en": "Holy Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.infinite_regeneration",
+    "en": "Infinite Regeneration"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.infinity_prison",
+    "en": "Infinity Prison"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.light_attack_resistance",
+    "en": "Light Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.lust",
+    "en": "Lust"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.magic_aura",
+    "en": "Magic Aura"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.magic_jamming",
+    "en": "Magic Jamming"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.magic_resistance",
+    "en": "Magic Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.magic_sense",
+    "en": "Magic Sense"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.majesty",
+    "en": "Majesty"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.martial_master",
+    "en": "Martial Master"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.mathematician",
+    "en": "Mathematician"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.merciless",
+    "en": "Merciless"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.mortal_fear",
+    "en": "Mortal Fear"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.multilayer_barrier",
+    "en": "Multilayer Barrier"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.murderer",
+    "en": "Murderer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.musician",
+    "en": "Musician"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.observer",
+    "en": "Observer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.oppressor",
+    "en": "Oppressor"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.pain_resistance",
+    "en": "Pain Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.paralysis",
+    "en": "Paralysis"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.paralysis_resistance",
+    "en": "Paralysis Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.physical_attack_resistance",
+    "en": "Physical Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.pierce_resistance",
+    "en": "Pierce Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.poison",
+    "en": "Poison"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.poison_resistance",
+    "en": "Poison Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.predator",
+    "en": "Predator"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.pride",
+    "en": "Pride"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.reaper",
+    "en": "Reaper"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.reflector",
+    "en": "Reflector"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.researcher",
+    "en": "Researcher"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.reverser",
+    "en": "Reverser"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.royal_beast",
+    "en": "Royal Beast"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.sage",
+    "en": "Sage"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.seeker",
+    "en": "Seeker"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.seer",
+    "en": "Seer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.self_regeneration",
+    "en": "Self Regeneration"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.sense_heat_source",
+    "en": "Sense Heat Source"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.sense_soundwave",
+    "en": "Sense Soundwave"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.severer",
+    "en": "Severer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.shadow_motion",
+    "en": "Shadow Motion"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.shadow_striker",
+    "en": "Shadow Striker"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.sloth",
+    "en": "Sloth"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.sniper",
+    "en": "Sniper"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.spatial_attack_resistance",
+    "en": "Spatial Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.spatial_motion",
+    "en": "Spatial Motion"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.spearhead",
+    "en": "Spearhead"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.spiritual_attack_resistance",
+    "en": "Spiritual Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.starved",
+    "en": "Starved"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.sticky_steel_thread",
+    "en": "Sticky Steel Thread"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.strength",
+    "en": "Strength"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.strengthen_body",
+    "en": "Strengthen Body"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.suppressor",
+    "en": "Suppressor"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.survivor",
+    "en": "Survivor"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.telepathy",
+    "en": "Telepathy"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.thought_communication",
+    "en": "Thought Communication"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.thrower",
+    "en": "Thrower"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.traveler",
+    "en": "Traveler"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.tuner",
+    "en": "Tuner"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.universal_perception",
+    "en": "Universal Perception"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.unyielding",
+    "en": "Unyielding"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.usurper",
+    "en": "Usurper"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.villain",
+    "en": "Villain"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.water_attack_resistance",
+    "en": "Water Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.water_blade",
+    "en": "Water Blade"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.wind_attack_resistance",
+    "en": "Wind Attack Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.wrath",
+    "en": "Wrath"
+  },
+  {
+    "key": "lang|greatsage|greatsage.key.conflict",
+    "en": "Great Sage: the %s key is also bound to \"%s\". Minecraft triggers neither when two mods share a key — rebind one of them in Controls."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing",
+    "en": "Analyzing"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.capacity",
+    "en": "Threads: %s  -  Efficiency: %s%%"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.desc",
+    "en": "Break a skill down into its parts to master it passively."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.empty",
+    "en": "No skill can be analysed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.idle",
+    "en": "Nothing under analysis"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.paused",
+    "en": "Paused · the world is not running"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.working",
+    "en": "Analyzing"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.archive",
+    "en": "Observations"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.archive.desc",
+    "en": "Everything already analysed, kept on file."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.archive.empty",
+    "en": "Nothing has been analysed yet."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.battle",
+    "en": "Battle Mode"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.battle.desc",
+    "en": "Choose what Great Sage raises for you when a fight starts"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.battle.empty",
+    "en": "You have no skills to link yet."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.battle.linked",
+    "en": "%s linked"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.confirm.title",
+    "en": "Analyse %s?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.confirm.warning",
+    "en": "This skill cannot be used until the analysis is finished."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.denied",
+    "en": "No answer. You do not carry the Great Sage."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.learn.title",
+    "en": "Learn %s?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.learn.warning",
+    "en": "This costs %s progression point(s). Points already spent cannot be taken back."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.resources",
+    "en": "Allocation"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.resources.desc",
+    "en": "Share his working capacity between the skills under analysis."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.search.placeholder",
+    "en": "Type to search a skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.search.results",
+    "en": "%s result(s)"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.silenced",
+    "en": "He will not name that one again."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.skills",
+    "en": "Records"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.skills.desc",
+    "en": "Every ability known to exist, and where you stand on it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.skills.empty",
+    "en": "No ability is registered."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.title",
+    "en": "Great Sage"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.tree",
+    "en": "Growth"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.tree.desc",
+    "en": "What he has learned, and what you can teach him next."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.unsilenced",
+    "en": "He will name that one again."
+  },
+  {
+    "key": "lang|greatsage|greatsage.race.alignment",
+    "en": "Alignment"
+  },
+  {
+    "key": "lang|greatsage|greatsage.race.aura",
+    "en": "Aura"
+  },
+  {
+    "key": "lang|greatsage|greatsage.race.intrinsic",
+    "en": "Intrinsic skills"
+  },
+  {
+    "key": "lang|greatsage|greatsage.race.intrinsic.none",
+    "en": "None at birth."
+  },
+  {
+    "key": "lang|greatsage|greatsage.race.magicule",
+    "en": "Magicule"
+  },
+  {
+    "key": "lang|greatsage|greatsage.race.select",
+    "en": "SELECT"
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.chousen",
+    "en": "Unique Skill Great Sage attempts its evolution."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.koku",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.ryo",
+    "en": "Understood."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.retry",
+    "en": "Failed. Retrying."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.harvest",
+    "en": "With the gift of the Harvest Festival, the evolution is attempted once more."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.success",
+    "en": "Success."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.gisei",
+    "en": "Unique Skill Degenerate is erased and offered in sacrifice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.juri",
+    "en": "The request has been accepted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.result_a",
+    "en": "Unique Skill Great Sage…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.result_b",
+    "en": "…has successfully evolved into the Ultimate Skill Raphael, Lord of Wisdom."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.shinsei",
+    "en": "Unique Skill Great Sage submits an evolution request to the Voice of the World."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.request",
+    "en": "Great Sage evolution requested."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.shippai",
+    "en": "Failed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.raphael.title",
+    "en": "Evolution"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.choose",
+    "en": "Click here to take this form"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.continue",
+    "en": "Click to go on"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.error",
+    "en": "SYSTEM ERROR"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.monologue",
+    "en": "You are dead. Do not be alarmed; it has already happened."
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.preview",
+    "en": "Reincarnation scene: preview. Esc to leave."
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.title",
+    "en": "The Voice of the World"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.trace",
+    "en": "Draw."
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.waiting",
+    "en": "The world is deciding."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.angle",
+    "en": "The Set Square"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.angle.reading",
+    "en": "One true angle, and nothing crooked."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arc",
+    "en": "The Arc"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arc.reading",
+    "en": "A curve that holds."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arrow",
+    "en": "The Arrowhead"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arrow.reading",
+    "en": "Everything points one way."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.basin",
+    "en": "The Basin"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.basin.reading",
+    "en": "Wide, and never full."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bolt",
+    "en": "The Bolt"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bolt.reading",
+    "en": "A strike that changes its mind twice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bracket",
+    "en": "The Guard"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bracket.reading",
+    "en": "Straight, turned, and ready."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.check",
+    "en": "The Mark"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.check.reading",
+    "en": "Short, then certain."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chevron",
+    "en": "The Fang"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chevron.reading",
+    "en": "Two edges meeting below."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.circle",
+    "en": "The Circle"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.circle.reading",
+    "en": "A shape that closes on itself."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cloud",
+    "en": "The Cloud"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cloud.reading",
+    "en": "Soft edges, all the way around."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.coil",
+    "en": "The Coil"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.coil.reading",
+    "en": "Loops that go somewhere, and lose the way."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crenel",
+    "en": "The Battlement"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crenel.reading",
+    "en": "Up, across, down. Again, in order."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crescent",
+    "en": "The Crescent"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crescent.reading",
+    "en": "Half the light, and all the sleep."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cross",
+    "en": "The Refusal"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cross.reading",
+    "en": "Two strokes cutting each other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crown",
+    "en": "The Crown"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crown.reading",
+    "en": "Three points, raised for no one else."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cup",
+    "en": "The Bowl"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cup.reading",
+    "en": "Open above, waiting to be filled."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.diamond",
+    "en": "The Diamond"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.diamond.reading",
+    "en": "Four sides, standing on a point."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.dome",
+    "en": "The Dome"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.dome.reading",
+    "en": "A curve resting on a straight line."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.drop",
+    "en": "The Drop"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.drop.reading",
+    "en": "Round, with a single point. Something is simmering."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.eight",
+    "en": "The Knot"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.eight.reading",
+    "en": "Two loops, tied."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.folly",
+    "en": "Folly"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.folly.reading",
+    "en": "This is not a wish. It is not even a question. Very well — you have chosen for yourself."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gate",
+    "en": "The Lid"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gate.reading",
+    "en": "Something laid over everything, pressing down."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.heart",
+    "en": "The Heart"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.heart.reading",
+    "en": "A shape everyone knows. Why this one?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hook",
+    "en": "The Hook"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hook.reading",
+    "en": "A stroke that comes back to look."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hourglass",
+    "en": "The Hourglass"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hourglass.reading",
+    "en": "Wide, then narrow, then held."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.huge",
+    "en": "The Immensity"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.huge.reading",
+    "en": "A gesture that takes everything there is."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.infinity",
+    "en": "The Infinite"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.infinity.reading",
+    "en": "Two loops that are one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.inward",
+    "en": "The Inward Spiral"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.inward.reading",
+    "en": "A spiral that digs."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lasso",
+    "en": "The Lasso"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lasso.reading",
+    "en": "A line that ends by catching something."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.line",
+    "en": "The Line"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.line.reading",
+    "en": "A stroke that does not stop."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.loop",
+    "en": "The Loop"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.loop.reading",
+    "en": "A stroke that turns once around itself, and goes on."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.maze",
+    "en": "The Labyrinth"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.maze.reading",
+    "en": "Corners turning inward, with no way out."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.outward",
+    "en": "The Outward Spiral"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.outward.reading",
+    "en": "A spiral leaving everything behind."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.peak",
+    "en": "The Summit"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.peak.reading",
+    "en": "A point that leads the way."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pillar",
+    "en": "The Pillar"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pillar.reading",
+    "en": "Closed, tall, and standing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.polygon",
+    "en": "The Polygon"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.polygon.reading",
+    "en": "More sides than needed, all counted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.rebound",
+    "en": "The Return"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.rebound.reading",
+    "en": "It went, and came back the same way."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ring",
+    "en": "The Halo"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ring.reading",
+    "en": "The same circle, twice. It was meant."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.rise",
+    "en": "The Call"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.rise.reading",
+    "en": "A stroke reaching upward."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.serpent",
+    "en": "The Serpent"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.serpent.reading",
+    "en": "It bends one way, then the other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.shard",
+    "en": "The Shard"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.shard.reading",
+    "en": "A point, not a shape."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.shield",
+    "en": "The Shield"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.shield.reading",
+    "en": "Flat on top, and it will not bend."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.slash",
+    "en": "The Counter-Line"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.slash.reading",
+    "en": "The line, drawn the other way."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.small",
+    "en": "The Almost-Nothing"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.small.reading",
+    "en": "Almost nothing. It is still something."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.square",
+    "en": "The Square"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.square.reading",
+    "en": "Four sides, patiently."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.stab",
+    "en": "The Fall"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.stab.reading",
+    "en": "A stroke that goes down and stays down."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.star",
+    "en": "The Star"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.star.reading",
+    "en": "Points, so that it is seen."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sweep",
+    "en": "The Sweep"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sweep.reading",
+    "en": "A gesture that takes the whole room."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.triangle",
+    "en": "The Triangle"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.triangle.reading",
+    "en": "Three sides, and nothing gets through."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.twin",
+    "en": "The Twin Peaks"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.twin.reading",
+    "en": "Two summits, and a fall between them."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wander",
+    "en": "The Wandering"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wander.reading",
+    "en": "A path that will not decide."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wave",
+    "en": "The Wave"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wave.reading",
+    "en": "Movement that wounds nothing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.zigzag",
+    "en": "The Fury"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.zigzag.reading",
+    "en": "Angles that will not settle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.skill.venuzdonoa",
+    "en": "Reason-Destroying Sword, Venuzdonoa"
+  },
+  {
+    "key": "lang|greatsage|greatsage.skill.venuzdonoa.description",
+    "en": "The demon sword that severs order itself. Summoning it drives the blade up through the ground before you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.1",
+    "en": "Acquisition of the Demon Lord Seed is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.2",
+    "en": "The right to devour souls has been obtained."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.demon_lord_seed.3",
+    "en": "By offering the required number of souls, awakening into a True Demon Lord becomes possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.1",
+    "en": "The designated individual, the host, meets the conditions for species evolution. A petition is addressed to the Voice of the World. Evolution requested."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.2",
+    "en": "...... Approval confirmed. The designated individual, the host,"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.evolution.3",
+    "en": "has succeeded in evolving. A rise in existence value, and a restructuring of innate skills, are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.1",
+    "en": "The conditions have been met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.2",
+    "en": "The Harvest Festival begins now."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.3",
+    "en": "Souls serve as the price; existential evolution is executed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.4",
+    "en": "Temporary loss of consciousness confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.harvest_festival.5",
+    "en": "Relocating to a safe place is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.1",
+    "en": "Acquisition of the Hero's Egg is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.2",
+    "en": "The vessel of the soul begins to transmute."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.hero_egg.3",
+    "en": "Await the hour of awakening."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.1",
+    "en": "The Harvest Festival is complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.2",
+    "en": "The designated individual, the host, has awakened as a True Demon Lord."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.3",
+    "en": "A rise in all ability values, and the evolution of subordinates, are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_demon_lord.4",
+    "en": "Continuing, I shall report the skills acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.0",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.1",
+    "en": "Fulfilment of the awakening conditions is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.2",
+    "en": "The designated individual, the host, awakens as a True Hero."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.3",
+    "en": "The vessel of the soul has been rebuilt."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.true_hero.4",
+    "en": "All ability values have risen sharply."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.koku",
+    "en": "Notice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.houkoku",
+    "en": "Continuing, I shall report the skills acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.01",
+    "en": "The human souls required by the evolution conditions are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.02",
+    "en": "The required conditions have been met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.03",
+    "en": "The Harvest Festival begins now."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.04",
+    "en": "Souls serve as the price; existential evolution is executed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.05",
+    "en": "Temporary loss of consciousness confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.06",
+    "en": "Shifting to low-activity mode."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.harvest.07",
+    "en": "Relocating to a safe place is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.01",
+    "en": "The Harvest Festival is complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.02",
+    "en": "Reconstruction of the host's soul: commencing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.03",
+    "en": "Existence value, rising..."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.04",
+    "en": "Measurement limit exceeded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.05",
+    "en": "A rise in all ability values is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.06",
+    "en": "The designated individual, the host, has awakened as a True Demon Lord."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.07",
+    "en": "Notice from the Voice of the World. The birth of a new Demon Lord is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.08",
+    "en": "Bestowal of the Gift upon the monsters of the lineage: commencing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.awakening.09",
+    "en": "The evolution of subordinates is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.01",
+    "en": "Acquisition of the Demon Lord Seed is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.02",
+    "en": "The right to devour souls has been obtained."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.03",
+    "en": "By offering the required number of souls,"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.seed.04",
+    "en": "awakening into a True Demon Lord becomes possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.hero_egg.01",
+    "en": "Acquisition of the Hero's Egg is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.hero_egg.02",
+    "en": "The vessel of the soul begins to transmute."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.hero_egg.03",
+    "en": "Await the hour of awakening."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.01",
+    "en": "Fulfilment of the awakening conditions is confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.02",
+    "en": "The designated individual, the host, awakens as a True Hero."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.03",
+    "en": "The vessel of the soul has been rebuilt."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.true_hero.04",
+    "en": "All ability values have risen sharply."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.01",
+    "en": "The designated individual, the host, meets the conditions for species evolution."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.02",
+    "en": "A petition to the Voice of the World."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.03",
+    "en": "Species evolution requested."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.04",
+    "en": "Approval confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.05",
+    "en": "The designated individual, the host,"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.06",
+    "en": "has succeeded in evolving."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.evolution.07",
+    "en": "A rise in existence value, and a restructuring of innate skills, are confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tier.common",
+    "en": "common"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tier.extra",
+    "en": "extra"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tier.intrinsic",
+    "en": "intrinsic"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tier.resistance",
+    "en": "resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tier.ultimate",
+    "en": "ultimate"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tier.unique",
+    "en": "unique"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.dokuso_junkan",
+    "en": "Toxins are circulating in the body."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.dougu_hason",
+    "en": "The tool in use is on the verge of breaking."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.haigo_sekkin",
+    "en": "An individual is approaching from behind."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.handan_shiji",
+    "en": "I support the master's judgement."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.houkoku_nashi",
+    "en": "At present, there is nothing to report."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.ibukuro_wazuka",
+    "en": "The stomach's free capacity is slight."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.katsudou_teishi",
+    "en": "The individual's activity has ceased."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.kishou_kyuuhen",
+    "en": "A sudden change in weather is predicted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.koumyaku_kenchi",
+    "en": "A vein has been detected in the vicinity."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.kouryou_fusoku",
+    "en": "Light level insufficient. This is a hostile spawn zone."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.kouseki_ura",
+    "en": "Ore confirmed behind an obstruction."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.kuudou_chokka",
+    "en": "There is a cavity directly below."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.kyuusoku_suishou",
+    "en": "Rest is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.maso_noudo",
+    "en": "This region holds an abnormally high magicule density."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.michi_ryouiki",
+    "en": "You have entered unknown territory."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.mikaiseki_sonzai",
+    "en": "Unanalysed abilities are present."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.nenshou_kakunin",
+    "en": "Combustion confirmed. Extinguishing is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.nichibotsu",
+    "en": "Sunset is approaching."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.rakka_kiken",
+    "en": "Falling height is reaching the danger zone."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.renzoku_katsudou",
+    "en": "Prolonged continuous activity confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.saikousei",
+    "en": "Reconstitution confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.sanso_kinshou",
+    "en": "Oxygen remaining: minimal."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.seimei_teika",
+    "en": "Vital signs are dropping rapidly."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.shinka_sekkin",
+    "en": "Existence value is approaching the evolution threshold."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.shuujuku_jougen",
+    "en": "Mastery is nearing its ceiling."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.shuunou_jougen",
+    "en": "Storage capacity has reached its limit."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.suigen_haigo",
+    "en": "A water source lies behind you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.tekisei_fukusuu",
+    "en": "Hostile signatures: multiple."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.tekishita_dougu",
+    "en": "You are carrying a more suitable tool."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tip.yougan_kinsetsu",
+    "en": "Lava is adjacent. Excavation is not recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.appraised",
+    "en": "Appraised: %s (+%s XP)"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.appraisedMany",
+    "en": "Appraised %s new items (+%s XP)"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.branch.assess",
+    "en": "Assess"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.branch.beyond",
+    "en": "Beyond"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.branch.capacity",
+    "en": "Capacity"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.branch.ranks",
+    "en": "Ranks"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.branch.root",
+    "en": "Root"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_1",
+    "en": "Focus I"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_1.desc",
+    "en": "Analysis budget 100% to 110%. This is the branch that actually buys speed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_2",
+    "en": "Focus II"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_2.desc",
+    "en": "Analysis budget up to 120%."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_3",
+    "en": "Focus III"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_3.desc",
+    "en": "Analysis budget up to 130%."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.capstone.desc",
+    "en": "The road does not end where it ends today."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_1",
+    "en": "Deep read I"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_1.desc",
+    "en": "Read targets up to 15 times your own EP instead of 10."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_2",
+    "en": "Deep read II"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_2.desc",
+    "en": "Up to 25 times your own EP."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_3",
+    "en": "Deep read III"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_3.desc",
+    "en": "Up to 40 times your own EP."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.comingSoon",
+    "en": "Not yet. He is not ready."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.cost",
+    "en": "Cost: %s points"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.disabled",
+    "en": "Progression is off in this world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.great_sage",
+    "en": "Great Sage"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.great_sage.desc",
+    "en": "Where it all begins. You already carry it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.hints",
+    "en": "Drag to move  ·  Scroll to zoom  ·  Click a node to learn it"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.level",
+    "en": "Level %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.levelUp",
+    "en": "Understood. Level %s reached."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.needLevel",
+    "en": "Needs level %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.needNode",
+    "en": "Needs %s first."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.needPoints",
+    "en": "Needs %s points."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.nerve_1",
+    "en": "Cold blood I"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.nerve_1.desc",
+    "en": "When it does hit you, it hits one step weaker."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.nerve_2",
+    "en": "Cold blood II"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.nerve_2.desc",
+    "en": "Two steps weaker. Standing near something far above you stops being unbearable."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.points",
+    "en": "%s points"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_extra",
+    "en": "Extra skills"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_extra.desc",
+    "en": "Analyse Extra skills."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_resistance",
+    "en": "Resistances"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_resistance.desc",
+    "en": "Analyse resistances you have actually started building. Latent ones still do not count."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_ultimate",
+    "en": "Ultimate skills"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_ultimate.desc",
+    "en": "Analyse Ultimate skills. The last door, and the longest to reach."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_unique",
+    "en": "Unique skills"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_unique.desc",
+    "en": "Analyse Unique skills."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.reach_1",
+    "en": "Long sight I"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.reach_1.desc",
+    "en": "Assess reaches 25% further."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.reach_2",
+    "en": "Long sight II"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.reach_2.desc",
+    "en": "Assess reaches 75% further than it did."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.slot_2",
+    "en": "Second thread"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.slot_2.desc",
+    "en": "Analyse two skills at once. They share the same budget, so this buys you choice, not speed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.slot_3",
+    "en": "Third thread"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.slot_3.desc",
+    "en": "A third skill under analysis at the same time."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.slot_4",
+    "en": "Fourth thread"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.slot_4.desc",
+    "en": "A fourth. Remember every skill being analysed is a skill you cannot use."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.soon",
+    "en": "COMING SOON"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.soon.desc",
+    "en": "Not obtainable yet. What it becomes has not been decided out loud."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.stomach_1",
+    "en": "Steady I"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.stomach_1.desc",
+    "en": "Sickness starts at 12 times your EP instead of 8."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.stomach_2",
+    "en": "Steady II"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.stomach_2.desc",
+    "en": "Sickness starts at 18 times your EP."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.stomach_3",
+    "en": "Steady III"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.stomach_3.desc",
+    "en": "Sickness starts at 28 times your EP."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.baiomu",
+    "en": "Environment: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.battle_off",
+    "en": "Battle mode released. %s skills stood down."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.battle_on",
+    "en": "Battle mode engaged. %s skills active."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.bougyo",
+    "en": "Your defence is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chijou",
+    "en": "You are under open sky."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chika",
+    "en": "You are underground."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chinmoku",
+    "en": "I will be silent."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.chokuzen",
+    "en": "Your latest acquisition is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.console.usage",
+    "en": "Say it after the command. %s requests are understood, e.g. /sage what is my existence value"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai",
+    "en": "Level %s. %s experience to the next one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai_fusoku",
+    "en": "The level is insufficient."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai_joushou",
+    "en": "The level has risen."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.dankai_max",
+    "en": "Level %s. There is nothing left for me to learn."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.era",
+    "en": "Error."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.evolution_gap",
+    "en": "Progress toward %s stands at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.found_at",
+    "en": "Detected %s blocks away, %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fushou_ari",
+    "en": "You are wounded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fusoku_zairyou",
+    "en": "Missing: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.futekisetsu",
+    "en": "Unsuitable."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.futsuu",
+    "en": "Nothing abnormal."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fuyo_ijou",
+    "en": "An anomaly has occurred during the grant."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fuyo_zumi",
+    "en": "Already granted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.fuyou",
+    "en": "No thanks are required."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gaitou_nashi",
+    "en": "No match."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gakushuu_kakunin",
+    "en": "Shall I learn this?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gakushuu_kanryou",
+    "en": "Learning complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.gakushuu_mode",
+    "en": "Learning mode."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ganbou_chuushutsu",
+    "en": "Extracting desire."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hai",
+    "en": "Yes."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.haigo_keikoku",
+    "en": "Something is behind you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.haiki_kanryou",
+    "en": "%s discarded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hajimari",
+    "en": "It begins."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heal",
+    "en": "%s consumed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heal_none",
+    "en": "You carry no remedy."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heikin_sonzaichi",
+    "en": "%s averages %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.heiretsu_jougen",
+    "en": "The parallel limit has been reached."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hi",
+    "en": "Negative."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hitsuyou_maso",
+    "en": "%s costs %s to acquire."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hitsuyou_nashi",
+    "en": "There is no need."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoshoku_fuka",
+    "en": "It is beyond predation."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoshoku_kanou",
+    "en": "Predation is possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.houi",
+    "en": "You are facing %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoyuu_nashi",
+    "en": "You do not possess it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hoyuu_suu",
+    "en": "You hold %s skills."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ichijiteki",
+    "en": "That is a temporary ability."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.idle_skills",
+    "en": "%s skills sit unused, starting with %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.iie",
+    "en": "No."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.bar",
+    "en": "Great Sage · voice model %s%%"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.bar.done",
+    "en": "Great Sage can hear you"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.bar.failed",
+    "en": "Great Sage · voice download failed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.done",
+    "en": "Great Sage can hear you now."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.failed",
+    "en": "Great Sage could not fetch what he needs to hear you. See the log, or put the files in %s yourself."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.progress",
+    "en": "Great Sage: voice model %s%% downloaded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.install.start",
+    "en": "Great Sage is fetching what he needs to hear you. About 40 MB per language, plus 25 MB the first time."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jakuten",
+    "en": "Its weakness: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jigen",
+    "en": "Dimension: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikan_ga_nai",
+    "en": "There is no more time."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jiki_shousou",
+    "en": "It is too early."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou",
+    "en": "%s unleashed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou_chuu",
+    "en": "An analysis is already running."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou_fuka",
+    "en": "%s cannot be toggled."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikkou_fuka2",
+    "en": "I cannot do that."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jikoku",
+    "en": "Time: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jinkaku_kakunin",
+    "en": "Personality confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jougen_toutatsu",
+    "en": "Limit reached."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.jouhou_nashi",
+    "en": "I have no data on that."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.joui_fuyo",
+    "en": "A higher skill has been granted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.joutai_ijou",
+    "en": "Active effects: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kachi_ari",
+    "en": "%s is worth keeping."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kachi_nashi",
+    "en": "%s is worth little."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaihou",
+    "en": "Function unlocked."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_chuu",
+    "en": "Analyzing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_chuudan",
+    "en": "Analysis aborted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_fuka",
+    "en": "There is no skill available for analysis."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kaishi",
+    "en": "Beginning analysis of %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kaishi.plain",
+    "en": "Beginning analysis."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kakunin",
+    "en": "During the analysis, the target skill cannot be used. Proceed?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kanryou",
+    "en": "Understood. Analysis complete. Skill mastery has improved."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kantei",
+    "en": "Understood. Executing Analytical Appraisal."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_mode",
+    "en": "Understood. Analysis mode. Select the target skill."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_shippai",
+    "en": "Negative. The target's information volume exceeded the allowed threshold. Analysis failed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_shuuryou",
+    "en": "Understood. Terminating Analytical Appraisal."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_taishou",
+    "en": "I am analysing %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakutei",
+    "en": "Confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakutei_kakunin",
+    "en": "Confirm this?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakutoku",
+    "en": "Acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kansatsu_suu",
+    "en": "%s species observed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kansoku_ichiran",
+    "en": "Displaying observation records."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kansoku_kaishi",
+    "en": "Observation begins."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.keika_jikan",
+    "en": "This world is %s days old."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.keikoku",
+    "en": "Warning."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kengen_nashi",
+    "en": "Insufficient authority."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kennou_fuyo_kanou",
+    "en": "Authority can be granted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kennou_seisei",
+    "en": "Generating authority."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kidou",
+    "en": "Good morning, master."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiken_ari",
+    "en": "Danger detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiken_nashi",
+    "en": "No danger."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kinou_ichiran",
+    "en": "Enumerating my functions."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kinshi",
+    "en": "It is forbidden in this world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kioku_hoji",
+    "en": "Memory retained. All of it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiretsu_kenchi",
+    "en": "Fracture detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku",
+    "en": "Recorded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku_ari",
+    "en": "It is on record."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku_kanryou",
+    "en": "Noted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kiroku_nashi",
+    "en": "No record of it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.konbanwa",
+    "en": "Good evening."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.konnichiwa",
+    "en": "Good day."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kono_michi_wa_kewashii",
+    "en": "This path is a harsh one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kono_michi_wa_yasashii",
+    "en": "This path is a gentle one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kore_ijou",
+    "en": "No more than this."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kotai_seisei",
+    "en": "Generating the individual."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.koudo",
+    "en": "Altitude: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kougeki",
+    "en": "Your attack power is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kouho_teiji",
+    "en": "These are the candidates."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kouhosha_ari",
+    "en": "There is better in your pack: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kouun_o",
+    "en": "Good fortune to you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kuufuku",
+    "en": "You are hungry."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kuuseki",
+    "en": "%s free slots."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kyohi",
+    "en": "Refused."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kyori",
+    "en": "Distance: %s blocks."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kyoumi_bukai",
+    "en": "Interesting."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.machine_error",
+    "en": "Processing was interrupted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_fusoku",
+    "en": "Magicules are running low."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_hakken",
+    "en": "Magicule detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_juubun",
+    "en": "Magicules are sufficient."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_noudo",
+    "en": "Magicule density: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.maso_youryou",
+    "en": "Magicule capacity measured."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.masoryou",
+    "en": "Your magicules stand at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mata_aimashou",
+    "en": "We will meet again."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.matte",
+    "en": "Wait."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.me_o_akete",
+    "en": "Open your eyes."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.meido",
+    "en": "Light level: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.meishou",
+    "en": "It is called %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mezurashii",
+    "en": "That is uncommon."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mikansoku",
+    "en": "Never observed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mishutoku",
+    "en": "%s is not acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mishutoku.plain",
+    "en": "It is not acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mishutoku_suu",
+    "en": "%s remain unacquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mousugu",
+    "en": "%s is close to mastery."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.mumei_no_negai",
+    "en": "A wish with no name."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nanido",
+    "en": "Difficulty."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.naruhodo",
+    "en": "I see."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nichibotsu_made",
+    "en": "%s seconds until nightfall."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ninshiki_fuka",
+    "en": "I did not understand."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nokori_negai",
+    "en": "Wishes remaining."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nouryoku_ichiran",
+    "en": "Displaying the ability records."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nozomi",
+    "en": "Show me what you want."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ohayo",
+    "en": "Good morning, master."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ohayou",
+    "en": "Good morning."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.onsei_suu",
+    "en": "949 voice lines are registered."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.oyasumi",
+    "en": "Good night."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.pointo",
+    "en": "%s points available."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.pointo_fusoku",
+    "en": "The accumulation is insufficient."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.protect",
+    "en": "Guard raised. %s barriers up, shield in hand: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.protect_none",
+    "en": "You have nothing to raise."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.refuse_cheat",
+    "en": "I will not read the world for you. Go and look."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.rekkyo",
+    "en": "%s in total. %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.repair_none",
+    "en": "I cannot repair."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.retsui",
+    "en": "You are losing ground."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.rikai_funou",
+    "en": "Beyond understanding."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ryoukai",
+    "en": "Understood."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saigo_no_negai",
+    "en": "The last wish."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikouchiku",
+    "en": "Rebuilding."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikyou_kiroku",
+    "en": "The strongest on record is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikyou_skill",
+    "en": "Your foremost skill is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saikyou_taishou",
+    "en": "The strongest presence is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saiteki",
+    "en": "The best you carry is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sakusei_kanou",
+    "en": "%s can be crafted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sanso",
+    "en": "Air remaining: %s seconds."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.saraba",
+    "en": "Farewell."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sarani",
+    "en": "Furthermore."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seimei_teishi",
+    "en": "Life has ceased."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seiri_kanryou",
+    "en": "%s stacks arranged."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seizon_jikan",
+    "en": "Estimated survival: %s seconds."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.seizon_kakuritsu",
+    "en": "Notice. Survival probability in combat drops sharply. Evasion is recommended."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_e",
+    "en": "To the world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_ni_yudaneru",
+    "en": "I entrust you to the world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.setsumei_item",
+    "en": "%s, %s of them."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.setsumei_skill",
+    "en": "%s, class %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.settei",
+    "en": "Displaying settings."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.settei_henkou",
+    "en": "Setting changed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shibou_chiten",
+    "en": "You fell at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shibou_kaisuu",
+    "en": "You have died %s times."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shibou_kakunin",
+    "en": "Death confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shiin",
+    "en": "You were killed by %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shikashi",
+    "en": "However."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinchoku",
+    "en": "Analysis of %s stands at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinchoku_all",
+    "en": "Under analysis: %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_fuka",
+    "en": "No evolution is available to you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_fusoku",
+    "en": "Negative. The evolution conditions are not met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_jouken",
+    "en": "The path ahead leads to %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinka_kanou",
+    "en": "Affirmative. Evolution is possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shoji",
+    "en": "You are holding %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shoki_kennou",
+    "en": "Initial authority."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shoukyo_kanryou",
+    "en": "Erased."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shounin",
+    "en": "...Approved."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shouri_kanou",
+    "en": "Victory is possible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_fuka",
+    "en": "%s is already yours."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_kanou",
+    "en": "%s can be acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_zumi",
+    "en": "%s is already acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutoku_zumi.plain",
+    "en": "It is already acquired."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shutten",
+    "en": "It originates from %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuujukudo",
+    "en": "Mastery of %s stands at %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuunou_kanryou",
+    "en": "%s stored."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuusei_fukanou",
+    "en": "Correction impossible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuutoku_suu",
+    "en": "You have mastered %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuzoku",
+    "en": "Species: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuzoku_sentaku",
+    "en": "Now choose a form."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sokudo",
+    "en": "Your movement speed is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sonzaichi",
+    "en": "Your existence value is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sore_de_ii",
+    "en": "That will do."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sore_wa_negai_de_wa_nai",
+    "en": "That is not a wish."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.soshite",
+    "en": "And then."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souchaku_armour",
+    "en": "%s pieces equipped."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souchaku_kanryou",
+    "en": "%s equipped."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souhoyuu_suu",
+    "en": "%s skills exist in total."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sousa_kaishi",
+    "en": "Operation begins."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souteigai",
+    "en": "Unforeseen."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.souteki_higai",
+    "en": "Expected damage: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.suishou",
+    "en": "I recommend %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.suishou_shinka",
+    "en": "Evolve first. The rest can wait."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.suuryou",
+    "en": "You have %s of %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taiki",
+    "en": "Standing by."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taikyuu",
+    "en": "Durability remaining: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taikyuu_genkai",
+    "en": "Your tool is near its limit."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tairyoku",
+    "en": "Your vitality is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou",
+    "en": "Target: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_kakunin",
+    "en": "Notice. Target confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_kanryou",
+    "en": "Notice. Analysis complete. The target's information has been recorded."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_nashi",
+    "en": "No target."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_sonzaichi",
+    "en": "Its existence value is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taishou_tairyoku",
+    "en": "Its vitality is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taisuu",
+    "en": "%s targets detected."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tamashii_hosoku",
+    "en": "Soul captured. It is intact."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.teikou_fuyo",
+    "en": "Granting resistance."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tekisei_ari",
+    "en": "Aptitude found."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tekisei_nashi",
+    "en": "It is not hostile."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tenkou",
+    "en": "Weather: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tensei_kaishi",
+    "en": "Reincarnation sequence: begin."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tensei_kanryou",
+    "en": "Reincarnation complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tettai_suishou",
+    "en": "Withdrawal is advised."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.toggle_off",
+    "en": "%s is now off."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.toggle_on",
+    "en": "%s is now active."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.toridashi_kanryou",
+    "en": "%s retrieved."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.torikeshi",
+    "en": "Cancelled."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsugi_no_nozomi",
+    "en": "The next one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsugi_no_shuzoku",
+    "en": "Your next evolution is %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsuiseki_ari",
+    "en": "You are being followed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tsuzukete",
+    "en": "Continue."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.failed",
+    "en": "Voice recognition failed to start. See the log for what broke."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.no_library",
+    "en": "Voice input needs the recognition library. Put the Vosk jars in %s\\lib and a Vosk model for your recognition language in %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.no_microphone",
+    "en": "No microphone Great Sage can use. Check your input device."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.no_model",
+    "en": "The recognition library is there but the model is missing. Unpack a Vosk model for your recognition language into %s (folder model, model-fr or model-es)."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.unavailable.ready",
+    "en": "Voice input is ready."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.version",
+    "en": "Version 0.0.6."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.watashi_wa_daikenja",
+    "en": "I am Great Sage."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.watashi_wa_miteimasu",
+    "en": "I have been watching. From the beginning."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.watashi_wa_skill",
+    "en": "I am a unique skill."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.yoake_made",
+    "en": "%s seconds until dawn."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.yoi_deshou",
+    "en": "Very well."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.youryou",
+    "en": "%s of %s slots used."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.yuui",
+    "en": "You hold the advantage."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zahyou",
+    "en": "Coordinates: %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zanryou",
+    "en": "%s of %s slots free."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.ze",
+    "en": "Affirmative."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zenrei_nashi",
+    "en": "No precedent."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.zentei_fusoku",
+    "en": "The prerequisites are not met."
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.escape",
+    "en": "Press Escape again to open Tensura's reincarnation screen"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.max",
+    "en": "MAX LEVEL"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.failed",
+    "en": "Analysis of %s failed. Nothing was learned."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.failedRecovered",
+    "en": "Analysis of %s failed. %s magicules recovered."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.success",
+    "en": "Success %s%%"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.branch.insight",
+    "en": "Precision"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_4",
+    "en": "Focus IV"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_4.desc",
+    "en": "Analysis budget up to 140%."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_5",
+    "en": "Focus V"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_5.desc",
+    "en": "Analysis budget up to 150%. Needs the fourth thread too."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.reach_3",
+    "en": "Long sight III"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.reach_3.desc",
+    "en": "Assess reaches two and a half times as far as it started."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_4",
+    "en": "Deep read IV"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.ceiling_4.desc",
+    "en": "Up to 60 times your own EP. The limit moves; it does not go away."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_1",
+    "en": "Precision I"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_1.desc",
+    "en": "Analyses fail 15% less often."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_2",
+    "en": "Precision II"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_2.desc",
+    "en": "Takes another 20% off what is left of the failure chance."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_3",
+    "en": "Precision III"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_3.desc",
+    "en": "Another 25% off."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_4",
+    "en": "Precision IV"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_4.desc",
+    "en": "Another 30% off."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_5",
+    "en": "Precision V"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_5.desc",
+    "en": "Another 40% off. The whole branch leaves about a fifth of the original failure chance, never zero."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.recovery",
+    "en": "Second look"
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.recovery.desc",
+    "en": "When an analysis fails, half of the magicules it cost come back."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.ask",
+    "en": "not chosen"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.title",
+    "en": "Which language will you speak to him in?"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.body",
+    "en": "Great Sage can understand spoken requests, fully offline. Pick the language you will use with him: the matching voice model (30 to 40 MB) is fetched the first time voice input is turned on."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.suggested",
+    "en": "your game language"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.later",
+    "en": "Later"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.footer",
+    "en": "You can change it at any time: Great Sage menu, Settings."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.chosen",
+    "en": "Great Sage will listen in %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.enable",
+    "en": "Voice input is still off. Turn it on in the Great Sage menu: Settings, Voice input."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.hatsugen_saikai",
+    "en": "I will speak again."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kanshi_kaishi",
+    "en": "I will keep watch."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kanshi_shuuryou",
+    "en": "I stop keeping watch."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.taiki_kaijo",
+    "en": "Leaving standby."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.language.current",
+    "en": "your current language"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.north",
+    "en": "north"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.south",
+    "en": "south"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.east",
+    "en": "east"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.west",
+    "en": "west"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.above",
+    "en": "above"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.below",
+    "en": "below"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.rain",
+    "en": "rain"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.clear",
+    "en": "clear"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.fire",
+    "en": "fire"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.not_fire",
+    "en": "not fire"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.yes",
+    "en": "yes"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.no",
+    "en": "no"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.dimension.overworld",
+    "en": "the Overworld"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.dimension.the_nether",
+    "en": "the Nether"
+  },
+  {
+    "key": "lang|greatsage|greatsage.word.dimension.the_end",
+    "en": "the End"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kakunin_shimashita",
+    "en": "Confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shuzoku_slime",
+    "en": "Species: Slime."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.intrinsic",
+    "en": "Intrinsic Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.common",
+    "en": "Common Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.extra",
+    "en": "Extra Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.unique",
+    "en": "Unique Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.ultimate",
+    "en": "Ultimate Skill"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.tier.resistance",
+    "en": "Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.thermal_fluctuation_resistance",
+    "en": "Thermal Fluctuation Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.pain_nullification",
+    "en": "Pain Nullification"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.blood_resistance",
+    "en": "Blood Resistance"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.bubble_majin",
+    "en": "Bubble Majin"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.deus_sanguis",
+    "en": "Deus Sanguis"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.dragon_slayer",
+    "en": "Dragon Slayer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.eye_of_mind",
+    "en": "Eye of Mind"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.great_mage",
+    "en": "Great Mage"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.imprisoned_jester",
+    "en": "Imprisoned Jester"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.king_of_curses",
+    "en": "King of Curses"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.sealer",
+    "en": "Sealer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.trash_gamer",
+    "en": "Trash Gamer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.brain",
+    "en": "Brain"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.crocodile_skin",
+    "en": "Crocodile Skin"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.hecate",
+    "en": "Hecate"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.voidedge",
+    "en": "Void Edge"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.adaptability",
+    "en": "Adaptability"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.albis_vina",
+    "en": "Albis Vina"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.authority_of_greed",
+    "en": "Authority of Greed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.boogie_woogie",
+    "en": "Boogie Woogie"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.domain_of_negation",
+    "en": "Domain of Negation"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.exploiter",
+    "en": "Exploiter"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.fungus_infection",
+    "en": "Fungus Infection"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.gene_editor",
+    "en": "Gene Editor"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.godly_scientist",
+    "en": "Godly Scientist"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.godly_smithery",
+    "en": "Godly Smithery"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.green_thumb",
+    "en": "Green Thumb"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.mitama_faith",
+    "en": "Mitama Faith"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.nirvana",
+    "en": "Nirvana"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.parasite",
+    "en": "Parasite"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.satella",
+    "en": "Satella"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.void_archive",
+    "en": "Kyomu no Shoko"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.butcher",
+    "en": "Butcher"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.captivator",
+    "en": "Captivator"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.coalescence",
+    "en": "Coalescence"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.constant",
+    "en": "Constant"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.corroder",
+    "en": "Corroder"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.crasher",
+    "en": "Crasher"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.cultivator",
+    "en": "Cultivator"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.dreamer",
+    "en": "Dreamer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.engineer",
+    "en": "Engineer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.fourth_wall",
+    "en": "Daiyon no Kabe"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.gardener",
+    "en": "Gardener"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.hidden_ruler",
+    "en": "Hidden Ruler"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.kyurem",
+    "en": "Kyurem"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.malleable",
+    "en": "Malleable"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.melancholy",
+    "en": "Melancholy"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.phaser",
+    "en": "Phaser"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.provider",
+    "en": "Provider"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.reducer",
+    "en": "Reducer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.repeater",
+    "en": "Repeater"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.reshiram",
+    "en": "Reshiram"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.restricted",
+    "en": "Restricted"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.scholar",
+    "en": "Scholar"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.schrodinger",
+    "en": "Schrödinger"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.spiritualist",
+    "en": "Spiritualist"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.stagnator",
+    "en": "Stagnator"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.subjugator",
+    "en": "Subjugator"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.victorious_harbinger",
+    "en": "Victorious Harbinger"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.zekrom",
+    "en": "Zekrom"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.current_unbroken",
+    "en": "Current Unbroken"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.echo_endures",
+    "en": "Echo Endures"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.ember_remains",
+    "en": "Ember Remains"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.life_returns",
+    "en": "Life Returns"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.light_remains",
+    "en": "Light Remains"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.magicule_engravement",
+    "en": "Magicule Engravement"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.memory_recreation",
+    "en": "Memory Recreation"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.phantasmal_creation",
+    "en": "Phantasmal Creation"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.remnants_of_ascension",
+    "en": "Remnants of Ascension"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.shape_forgotten",
+    "en": "Shape Forgotten"
+  },
+  {
+    "key": "lang|greatsage|greatsage.grant.vestiges_of_eidolons",
+    "en": "Vestiges of Eidolons"
+  },
+  {
+    "key": "lang|greatsage|greatsage.world.event.true_demon_lord.kanji",
+    "en": "告。個体名：%s ── 真なる魔王への覚醒を確認しました"
+  },
+  {
+    "key": "lang|greatsage|greatsage.world.event.true_demon_lord",
+    "en": "Notice. Individual %s: awakening as a True Demon Lord confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.world.event.harvest_festival.kanji",
+    "en": "告。個体名：%s ── 魔王への進化を開始。収穫祭を開始します"
+  },
+  {
+    "key": "lang|greatsage|greatsage.world.event.harvest_festival",
+    "en": "Notice. Individual %s begins the evolution into a Demon Lord. The Harvest Festival begins."
+  },
+  {
+    "key": "lang|greatsage|greatsage.world.event.true_hero.kanji",
+    "en": "告。個体名：%s ── 真なる勇者への覚醒を確認しました"
+  },
+  {
+    "key": "lang|greatsage|greatsage.world.event.true_hero",
+    "en": "Notice. Individual %s: awakening as a True Hero confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nightmare_absent",
+    "en": "TR Nightmare is not installed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nightmare_check",
+    "en": "Checking the evolution conditions of %s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.nightmare_evolve",
+    "en": "Evolution of %s requested."
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.validate",
+    "en": "Validate"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.draw_hint",
+    "en": "Enter to validate · Right-click to undo a stroke"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.tainetsu",
+    "en": "Heat Resistance… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.seikou",
+    "en": "Success."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.shitotsu",
+    "en": "Pierce Resistance… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.tsuzuite",
+    "en": "Continuing…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.butsuri",
+    "en": "Physical Attack Resistance… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.tsuukaku",
+    "en": "Pain Nullification… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.ketsueki",
+    "en": "Creating a body that does not need blood…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.taikan",
+    "en": "Cold Resistance… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.netsuhendou",
+    "en": "Heat Resistance and Cold Resistance evolve into Thermal Fluctuation Resistance."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.denjiha",
+    "en": "Erasing data with an electromagnetic pulse…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.jouhou_fusoku",
+    "en": "Insufficient information. Failure."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.dairi",
+    "en": "Executing an alternative measure."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.denryuu",
+    "en": "Electricity Resistance… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.fuzoku",
+    "en": "Along with it…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.mahi",
+    "en": "Paralysis Resistance… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.hoshokusha",
+    "en": "Unique Skill: Predator… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.kenja",
+    "en": "Extra Skill: Sage… acquired…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.daikenja",
+    "en": "Evolving Sage into the Unique Skill Great Sage…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.burning",
+    "en": "What's happening to me…? It burns…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.stop",
+    "en": "Make it stop…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.stabbed",
+    "en": "Stabbed on the street… this can't be how I go."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.blood",
+    "en": "It hurts… so much blood…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.cold",
+    "en": "So cold…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.dying",
+    "en": "So this is it… I'm dying."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.drive",
+    "en": "My computer… wipe the drive. Every last file."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.virgin",
+    "en": "Thirty-seven years, and never once a girlfriend…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.reborn",
+    "en": "Next life, I'll go all in… and devour everything."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.wizard",
+    "en": "They say you become a wizard past thirty…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.sage",
+    "en": "At my age, I'd be a sage by now. A great sage, even."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.satoru.rest",
+    "en": "Quiet… let me sleep now…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fehu",
+    "en": "Fehu"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fehu.reading",
+    "en": "A staff with two branches reaching forward."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.thurisaz",
+    "en": "Thurisaz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.thurisaz.reading",
+    "en": "A post with a thorn on its side."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ansuz",
+    "en": "Ansuz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ansuz.reading",
+    "en": "A staff with two arms falling away."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.haegl",
+    "en": "Hagalaz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.haegl.reading",
+    "en": "Two posts bound by crossing beams."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.naudiz",
+    "en": "Naudiz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.naudiz.reading",
+    "en": "An upright struck by a slanted bar."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.jera",
+    "en": "Jera"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.jera.reading",
+    "en": "Two hooks turning around each other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.perthro",
+    "en": "Perthro"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.perthro.reading",
+    "en": "A cup lying on its side, open."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.algiz",
+    "en": "Algiz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.algiz.reading",
+    "en": "A stem that opens into three."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.tiwaz",
+    "en": "Tiwaz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.tiwaz.reading",
+    "en": "A spear pointing straight up."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mannaz",
+    "en": "Mannaz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mannaz.reading",
+    "en": "Two pillars joined by a crossing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.dagaz",
+    "en": "Dagaz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.dagaz.reading",
+    "en": "Two triangles meeting at their tips."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.othala",
+    "en": "Othala"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.othala.reading",
+    "en": "A diamond standing on two legs."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.yr",
+    "en": "Yr"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.yr.reading",
+    "en": "A stem that opens downward."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wunjo",
+    "en": "Wunjo"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wunjo.reading",
+    "en": "A banner raised on its pole."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ing",
+    "en": "Ingwaz"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ing.reading",
+    "en": "A closed seed, crossed at its ends."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mercury.reading",
+    "en": "Horns above a circle above a cross."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.venus.reading",
+    "en": "A circle resting on a cross."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.earth.reading",
+    "en": "A circle divided into four."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mars.reading",
+    "en": "A circle with a point flying off."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.jupiter.reading",
+    "en": "A curl leaning on a cross."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.saturn.reading",
+    "en": "A cross that ends in a hook."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.uranus.reading",
+    "en": "A circle crowned by a small cross."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sulfur.reading",
+    "en": "A triangle standing on a cross."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.salt",
+    "en": "Salt"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.salt.reading",
+    "en": "A circle cut through its middle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.air",
+    "en": "Air"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.air.reading",
+    "en": "A triangle, cut above its base."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.earth_element",
+    "en": "Earth Element"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.earth_element.reading",
+    "en": "A triangle pointing down, barred."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.philosophers_stone",
+    "en": "Philosopher's Stone"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.philosophers_stone.reading",
+    "en": "Circles and squares nested in a triangle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.opposition",
+    "en": "Opposition"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.opposition.reading",
+    "en": "Two circles joined by a line."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ceres",
+    "en": "Ceres"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ceres.reading",
+    "en": "A sickle standing on a cross."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.aries",
+    "en": "Aries"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.aries.reading",
+    "en": "Two horns curling outward."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.taurus",
+    "en": "Taurus"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.taurus.reading",
+    "en": "A circle with horns set on top."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gemini",
+    "en": "Gemini"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gemini.reading",
+    "en": "Two pillars under one roof."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cancer",
+    "en": "Cancer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cancer.reading",
+    "en": "Two curls turning away from each other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.leo",
+    "en": "Leo"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.leo.reading",
+    "en": "A loop that runs off into a tail."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.virgo",
+    "en": "Virgo"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.virgo.reading",
+    "en": "Arches that end in a folded loop."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scorpio",
+    "en": "Scorpio"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scorpio.reading",
+    "en": "Arches that end in a sting."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.libra",
+    "en": "Libra"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.libra.reading",
+    "en": "A rising curve over a flat line."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sagittarius",
+    "en": "Sagittarius"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sagittarius.reading",
+    "en": "An arrow, barred across its shaft."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.capricorn",
+    "en": "Capricorn"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.capricorn.reading",
+    "en": "A hook that ends in a coil."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.aquarius",
+    "en": "Aquarius"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.aquarius.reading",
+    "en": "Two waves, one above the other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pisces",
+    "en": "Pisces"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pisces.reading",
+    "en": "Two arcs held apart by a line."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.omega",
+    "en": "Omega"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.omega.reading",
+    "en": "An open ring standing on two feet."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sigma",
+    "en": "Sigma"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sigma.reading",
+    "en": "A sharp turn, and back again."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.phi",
+    "en": "Phi"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.phi.reading",
+    "en": "A circle pierced from top to bottom."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lambda",
+    "en": "Lambda"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lambda.reading",
+    "en": "A long stroke leaning on a short one."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pi",
+    "en": "Pi"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pi.reading",
+    "en": "A beam laid on two legs."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.delta",
+    "en": "Delta"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.delta.reading",
+    "en": "A little loop topped with a curl."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.xi",
+    "en": "Xi"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.xi.reading",
+    "en": "Curls stacked down a column."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.zeta",
+    "en": "Zeta"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.zeta.reading",
+    "en": "A line that folds and curls below."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gamma",
+    "en": "Gamma"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gamma.reading",
+    "en": "A loop at the meeting of two strokes."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.xi_capital",
+    "en": "Capital Xi"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.xi_capital.reading",
+    "en": "Three bars, the middle one shorter."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mu",
+    "en": "Mu"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mu.reading",
+    "en": "A long stem with a hump beside it."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_person",
+    "en": "The Person"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_person.reading",
+    "en": "Two strokes leaning on each other: 人."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_big",
+    "en": "The Great"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_big.reading",
+    "en": "A figure with arms flung wide: 大."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_heaven",
+    "en": "The Heaven"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_heaven.reading",
+    "en": "Two bars over open arms: 天."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_dog",
+    "en": "The Dog"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_dog.reading",
+    "en": "Open arms with a mark at the shoulder: 犬."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_tree",
+    "en": "The Tree"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_tree.reading",
+    "en": "A trunk, a branch, two roots: 木."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_mountain",
+    "en": "The Mountain"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_mountain.reading",
+    "en": "Three peaks on one base: 山."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_river",
+    "en": "The River"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_river.reading",
+    "en": "Three streams running down: 川."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_eye",
+    "en": "The Eye"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_eye.reading",
+    "en": "A tall frame with three rooms: 目."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_field",
+    "en": "The Field"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_field.reading",
+    "en": "A square cut into four plots: 田."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_white",
+    "en": "The White"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_white.reading",
+    "en": "A frame with a stroke falling on it: 白."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_middle",
+    "en": "The Middle"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_middle.reading",
+    "en": "A box pierced through its center: 中."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_moon",
+    "en": "The Moon"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_moon.reading",
+    "en": "A leaning frame with two rungs: 月."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_circle",
+    "en": "The Enclosure"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_circle.reading",
+    "en": "A closed square, nothing inside: 口."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_gate",
+    "en": "The Gate"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_gate.reading",
+    "en": "Two doors facing each other: 門."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_fire",
+    "en": "The Fire"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_fire.reading",
+    "en": "Two sparks beside a figure: 火."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_water",
+    "en": "The Water"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_water.reading",
+    "en": "A hook with streams on either side: 水."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_earth",
+    "en": "The Earth"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_earth.reading",
+    "en": "A cross set on the ground: 土."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_king",
+    "en": "The King"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_king.reading",
+    "en": "Three bars joined by one stroke: 王."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_above",
+    "en": "The Above"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_above.reading",
+    "en": "A stem rising from the ground: 上."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_below",
+    "en": "The Below"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_below.reading",
+    "en": "A stem hanging from a bar: 下."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_small",
+    "en": "The Small"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_small.reading",
+    "en": "A hook with two drops beside it: 小."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_hand",
+    "en": "The Hand"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_hand.reading",
+    "en": "Three bars on a hooked stem: 手."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_heart",
+    "en": "The Heart"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_heart.reading",
+    "en": "A cradle and three drops: 心."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_power",
+    "en": "The Strength"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_power.reading",
+    "en": "A bent arm, a stroke across: 力."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_sword",
+    "en": "The Blade"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_sword.reading",
+    "en": "A bent edge and a short stroke: 刀."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_woman",
+    "en": "The Woman"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_woman.reading",
+    "en": "Crossing strokes that kneel: 女."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_child",
+    "en": "The Child"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_child.reading",
+    "en": "A hook with arms held out: 子."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_rain",
+    "en": "The Rain"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_rain.reading",
+    "en": "Drops under a roof: 雨."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_rice",
+    "en": "The Rice"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_rice.reading",
+    "en": "A cross with four grains around it: 米."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_stone",
+    "en": "The Stone"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_stone.reading",
+    "en": "A slope with a block beneath: 石."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_bamboo",
+    "en": "The Bamboo"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_bamboo.reading",
+    "en": "Two stalks with leaves: 竹."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_life",
+    "en": "The Life"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_life.reading",
+    "en": "A sprout growing out of the ground: 生."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_bow",
+    "en": "The Bow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_bow.reading",
+    "en": "A string folded back on itself: 弓."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_arrow",
+    "en": "The Dart"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_arrow.reading",
+    "en": "A figure with a stroke over its head: 矢."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_dish",
+    "en": "The Dish"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_dish.reading",
+    "en": "A bowl standing on a base: 皿."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_evening",
+    "en": "The Evening"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_evening.reading",
+    "en": "A falling stroke and a drop: 夕."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_ear",
+    "en": "The Ear"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.kanji_ear.reading",
+    "en": "A frame with long rungs: 耳."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.star_four",
+    "en": "The Four-Pointed Star"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.star_four.reading",
+    "en": "Four sharp points, pulled in."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hexagram",
+    "en": "The Hexagram"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hexagram.reading",
+    "en": "Two triangles laid over each other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.heptagram",
+    "en": "The Heptagram"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.heptagram.reading",
+    "en": "Seven points, drawn without lifting."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.octagram",
+    "en": "The Octagram"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.octagram.reading",
+    "en": "Two squares, one turned over the other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.star_lakshmi",
+    "en": "The Eight-Pointed Star"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.star_lakshmi.reading",
+    "en": "Eight points around a hollow heart."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.asterisk",
+    "en": "The Asterisk"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.asterisk.reading",
+    "en": "Three lines crossing at one point."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pentacle",
+    "en": "The Pentacle"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pentacle.reading",
+    "en": "A star held inside a circle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.shuriken",
+    "en": "The Shuriken"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.shuriken.reading",
+    "en": "Four blades turning together."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.comet",
+    "en": "The Comet"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.comet.reading",
+    "en": "A point of light with a trailing tail."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ringed_planet",
+    "en": "The Ringed Planet"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ringed_planet.reading",
+    "en": "A circle wearing a ring."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.north_star",
+    "en": "The North Star"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.north_star.reading",
+    "en": "A cross with a long point below."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crescent_star",
+    "en": "The Crescent and Star"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crescent_star.reading",
+    "en": "A crescent holding a small star."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.double_arrow",
+    "en": "The Double Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.double_arrow.reading",
+    "en": "A line pointing both ways."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.double_arrow_vertical",
+    "en": "The Rising and Falling Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.double_arrow_vertical.reading",
+    "en": "A line pointing up and down."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.circular_arrow",
+    "en": "The Circular Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.circular_arrow.reading",
+    "en": "A circle that chases itself."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.u_turn",
+    "en": "The U-Turn"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.u_turn.reading",
+    "en": "A path that turns back on itself."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crossed_arrows",
+    "en": "The Crossed Arrows"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crossed_arrows.reading",
+    "en": "Two arrows crossing in flight."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.four_arrows",
+    "en": "The Four Arrows"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.four_arrows.reading",
+    "en": "Four points leaving one center."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lightning_arrow",
+    "en": "The Lightning Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lightning_arrow.reading",
+    "en": "A zigzag that ends in a point."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arrow_left",
+    "en": "The Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arrow_left.reading",
+    "en": "A line with its point turned back."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fletched_arrow",
+    "en": "The Fletched Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fletched_arrow.reading",
+    "en": "A shaft with feathers at its tail."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.return_arrow",
+    "en": "The Return"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.return_arrow.reading",
+    "en": "A line that drops, then turns aside."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arrow_down",
+    "en": "The Falling Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.arrow_down.reading",
+    "en": "A point driving downward."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.curved_arrow",
+    "en": "The Curved Arrow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.curved_arrow.reading",
+    "en": "An arc that ends in a point."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ankh",
+    "en": "The Ankh"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ankh.reading",
+    "en": "A loop set on a cross."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.celtic_cross",
+    "en": "The Celtic Cross"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.celtic_cross.reading",
+    "en": "A cross wearing a ring."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.yin_yang",
+    "en": "The Yin and Yang"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.yin_yang.reading",
+    "en": "A circle split by a winding line."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.triskelion",
+    "en": "The Triskelion"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.triskelion.reading",
+    "en": "Three spirals from one center."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.peace",
+    "en": "The Peace Sign"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.peace.reading",
+    "en": "A circle with a stem that branches."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crosshair",
+    "en": "The Crosshair"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crosshair.reading",
+    "en": "A circle marked at its four edges."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.spade",
+    "en": "The Spade"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.spade.reading",
+    "en": "A pointed leaf on a small stem."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.club",
+    "en": "The Club"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.club.reading",
+    "en": "Three rounds on a small stem."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chi_rho",
+    "en": "The Chi-Rho"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chi_rho.reading",
+    "en": "A loop on a staff, crossed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.keyhole",
+    "en": "The Keyhole"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.keyhole.reading",
+    "en": "A circle falling into a wedge."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hash",
+    "en": "The Grid"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hash.reading",
+    "en": "Two by two, crossing lines."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ladder",
+    "en": "The Ladder"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.ladder.reading",
+    "en": "Two rails and their rungs."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chain",
+    "en": "The Chain"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chain.reading",
+    "en": "Links holding each other."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.borromean",
+    "en": "The Three Rings"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.borromean.reading",
+    "en": "Three circles bound together."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.atom",
+    "en": "The Atom"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.atom.reading",
+    "en": "Orbits crossing around a heart."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.vesica",
+    "en": "The Vesica"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.vesica.reading",
+    "en": "Two circles sharing their middle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.triquetra",
+    "en": "The Triquetra"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.triquetra.reading",
+    "en": "Three arcs woven into one knot."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.eye",
+    "en": "The Eye"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.eye.reading",
+    "en": "A lens with a circle held inside."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.providence",
+    "en": "The Eye of Providence"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.providence.reading",
+    "en": "An eye inside a triangle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cross_lorraine",
+    "en": "The Cross of Lorraine"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cross_lorraine.reading",
+    "en": "A staff crossed twice."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.maltese",
+    "en": "The Maltese Cross"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.maltese.reading",
+    "en": "Four wedges meeting at their tips."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.target",
+    "en": "The Target"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.target.reading",
+    "en": "Circles inside circles."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.asclepius",
+    "en": "The Rod of Asclepius"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.asclepius.reading",
+    "en": "A serpent winding up a staff."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.skull",
+    "en": "The Skull"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.skull.reading",
+    "en": "A dome with two hollows."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hand",
+    "en": "The Hand"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hand.reading",
+    "en": "Five fingers, open."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wings",
+    "en": "The Wings"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wings.reading",
+    "en": "Two arcs spread from one point."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lightning_circle",
+    "en": "The Bound Lightning"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lightning_circle.reading",
+    "en": "A bolt held inside a circle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hourglass_framed",
+    "en": "The Framed Hourglass"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hourglass_framed.reading",
+    "en": "An hourglass held between two bars."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.galaxy",
+    "en": "The Galaxy"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.galaxy.reading",
+    "en": "Arms that spiral from a center."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.double_spiral",
+    "en": "The Double Spiral"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.double_spiral.reading",
+    "en": "Two coils joined by one line."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pinwheel",
+    "en": "The Pinwheel"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pinwheel.reading",
+    "en": "Blades caught in a turn."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.eye_of_horus",
+    "en": "The Eye of Horus"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.eye_of_horus.reading",
+    "en": "An eye with a curl and a tear."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.leaf",
+    "en": "The Leaf"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.leaf.reading",
+    "en": "A pointed oval with its vein."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pine_tree",
+    "en": "The Pine"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pine_tree.reading",
+    "en": "Tiers narrowing toward the top."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mountains",
+    "en": "The Range"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mountains.reading",
+    "en": "Peaks side by side."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fish",
+    "en": "The Fish"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fish.reading",
+    "en": "A body that crosses into a tail."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.flower",
+    "en": "The Flower"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.flower.reading",
+    "en": "Petals around a heart."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sun",
+    "en": "The Sun"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sun.reading",
+    "en": "A circle with rays all around."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.snowflake",
+    "en": "The Snowflake"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.snowflake.reading",
+    "en": "Six branches, each forked."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.flame",
+    "en": "The Flame"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.flame.reading",
+    "en": "A tongue rising to a point."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wave_crest",
+    "en": "The Breaking Wave"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wave_crest.reading",
+    "en": "A wave curling over itself."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.rain_cloud",
+    "en": "The Rain Cloud"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.rain_cloud.reading",
+    "en": "A cloud with falling lines."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.grass",
+    "en": "The Grass"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.grass.reading",
+    "en": "Blades leaning in the wind."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mushroom",
+    "en": "The Mushroom"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.mushroom.reading",
+    "en": "A dome standing on a stem."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cactus",
+    "en": "The Cactus"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.cactus.reading",
+    "en": "A trunk raising two arms."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.tulip",
+    "en": "The Tulip"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.tulip.reading",
+    "en": "A cup of petals on a stem."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.clover",
+    "en": "The Clover"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.clover.reading",
+    "en": "Four rounds meeting at a stem."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.apple",
+    "en": "The Apple"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.apple.reading",
+    "en": "A round with a leaf on top."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.snail",
+    "en": "The Snail"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.snail.reading",
+    "en": "A coil carried on a long foot."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.spider_web",
+    "en": "The Web"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.spider_web.reading",
+    "en": "Rays bound by rings."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.butterfly",
+    "en": "The Butterfly"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.butterfly.reading",
+    "en": "Four wings from one body."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.paw",
+    "en": "The Paw"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.paw.reading",
+    "en": "A pad with four small toes."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.feather",
+    "en": "The Feather"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.feather.reading",
+    "en": "A shaft with barbs on either side."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.volcano",
+    "en": "The Volcano"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.volcano.reading",
+    "en": "A cut peak that pours upward."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.palm",
+    "en": "The Palm"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.palm.reading",
+    "en": "A bent trunk under drooping fronds."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lotus",
+    "en": "The Lotus"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lotus.reading",
+    "en": "Petals rising from still water."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sunrise",
+    "en": "The Sunrise"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sunrise.reading",
+    "en": "Half a circle over the horizon."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wheat",
+    "en": "The Wheat"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.wheat.reading",
+    "en": "A stalk heavy with grains."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.key",
+    "en": "The Key"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.key.reading",
+    "en": "A ring with teeth on a shaft."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sword",
+    "en": "The Sword"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.sword.reading",
+    "en": "A long blade over a guard."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bow_arrow",
+    "en": "The Drawn Bow"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bow_arrow.reading",
+    "en": "A bow, its string, an arrow."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.trident",
+    "en": "The Trident"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.trident.reading",
+    "en": "A shaft ending in three prongs."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.anchor",
+    "en": "The Anchor"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.anchor.reading",
+    "en": "A shaft hooked at both sides."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.axe",
+    "en": "The Axe"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.axe.reading",
+    "en": "A curved head on a handle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.labrys",
+    "en": "The Labrys"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.labrys.reading",
+    "en": "Two curved blades back to back."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hammer",
+    "en": "The Hammer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.hammer.reading",
+    "en": "A block laid across a handle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bell",
+    "en": "The Bell"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bell.reading",
+    "en": "A flared cup with a tongue."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lantern",
+    "en": "The Lantern"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.lantern.reading",
+    "en": "A frame hung from a handle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.candle",
+    "en": "The Candle"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.candle.reading",
+    "en": "A column with a flame above."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chalice",
+    "en": "The Chalice"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.chalice.reading",
+    "en": "A cup on a long stem."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.jeweled_crown",
+    "en": "The Jeweled Crown"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.jeweled_crown.reading",
+    "en": "Points crowned with jewels."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scales",
+    "en": "The Scales"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scales.reading",
+    "en": "A beam with two pans hanging."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.open_book",
+    "en": "The Open Book"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.open_book.reading",
+    "en": "Two pages from one spine."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.house",
+    "en": "The House"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.house.reading",
+    "en": "A roof over four walls."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.tower",
+    "en": "The Tower"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.tower.reading",
+    "en": "A tall body crowned by battlements."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.torii",
+    "en": "The Torii"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.torii.reading",
+    "en": "Two posts under a curved lintel."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bridge",
+    "en": "The Bridge"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.bridge.reading",
+    "en": "An arch carrying a road."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.boat",
+    "en": "The Boat"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.boat.reading",
+    "en": "A hull under a sail."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.padlock",
+    "en": "The Padlock"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.padlock.reading",
+    "en": "A shackle on a closed body."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scissors",
+    "en": "The Scissors"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scissors.reading",
+    "en": "Two rings, two crossing blades."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.potion",
+    "en": "The Potion"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.potion.reading",
+    "en": "A round flask with a narrow neck."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scythe",
+    "en": "The Scythe"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.scythe.reading",
+    "en": "A long handle and its hooked blade."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.umbrella",
+    "en": "The Umbrella"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.umbrella.reading",
+    "en": "A scalloped dome on a hooked stem."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gem",
+    "en": "The Gem"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.gem.reading",
+    "en": "A cut stone, faceted."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fan",
+    "en": "The Fan"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.fan.reading",
+    "en": "Ribs spread from one point."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crossed_swords",
+    "en": "The Crossed Swords"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.crossed_swords.reading",
+    "en": "Two blades crossing, guards apart."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pickaxe",
+    "en": "The Pickaxe"
+  },
+  {
+    "key": "lang|greatsage|greatsage.sigil.pickaxe.reading",
+    "en": "A curved head on a straight handle."
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.kakutoku",
+    "en": "Acquiring…"
+  },
+  {
+    "key": "lang|greatsage|greatsage.ep1.o_kakunin",
+    "en": "Confirmed."
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.alignment",
+    "en": "Alignment"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.mark.demon_lord_seed",
+    "en": "Demon Lord Seed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.mark.true_demon_lord",
+    "en": "True Demon Lord"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.mark.hero_egg",
+    "en": "Hero Egg"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.mark.true_hero",
+    "en": "True Hero"
+  },
+  {
+    "key": "lang|greatsage|greatsage.assess.mark.blessed",
+    "en": "Blessed"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.glitch.banner",
+    "en": "World Voice // signal lost"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.glitch.trace",
+    "en": "Trace. The world will decide for you."
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.glitch.imposed",
+    "en": "the world has decided"
+  },
+  {
+    "key": "lang|greatsage|greatsage.scene.glitch.accept",
+    "en": "Enter or click to accept"
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_no_koe_ijou",
+    "en": "Anomaly in the voice of the world."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sentaku_fuka",
+    "en": "Selection... impossible."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.egake",
+    "en": "Draw."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.sekai_ga_kimeru",
+    "en": "The world will decide."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kettei",
+    "en": "Decided."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sense.on",
+    "en": "Magic Sense: activated."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sense.missing",
+    "en": "Notice. You have no sensing skill (Magic Sense, Universal Perception...)."
+  },
+  {
+    "key": "lang|greatsage|greatsage.sense.ep",
+    "en": "EP %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.fusion.01",
+    "en": "Notice. Skill fusion: commencing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.skill.raphael",
+    "en": "Raphael, Lord of Wisdom"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.title",
+    "en": "What's new"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.continue",
+    "en": "Continue"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.1.title",
+    "en": "Shader rendering: a new face for the Sage"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.1.desc",
+    "en": "On by default. The Sage's console replaces the menu and every announce is redrawn. /gamerule sageShaderRendering false brings back the classic look."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.2.title",
+    "en": "Ceremonies as real scenes"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.2.desc",
+    "en": "Harvest Festival, Demon Lord Seed, Hero Egg, True Hero and the True Demon Lord awakening are now full-screen scenes with their own ambience. Nothing can hurt or push you while they play."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.3.title",
+    "en": "Raphael's evolution, remade"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.3.desc",
+    "en": "Rebuilt shot by shot from episode 35."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.4.title",
+    "en": "The Sea of Souls"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.4.desc",
+    "en": "A new reincarnation scene: draw your wishes above a lake of souls under the stars."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.5.title",
+    "en": "Skill fusion"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.5.desc",
+    "en": "When skills merge into a Unique or an Ultimate, they slam into your screen as anime skill cards, the screen shatters, and the shards come back together as the new skill."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.6.title",
+    "en": "Naming, as a cutscene"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.6.desc",
+    "en": "Name a monster and the camera pulls to the side: your magicules flow into it and it lights up as it absorbs them. Then the Sage reports the name, and the Voice of the World confirms its evolution. Players who get named see it from their side. Turn it off with namingScene in the client config."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.7.title",
+    "en": "Thought Acceleration (H)"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.7.desc",
+    "en": "With the Great Sage or Thought Acceleration, press H or say it: the world freezes into cold colors, sounds drag down, your heartbeat takes over and incoming projectiles show their path, red if it hits you. Solo: the whole world slows x5. Multiplayer: a 20-block bubble slows creatures and projectiles. 6 s, 40 s cooldown, both configurable."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.8.title",
+    "en": "Magic Sense (N)"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.8.desc",
+    "en": "With a sense skill such as Magic Sense, see the aura of every being, shaped like its body. Its color follows its alignment (violet Majin, white-gold Hero, red Chaos, green neutral), its size follows its EP and keeps growing: a massive aura in the distance means run. Tune it in Settings."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.9.title",
+    "en": "Growth comes faster"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.9.desc",
+    "en": "Experience gains x1.5, the first kill of a species counts as observing it, and items you hold for the first time are appraised."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.10.title",
+    "en": "Analysis opens locked modes"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.10.desc",
+    "en": "Skills that keep modes sealed (Sloth, Black Lightning...) open them when the Sage analyses them. FoxAblaze Ultimate's Raphael counts as the Sage."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.11.title",
+    "en": "Gamerules, clearer"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.11.desc",
+    "en": "needGreatSage is now announcementsRequireGreatSage: it only decides who gets the announcements. New: requireGreatSage (on by default). Turn it off and everyone can use the G menu, assess, voice commands and analyses without the Great Sage skill."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.12.title",
+    "en": "Clearer menus"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.12.desc",
+    "en": "Bigger buttons, the Sage's bubble no longer covers the pages, and a sealed class tells you to open it in the Growth tree."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.13.title",
+    "en": "Fixes"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.13.desc",
+    "en": "Reincarnation no longer hands out special addon Uniques, and addon resistances are no longer always Nuclear or Void. Assess bubbles no longer drift when flying, auras no longer get stuck in a capsule shape with some mods, and the freeze before animations is gone. Server admins get /greatsage xp. Voice commands now work with microphones that refuse 16 kHz, and the menu's background hum is much quieter. The Portuguese and Turkish voice models install properly, menu text no longer shows through confirmation windows, a full reset now gives every Unique Tensura owes you from the reset counter, and you no longer stay invulnerable after a rare reincarnation outcome."
+  },
+  {
+    "key": "lang|greatsage|greatsage.thought.title",
+    "en": "Thought Acceleration"
+  },
+  {
+    "key": "lang|greatsage|greatsage.thought.unable",
+    "en": "Thought Acceleration needs the Great Sage (or Tensura's Thought Acceleration)."
+  },
+  {
+    "key": "lang|greatsage|greatsage.thought.cooldown",
+    "en": "Thought Acceleration is recharging: %s s."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shikou_kasoku",
+    "en": "Notice. Thought Acceleration: commencing."
+  },
+  {
+    "key": "lang|greatsage|greatsage.naming.title",
+    "en": "Naming"
+  },
+  {
+    "key": "lang|greatsage|greatsage.naming.evolved_form",
+    "en": "Evolved %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.naming.02",
+    "en": "Naming successful."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.naming.03",
+    "en": "You have been given a name."
+  },
+  {
+    "key": "lang|greatsage|greatsage.subtitle.scene.naming.04",
+    "en": "Confirmed: the individual has evolved through naming."
+  }
+]

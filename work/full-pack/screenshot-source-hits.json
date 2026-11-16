@@ -1,0 +1,712 @@
+[
+  {
+    "namespace": "chronodawn",
+    "key": "advancements.chronodawn.root.description",
+    "english": "Welcome to the world of time manipulation"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.tensura.pride.description",
+    "english": "Turn the strength of your opponents into your own and turn the tides of battle. Copy abilities when you are struck by them, provided you meet the necessary conditions.\n\nPassive\n[ Passive - In Slot ] - Copy: The user can copy an ability's specific mode after being hit or affected by it when [Pride]'s Copy Mode is in slot. Without mastery, it will only be able to copy attacks, such as Absolute Severance. Once mastered, [Pride] will be able to copy abilities when inflicted with status effects like Infinity Prison's Imprison or Healer's Infection. Note that [Pride] won't be able to copy any spirit related magic\n[Pride]'s Mastery gain is based on the copied ability's cost, (Example: you get 1 point per 2500 MP cost, so if the ability costs 10K to acquire, you get 4 mastery points) while cooldown is 5s. On a failed copy, [Pride] will only gain 10% of the mastery it would've gained on a successful copying of the ability, but the cooldown is similarly reduced to 10%.\nOnce a mode is successfully copied, the user will pay the whole ability's obtainment cost and [Pride] will go on cooldown. The copied mode will be added as a new Mode for [Pride] (If this mode requires learning, it will be instantly learnt once acquired). As this is a new mode on [Pride] itself, the copied skill's passive features won't be usable and a mode may be unusable if it depends on said passive features or other modes of the ability.\nActive\n[ Active - Press ] - Copy: Opens a new GUI that allows the user to quickly equip or remove copied ability modes."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.tensura.space_transform.description",
+    "english": "Channel the powers of space to weaken and damage all nearby entities.\n\nPassive\nOn Obtainment - Grants access to the intermediate level of Space Spirit Magic\nActive\n[Active - Hold] - At the cost of 30 MP per 20 ticks held down and 50% speed, deal 2 space damage and apply weakness for all mobs within a 10x10 radius."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.tensura.water_transform.description",
+    "english": "Channel the powers of water to damage and poison all nearby foes.\n\nPassive\nOn Obtainment - Grants access to the intermediate level of Water Spirit Magic\nActive\n[Passive - Hold] - At the cost of 30 MP per 20 ticks held down and 50% speed, deal 2 water damage and apply poison on all mobs within a 10x10 radius."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.tensura.earth_transform.description",
+    "english": "Channel the powers of the earth to deal increased damage and increase local gravity around you.\n\nPassive\nOn Obtainment - Grants access to the intermediate level of Earth Spirit Magic\nActive\n[Active - Hold] - At the cost of 30 MP per 20 ticks held down and 50% speed, deal 2 earth damage and apply Burden for all mobs within a 10x10 radius"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.trnightmare.azazel.description",
+    "english": "Information\nPoints to Master: 5000\nPassive: Toggle\n\nPassive\n\n[Passive, True] Tempt Control - The user gains Spacetime Manipulation on obtainment of Azazel. When Azazel and Spacetime Manipulation are mastered, Spacetime Manipulation evolves into Spacetime Domination.\n\n[Passive, True] All of Creation - The user instantly learns all Aspectual Magic. The user instantly learns all Recipes.\n\n[Passive, In-Slot] Solicitation - While this skill is in Slot, the user will be able to copy sub-skills similarly to Pride.\n\n[Passive, Toggle] Thought Acceleration - Increases the amount of Learned Points and Mastery Points gained for Magics by 4. Thought Acceleration (Like Normal) .Chant Annulment (Like Normal)\n\n[Passive, In Slot]\n\n[Passive, True]\n\nActive\n\n[Active, Press] Multidimensional Barrier - The user creates a Barrier with x4 HP (6x when mastered) as well as the benefits of Fault Field while the user has the Barrier Points.\n\n[Active, Press] Charm Domination - Ineffective on targets with an EP over 60% (40 if target has Spiritual Resist) of the user’s Max EP. Turns Targets between 25% and 50% Neutral (5 - 30 if target has Spiritual Resist), and turns targets below 25% (5 if target has Spiritual Resist) Max EP into temporary allies for 5 minutes (10 with Mastery). Costs 80 MP + Target’s EP [Looking at Target in 5 block radius, Shift to undo]\n\n[Active, Press] Temptation World - The user warps all nearby non-allies into the Temptation World with the user. All targets are inflicted with Magic Jamming.\n\n[Active, Press] Solicitation - The user opens their Solicitation Menu, which allows them to use the modes of copied skills from Tempter, only in the Temptation Dimension.\n\n[Active, Press] Severed Realm - The user can throw an enemy into the Temptation World. This is similar to Infinity Prison, so if you miss, it goes on cooldown, after four minutes, the enemy is release from the Temptation World. (5 cd on failure, 25 on success)\n\n[Active, press] End of World - The user collapses the Temptation Dimension in on itself, with a white flash. This deals 3,000 Spiritual Damage to all entities inside of it, including the user. This is reduced to 1,500 if your EP is within 50% of the user's EP. If your EP is less than 50% of the users, this will instantly kill you. (500 cd)\n\n[Active, Press] End of World: Requiem (Requires 100 uses of End of World and Mastery over Azazel) - The user simulates the collapse of the temptation world inside of a target, It causes a massive explosion from the target and deals 5,000 SHP damage and 5,000 Darkness Damage. It instantly kills a Charmed Target or target under 50% of the user's EP. (760 cd)\n\n[Active, Press] Punitive Domination - When used all of the user's nearby allies glow green, targets which fear them glow red and mind controlled targets glow blue. When the user activates this ability a second time, it will reveal the percentage of HP the targets are at.\n\nWhen shift used, the user will kill all Mind Controled Targets and targets with Fear 4 or higher (so long as they do not have more than 60% of the user's EP) instantly. If they can resist this effect, it instead damages them for half of their SHP by half (25% if they have Spiritual Resistances). This doesn't bypass Nullification. (320 cd)."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.trnightmare.nodens.description",
+    "english": "Information\nPassive: True, In slot\n\n\"This is absurd, one of the strongest abilities concieved!\" \n\nDisclaimer\n\nYour skills did not get erased, simply moved to Skill Storage\n\nPassive\n\n[Passive, True] Ultimate Arroganz - The user stores Lucifer inside of [Skill Storage] on obtainment. The user can also now will be able to copy an ability's specific mode after being hit or affected by it. This no longer costs MP. Skilles copied by Pride, Lucifer or Nodens' Ultimate Arroganz cannot possess Egos.\n\n[Passive, True] Spacetime Domination - The user obtains Spacetime Manipulation. When mastered, it becomes Spacetime Domination.\n\n[Passive, True] Nihility Bar - The user gains a new resource bar, it is a purple bar beside their MP and AP bar. It scales from 0 to 100,000 Nihility. (Unlike Azathoth, this does not have a natural way to produce Nihility, it is here if you obtain a Skill to generate it as a Submode.\n\n[Passive, In-Slot] Arroganz Solution - If the user has a skill that applies a station condition, such as Infinity Prison, Uriel, Anti-Skill within their [Skill Storage] or [Arroganz Skill] they become immune to the condition.\n\nIf the user has Infinity Prison or Uriel inside of their [Skill Storage] or [Arroganz Skill] they can bypass Absolute Guard.\n\nIf the user has Uriel and Michael inside of their [Skill Storage] or [Arroganz Skill] they can bypass Castle Guard, however only partially. (Their damage is reduced by 75%)\n\nActives\n\n[Active, Hold] Soul Gluttony\n\n[Active, Press] Imaginardy Space - Funtionally the same as Azathoth, God of the Void (However, the world itself will appear different....)\n\n[Active, Press] Multidimensional Barrier\n\n[Active, Press] Ultimate Arroganz - The user can shift press this to change between modes.\n\nSkill Creation: From Shub-Niggurath\n\nSkill Duplication: From Shub-Niggurath\n\nSkill Storage: From Shub-Niggurath\n\nArroganz Skill: These are specifically the skills learned through the [Ultimate Arroganz] True Passive. These skills can be used just like how they were in Lucifer, and even deleted like they were in Lucifer.\n\nArroganz Alteration: In this mode, the user can compile skill data, by having all of the copiable Submodes of an ability to create that skill and store it in [Skill Storage]. This will cost twice the MP of the skill.\n\nAbyss Weapon Alteration: This mode is granted only if the user mimiced Azathoth's Imaginary Blade and the user has the Material Creation Intrinsic Skill. The user can use this mode on either The World or a [Hihi-irokane Scythe] to enhance them into a superior version.\n\n[Active, In-Slot] Catastrophic Eclipse (Requires Learning) - While in Slot, the user's attacks siphon the energy of the target and use their own Authority to prevent the restoration of Energy. The following chart explains how the ability works: If the target has;\n\nLess than 40% of the user's EP, that target's EP, MP, and AP are reduced to 0 in one hit. (Refreshes on Death).\n\nLess than 60% of the user's EP, that target's EP, MP, and AP are reduced by 40% in one hit. (Refreshes on Death).\n\nLess than 80% of the user's EP, that target's EP, MP, and AP are reduced by 10% in one hit. (Refreshes on Death).\n\nEqual to the user's EP, that target's EP, MP, and AP are reduced by 5% in one hit. (Refreshes on Death).\n\nhas 10% EP or more than the user, they have their EP MP and AP reduced by 2% in one hit.\n\nhas more than 40% EP over the user, this doesn't effect them any longer.\n\nThis bypasses Castle Guard all together. \nWhen Shift Pressed, this will remove the modification."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.trnightmare.nyarlathotep.description",
+    "english": "Information\nPoints to Master: 5000\nPassive: Toggle\n\nPassive\n\n[Passive, True] All of Creation - Learn all schematics and aspcetual Magics\n\n[Passive, True] Spacetime Manipulation - Obtain the Spacetime Manipulation extra skill on obtainment\n\n[Passive, Toggled] Thought Acceleration + Chaos Manipulation - This increases the damage Spatial, Water, Lightning and Wind Damage by x4 times (This doesn't stack with Spatial, Water, Lightning or Wind Domination.)\n\n[Passive, True] Danger Prediction - The user is immune to Critical Hits. There is a 30% Chance the user can counter attack a target.\n\nActive\n\n[Active, Press] Analytical Appraisal - The Apprasial Level is 30, 60 on mastery.\n\n[Active, Hold] Pursuit of Truth: Pursuit of Truth - Investigate every 10 seconds, roll a 1/2 chance to gain 1 point of data on someone up to 10 points each one granting new details. Use /trnightmare investigate to get the info. While In-Slot the user gains the following benefits:\n\nThe user's Mastery and Learn Speed are increased by +30\n\nThe user's Melee Dodge Chance is at 80%, the user's Projectile Dodge Chance is at 50% and the user's Critical Hit Chance is at 50%, while it as a 70% Dodge Negation.\n\nWhen shift pressed, it will cycle between Pursuit Modes.\n\nPursuit of Surprise - This highlights nearby traps. Lava, Pointed Dripstone, Tripwire, Sculk Sensor, Sculk Shrieker, Cobweb, Powder Snow, Trapped Chest, TNT, TNT Minecart, End Crystal\n\nPursuit of Treasure - Chest, Barrel, Vault, Dragon Egg, Ancient Debris and Magic Ore, Charybdis Core\n\nPursuit of Battle - Highlights nearby mobs in colors, yellow for neutral, red for hostile\n\n[Active, Press] Pursuit of Tutelage (Requires Mastery) - When used, the user can open up a Skill Creation Menu and teach their known Spells, Battlewills, Common, Extra and Resistance Skills to someone.\n\n[Active, Toggle] Probability Manipulation - While this is toggled on, the user's physical attacks always deals damage to their target. The user always critically hits. The user's Critical Hit Damage is increased by 5x. The has Luck X. The user acts as if they have Fortune 6.\n\n[Active, Press] Parallel Existence- The user creates a Body Double Entity of themselves with sentience, their skills, and the same EP as the user.\n\n[Active, Press] Multidimensional Barrier - The user creates a Barrier with x4 HP (6x when mastered) as well as the benefits of Fault Field while the user has the Barrier Points."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.trnightmare.robotnic.description",
+    "english": "Information\nPoints to Master: 1000\n\nActive\n\n[Active, Press] Deconstruct: Data - Open a menu containing the user‘s entire list of skills, if skill is selected, add 1/2 of the skill‘s obtainment cost to the user‘s maximum MP, and 1/2 to the skill.\n\n[Active, Press] Deconstruct: Object - Delete the item in the user‘s main hand and if it had an EP value, add half of it to the user‘s maximum AP and the skill‘s storedMP. 30 second cooldown."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.skill.trnightmare.yog_sothoth.description",
+    "english": "Information\nPoints to Master: 25000\nPassive: Toggle\n\nPassive\n\n[Passive, True] Spacetime Manipulation:\n\nObtain the Spacetime Manipulation extra skill on obtainment\n\n[Passive, True] Absolute Coating:\n\nThe user gains 200 damage boost (250 when mastered) and applies Severance effect on hit, just like absolute severance\n\n[Passive, In-slot] Seize:\n\nThe user's attacks have a 50% chance to steal 1.5% MP from the target to restore their own MP\n\nActive\n\n[ Active - Press ] Rob (Just like from Usurper, but ignores EP requirement.)\n\n[ Active - Press ] Copy (Just like Usurper but can gain Resistances.)\n\n[ Active - Press ] Force Takeover (Just like Usurper but Spirit Takeover works up to 90% of the EP)\n\n[Active, Press] Absolute End:\n\nLaunches an invisible projectile that deals 300 damage (400 when mastered)\n\n[Active, Press] Infinity Prison:\n\nAt the cost of 50,000MP + 10% of the Targets EP, imprisons the mob/player the player is looking at. Seals all movement, skill usage and healing. Drains MP from the trapped target at a rate of 100 per 10 ticks. Lasts for 300 seconds. Increases to 600 seconds with mastery - 20s cooldown - Goes on CD if you Miss (10s with Mastery).\n\n[Active, Press] Time Leap:\n\nThe user can save the location they're at. If they are to die, they instead return to the saved Time Leap location, however all of Yog-Sothoth is set on a 500 second cooldown\n\n[Active, Press] Reverse Fate(Requires Mastery, Requires Learning:\n\nWhen used, the user saves the current state of all things withing sixty blocks. On a second use, it loads everything back to that state. (3 minute cooldown.)\n\n[Active, Press] Time Stop (Requires Learning):\n\nWhen used, it will stop time in the local area, rendering all things still. Time will be stopped for 10 Seconds. (15 when mastered) Some entities can bypass this, and moved in Stopped Time, if they have mastered Spacetime Manipulation, Have a Time Manipulation Skill or are a Time Soul.\n\nThis Also costs 250k MP to use"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_blade_tiger_meat.description",
+    "english": "Obtainment:\nDropped by Blade Tiger.\n\nUsage:\nCan be eaten directly or cooked into Blade Tiger Steak."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_armorsaurus_meat.description",
+    "english": "Obtainment:\nDropped by Armorsaurus.\n\nUsage:\nCan be eaten directly or cooked into Cooked Armorsaurus Meat."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cattledeer_beef.description",
+    "english": "Obtainment:\nDropped by Cattledeer.\n\nUsage:\nCan be eaten directly or cooked into Bulldeer Steak."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_charybdis_meat.description",
+    "english": "Obtainment:\nDropped by Charybdis.\n\nUsage:\nCan be eaten directly or cooked into Cooked Charybdis Meat."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.giant_ant_leg.description",
+    "english": "Obtainment:\nDropped by Giant Ant.\n\nUsage:\nCan be eaten directly or cooked into Cooked Giant Ant Leg."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_giant_bat_meat.description",
+    "english": "Obtainment:\nDropped by Giant Bat.\n\nUsage:\nCan be eaten directly or cooked into Cooked Giant Bat Meat."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.knight_spider_leg.description",
+    "english": "Obtainment:\nDropped by Knight Spider.\n\nUsage:\nCan be eaten directly or cooked into Cooked Knight Spider Leg."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_megalodon_meat.description",
+    "english": "Obtainment:\nDropped by Megalodon.\n\nUsage:\nCan be eaten directly or cooked into Cooked Megalodon Meat."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_serpent_meat.description",
+    "english": "Obtainment:\nDropped by Tempest Serpent.\n\nUsage:\nCan be eaten directly or cooked into Cooked Serpent Meat."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_spear_toro_meat.description",
+    "english": "Obtainment:\nDropped by Spear Toro.\n\nUsage:\nCan be eaten directly or cooked into Cooked Spear Toro Meat."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.spear_toro_fin.description",
+    "english": "Obtainment:\nDropped by Spear Toro.\n\nUsage:\nCan be eaten directly or cooked into Cooked Spear Toro Fin."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_sissie_meat.description",
+    "english": "Obtainment:\nDropped by Sissie.\n\nUsage:\nCan be eaten directly or cooked into Cooked Sissie Meat."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.sissie_fin.description",
+    "english": "Obtainment:\nDropped by Sissie.\n\nUsage:\nCan be eaten directly or cooked into Cooked Sissie Fin."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.blade_tiger_steak.description",
+    "english": "Obtainment:\nCook Raw Blade Tiger Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_armorsaurus_meat.description",
+    "english": "Obtainment:\nCook Raw Armorsaurus Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cattledeer_steak.description",
+    "english": "Obtainment:\nCook Bulldeer Beef with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_charybdis_meat.description",
+    "english": "Obtainment:\nCook Raw Charybdis Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_giant_ant_leg.description",
+    "english": "Obtainment:\nCook Giant Ant Leg with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_giant_bat_meat.description",
+    "english": "Obtainment:\nCook Raw Giant Bat Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_knight_spider_leg.description",
+    "english": "Obtainment:\nCook Knight Spider Leg with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_megalodon_meat.description",
+    "english": "Obtainment:\nCook Raw Megalodon Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_serpent_meat.description",
+    "english": "Obtainment:\nCook Raw Serpent Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_spear_toro_meat.description",
+    "english": "Obtainment:\nCook Raw Spear Toro Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_spear_toro_fin.description",
+    "english": "Obtainment:\nCook Spear Toro Fin with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_sissie_meat.description",
+    "english": "Obtainment:\nCook Raw Sissie Meat with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.cooked_sissie_fin.description",
+    "english": "Obtainment:\nCook Sissie Fin with a campfire, furnace, smoker, or similar block.\n\nUsage:\nCan be eaten directly."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.magic_bottle.description",
+    "english": "Obtainment:\n===Crafting===\nCrafting recipe.\nCrafting recipe.\nCrafting recipe.\n\nUsage:\nRight clicking on water turns the Magic Bottle in a  which in turn can be used to brew potions with hipokute (example:  )"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.magic_bottle_of_water.description",
+    "english": "Obtainment:\nRight-click water with an empty Magic Bottle.\n\nUsage:\nCan be heated into a Vacuumed Magic Bottle of Water or used as the brewing base for Low Potion and High Potion."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.vacuumed_magic_bottle_of_water.description",
+    "english": "Obtainment:\nHeat a Magic Bottle of Water with a campfire, furnace, smoker, or similar block.\n\nUsage:\nUsed as the brewing base for High Potion and Full Potion."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.low_potion.description",
+    "english": "Obtainment:\nBrew a Magic Bottle of Water with Hipokute.\n\nUsage:\nRestores 33%HP and 100magicules."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.high_potion.description",
+    "english": "Obtainment:\nBrew a Magic Bottle of Water or Vacuumed Magic Bottle of Water with Hipokute.\n\nUsage:\nRestores 66%HP and 1000magicules."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.full_potion.description",
+    "english": "Obtainment:\nBrew a Vacuumed Magic Bottle of Water with Hipokute.\n\nUsage:\nRestores 99%HP and 10000magicules."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.dubious_food.description",
+    "english": "Obtainment:\nCrafting.\n\nUsage:\nWhen eaten, each listed effect has an 80%chance to trigger: Fatal Poison, Poison III, Paralysis, Hunger II, Slowness II, Weakness, Blindness, Nausea, and Mining Fatigue II."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.chilled_slime.description",
+    "english": "Obtainment:\nDropped by Slimes defeated in cold biomes. Also obtainable through crafting.\n\nUsage:\nUsed as a slime-related crafting material."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.silver_apple.description",
+    "english": "Obtainment:\n===Crafting===\nCrafting recipe.\n===Smithing===\nSmithing recipe.\n\nUsage:\n===Consumption===\nUpon consumption gives the effects Magicule Regeneration for 60 seconds and Haste for 120 seconds.\n===Crafting===\nCrafting recipe.\nCrafting recipe.\nSmithing recipe."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.enchanted_silver_apple.description",
+    "english": "Obtainment:\n===Crafting===\nCrafting recipe.\n===Smithing===\nTo craft, you need a Smithing Bench.\nSmithing recipe.\n\nUsage:\n===Consumption===\nUpon consumption gives the effects Magicule Regeneration 4 for 60 seconds, Haste 2 for 120 seconds and Resistance 1 for 5 minutes."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.low_quality_magic_crystal.description",
+    "english": "Obtainment:\nDropped by mobs with 0-2999EP: Bulldeer, Dragon Peacock, Giant Cod, Giant Salmon, Hound Dog, Landfish, One Eyed Owl, Slime. Also obtainable through crafting or smithing.\n\nUsage:\nAbsorb & Dissolve restores 1000magicules instantly. Also used for crafting, smithing, and trading."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.medium_quality_magic_crystal.description",
+    "english": "Obtainment:\nDropped by mobs with 3000-8999EP: Aqua Frog, Armorsaurus, Barghest, Beast Gnome, Black Spider, Direwolf, Dragon Peacock, Evil Centipede, Feathered Serpent, Giant Ant, Giant Bat, Giant Bear, Hell Caterpillar, Hell Moth, Horned Bear, Horned Rabbit, Hover Lizard, Leech Lizard, Salamander, Unicorn, Winged Cat. Also obtainable through crafting or smithing.\n\nUsage:\nAbsorb & Dissolve restores 2500magicules instantly. Also used for crafting, smithing, and trading."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.high_quality_magic_crystal.description",
+    "english": "Obtainment:\nDropped by mobs with 9000EP or higher: Akash, Charybdis, Ifrit, Orc Lord, Sylphide, Undine, War Gnome, Army Wasp, Blade Tiger, Knight Spider, Megalodon, Metal Slime, Sissie, Spear Toro, Tempest Serpent. Also obtainable through crafting.\n\nUsage:\nAbsorb & Dissolve restores 5000magicules instantly. Also used for crafting, smithing, and trading."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.monster_leather_d.description",
+    "english": "Obtainment:\nDropped by Hound Dog and Bulldeer.\n\nUsage:\nUsed for gear, schematics, and other materials."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.monster_leather_c.description",
+    "english": "Obtainment:\nDropped by Barghest, Direwolf, Giant Bear, Horned Bear, Horned Rabbit, Hover Lizard, and Leech Lizard.\n\nUsage:\nUsed for gear, schematics, and other materials."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.monster_leather_b.description",
+    "english": "Obtainment:\nDropped by Unicorn.\n\nUsage:\nUsed for Rank-B Monster Leather gear and can be traded with 12Emeralds at a level 2Gearsmith for Monster Leather Gear Schematic."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.monster_leather_a.description",
+    "english": "Obtainment:\nDropped by Blade Tiger.\n\nUsage:\nUsed for gear, schematics, and other materials."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.monster_leather_special_a.description",
+    "english": "Obtainment:\nNo mobs currently drop Monster Leather (Special A).\n\nUsage:\nUsed for Special-A Monster Leather gear."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.giant_bat_wing.description",
+    "english": "Obtainment:\nDropped by Giant Bat.\n\nUsage:\nUsed for crafting or smithing."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.invisible_feather.description",
+    "english": "Obtainment:\nDropped by One Eyed Owl.\n\nUsage:\nUsed for crafting, brewing, or refining."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.dragon_peacock_feather.description",
+    "english": "Obtainment:\nDropped by Dragon Peacock.\n\nUsage:\nUsed for crafting, brewing, or refining."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.hell_moth_silk.description",
+    "english": "Obtainment:\nDropped by Hell Moth."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.gehenna_moth_silk.description",
+    "english": "Obtainment:\nDropped by Gehenna Moth, but that mob is currently not implemented and the item is unobtainable."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.giant_ant_carapace.description",
+    "english": "Obtainment:\nDropped by Giant Ant.\n\nUsage:\nUsed for crafting, smithing, and trading with 12Emeralds at a level 2Gearsmith for Ant Carapace Gear Schematic."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.knight_spider_carapace.description",
+    "english": "Obtainment:\nDropped by Knight Spider.\n\nUsage:\nUsed for crafting, smithing, and trading with 12Emeralds at a level 2Gearsmith for Knight Spider Carapace Gear Schematic."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.insectar_carapace.description",
+    "english": "Obtainment:\nDropped by Army Wasp."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.armorsaurus_scale.description",
+    "english": "Obtainment:\nDropped by Armorsaurus.\n\nUsage:\nUsed for Armorsaurus scale gear and related materials."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.armorsaurus_shell.description",
+    "english": "Obtainment:\nDropped by Armorsaurus.\n\nUsage:\nUsed for smithing and trading with 25Emeralds at a level 3Gearsmith for Armorsaurus Scalemail Gear Schematic."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.serpent_scale.description",
+    "english": "Obtainment:\nDropped by Tempest Serpent.\n\nUsage:\nUsed for crafting, smithing, and trading with 12Emeralds at a level 2Gearsmith for Serpent Scalemail Gear Schematic."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.charybdis_scale.description",
+    "english": "Obtainment:\nDropped by Charybdis.\n\nUsage:\nUsed for Charybdis scalemail gear."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.centipede_stinger.description",
+    "english": "Obtainment:\nDropped by Evil Centipede.\n\nUsage:\nUsed for crafting, brewing, or refining."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.spider_fang.description",
+    "english": "Obtainment:\nDropped by Black Spider.\n\nUsage:\nUsed for crafting, brewing, or refining."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.blade_tiger_tail.description",
+    "english": "Obtainment:\nDropped by Blade Tiger.\n\nUsage:\nUsed for smithing."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.slime_chunk.description",
+    "english": "Obtainment:\nDropped by Slime or Supermassive Slime. Also obtainable through crafting.\n\nUsage:\nUsed for slime-related crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.slime_core.description",
+    "english": "Obtainment:\nDropped by Supermassive Slime.\n\nUsage:\nUsed for crafting, Absorb & Dissolve slime-size changes, or feeding pet Slimes except Metal Slimes."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.sticky_thread.description",
+    "english": "Obtainment:\nDropped by Black Spider.\n\nUsage:\nUsed for crafting or smithing."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.steel_thread.description",
+    "english": "Obtainment:\nDropped by Black Spider.\n\nUsage:\nUsed for weapon and misc smithing."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.sissie_tooth.description",
+    "english": "Obtainment:\nDropped by Sissie.\n\nUsage:\nUsed for smithing."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.beast_horn.description",
+    "english": "Obtainment:\nDropped by Horned Rabbit. Horned Bear is listed on the wiki as bugged and does not currently drop it.\n\nUsage:\nUsed for smithing."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.unicorn_horn.description",
+    "english": "Obtainment:\nDropped by Unicorn.\n\nUsage:\nUsed for smithing."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.daemon_essence.description",
+    "english": "Obtainment:\nDropped by Lesser Daemon (1%), Greater Daemon (10%), and Arch Daemon (50%). Also found in Hell ruins chests, Nether Fortress, Ruined Portals, Bastion Treasure, Trial Chambers Vaults, and Hell Ruins suspicious sand.\n\nUsage:\nUsed for Enlightened Ogre/Kijin to Wicked Oni evolution (10needed) and crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.dragon_essence.description",
+    "english": "Obtainment:\nDropped by Basilisk (1%), Dragonewt (25%), Ender Dragon (50%), and Charybdis (1-3items).\n\nUsage:\nUsed for Lizardman to Dragonewt evolution (10needed) and crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.elemental_essence.description",
+    "english": "Obtainment:\n10%drop from Medium Elementals and Elemental Colossus: Elemental Colossus, Beast Gnome, Salamander, Aqua Frog, Feathered Serpent, Winged Cat. 100%drop from Greater Elementals: Akash, Ifrit, Sylphide, Undine, War Gnome. Spirits summoned by Summoning skills do not drop it.\n\nUsage:\nUsed for Enlightened Ogre/Kijin to Mystic Oni evolution (10needed) and crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.royal_blood.description",
+    "english": "Obtainment:\nDropped by Royal Orc (10%), Orc Lord (50%), and Orc Disaster (100%, 1or3items).\n\nUsage:\nUsed for High Orc to Orc Lord evolution (10needed) or feeding a Royal Orc to turn it into an Orc Lord."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.zane_blood.description",
+    "english": "Obtainment:\nFound in loot from Buried Treasure, Jungle Temple, Water Ruin, Stronghold Library, Trial Chambers Vaults, and Ominous Vaults.\n\nUsage:\nUsed for Ghoul to Vampire evolution (1needed), Human to Vampire evolution (5needed), and crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.orc_disaster_head.description",
+    "english": "Obtainment:\nDropped by Orc Disaster.\n\nUsage:\nA wearable trophy with 1000000max EP."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.charybdis_core.description",
+    "english": "Obtainment:\nHarvested like a normal block. An active core can summon Charybdis; after Charybdis is defeated, its core drops as an inert core.\n\nUsage:\nStores EP from mobs killed within 16blocks and activates at 100000EP. Degenerate Synthesize can consume cores for EP or related skills."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.dark_set_schematic.description",
+    "english": "Obtainment:\nEarn the [Ruler Of Monsters] advancement by taming Lizardman, Goblin, Orc, Direwolf, and Slime.\n\nUsage:\nUnlocks Dark Set related crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.anti_magic_mask_schematic.description",
+    "english": "Obtainment:\nDefeat Shizu.\n\nUsage:\nUnlocks Anti-Magic Mask crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.spatial_blade_schematic.description",
+    "english": "Obtainment:\nDropped by Kyoya Tachibana.\n\nUsage:\nUnlocks Spatial Blade crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.kodachi.description",
+    "english": "Obtainment:\nCombined schematic: read Short Sword Schematic and Japanese Schematic.\n\nUsage:\nUnlocks Kodachi crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.tachi.description",
+    "english": "Obtainment:\nCombined schematic: read Long Sword Schematic and Japanese Schematic.\n\nUsage:\nUnlocks Tachi crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.odachi.description",
+    "english": "Obtainment:\nCombined schematic: read Great Sword Schematic and Japanese Schematic.\n\nUsage:\nUnlocks Odachi crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.scythe.description",
+    "english": "Obtainment:\nCombined schematic: read Great Sword Schematic and Spear Schematic.\n\nUsage:\nUnlocks Scythe crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.monster_leather_gear_schematic.description",
+    "english": "Obtainment:\nTrade Monster Leather (B) and 12Emeralds with a level 2Gearsmith.\n\nUsage:\nUnlocks Monster Leather gear crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.ant_carapace_gear_schematic.description",
+    "english": "Obtainment:\nTrade Giant Ant Carapace and 12Emeralds with a level 2Gearsmith.\n\nUsage:\nUnlocks Ant Carapace gear crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.serpent_scalemail_gear_schematic.description",
+    "english": "Obtainment:\nTrade Serpent Scale and 12Emeralds with a level 2Gearsmith.\n\nUsage:\nUnlocks Serpent Scalemail gear crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.knight_spider_carapace_gear_schematic.description",
+    "english": "Obtainment:\nTrade Knight Spider Carapace and 12Emeralds with a level 2Gearsmith.\n\nUsage:\nUnlocks Knight Spider Carapace gear crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.armorsaurus_scalemail_gear_schematic.description",
+    "english": "Obtainment:\nTrade Armorsaurus Shell and 25Emeralds with a level 3Gearsmith.\n\nUsage:\nUnlocks Armorsaurus Scalemail gear crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.charybdis_scalemail_gear_schematic.description",
+    "english": "Obtainment:\nDefeat Charybdis.\n\nUsage:\nUnlocks Charybdis Scalemail gear crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.web_gun_schematic.description",
+    "english": "Obtainment:\nFound in Spider Nest with a 20%chance, or dropped by Black Spider.\n\nUsage:\nUnlocks Web Gun crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.winged_shoes_schematic.description",
+    "english": "Obtainment:\nUnlocked by holding an Invisible Feather.\n\nUsage:\nUnlocks Winged Shoes crafting."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.raw_silver.description",
+    "english": "Obtainment:\n===Mining===\nObtained by mining 30px Silver Ore with a  (or 30px Deepslate Silver Ore with an )\n===Crafting===\nCrafting recipe.\n\nUsage:\n===Smelting===\nSmelting: Raw Silver -> Silver Ingot.\nWhen smelted in a kiln... (T.B.A)\n=== Crafting ingredient ===\nCrafting recipe."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.magic_ore_shard.description",
+    "english": "Obtainment:\nObtained by mining 30px Magic Ore (or 30px Deepslate Magic Ore) with a Netherite Pickaxe\nOr by slaying a Metal Slime\n\nUsage:\n===Refining===\nWith the use of Great Sage, you can turn 1  into 2\n===Evolution item===\nUsed to evolve from Slime to Metal Slime (requires 100 )\n===Melting===\nMelting Magic Ore in a Kiln\nWhen smelted in the Kiln, you will get 0.25 molten magisteel\n=== Crafting ingredient ===\nCrafting recipe."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.silver_ingot.description",
+    "english": "Obtainment:\n===Smelting===\nSmelting: Raw Silver -> Silver Ingot.\nKiln recipe T.B.A\n=== Crafting ===\nCrafting recipe.\nCrafting recipe."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.low_magisteel_ingot.description",
+    "english": "Obtainment:\nSmelting Magic Ore and Iron in Kiln\nEach Low Magisteel Ingot is made with 1 part Molten Magisteel and 8 parts Molten Iron.\n=== Crafting ===\nCrafting recipe.\nCrafting recipe."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.high_magisteel_ingot.description",
+    "english": "Obtainment:\nSmelting Magic Ore and Iron in Kiln\nEach High Magisteel Ingot is made with 4 parts Molten Magisteel, 5 parts Molten Iron."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.mithril_ingot.description",
+    "english": "Obtainment:\nSmelting Magic Ore and Silver in Kiln\nEach Mithril Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Silver."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.orichalcum_ingot.description",
+    "english": "Obtainment:\nSmelting Magic Ore and Gold in Kiln\nEach Orichalcum Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Gold."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.pure_magisteel_ingot.description",
+    "english": "Obtainment:\n=== Smelting ===\nSmelting  in\nEach Pure Magisteel Ingot is made with 9 parts Molten Magisteel.\n=== Refining ===\nRefining 1  into 2"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.adamantite_ingot.description",
+    "english": "Obtainment:\n=== Smelting ===\nSmelting Adamantite gear into nuggets and then crafting an ingot."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.hihiirokane_ingot.description",
+    "english": "Obtainment:\n=== Smelting ===\nSmelting Hihi'irokane gear into nuggets and then crafting an ingot."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.hipokute_seeds.description",
+    "english": "Obtainment:\nThis item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This wether in the wild or wether by hipokute farming.\n\nUsage:\nThis can be used to plant hipokute\n(see more in hipokute farming)\nHipokute is used to make different potions that heal your health and magicules\n''(more info in  and )''"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.hipokute_grass.description",
+    "english": "Obtainment:\nThis item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in the wild or by hipokute farming.\n\nUsage:\nThis can be used to brew  and .\nThis is a worse version of a\n{| class=\"wikitable\" style=\"text-align: center;\" data-description=\"Base potions\"\n! Potion\n! Reagent, base\n|-\n!\nLow Potion\n|\n|-\n!\nHigh potion\n|\n|-\n|}"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.hipokute_flower.description",
+    "english": "Obtainment:\nThis item can be obtained by right clicking a hipokute grass or destroying it.\nThis whether in the wild or whether by hipokute farming.\n\nUsage:\nThis can be used to brew  and .\nThis is a better version of\n{| class=\"wikitable\" style=\"text-align: center;\" data-description=\"Base potions\"\n! Potion\n! Reagent, base\n|-\n!\nHigh potion\n|\n|-\n!\nFull potion\n|\n|-\n|}"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.baffledill.description",
+    "english": "Obtainment:\nFound in forest biomes.\n- If shears are used on the baffledill, it will no longer release  Hypnosis into the area.\n\nUsage:\n- Can be used to create a  Hypnosis Potion like a vanilla potion.\n- When brewed with a fermented spiders eye it will create a  Hypnotic Efficiency Potion"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.magic_stone.description",
+    "english": "Obtainment:\nCan be obtained by crafting at a Smithing Bench\nSmithing recipe.\n\nUsage:\nTo make multiple items such as:\n=== Smithing Bench ===\nSmithing recipe.\nSmithing recipe.\nSmithing recipe.\nSmithing recipe.\nSmithing recipe.\nSmithing recipe."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.element_core_empty.description",
+    "english": "Obtainment:\nCan be obtained by crafting\n=== THIS IS A PLACEHOLDER  ===\nCrafting recipe.\n\nUsage:\nThis item can be used to obtain any elemental core by right clicking the respective spirit (water, fire, earth, etc)."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.element_core_earth.description",
+    "english": "Obtainment:\nThere are 2 obtainment methods:\n===\"Catching\" greater spirits===\nObtained by right clicking a War Gnome with an Element Core (Empty)\n===Crafting===\nCrafting recipe.\n\nUsage:\nUsed for slotting\nEffects: Grants a special attack that launches an arching projectile dealing 30 earth damage. Adds elemental damage to the weapon: +30 for the first core and +15 for each additional core equipped."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.element_core_fire.description",
+    "english": "Obtainment:\nThere are 2 obtainment methods:\n===\"Catching\" greater spirits===\nObtained by right clicking Ifrit with an Element Core (Empty)\n===Crafting===\nCrafting recipe.\n\nUsage:\nUsed for slotting\nEffects: Grants a special attack that launches an arching fire projectile dealing 30 damage and burns target. Adds elemental damage to the weapon: +30 for the first core and +15 for each additional core equipped."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.element_core_space.description",
+    "english": "Obtainment:\nThere are 2 obtainment methods:\n===\"Catching\" greater spirits===\nObtained by right clicking Akash with an Element Core (Empty)\n===Crafting===\nCrafting recipe.\n\nUsage:\nUsed for slotting\nEffects: Grants a special attack that fires a arching space projectile dealing 28 damage. Adds elemental damage to the weapon: +30 for the first core and +15 for each additional core equipped."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.element_core_water.description",
+    "english": "Obtainment:\nThere are 2 obtainment methods:\n===\"Catching\" greater spirits===\nObtained by right clicking Undine with an Element Core (Empty)\n===Crafting===\nCrafting recipe.\n\nUsage:\nUsed for slotting\nEffects: Grants a special attack that launches an arching water projectile dealing 30 damage. Adds elemental damage to the weapon: +30 for the first core and +15 for each additional core equipped."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.element_core_wind.description",
+    "english": "Obtainment:\nThere are 2 obtainment methods:\n===\"Catching\" greater spirits===\nObtained by right clicking Sylphide with an Element Core (Empty)\n===Crafting===\nCrafting recipe.\n\nUsage:\nUsed for slotting\nEffects: Grants a special attack that fires a straight wind projectile dealing 30 damage. Adds elemental damage to the weapon: +30 for the first core and +15 for each additional core equipped."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.earth_elemental_shard.description",
+    "english": "Obtainment:\nThis item can be obtained by killing:\n- Beast Gnome 25% chance, 1 shard\n- War Gnome 100% chance, 1 - 3 shards\n===WARNING: Summoned elementals do not drop any shards.===\n\nUsage:\nCan be used to craft an"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.fire_elemental_shard.description",
+    "english": "Obtainment:\nThis item can be obtained by killing:\n- Salamander 25% chance, 1 shard\n- Ifrit 100% chance, 1 - 3 shards\n===WARNING: Summoned elementals do not drop any shards.===\n\nUsage:\nCan be used to craft an"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.space_elemental_shard.description",
+    "english": "Obtainment:\nThis item can be obtained by killing:\n- Winged Cat 25% chance, 1 shard\n- Akash 100% chance, 1 - 3 shards\n===WARNING: Summoned elementals do not drop any shards.===\n\nUsage:\nCan be used to craft an"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.water_elemental_shard.description",
+    "english": "Obtainment:\nThis item can be obtained by killing:\n- Aqua Frog 25% chance, 1 shard\n- Undine 100% chance, 1 - 3 shards\n===WARNING: Summoned elementals do not drop any shards.===\n\nUsage:\nCan be used to craft an"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.wind_elemental_shard.description",
+    "english": "Obtainment:\nThis item can be obtained by killing:\n- Feathered Serpent 25% chance, 1 shard\n- Sylphide 100% chance, 1 - 3 shards\n===WARNING: Summoned elementals do not drop any shards.===\n\nUsage:\nCan be used to craft an"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.low_magisteel_bone_golem.description",
+    "english": "Obtainment:\nCrafted in a Smithing Bench with Low Magisteel materials.\n\nUsage:\nUsed as a Low Magisteel Bone Golem item."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.high_magisteel_bone_golem.description",
+    "english": "Obtainment:\nCrafted in a Smithing Bench with High Magisteel materials.\n\nUsage:\nUsed as a High Magisteel Bone Golem item."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.mithril_bone_golem.description",
+    "english": "Obtainment:\nCrafted in a Smithing Bench with Mithril materials.\n\nUsage:\nUsed as a Mithril Bone Golem item."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.pure_magisteel_bone_golem.description",
+    "english": "Obtainment:\nCrafted in a Smithing Bench with Pure Magisteel materials.\n\nUsage:\nUsed as a Pure Magisteel Bone Golem item."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.orichalcum_bone_golem.description",
+    "english": "Obtainment:\nCrafted in a Smithing Bench with Orichalcum materials.\n\nUsage:\nUsed as a Orichalcum Bone Golem item."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.adamantite_bone_golem.description",
+    "english": "Obtainment:\nCrafted in a Smithing Bench with Adamantite materials.\n\nUsage:\nUsed as a Adamantite Bone Golem item."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.hihiirokane_bone_golem.description",
+    "english": "Obtainment:\nCrafted in a Smithing Bench with Hihi'Irokane materials.\n\nUsage:\nUsed as a Hihi'Irokane Bone Golem item."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.marionette_heart.description",
+    "english": "Obtainment:\n- Found in Ancient City's (0.5% chance)\n- Bastion treasures and End City's (both 1% chance)"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.battlewill_manual.description",
+    "english": "Obtainment:\nFound in:\n- Abandoned Mineshaft\n- Bastion (Hoglin stable)\n- Desert Pyramid\n- Igloo\n- Ruined Portal\n- Spawner\n- Stronghold\n- Underwater ruin (Big)\n- Woodland Mansion\n- Trial Chambers Vault (regular loot)\n- Trial chambers Ominous Vault (regular/Common)\nIn all these locations its 50% chance\n\nUsage:\nRandomly gives one of the many battlewill skills. The book can attempt to give you a skill you already know resulting in no skill being learnt and the message \"You already had (Battlewill Skill)\"."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.monster_saddle.description",
+    "english": "The wiki page currently has no detailed obtainment or usage text."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.slime_in_a_bucket.description",
+    "english": "Obtainment:\nThis item can be obtained by right clicking a Slime with a Bucket.\n\nUsage:\n???"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.labyrinth_explorer_map.description",
+    "english": "Obtainment:\nMaster-level Dwarf Cartographers can offer it as a trade.\n\nUsage:\nUsed to locate the Labyrinth Tree, similar to vanilla explorer maps."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.hell_gate_explorer_map.description",
+    "english": "Obtainment:\nMaster-level Dwarf Cartographers can offer it as a trade.\n\nUsage:\nUsed to locate the Hell Gate, similar to vanilla explorer maps."
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.race_reset_scroll.description",
+    "english": "Obtainment:\nCan only be obtained by crafting\n===Crafting===\nCrafting recipe.\n\nUsage:\n- Reset the user's Stats, Name, Awakening Status, Spirits, Resistances and Race along with its Intrinsic Skills\n- 5 Second Cooldown"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.skill_reset_scroll.description",
+    "english": "Obtainment:\n===Crafting===\nCrafting recipe.\n\nUsage:\n- Resets every skill of every type from the user except their Race's Intrinsic Skills\n- 5 second cooldown\nThis scroll will not cover the cost for a new Unique Skill. Be careful or else you can end up with no Unique Skill\n100K Max MP is required for all unique skills to be available for reroll, less than that and you may not have enough for the skill you roll and will not obtain it\n''MP means magicules''"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item.tensura.character_reset_scroll.description",
+    "english": "Obtainment:\n===Crafting===\nCrafting recipe.\n===Smithing Bench===\nSmithing recipe.\n\nUsage:\nResets EVERYTHING from the User, Pretty much like reincarnating from scratch.\nThis also means achievements that you've obtained.\nAlso used for the Reset Counter gamerule mechanic\n- 5 second cooldown"
+  },
+  {
+    "namespace": "greatsage",
+    "key": "greatsage.voice.kouun_o",
+    "english": "Good fortune to you."
+  },
+  {
+    "namespace": "greatsage",
+    "key": "greatsage.voice.tensei_kanryou",
+    "english": "Reincarnation complete."
+  }
+]

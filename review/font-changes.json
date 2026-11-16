@@ -1,0 +1,62 @@
+[
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_blue.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_golden.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_gray.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_light_blue.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_light_gray.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_light_green.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_light_red.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_pastel_blue.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_purple.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/beyond_gacha_c/font/tensura_red.json",
+    "change": "keep colored Latin bitmap glyphs; add default-font fallback",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/greatsage/font/mincho.json",
+    "change": "route scene text through the installed default Thai font",
+    "runtime_tested": false
+  },
+  {
+    "path": "assets/tensura_tno/font/greatsage_cjk.json",
+    "change": "route scene text through the installed default Thai font",
+    "runtime_tested": false
+  }
+]

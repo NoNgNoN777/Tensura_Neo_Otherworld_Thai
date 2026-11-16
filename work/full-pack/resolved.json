@@ -1,0 +1,4650 @@
+{
+  "lang|bosses_of_mass_destruction|block.bosses_of_mass_destruction.void_lily.tooltip": {
+    "th": "ละอองเกสรนี้นำทางไปสู่ที่ใดกันนะ?",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.soul_star.tooltip": {
+    "th": "มันนำทางไปสู่ที่ใดกันนะ?",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.crystal_fruit.tooltip": {
+    "th": "มอบ Regeneration และ Resistance ชั่วครู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.charged_ender_pearl.tooltip": {
+    "th": "ใช้ซ้ำได้ และมอบ Resistance ชั่วครู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.charged_ender_pearl.tooltip2": {
+    "th": "หลังจากเทเลพอร์ต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.crafting_material.tooltip": {
+    "th": "วัตถุดิบสำหรับคราฟต์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.brimstone_nectar.tooltip": {
+    "th": "รีเซ็ตสิ่งก่อสร้างของบอสที่อยู่ใกล้เคียงเมื่อใช้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.mob_ward.tooltip": {
+    "th": "เมื่อวางแล้ว ม็อบจะไม่เกิดในระยะ 64 บล็อกทุกทิศทาง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.monolith_block.tooltip_0": {
+    "th": "เมื่อวางแล้ว เพิ่มพลังระเบิด 30% ในระยะ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.monolith_block.tooltip_1": {
+    "th": "64 บล็อกทุกทิศทาง ผลนี้ไม่สามารถซ้อนทับกันได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.levitation_block.tooltip": {
+    "th": "เมื่อวางแล้ว มอบการบินแบบโหมดสร้างสรรค์ในพื้นที่แนวตั้ง 7x7",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|bosses_of_mass_destruction|item.bosses_of_mass_destruction.earthdive_spear.tooltip": {
+    "th": "เทเลพอร์ตระยะสั้นทะลุบล็อกทึบได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|creativecore|gui.client-config": {
+    "th": "ตั้งค่าฝั่งผู้เล่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|creativecore|gui.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|creativecore|gui.close": {
+    "th": "ปิด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|creativecore|dialog.button.CANCEL": {
+    "th": "ยกเลิก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|creativecore|dialog.button.ABORT": {
+    "th": "หยุด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|creativecore|dialog.button.CONFIRM": {
+    "th": "ยืนยัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|jade|tooltip.jade.empty": {
+    "th": "ว่าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|jade|tooltip.jade.mode": {
+    "th": "โหมด: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|jade|gui.jade.search": {
+    "th": "ค้นหา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|jade|gui.jade.search.hint": {
+    "th": "ค้นหา...",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|naturesaura|info.naturesaura.empty": {
+    "th": "ว่าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|patchouli|patchouli.gui.lexicon.button.prev_page": {
+    "th": "ก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|patchouli|patchouli.gui.lexicon.button.next_page": {
+    "th": "ถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|vanillabackport|item.minecraft.bundle.empty.description": {
+    "th": "บรรจุไอเท็มหลายชนิดรวมกันได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|vanillabackport|item.minecraft.music_disc_bounce.desc": {
+    "th": "fingerspit - Bounce",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|vanillabackport|item.minecraft.music_disc_lava_chicken.desc": {
+    "th": "Hyper Potions - Lava Chicken",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|vanillabackport|item.minecraft.music_disc_tears.desc": {
+    "th": "Amos Roddy - Tears",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.attack_burning_duration": {
+    "th": "ทำให้การโจมตีระยะประชิดของผู้สวมใส่สร้างความเสียหายไฟและจุดไฟเผาเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.attack_damage": {
+    "th": "เพิ่มความเสียหายที่ผู้สวมใส่ทำได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.attack_knockback": {
+    "th": "เพิ่มแรงผลักกระเด็น (Knockback) เมื่อผู้สวมใส่โจมตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.attack_speed": {
+    "th": "เพิ่มความเร็วโจมตีของผู้สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.drinking_speed": {
+    "th": "ลดเวลาที่ใช้ในการดื่มไอเทม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.eating_speed": {
+    "th": "ลดเวลาที่ใช้ในการกินอาหาร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.flatulence": {
+    "th": "เพิ่มพลังผายลมของผู้สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.invincibility_ticks": {
+    "th": "เพิ่มระยะเวลาอมตะชั่วคราวหลังจากได้รับความเสียหาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.jump_strength": {
+    "th": "เพิ่มความสูงในการกระโดดของผู้สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.knockback_resistance": {
+    "th": "ป้องกันการถูกผลักกระเด็น (Knockback Immunity)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.max_health": {
+    "th": "เพิ่มพลังชีวิตสูงสุดของผู้สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.mount_speed": {
+    "th": "เพิ่มความเร็วของสัตว์ขี่ที่กำลังขี่อยู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.slip_resistance": {
+    "th": "ช่วยลดความลื่นเมื่อเดินบนน้ำแข็ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.sprinting_speed": {
+    "th": "เพิ่มความเร็วเคลื่อนที่ของผู้สวมใส่ขณะวิ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.sprinting_step_height": {
+    "th": "เพิ่มความสูงในการก้าวขึ้นบล็อกของผู้สวมใส่ขณะวิ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.generic.swim_speed": {
+    "th": "เพิ่มความคล่องตัวและความเร็วในการว่ายน้ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.player.block_break_speed": {
+    "th": "เพิ่มความเร็วในการขุดของผู้สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.player.entity_experience": {
+    "th": "เพิ่มค่าประสบการณ์ (EXP) ที่ดรอปจากมอนสเตอร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.attribute_modifiers.player.villager_reputation": {
+    "th": "ลดราคาการแลกเปลี่ยนสินค้ากับชาวบ้าน (Villagers)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.auto_smelt": {
+    "th": "หลอมแร่ที่ขุดได้ให้เป็นแท่งโลหะโดยอัตโนมัติ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.creeper_repellent": {
+    "th": "ทำให้ Creeper วิ่งหนีผู้สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.cure_effects": {
+    "th": "ลดระยะเวลาของเอฟเฟกต์สถานะด้านลบลงอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.damage_absorption.constant": {
+    "th": "ทำให้การโจมตีระยะประชิดของผู้สวมใส่ดูดซับพลังชีวิตกลับมา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.damage_immunity.is_lightning": {
+    "th": "มอบการป้องกันความเสียหายจากฟ้าผ่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.death_protection_teleport.constant": {
+    "th": "เมื่อได้รับความเสียหายถึงตาย จะเทเลพอร์ตคุณหนีไปยังที่อื่นแทน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.death_protection_teleport.not_consumed": {
+    "th": "ไม่สูญหายเมื่อทำงาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.double_jump": {
+    "th": "ทำให้ผู้สวมใส่สามารถกระโดดสองจังหวะกลางอากาศได้ (Double Jump)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.fortune.multiple_levels": {
+    "th": "มอบผลของ Fortune เพิ่มเติม %s ระดับเมื่อขุดบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.fortune.single_level": {
+    "th": "มอบผลของ Fortune เพิ่มเติม 1 ระดับเมื่อขุดบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.looting.multiple_levels": {
+    "th": "มอบผลของ Looting เพิ่มเติม %s ระดับเมื่อสังหารมอนสเตอร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.looting.single_level": {
+    "th": "มอบผลของ Looting เพิ่มเติม 1 ระดับเมื่อสังหารมอนสเตอร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.luck_of_the_sea.multiple_levels": {
+    "th": "มอบผลของ Luck of the Sea เพิ่มเติม %s ระดับเมื่อตกปลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.luck_of_the_sea.single_level": {
+    "th": "มอบผลของ Luck of the Sea เพิ่มเติม 1 ระดับเมื่อตกปลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.lure.multiple_levels": {
+    "th": "มอบผลของ Lure เพิ่มเติม %s ระดับเมื่อตกปลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.enchantment_level_modifiers.lure.single_level": {
+    "th": "มอบผลของ Lure เพิ่มเติม 1 ระดับเมื่อตกปลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.fluid_collision.sprinting": {
+    "th": "ทำให้ผู้สวมใส่สามารถวิ่งบนผิวน้ำและของเหลวได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.mob_effects.invisibility": {
+    "th": "ทำให้ผู้สวมใส่ล่องหน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.mob_effects.magnetism": {
+    "th": "ดึงดูดไอเทมที่ตกอยู่ใกล้เคียงเข้าหาตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.mob_effects.night_vision.full": {
+    "th": "ทำให้ผู้สวมใส่มองเห็นในที่มืดได้อย่างชัดเจน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.mob_effects.night_vision.partial": {
+    "th": "ช่วยให้ผู้สวมใส่มองเห็นในที่มืดได้ดีขึ้นเล็กน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.mob_effects.water_breathing.infinite": {
+    "th": "ทำให้ผู้สวมใส่หายใจใต้น้ำได้ตลอดเวลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.mob_effects.water_breathing.limited": {
+    "th": "ทำให้ผู้สวมใส่หายใจใต้น้ำได้เป็นระยะเวลาหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.post_damage_effects.speed": {
+    "th": "เพิ่มความเร็วเคลื่อนที่ของผู้สวมใส่หลังจากได้รับความเสียหาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.post_eating_effects.haste": {
+    "th": "เพิ่มความเร็วในการขุดชั่วคราวหลังจากรับประทานอาหาร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.replenish_hunger_on_grass": {
+    "th": "ค่อยๆ ฟื้นฟูความอิ่มขณะเดินอยู่บนบล็อกหญ้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.retaliation_effects.fire.fire_resistance": {
+    "th": "มอบสถานะ Fire Resistance หลังจากจุดไฟเผาผู้ที่โจมตีคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.sinking": {
+    "th": "ทำให้ผู้สวมใส่เคลื่อนที่ใต้น้ำได้อย่างอิสระ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.swim_in_air.keymapping": {
+    "th": "กด %s ขณะอยู่กลางอากาศเพื่อเริ่มว่ายน้ำในอากาศ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.swim_in_air.swimming": {
+    "th": "ทำให้ผู้สวมใส่สามารถว่ายน้ำกลางอากาศได้ชั่วระยะเวลาหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.tool_tier_upgrade": {
+    "th": "เพิ่มระดับการขุดพื้นฐานของผู้สวมใส่เป็นระดับ %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.ability.walk_on_powder_snow": {
+    "th": "ทำให้ผู้สวมใส่เดินบนหิมะปุย (Powder Snow) ได้โดยไม่จม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.cosmetic": {
+    "th": "ของตกแต่ง (Cosmetic)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.cosmetics_disabled": {
+    "th": "ปิดการแสดงผลรูปลักษณ์อยู่ (คลิกขวาเพื่อเปิด/ปิด)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.cosmetics_enabled": {
+    "th": "เปิดการแสดงผลรูปลักษณ์อยู่ (คลิกขวาเพื่อเปิด/ปิด)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.item.everlasting_food": {
+    "th": "ไม่มีวันหมดเมื่อรับประทาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.item.novelty_drinking_hat": {
+    "th": "'เฮ้! ข้าคือหมายเลข 1 และข้าให้แรงโน้มถ่วงช่วยรินน้ำให้ดื่มเอง!'",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.item.umbrella.glider": {
+    "th": "ถือไว้ในมือเพื่อช่วยให้ร่อนลงมาจากที่สูงอย่างช้าๆ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.item.umbrella.shield": {
+    "th": "สามารถใช้ยกขึ้นบังเพื่อป้องกันการโจมตีได้เหมือนโล่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.toggle_keymapping": {
+    "th": "กด %s เพื่อเปิด/ปิดการทำงาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.tool_tier.diamond": {
+    "th": "เพชร (Diamond)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.tool_tier.iron": {
+    "th": "เหล็ก (Iron)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.tool_tier.netherite": {
+    "th": "เนเธอไรต์ (Netherite)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.tool_tier.stone": {
+    "th": "หิน (Stone)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|artifacts|artifacts.tooltip.tool_tier.wood": {
+    "th": "ไม้ (Wood)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|chronodawn|gui.chronodawn.chronicle.previous": {
+    "th": "ก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|chronodawn|gui.chronodawn.chronicle.next": {
+    "th": "ถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|emi|emi.help_level.none": {
+    "th": "ไม่มี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|emi|emi.page.short": {
+    "th": "%s/%s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|emi_loot|enchantment.emi_loot.random.desc": {
+    "th": "สุ่มใส่เอนชานต์ที่ใช้ได้จากรายการลงในของดรอปนี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|enchdesc|enchantment.improved_exp.saturation.desc": {
+    "th": "ฟื้นฟูหลอดอาหารและความอิ่มทันที",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|eternal_starlight|tooltip.eternal_starlight.accessory_combination_target.chestplate": {
+    "th": "Chestplates",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|flistp2p|gui.flistp2p.confirm_title": {
+    "th": "ยืนยัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|flistp2p|gui.flistp2p.multiplayer_options.apply": {
+    "th": "ใช้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.berserker.description": {
+    "th": "ใช้ความพ่ายแพ้ของศัตรูเป็นพลัง ได้รับ EP จากการสังหาร ทำลายอุปกรณ์ได้เร็วขึ้น และเพิ่มค่าสถานะกายภาพตามระดับพลังของคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|friendsandfoes|effect.friendsandfoes.reach.description": {
+    "th": "เพิ่มระยะการเอื้อมและปฏิสัมพันธ์กับบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|friendsandfoes|friendsandfoes.totem_trigger_tooltip": {
+    "th": "ทำงานเมื่อได้รับความเสียหายและพลังชีวิตลดลงต่ำกว่าครึ่งหนึ่งของพลังชีวิตสูงสุด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbchunks|minimap.info.ftbchunks.biome.title": {
+    "th": "ไบโอม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.remove": {
+    "th": "ถอดออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.close": {
+    "th": "ปิด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.open": {
+    "th": "เปิด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.update": {
+    "th": "อัปเดต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.active": {
+    "th": "ทำงานอยู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.inactive": {
+    "th": "ไม่ทำงาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.settings": {
+    "th": "การตั้งค่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.rename": {
+    "th": "เปลี่ยนชื่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.search_box": {
+    "th": "ค้นหา...",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.whitelist": {
+    "th": "รายการอนุญาต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|gui.blacklist": {
+    "th": "รายการปฏิเสธ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftblibrary|ftblibrary.client_settings.tooltips": {
+    "th": "Tooltips",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.icon": {
+    "th": "ไอคอน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.null": {
+    "th": "ไม่มี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.loot.entitytype.passive": {
+    "th": "เฉยๆ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.image.width": {
+    "th": "ความกว้าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.image.height": {
+    "th": "ความสูง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.image.rotation": {
+    "th": "การเวียน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.image.text_align.start": {
+    "th": "เริ่ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.quest.appearance.size": {
+    "th": "ขนาด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.quest_link.size": {
+    "th": "ขนาด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.gui.edit": {
+    "th": "แก้ไข",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.gui.undo": {
+    "th": "ย้อนกลับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.gui.reset_progress": {
+    "th": "รีเซ็ตความคืบหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.gui.change_progress.reset": {
+    "th": "รีเซ็ต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.task.ftbquests.item": {
+    "th": "ไอเท็ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.task.ftbquests.fluid": {
+    "th": "ของเหลว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.task.ftbquests.fluid.fluid": {
+    "th": "ของเหลว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.task.ftbquests.fluid.amount": {
+    "th": "จำนวน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.task.ftbquests.biome.biome": {
+    "th": "ไบโอม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.task.ftbquests.kill.custom_name": {
+    "th": "ชื่อเอนทิตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.task.ftbquests.botania_mana.value": {
+    "th": "มานา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward": {
+    "th": "รางวัล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward.autoclaim.disabled": {
+    "th": "ปิดใช้งาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward.autoclaim.enabled": {
+    "th": "เปิดใช้งาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward.ftbquests.item": {
+    "th": "ไอเท็ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward.ftbquests.gamestage.remove": {
+    "th": "ถอดออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward.ftbquests.npc_mail.message": {
+    "th": "Message",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward.ftbquests.npc_mail.time": {
+    "th": "เวลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward.ftbquests.npc_mail.items": {
+    "th": "ไอเทม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.reward_table.nothing": {
+    "th": "ไม่มีอะไร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.barrier.teleport": {
+    "th": "Teleportation",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbquests|ftbquests.ui.notification.none": {
+    "th": "ไม่มี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbteams|ftbteams.info.owner": {
+    "th": "เจ้าของ: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbteams|ftbteams.info.owner.none": {
+    "th": "ไม่มี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ftbultimine|ftbultimine.info.no_experience": {
+    "th": "XP ไม่พอ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|fzzy_config|fc.tristate.true.desc": {
+    "th": "จริง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|fzzy_config|fc.tristate.false.desc": {
+    "th": "เท็จ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|fzzy_config|fc.button.info.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|fzzy_config|fc.button.info.undo": {
+    "th": "ย้อนกลับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|fzzy_config|fc.button.info.back": {
+    "th": "ด้านหลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|greatsage|greatsage.assess.skills": {
+    "th": "ความสามารถ",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.detail.source": {
+    "th": "แหล่งที่มา",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.filter.order.asc": {
+    "th": "น้อยไปมาก",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.filter.order.desc": {
+    "th": "มากไปน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|greatsage|greatsage.filter.sort.skills": {
+    "th": "ความสามารถ",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.menu.settings": {
+    "th": "การตั้งค่า",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.race.unknown": {
+    "th": "ไม่ทราบ",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.analysis.paused": {
+    "th": "หยุดชั่วคราว",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.scene.clear": {
+    "th": "ล้าง",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.mercury": {
+    "th": "Mercury",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.venus": {
+    "th": "Venus",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.earth": {
+    "th": "Earth",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.mars": {
+    "th": "Mars",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.jupiter": {
+    "th": "Jupiter",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.saturn": {
+    "th": "Saturn",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.uranus": {
+    "th": "Uranus",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.sigil.sulfur": {
+    "th": "Sulfur",
+    "via": "text-memory"
+  },
+  "lang|greatsage|greatsage.assess.awakening": {
+    "th": "การปลุกพลัง (Awakening)",
+    "via": "text-memory"
+  },
+  "lang|handcrafted|tooltip.handcrafted.bed_pillow": {
+    "th": "คลิกขวาด้วย Cushion เพื่อเปลี่ยนสีหมอนของเตียง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.bed_sheet": {
+    "th": "คลิกขวาด้วย Sheet เพื่อเปลี่ยนผ้าปูเตียง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.counter": {
+    "th": "คลิกขวาด้วยไม้หรือหินเพื่อเปลี่ยนพื้นผิวเคาน์เตอร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.crockery_combo": {
+    "th": "คลิกขวาด้วยไอเทมใดก็ได้เพื่อวางไอเทมนั้นบนจาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.cushion": {
+    "th": "คลิกขวาด้วย Cushion เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.hammer": {
+    "th": "เปลี่ยนรูปลักษณ์ของบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.hammer_use_look": {
+    "th": "คลิกขวาด้วย Hammer เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.hammer_use_look_shift": {
+    "th": "Shift + คลิกขวาด้วย Hammer เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.hammer_use_shape": {
+    "th": "คลิกขวาด้วย Hammer เพื่อเปลี่ยนรูปทรงของบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.place_on_furniture": {
+    "th": "วางบนเฟอร์นิเจอร์ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.sheet": {
+    "th": "คลิกขวาด้วย Sheet เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|handcrafted|tooltip.handcrafted.shift_description": {
+    "th": "กด SHIFT ค้างเพื่อดูข้อมูลเพิ่มเติม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|jei|gui.jei.category.craftingTable": {
+    "th": "กำลังคราฟต์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|jei|gui.jei.category.blasting": {
+    "th": "หลอมแร่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|jei|gui.jei.category.fuel": {
+    "th": "Fuel",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|kaleidoscope_cookery|tooltip.kaleidoscope_cookery.cuisine_quality.standard": {
+    "th": "มาตรฐาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|kaleidoscope_cookery|tooltip.kaleidoscope_cookery.teapot.statue.finished": {
+    "th": "เสร็จสมบูรณ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|kaleidoscope_cookery|tooltip.kaleidoscope_cookery.item_container.empty": {
+    "th": "ว่าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|kaleidoscope_cookery|tooltip.kaleidoscope_cookery.oil_pot.empty": {
+    "th": "ว่าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.100loot.description": {
+    "th": "เปิดภาชนะของ Lootr 100 ใบ!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.10loot.description": {
+    "th": "เปิดภาชนะของ Lootr 10 ใบ!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.1barrel.description": {
+    "th": "เปิด Lootr Barrel เป็นครั้งแรก!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.1cart.description": {
+    "th": "เปิด Lootr Minecart เป็นครั้งแรก!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.1chest.description": {
+    "th": "เปิด Lootr Chest เป็นครั้งแรก!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.1frame.description": {
+    "th": "หยิบไอเทมจาก Lootr Item Frame!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.1shulker.description": {
+    "th": "เปิด Lootr Shulker Box เป็นครั้งแรก!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.25loot.description": {
+    "th": "เปิดภาชนะของ Lootr 25 ใบ!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.50loot.description": {
+    "th": "เปิดภาชนะของ Lootr 50 ใบ!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.a_pot.description": {
+    "th": "ค้นของจาก Lootr Decorated Pot เป็นครั้งแรก!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.all_gravel.description": {
+    "th": "ปัดแปรงบล็อก Suspicious ของ Lootr ให้ครบทุกชนิด!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.archaeologist.description": {
+    "th": "ค้นของจากบล็อกโบราณคดีของ Lootr ให้ครบทุกชนิด!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.root.description": {
+    "th": "ของแบบนี้ต้องอยู่ในพิพิธภัณฑ์! นำระบบของรางวัลแยกรายผู้เล่นมาสู่โลกของคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.social.description": {
+    "th": "เปิดภาชนะของ Lootr ให้ครบทุกประเภท!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.advancements.trapped_chest.description": {
+    "th": "เปิด Lootr Trapped Chest เป็นครั้งแรก!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.commands.usage": {
+    "th": "/lootr cart | cart <loot-table> | %s | custom-chest | custom-area <x> <y> <z> <x> <y> <z> | refresh | decay | open_as <player> | open_as_uuid <uuid> | id | openers | clear <player> | cclear <entity matcher>",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.cannot_break": {
+    "th": "ไม่สามารถทุบหรือทำลายบล็อกและเอนทิตีของ Lootr ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.cannot_break_sneak": {
+    "th": "ในโหมด Creative คุณต้องย่อตัวเพื่อทุบหรือทำลายบล็อกและเอนทิตีของ Lootr",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.cannot_insert": {
+    "th": "ไม่สามารถใส่ไอเทมลงใน Item Frame ที่มีของรางวัลได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.cart_should_sneak": {
+    "th": "การทำลายเอนทิตีนี้จะทำให้ผู้อื่นไม่ได้รับของรางวัล! ทำลายเฉพาะเมื่อจำเป็นจริง ๆ เท่านั้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.cart_should_sneak2": {
+    "th": "หากยังต้องการทำลายเอนทิตีนี้ ให้ย่อตัวขณะโจมตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.decay_in": {
+    "th": "ภาชนะนี้จะผุพังสลายไปจนหมดใน %s วินาที",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.decay_start": {
+    "th": "ภาชนะเริ่มผุพังเมื่อคุณสัมผัส! มันจะสลายไปจนหมดใน %s วินาที",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.decayed": {
+    "th": "ภาชนะที่ผุพังแตกสลายเมื่อคุณสัมผัส!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.emergency_conversion": {
+    "th": "ภาชนะที่คุณเพิ่งเปิดถูกแปลงเป็นภาชนะของ Lootr แล้ว!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.invalid_table": {
+    "th": "ข้อผิดพลาดจากม็อด [%s] ไม่ใช่ Lootr! Loot Table ของภาชนะนี้ [%s] ไม่มีอยู่หรือโหลดไม่ได้ กรุณาแจ้งผู้สร้างม็อดนั้น ไม่ใช่ Lootr",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.refresh_in": {
+    "th": "ภาชนะนี้จะรีเฟรชของข้างในใน %s วินาที",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.refresh_start": {
+    "th": "ภาชนะจะรีเฟรชพร้อมของใหม่ใน %s วินาที!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.refreshed": {
+    "th": "ของในภาชนะถูกรีเฟรชเมื่อคุณสัมผัส!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.should_sneak": {
+    "th": "การทุบบล็อกนี้จะทำให้ผู้อื่นไม่ได้รับของรางวัล! ทุบเฉพาะเมื่อจำเป็นจริง ๆ เท่านั้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|lootr|lootr.message.should_sneak2": {
+    "th": "หากยังต้องการทุบบล็อกนี้ ให้ย่อตัวขณะทุบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughblock|gui.oneenoughitem.data_id.blocks": {
+    "th": "Blocks",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.clear": {
+    "th": "ล้าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.back": {
+    "th": "ด้านหลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.data_id.items": {
+    "th": "ไอเทม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.search": {
+    "th": "ค้นหา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.current_file.none": {
+    "th": "ไม่มี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.remove_button": {
+    "th": "ถอดออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.file_selection.refresh": {
+    "th": "รีเฟรช",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|gui.oneenoughitem.object.delete": {
+    "th": "ลบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|description.oneenoughitem.invalid": {
+    "th": "ไม่ถูกต้อง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|oneenoughitem|description.oneenoughitem.item": {
+    "th": "ไอเท็ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.blueprint.prompt.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.blueprint.prompt.discard": {
+    "th": "ละทิ้ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.blueprint.prompt.confirm_override": {
+    "th": "ยืนยัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.scene_editor.split": {
+    "th": "แบ่งเท่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.scene_editor.back": {
+    "th": "ด้านหลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.scene_editor.undo": {
+    "th": "ย้อนกลับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.scene_desc.trigger_range": {
+    "th": "ระยะ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.step.page.block": {
+    "th": "Blocks",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.step.page.entity": {
+    "th": "Entities",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.step.type.idle": {
+    "th": "หยุดทำงาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.step.type.next_scene": {
+    "th": "ฉากถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.confirm": {
+    "th": "ยืนยัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.cancel": {
+    "th": "ยกเลิก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.duration": {
+    "th": "ระยะเวลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.white": {
+    "th": "ขาว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.black": {
+    "th": "ดำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.green": {
+    "th": "เขียว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.blue": {
+    "th": "น้ำเงิน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.input": {
+    "th": "ขาเข้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.output": {
+    "th": "ส่งออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.slow": {
+    "th": "ช้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.medium": {
+    "th": "กลาง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.color.option.fast": {
+    "th": "เร็ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.idle": {
+    "th": "หยุดทำงาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_structure.height": {
+    "th": "ความสูง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_structure.rotation": {
+    "th": "การเวียน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.create_item_entity.item": {
+    "th": "ไอเท็ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.direction.down": {
+    "th": "ลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.direction.left": {
+    "th": "ด้านซ้าย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.direction.right": {
+    "th": "ด้านขวา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.direction.north": {
+    "th": "เหนือ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.direction.south": {
+    "th": "ใต้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.direction.west": {
+    "th": "ตะวันตก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.direction.east": {
+    "th": "ตะวันออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_controls.action.scroll": {
+    "th": "เลื่อน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.change_interface_slot.edit": {
+    "th": "แก้ไข",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.click_interface.action.left": {
+    "th": "ด้านซ้าย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.click_interface.action.right": {
+    "th": "ด้านขวา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.play_sound.source": {
+    "th": "แหล่งที่มา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.play_sound.source.player": {
+    "th": "ผู้เล่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.show_section_and_merge.link": {
+    "th": "เชื่อมต่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.rotate_section.link": {
+    "th": "เชื่อมต่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.move_section.link": {
+    "th": "เชื่อมต่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.clear_item_entities.id": {
+    "th": "ไอเท็ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.modify_item_entities_nbt.id": {
+    "th": "ไอเท็ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.item_list": {
+    "th": "ตัวอย่างการใช้งาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.item_grid.deselect_all": {
+    "th": "ไม่มี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.scene_editor.btn.delete": {
+    "th": "ลบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.delete_scene": {
+    "th": "ลบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.push": {
+    "th": "ดัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.pull": {
+    "th": "ดึง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.back": {
+    "th": "ด้านหลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.param.mode": {
+    "th": "โหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.settings": {
+    "th": "การตั้งค่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.permissions.remove": {
+    "th": "ถอดออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.permissions.player": {
+    "th": "ผู้เล่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.permissions.role.pull": {
+    "th": "ดึง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.permissions.refresh": {
+    "th": "รีเฟรช",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.function_page.keybindings": {
+    "th": "Keybindings",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.keybindings.binding_label": {
+    "th": "%s: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.ai_config.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.ai_generate.delete": {
+    "th": "ลบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponderer|ponderer.ui.load": {
+    "th": "โหลด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.hold_to_ponder": {
+    "th": "กด [%1$s] ค้างเพื่อดู Ponder",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.subject": {
+    "th": "หัวข้อของฉากนี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.pondering": {
+    "th": "กำลังเรียนรู้เรื่อง...",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.pondering_tag": {
+    "th": "กำลังเรียนรู้เรื่อง...",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.identify_mode": {
+    "th": "เปิดโหมดระบุสิ่งของอยู่\nกด [%1$s] เพื่อเล่นต่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.associated": {
+    "th": "เนื้อหาที่เกี่ยวข้อง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.close": {
+    "th": "ปิด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.identify": {
+    "th": "ระบุสิ่งของ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.next": {
+    "th": "ฉากถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.next_up": {
+    "th": "ถัดไป:",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.previous": {
+    "th": "ฉากก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.replay": {
+    "th": "เล่นซ้ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.think_back": {
+    "th": "ย้อนทบทวน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.slow_text": {
+    "th": "อ่านแบบสบาย ๆ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.exit": {
+    "th": "ออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.welcome": {
+    "th": "ยินดีต้อนรับสู่ Ponder",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.categories": {
+    "th": "หมวดที่มีสำหรับ %1$s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.index_description": {
+    "th": "คลิกไอคอนด้านล่างเพื่อเรียนรู้เกี่ยวกับไอเทมและบล็อกที่เกี่ยวข้อง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ui.index_title": {
+    "th": "สารบัญ Ponder",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ponder.shared.sneak_and": {
+    "th": "ย่อ +",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|ponder.ponder.shared.ctrl_and": {
+    "th": "Ctrl +",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|key.ponder.ponder": {
+    "th": "Ponder",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|key.categories.ponder": {
+    "th": "Ponder",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.client_config_button_label": {
+    "th": "ตั้งค่าฝั่งผู้เล่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.common_config_button_label": {
+    "th": "ตั้งค่าร่วม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.server_config_button_label": {
+    "th": "ตั้งค่าเซิร์ฟเวอร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.server_config_unavailable": {
+    "th": "บันทึกแยกแต่ละโลก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.server_config_unavailable_tooltip": {
+    "th": "เข้าถึงการตั้งค่าการเล่นได้จากเมนูในเกม หลังเข้าโลกหรือเซิร์ฟเวอร์แล้วเท่านั้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.server_config_locked": {
+    "th": "ล็อกอยู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.server_config_locked_tooltip": {
+    "th": "คุณไม่มีสิทธิ์แก้การตั้งค่าเซิร์ฟเวอร์ แต่ยังดูค่าปัจจุบันได้ที่นี่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.server_config_unlocked": {
+    "th": "ปลดล็อกแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.server_config_unlocked_tooltip": {
+    "th": "คุณมีสิทธิ์แก้การตั้งค่าเซิร์ฟเวอร์ เมื่อบันทึกจะซิงค์การเปลี่ยนแปลงกับเซิร์ฟเวอร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.value_entry.range": {
+    "th": "ช่วงค่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.value_entry.relog_required": {
+    "th": "ต้อง _ออกแล้วเข้าใหม่_ เพื่อให้ค่านี้มีผลครบถ้วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.value_entry.restart_required": {
+    "th": "ต้อง _เริ่มเกมใหม่_ เพื่อให้ค่านี้มีผลครบถ้วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.go_back_button": {
+    "th": "ย้อนกลับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.reset_all_button": {
+    "th": "รีเซ็ตทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.reset_all_button_tooltip": {
+    "th": "คลิกเพื่อคืนการตั้งค่าทั้งหมดเป็นค่าเริ่มต้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.save_changes_button": {
+    "th": "บันทึกการเปลี่ยนแปลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.save_changes_button_tooltip": {
+    "th": "คลิกเพื่อบันทึกการเปลี่ยนแปลงปัจจุบัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.discard_changes_button": {
+    "th": "ทิ้งการเปลี่ยนแปลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.discard_changes_button_tooltip": {
+    "th": "คลิกเพื่อทิ้งการเปลี่ยนแปลงทั้งหมดที่ทำไว้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.resetting_changes_message": {
+    "th": "กำลังรีเซ็ตการตั้งค่าทั้งหมดของ %s ยืนยันหรือไม่?",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.saving_changes_message": {
+    "th": "กำลังบันทึก %1$s %2$s ที่เปลี่ยนแปลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.discarding_changes_message": {
+    "th": "กำลังทิ้ง %1$s %2$s ที่ยังไม่บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.leaving_with_changes_message": {
+    "th": "กำลังออกโดยมี %1$s %2$s ที่ยังไม่บันทึกในการตั้งค่านี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.changed_values_singular": {
+    "th": "ค่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.changed_values_plural": {
+    "th": "ค่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.value_changes_singular": {
+    "th": "การเปลี่ยนแปลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.value_changes_plural": {
+    "th": "การเปลี่ยนแปลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.relog_required_message": {
+    "th": "มีค่าที่เปลี่ยนอย่างน้อยหนึ่งค่าซึ่งต้องออกแล้วเข้าใหม่เพื่อให้มีผลครบถ้วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.restart_required_message": {
+    "th": "มีค่าที่เปลี่ยนอย่างน้อยหนึ่งค่าซึ่งต้องเริ่มเกมใหม่เพื่อให้มีผลครบถ้วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.save_label": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.confirm_label": {
+    "th": "ยืนยัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.dont_save_label": {
+    "th": "ไม่บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.cancel_label": {
+    "th": "ยกเลิก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.other_mods_config_button_label": {
+    "th": "เปิดการตั้งค่าม็อดอื่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.other_mods_config_title": {
+    "th": "เปิดการตั้งค่าของม็อด:",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.search_hint": {
+    "th": "Ctrl + F เพื่อค้นหา...",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.ui.other_mods_config_unavailable": {
+    "th": "ม็อดนี้ไม่ได้ลงทะเบียนการตั้งค่า หรือไม่ได้ใช้ระบบตั้งค่าของ Forge",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.util.unable_to_find_config.message": {
+    "th": "ไม่พบการตั้งค่าที่ระบุ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|ponder|catnip.util.fly_speed_set.message": {
+    "th": "ตั้งความเร็วบินของ %1$s เป็น %2$s ชั่วคราว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|rarcompat|tooltip.relics.vampiric_glove.ability.vampire": {
+    "th": "Life Steal",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|rarcompat|tooltip.relics.vampiric_glove.leveling_source.vampire.title": {
+    "th": "Life Steal",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|rarcompat|tooltip.relics.obsidian_skull.leveling_source.hell.title": {
+    "th": "Fire Resistance",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|relics|tooltip.relics.researching.tab.ability": {
+    "th": "ความสามารถ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|relics|tooltip.relics.midnight_robe.ability.vanish": {
+    "th": "§fVanish",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|reliquified_twilight_forest|tooltip.relics.lich_crown.ability.frostbite": {
+    "th": "§fFrostbite",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|reliquified_twilight_forest|tooltip.relics.lich_crown.leveling_source.frostbite.title": {
+    "th": "§fFrostbite",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|item.sophisticatedcore.storage.tooltip.upgrades": {
+    "th": "อัปเกรด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|item.sophisticatedcore.storage.tooltip.inventory": {
+    "th": "ช่องเก็บของ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.filter": {
+    "th": "ตัวกรอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.blasting": {
+    "th": "หลอมแร่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.crafting": {
+    "th": "คราฟต์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.blasting.tooltip": {
+    "th": "หลอมแร่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.crafting.tooltip": {
+    "th": "กำลังคราฟต์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.direction_input": {
+    "th": "ขาเข้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.direction_output": {
+    "th": "ส่งออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.pump_input": {
+    "th": "ขาเข้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.pump_output": {
+    "th": "ส่งออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.previous_result": {
+    "th": "ก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.next_result": {
+    "th": "ถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.previous_disc": {
+    "th": "ก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.next_disc": {
+    "th": "ถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.buttons.alchemy_condition_never": {
+    "th": "ไม่ล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.controls.xp_level_select.tooltip.controls": {
+    "th": "เลื่อนล้อเมาส์เพื่อเปลี่ยน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.slots.tank_output.tooltip": {
+    "th": "ส่งออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.slots.tank_input.tooltip": {
+    "th": "ขาเข้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.slots.battery_output.tooltip": {
+    "th": "ส่งออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.upgrades.slots.battery_input.tooltip": {
+    "th": "ขาเข้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.buttons.confirm": {
+    "th": "ยืนยัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|sophisticatedcore|gui.sophisticatedcore.buttons.cancel": {
+    "th": "ยกเลิก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.breathing_support.desc": {
+    "th": "ป้องกันไม่ให้ฟองอากาศสำหรับหายใจลดลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.crushing.desc": {
+    "th": "เพิ่มความเสียหายของอาวุธ แลกกับความทนทานที่ลดลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.elemental_boost.desc": {
+    "th": "เพิ่มความเสียหายที่สร้างจากเอฟเฟกต์ธรรมชาติตามจำนวนอุปกรณ์ที่สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.elemental_resistance.desc": {
+    "th": "ลดความเสียหายที่ได้รับจากเอฟเฟกต์ธรรมชาติตามจำนวนอุปกรณ์ที่สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.energy_protection.desc": {
+    "th": "ลดปริมาณพลังงานที่ถูกขโมยจากผู้สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.energy_steal.desc": {
+    "th": "ดูด EP จากเป้าหมายเป็นสัดส่วนเล็กน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.enervation.desc": {
+    "th": "ดูดพลังชีวิตจากผู้ถือและบริเวณโดยรอบอย่างต่อเนื่อง แลกกับความต้านทานเวทมนตร์และพลังป้องกันระดับสูง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.growth.desc": {
+    "th": "เพิ่มพลังงานที่อาวุธได้รับเป็นสองเท่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.holy_coat.desc": {
+    "th": "เพิ่มความเสียหายต่อเป้าหมายประเภทมอนสเตอร์เป็นทวีคูณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.holy_weapon.desc": {
+    "th": "เสริมความเสียหายศักดิ์สิทธิ์ให้อาวุธ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.intangibility.desc": {
+    "th": "โจมตีทะลุเกราะและโล่ของศัตรูได้ทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.lethargy.desc": {
+    "th": "ลดพลังงานที่อาวุธและผู้ถือได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.magic_capacity.desc": {
+    "th": "ทำให้ไอเทมเวทมนตร์เก็บพลังเวทได้มากขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.magic_interference.desc": {
+    "th": "ลดความเสียหายเวทมนตร์จากเป้าหมายที่อ่อนแอกว่าคุณ และเจาะบาเรียเวทมนตร์ของเป้าหมายได้บางส่วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.magic_protection.desc": {
+    "th": "ลดความเสียหายที่ได้รับจากการโจมตีเวทมนตร์ตามจำนวนอุปกรณ์ที่สวมใส่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.magic_weapon.desc": {
+    "th": "เสริมความเสียหายเวทมนตร์ให้อาวุธ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.magicule_absorption.desc": {
+    "th": "เพิ่มปริมาณมาจิคูลที่ผู้สวมใส่ดูดซับจากสภาพแวดล้อม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.restoration.desc": {
+    "th": "เพิ่มความเร็วในการฟื้นฟูไอเทมโดยใช้ EP และ XP",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.ruination.desc": {
+    "th": "หยุดการฟื้นฟูของไอเทม และใช้ XP ทั้งหมดที่ผู้ถือได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.sealing.desc": {
+    "th": "ผนึกไอเทมไม่ให้เพิ่มหรือถอด enchantment ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.severance.desc": {
+    "th": "ทำให้เป้าหมายได้รับความเสียหายที่ไม่สามารถรักษาด้วยวิธีปกติได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.severance_protection.desc": {
+    "th": "ลดความเสียหายแบบ Severance ที่ผู้สวมใส่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.slotting.desc": {
+    "th": "ทำให้ใส่ Elemental Core ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.soul_eater.desc": {
+    "th": "เสริมความเสียหายทางจิตวิญญาณให้อาวุธ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.spiritual_protection.desc": {
+    "th": "ลดความเสียหายทางจิตวิญญาณที่ผู้สวมใส่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.stagnation.desc": {
+    "th": "หยุดการวิวัฒนาการของไอเทม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.sturdy.desc": {
+    "th": "เพิ่มความเสียหายของอาวุธ พลังป้องกันของเกราะ และความทนทานของอุปกรณ์ พร้อมป้องกันไม่ให้ไอเทมเสียหายจากสภาพแวดล้อม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.swift.desc": {
+    "th": "เพิ่มความเสียหาย ระยะโจมตี และความเร็วโจมตีของอาวุธ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.transcendence.desc": {
+    "th": "ทำให้ไอเทมเพิ่มรอยสลักได้มากขึ้นโดยใช้ EP",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.tsukumogami.desc": {
+    "th": "ทำให้มีเพียงเจ้าของอาวุธเท่านั้นที่ใช้อาวุธได้เต็มศักยภาพ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.vigor.desc": {
+    "th": "เพิ่มพลังงานที่อาวุธและผู้ถือได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.vitality.desc": {
+    "th": "เพิ่มพลังชีวิตของผู้ถือและบริเวณโดยรอบอย่างต่อเนื่อง พร้อมให้ความต้านทานเวทมนตร์และพลังป้องกันระดับสูง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.category.ability": {
+    "th": "ความสามารถ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.colossusRespawn.description": {
+    "th": "ทำให้ Elemental Colossus เกิดใหม่เมื่อผู้เล่นที่ยังไม่เคยเอาชนะ Colossus มาถึงลานประลองใน Labyrinth",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.demonLordAwaken.description": {
+    "th": "จำนวน Soul Points ที่ต้องใช้เพื่อเป็น True Demon Lord",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.demonLordSeed.description": {
+    "th": "ปริมาณ EP ที่ต้องใช้เพื่อเป็น Demon Lord Seed",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.disableDaemonAutoMagic.description": {
+    "th": "ปิดการเรียนรู้ Aspectual Magics อัตโนมัติของผู้เล่นเผ่า Daemon",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.disableNullification.description": {
+    "th": "ปิดการใช้งาน Nullification",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.disableSpiritualLimit.description": {
+    "th": "ยกเลิกขีดจำกัด EP ของผู้เล่นที่มีร่างจิตวิญญาณเมื่อเข้าสู่โลกกายภาพ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.epDeathPenalty.description": {
+    "th": "เปอร์เซ็นต์ EP ที่ผู้เล่นจะสูญเสียเมื่อเกิดใหม่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.epGainMultiplier.description": {
+    "th": "ตัวคูณ EP ที่เอนทิตีและอุปกรณ์ได้รับหลังเอาชนะเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.epSteal.description": {
+    "th": "อนุญาตให้สกิลบางชนิดขโมยพลังงาน (EP/MP/AP) จากผู้เล่นได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.forceHarvestFestival.description": {
+    "th": "จำนวนวิญญาณที่ทำให้ผู้เล่นถูกบังคับเข้าสู่ Harvest Festival เพื่อเป็น True Demon Lord",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.hardcoreRace.description": {
+    "th": "ทำให้การเล่นบางเผ่าพันธุ์ยากขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.labyrinthDeath.description": {
+    "th": "อนุญาตให้ผู้เล่นตายในมิติ Labyrinth แทนการถูกเทเลพอร์ตออกเมื่อเหลือพลังชีวิต 1HP",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.labyrinthPvp.description": {
+    "th": "อนุญาตให้ผู้เล่นต่อสู้กันในมิติ Labyrinth",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.maxApGain.description": {
+    "th": "ปริมาณออร่าสูงสุดที่เอนทิตีได้รับในครั้งเดียวจากการสังหารเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.maxMpGain.description": {
+    "th": "ปริมาณมาจิคูลสูงสุดที่เอนทิตีได้รับในครั้งเดียวจากการสังหารเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.maximumMagicExplosion.description": {
+    "th": "รัศมีสูงสุด หน่วยเป็นบล็อก ที่ Magic Explosion ทำลายสภาพแวดล้อมโดยรอบได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.moddedEP.description": {
+    "th": "เปอร์เซ็นต์ของค่า EP เริ่มต้นของม็อบจากม็อดอื่นนอกเหนือจาก Tensura ที่ใช้คำนวณ EP ที่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.mpSkillCost.description": {
+    "th": "เปอร์เซ็นต์ MP ที่ผู้เล่นจะสูญเสียเมื่อได้รับสกิลใหม่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.noUniqueStart.description": {
+    "th": "เริ่มต้นด้วย MP/AP ที่เพิ่มขึ้น แต่ไม่มี Unique Skills",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.npcGrief.description": {
+    "th": "อนุญาตให้ NPC รูปร่างมนุษย์ของ Tensura โต้ตอบกับสภาพแวดล้อมได้โดยไม่ขึ้นกับกฎ Mob Griefing",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.npcWorking.description": {
+    "th": "อนุญาตให้ NPC รูปร่างมนุษย์ของ Tensura ทำงานตามอาชีพ เช่น ทำฟาร์ม ตัดต้นไม้ และตกปลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.playerEP.description": {
+    "th": "เปอร์เซ็นต์ของค่า EP เริ่มต้นของผู้เล่นที่ถูกสังหารที่ใช้คำนวณ EP ที่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.playerManualDodging.description": {
+    "th": "กำหนดว่าจะอนุญาตให้ผู้เล่นใช้การหลบหลีกด้วยปุ่มที่ตั้งไว้หรือไม่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.playerMindControl.description": {
+    "th": "อนุญาตให้สกิลบางชนิดควบคุมจิตใจผู้เล่นได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.playerNaming.description": {
+    "th": "อนุญาตให้ผู้อื่นตั้งชื่อให้ผู้เล่นได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.playerSummoning.description": {
+    "th": "อนุญาตให้ผู้เล่นถูกอัญเชิญโดยผู้เล่นคนอื่นได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.resetCounterBonusUnique.description": {
+    "th": "ได้รับ Unique Skills เพิ่มเมื่อรีเซ็ต โดยอิงจากจำนวนแต้ม Reset Counter ที่ต้องใช้ต่อสกิล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.resetIncompletePenalty.description": {
+    "th": "จำนวนแต้มที่หักจาก Reset Counter เมื่อผู้เล่นใช้ม้วนคัมภีร์รีเซ็ตใด ๆ โดยยังไม่ผ่านเงื่อนไข",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.resetPerSkillLock.description": {
+    "th": "จำนวนแต้ม Reset Counter ที่ต้องใช้ต่อ Unique Skill ที่ล็อกไว้สำหรับการรีเซ็ตครั้งถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.skillBeforeRace.description": {
+    "th": "ได้รับ Unique Skills ก่อนเลือกเผ่าพันธุ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.skillGriefing.description": {
+    "th": "อนุญาตให้ความสามารถของ Tensura ทำลายสภาพแวดล้อมโดยรอบได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.skillSteal.description": {
+    "th": "อนุญาตให้สกิลบางชนิดขโมยสกิลจากผู้เล่นแทนการคัดลอก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.spawnerEP.description": {
+    "th": "เปอร์เซ็นต์ของค่า EP เริ่มต้นของม็อบที่เกิดจาก Spawner ที่ใช้คำนวณ EP ที่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.tensuraDisplayName.description": {
+    "th": "แสดงชื่อใน Tensura แทนชื่อ Minecraft หากผู้เล่นได้รับการตั้งชื่อแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.tensuraEP.description": {
+    "th": "เปอร์เซ็นต์ของค่า EP เริ่มต้นของม็อบ Tensura ที่ใช้คำนวณ EP ที่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.trulyUnique.description": {
+    "th": "นำ Unique Skills ที่มีผู้ครอบครองแล้วออกจากรายการสกิลสำหรับการเกิดใหม่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|gamerule.vanillaEP.description": {
+    "th": "เปอร์เซ็นต์ของค่า EP เริ่มต้นของม็อบในเกมหลักที่ใช้คำนวณ EP ที่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|item.tensura.dwargon_banner_pattern.desc": {
+    "th": "Dwargon",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|soundCategory.ability": {
+    "th": "ความสามารถของ Tensura",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed": {
+    "th": "เปิดใช้ความสามารถไม่สำเร็จ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.anti_magic": {
+    "th": "เวทมนตร์นี้ถูกหยุดโดย Anti-Magic",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.gamerule": {
+    "th": "ไม่สามารถเปิดใช้ความสามารถนี้ได้เนื่องจากกฎของโลก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.item": {
+    "th": "ไม่สามารถเปิดใช้ความสามารถนี้กับไอเทมนี้ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.location": {
+    "th": "ไม่สามารถเปิดใช้ความสามารถนี้ในตำแหน่งนี้ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.location_time": {
+    "th": "ไม่สามารถเปิดใช้ความสามารถนี้ในตำแหน่งหรือเวลานี้ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.named": {
+    "th": "เปิดใช้ %s ไม่สำเร็จ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.plunder": {
+    "th": "คัดลอก/ขโมย %s ไม่สำเร็จ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.plunder.empty": {
+    "th": "ไม่มีสิ่งที่สามารถคัดลอก/ขโมยได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.status": {
+    "th": "ไม่สามารถเปิดใช้ความสามารถนี้ในสถานะปัจจุบันของคุณได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.activation_failed.time": {
+    "th": "ไม่สามารถเปิดใช้ความสามารถนี้ในช่วงเวลานี้ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability.on_cooldown": {
+    "th": "คูลดาวน์: %s วินาที",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection": {
+    "th": "เลือกความสามารถ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.cooldowns": {
+    "th": "[คูลดาวน์]",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.learning": {
+    "th": "แต้มเรียนรู้: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.lock": {
+    "th": "ล็อก (%s/%s)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.lock.not_enough": {
+    "th": "ต้องใช้แต้มล็อกเพิ่ม (%s/%s)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.lock.wrong": {
+    "th": "ยังไม่ผ่านเงื่อนไขการล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.mastery": {
+    "th": "ความชำนาญ: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.origin": {
+    "th": "[ม็อด: %s]",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.suggestion": {
+    "th": "ชื่อ หรือ \"f:\"",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.unlock": {
+    "th": "ปลดล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.ability_selection.untoggleable": {
+    "th": "ไม่สามารถสลับเปิด/ปิดได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.a_bit_cold.description": {
+    "th": "คราฟต์ Ice Blade",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.a_rank.description": {
+    "th": "มี 10000 EP และขึ้นถึงระดับ A Class",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.acquire_silverware.description": {
+    "th": "หลอมหรือหา Silver Ingot",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.adamantite.description": {
+    "th": "ได้รับไอเทม Adamantite!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.arachnophobic.description": {
+    "th": "สังหาร Black Spider",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.b_rank.description": {
+    "th": "มี 6000 EP และขึ้นถึงระดับ B Class",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.become_ninja.description": {
+    "th": "คราฟต์ Kunai",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.believe_to_fly.description": {
+    "th": "ได้รับ Winged Shoes",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.best_smelter.description": {
+    "th": "คราฟต์ Orichalcum Kiln",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.better_smelter.description": {
+    "th": "คราฟต์ Kiln",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.blessed_one.description": {
+    "th": "มี Greater Spirit หรือระดับสูงกว่าในทุกธาตุ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.booked_on_magic.description": {
+    "th": "ได้รับ Magic Grimoire",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.build_body.description": {
+    "th": "ได้รับ Bone Golem",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.c_rank.description": {
+    "th": "มี 3000 EP และขึ้นถึงระดับ C Class",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.choo_choo.description": {
+    "th": "ขี่ Evil Centipede หรือ Tempest Serpent",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.choo_choo.title": {
+    "th": "ปู๊น ๆ!",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.advancements.conqueror_of_flames.description": {
+    "th": "เอาชนะ Ifrit ที่เกิดตามธรรมชาติ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.d_rank.description": {
+    "th": "มี 1000 EP และขึ้นถึงระดับ D Class",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.delightful_trade.description": {
+    "th": "แลกเปลี่ยนสำเร็จและได้รับเหรียญ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.eat_or_be_eaten.description": {
+    "th": "เอาชนะ Orc Disaster",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.elementalist.description": {
+    "th": "ทำสัญญากับ Spirit ชนิดใดก็ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.empowerment.description": {
+    "th": "สังหารมอนสเตอร์เพื่อเพิ่ม Existence Point (EP) เป็นครั้งแรก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.even_better_smelter.description": {
+    "th": "คราฟต์ Mithril Kiln",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.explosion.description": {
+    "th": "ร่าย Explosion ระดับสูงสุดเป็นครั้งแรก!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.fast_learner.description": {
+    "th": "เรียนรู้ความสามารถ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.forbidden_manual.description": {
+    "th": "ใช้ Battlewill Manual",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.get_bucketed.description": {
+    "th": "ใช้ถังตัก Slime",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.getcha_better_leathers.description": {
+    "th": "ได้รับ Leather จากมอนสเตอร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.getcha_leathers.description": {
+    "th": "ได้รับ Leather ของเกมหลัก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.gold_rush.description": {
+    "th": "หลอมหรือหา Gold Ingot",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.good_as_new.description": {
+    "th": "ดื่ม Full Potion",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.good_boy.description": {
+    "th": "ขี่ Tempest Star Wolf",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.goodnight_spider.description": {
+    "th": "สังหาร Knight Spider และได้รับ Carapace ของมัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.great_saint_of_the_west.description": {
+    "th": "เอาชนะ Hinata Sakaguchi",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.grow_a_slime.description": {
+    "th": "ป้อน Slime Core ให้ Slime ที่เชื่องแล้วเพื่อเพิ่มขนาด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.grow_spurt.description": {
+    "th": "วิวัฒนาการเผ่าพันธุ์หนึ่งครั้ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.hear_me_direwolves.description": {
+    "th": "ทำให้ Direwolf เชื่อง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.hell.description": {
+    "th": "เข้าสู่มิติ Hell",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.hella_cool.description": {
+    "th": "มีม็อบ Daemon เป็นผู้ใต้บังคับบัญชา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.hero_king.description": {
+    "th": "เอาชนะ Gazel Dwargo",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.high_magisteel.description": {
+    "th": "ผสม Iron กับ Magic Ore ใน Kiln เพื่อรับ High Magisteel Ingot!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.higher_form.description": {
+    "th": "ปลุกพลังเป็น Demon Lord หรือ Chosen Hero",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.hihiirokane.description": {
+    "th": "ได้รับไอเทม Hihiirokane!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.hipokute_flower.description": {
+    "th": "ได้รับ Hipokute Flower",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.hiss_tory.description": {
+    "th": "สังหาร Tempest Serpent และได้รับ Scales ของมัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.infamy_famous.description": {
+    "th": "บรรลุ Mass Naming โดยผ่านการบุกโจมตีหรือสังหารม็อบมนุษย์โดยไม่ตาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.infinity_cores.description": {
+    "th": "ใช้อาวุธที่ใส่ Elemental Core ไว้ 3 ชิ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.just_a_test.description": {
+    "th": "ต่อสู้กับ Elemental Colossus และ \"ตาย\"",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.killer_fish.description": {
+    "th": "ขี่ Sissie",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.king_slime.description": {
+    "th": "เลี้ยง Slime ให้เติบโตจนเป็น Supermassive Slime ของคุณเอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.labyrinth.description": {
+    "th": "เข้าสู่ Labyrinth",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.light_as_horned_rabbit.description": {
+    "th": "เดินบน Powder Snow โดยไม่จม ด้วยรองเท้าที่ทำจากหนังมอนสเตอร์!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.low_magisteel.description": {
+    "th": "ผสม Iron กับ Magic Ore ใน Kiln เพื่อรับ Low Magisteel Ingot!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.magic_ore.description": {
+    "th": "ขุด Magic Ore",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.magic_seedy_place.description": {
+    "th": "ปลูก Hipokute Seed",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.master_skill.description": {
+    "th": "ฝึกความสามารถจนชำนาญ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.master_smith.description": {
+    "th": "ได้รับแบบแปลนงานตีเหล็กทุกแบบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.master_unique_skill.description": {
+    "th": "ฝึก Unique Skill จนชำนาญ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.million_dollar.description": {
+    "th": "ได้รับ Stellar Gold coin",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.mithril.description": {
+    "th": "ผสม Silver กับ Magic Ore เล็กน้อยใน Kiln เพื่อรับ Mithril Ingot!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.monster_rider.description": {
+    "th": "คราฟต์ Monster Saddle",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.monster_tamer.description": {
+    "th": "ทำให้มอนสเตอร์ชนิดใดก็ได้เชื่องด้วยวิธีใดก็ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.monstrous_diet.description": {
+    "th": "กินทุกอย่างที่กินได้ใน Tensura: Reincarnated แม้จะเป็นอันตรายต่อคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.my_precious.description": {
+    "th": "ได้รับ Gold coin เหรียญแรก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.name_a_mob.description": {
+    "th": "ตั้งชื่อให้ม็อบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.nanoda.description": {
+    "th": "ได้รับแผ่นเสียง Nanoda โดยให้ Charybdis สังหาร Orc Disaster",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.no_no_square.description": {
+    "th": "ใช้ Magic Engine ป้องกันการเกิดของมอนสเตอร์ในพื้นที่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.obtain_hihiirokane_hoe.description": {
+    "th": "ครอบครองและใช้ Hihi'Irokane Hoe",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.orichalcum.description": {
+    "th": "ผสม Gold กับ Magic Ore เล็กน้อยใน Kiln เพื่อรับ Orichalcum Ingot!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.otherworldly_biomes.description": {
+    "th": "สำรวจไบโอมใน Overworld ทั้งหมดที่เพิ่มโดย Tensura: Reincarnated",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.pierrot_mask.description": {
+    "th": "คราฟต์ Pierrot Mask",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.pure_magisteel.description": {
+    "th": "ได้รับ Pure Magisteel Ingot!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.rainbow_in_hell.description": {
+    "th": "มี Arch Daemon จากแต่ละสายตระกูลเป็นผู้ใต้บังคับบัญชา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.real_adventure.description": {
+    "th": "การผจญภัยที่แท้จริงเริ่มขึ้นแล้ว!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.reincarnated.description": {
+    "th": "การเกิดใหม่... สำเร็จ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.rewind_time.description": {
+    "th": "ใช้ม้วนคัมภีร์รีเซ็ต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.ripoff_elytra.description": {
+    "th": "ได้รับ Bat Glider",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.ruler_of_monster.description": {
+    "th": "มีผู้ใต้บังคับบัญชาครบทุกเผ่าต่อไปนี้: Direwolf, Goblin, Lizardman, Orc และ Slime",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.ruler_of_the_skies.description": {
+    "th": "เอาชนะ Charybdis",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.s_rank.description": {
+    "th": "มี 400000 EP และขึ้นถึงระดับ S Class",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.sa_rank.description": {
+    "th": "มี 100000 EP และขึ้นถึงระดับ Special-A Class",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.shell_lizard.description": {
+    "th": "สังหาร Armorsaurus และได้รับ Scales กับ Shell ของมัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.slime_army.description": {
+    "th": "ใช้ Slime Staff อัญเชิญ Slime",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.slime_traitor.description": {
+    "th": "ใช้สกิลกลืนกิน Slime ที่อยู่ในถัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.spirit_protector.description": {
+    "th": "เอาชนะ Elemental Colossus",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.ss_rank.description": {
+    "th": "มี 800000 EP และขึ้นถึงระดับ Special-S Class",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.start_smithing.description": {
+    "th": "ใช้ Schematic",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.tamed_a_slime.description": {
+    "th": "ทำให้ Slime เชื่อง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.too_strong.description": {
+    "th": "คราฟต์ Dragon Knuckle",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.unhealable_wound.description": {
+    "th": "คราฟต์ Spatial Blade",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.unholy_tourism.description": {
+    "th": "สำรวจไบโอมทั้งหมดใน Hell",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.unicorn_horn.description": {
+    "th": "ใช้หน้าไม้ยิง Unicorn Horn เพื่อสังหารสิ่งใดก็ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.vigilant.description": {
+    "th": "สังหาร Giant Ant และได้รับ Carapace ของมัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.wanderful.description": {
+    "th": "ได้รับ Magic Staff",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.way_stone.description": {
+    "th": "ได้รับ Warp Pad",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.advancements.youre_a_wizard.description": {
+    "th": "ใช้ Magic Tome",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.alignment.chaos": {
+    "th": "Chaos",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.attribute.ability_learning_gain": {
+    "th": "อัตราการเรียนรู้ความสามารถ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.attribute.ability_mastery_gain": {
+    "th": "อัตราการเพิ่มความชำนาญความสามารถ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.attribute.block.redstone_powered": {
+    "th": "ได้รับพลังงาน",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.attribute.block.redstone_strength": {
+    "th": "ระดับพลังงานเรดสโตน",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.boss_fight.edit.ability.ban": {
+    "th": "การต่อสู้บอส [%s] ห้ามใช้ %s แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.boss_fight.edit.ability.banned": {
+    "th": "การต่อสู้บอส [%s] ห้ามใช้ %s อยู่แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.boss_fight.edit.ability.clear": {
+    "th": "การต่อสู้บอส [%s] ไม่ห้ามใช้ความสามารถใดอีกต่อไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.boss_fight.edit.ability.not_banned": {
+    "th": "การต่อสู้บอส [%s] ไม่ได้ห้ามใช้ %s อยู่ในขณะนี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.boss_fight.edit.ability.unban": {
+    "th": "การต่อสู้บอส [%s] ยกเลิกการห้ามใช้ %s แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.degenerate_menu.crafting": {
+    "th": "กำลังคราฟต์",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.dialogue_window.cancel": {
+    "th": "ยกเลิก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.confirm": {
+    "th": "ยืนยัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.delete": {
+    "th": "ลบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.edit": {
+    "th": "แก้ไข",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.load": {
+    "th": "โหลด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.load.specific": {
+    "th": "โหลด %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.rename": {
+    "th": "เปลี่ยนชื่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.save_name": {
+    "th": "บันทึกชื่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.save_pos": {
+    "th": "บันทึกตำแหน่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.dialogue_window.update": {
+    "th": "อัปเดต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.jei.mixing.title": {
+    "th": "ผสม",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.keybinding.ability.slot_1": {
+    "th": "เปิดใช้ความสามารถ 1",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.keybinding.ability.slot_2": {
+    "th": "เปิดใช้ความสามารถ 2",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.keybinding.ability.slot_3": {
+    "th": "เปิดใช้ความสามารถ 3",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.keybinding.race_ability": {
+    "th": "ความสามารถเผ่าพันธุ์/พาหนะ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.magic.elemental.earth": {
+    "th": "Earth",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.magic.elemental.explosion": {
+    "th": "การระเบิด",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.magic.elemental.time": {
+    "th": "เวลา",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.magic.elemental.water": {
+    "th": "น้ำ",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.magic.spiritual.level.medium": {
+    "th": "กลาง",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.magic_menu": {
+    "th": "เวทมนตร์",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.message.bone_golem.low_ep": {
+    "th": "%s มี EP ไม่ถึงเกณฑ์ที่ %s ต้องการ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.damage.total": {
+    "th": "ความเสียหายรวม: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.disabled": {
+    "th": "เท็จ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.defeat.negative": {
+    "th": "เป็นไปไม่ได้!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.defeat.negative.retry": {
+    "th": "ราชาแห่งคนแคระไม่อยู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.defeat.positive": {
+    "th": "ทำได้ดีมาก %s! เจ้าเอาชนะข้าได้ นี่คือรางวัลของเจ้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.defeat.positive.retry": {
+    "th": "ทำได้ดีมาก %s! เจ้าเอาชนะข้าได้อีกแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.greet.negative": {
+    "th": "หืม? ไม่นึกเลยว่าเจ้าจะมามอบตัวเช่นนี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.greet.negative_start": {
+    "th": "ได้ ข้าจะจัดการเจ้าด้วยตัวเอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.greet.positive": {
+    "th": "นี่วีรบุรุษของชาติเรา %s ไม่ใช่หรือ! มาเถิด มาพูดคุยกัน!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.king.greet.positive_start": {
+    "th": "หืม? เจ้าอยากประลองฝีมือหรือ? งั้นมาเริ่มกันเลย!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.dwarf.wrong_reputation": {
+    "th": "ราชวงศ์คนแคระไม่ต้อนรับเจ้าเมื่อมีชื่อเสียง %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.enabled": {
+    "th": "จริง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.npc.refuse_trading": {
+    "th": "%s ปฏิเสธที่จะแลกเปลี่ยนกับคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.aggressive": {
+    "th": "ตั้งพฤติกรรมของ %s เป็นก้าวร้าวแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.follow": {
+    "th": "ตั้ง %s ให้ติดตามแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.neutral": {
+    "th": "ตั้งพฤติกรรมของ %s เป็นกลางแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.passive": {
+    "th": "ตั้งพฤติกรรมของ %s เป็นไม่โจมตีแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.protect": {
+    "th": "ตั้งพฤติกรรมของ %s เป็นปกป้องแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.self_destruct": {
+    "th": "ตั้ง %s ให้ทำลายตัวเองแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.stay": {
+    "th": "ตั้ง %s ให้อยู่กับที่แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.pet.wander": {
+    "th": "ตั้ง %s ให้เดินอิสระแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.position.occupied": {
+    "th": "ตำแหน่งนี้ถูกใช้งานอยู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.slime.despawn": {
+    "th": "Slime ที่คุณอัญเชิญหายไปแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.slime.massive": {
+    "th": "Slime ของคุณกลายเป็น Supermassive Slime แล้ว!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.slime.maxsize": {
+    "th": "Slime ของคุณมีขนาดสูงสุดแล้ว!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.slime.merge": {
+    "th": "รวม Slime ของคุณแล้ว!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.slime_staff.follow": {
+    "th": "ตั้ง Slime ทุกตัวในรัศมี 30 บล็อกให้ติดตามแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.message.slime_staff.sit": {
+    "th": "ตั้ง Slime ทุกตัวในรัศมี 30 บล็อกให้อยู่กับที่แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.naming.randomize": {
+    "th": "สุ่ม",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.race.ancient_giant.description": {
+    "th": "ร่างโบราณของ Giant ที่มีสมรรถภาพร่างกายและความสามารถเหนือชั้นยิ่งขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.arch_daemon.description": {
+    "th": "ขั้นวิวัฒนาการสูงสุดที่ Daemon สามารถไปถึงได้ใน Daemon Realm มีเพียง Greater Daemon ที่ทรงพลังที่สุดเท่านั้นที่ก้าวขึ้นมาถึงขั้นนี้ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.beast_lord.description": {
+    "th": "Beastfolk ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตกึ่งจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.beastfolk.description": {
+    "th": "เผ่าพันธุ์ที่สลับระหว่างร่างสัตว์ที่แท้จริงกับร่างคล้ายมนุษย์ได้อย่างอิสระ มีพละกำลังมหาศาลและความสามารถฟื้นฟูที่ทำให้ต่อสู้ได้โดยไม่ต้องพัก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.daemon_lord.description": {
+    "th": "หนึ่งในขั้นวิวัฒนาการที่ทรงพลังที่สุดของ Daemon มีเพียง Arch Daemon ที่แข็งแกร่งที่สุดเท่านั้นที่ไปถึงได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.death_oni.description": {
+    "th": "Wicked Oni ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.demon_slime.description": {
+    "th": "ขั้นวิวัฒนาการสูงสุดของ Slime โดยวิวัฒนาการมาถึงขั้นนี้เมื่อปลุกพลังเป็น True Demon Lord ระหว่าง Harvest Festival",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.devil_lord.description": {
+    "th": "ขั้นวิวัฒนาการสุดท้ายของ Daemon เกิดขึ้นเมื่อ Daemon มีครบทั้งสามเงื่อนไข ได้แก่ ชื่อ ร่างกายที่เป็นสสาร และความเป็นเทพ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_beast.description": {
+    "th": "Beastfolk ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_bird.description": {
+    "th": "Harpy ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_boar.description": {
+    "th": "Orc ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_dragon.description": {
+    "th": "Dragonewt ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_dwarf.description": {
+    "th": "Dwarf ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_elf.description": {
+    "th": "Elf ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_fighter.description": {
+    "th": "Wicked Oni ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_fish.description": {
+    "th": "Merfolk ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_giant.description": {
+    "th": "เผ่าพันธุ์ดุจเทพที่ถือกำเนิดจากผืนดินเอง มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_human.description": {
+    "th": "Human ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_oni.description": {
+    "th": "Oni ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_skeleton.description": {
+    "th": "Wight ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.divine_vampire.description": {
+    "th": "Vampire ที่บรรลุความเป็นเทพ มีร่างกายอมตะที่ไม่มีวันแก่ชรา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.dragonewt.description": {
+    "th": "ร่างวิวัฒนาการของ Lizardman และผู้สืบเชื้อสายจากมังกร มีอายุขัยเฉลี่ยประมาณสองร้อยปี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.dwarf.description": {
+    "th": "เผ่าภูตที่สืบเชื้อสายจากภูตธาตุดิน มีจิตใจแน่วแน่อย่างยิ่ง และเป็นทหารที่ดุดันแม้ตัวจะค่อนข้างเตี้ย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.dwarf_saint.description": {
+    "th": "Dwarf ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.elf.description": {
+    "th": "เผ่าภูตที่สืบเชื้อสายจากภูตธาตุลม มีพรสวรรค์ด้านเวทมนตร์ธาตุโดดเด่นและผูกพันกับธรรมชาติมากกว่าเผ่าส่วนใหญ่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.elf_saint.description": {
+    "th": "Elf ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.enlightened_dwarf.description": {
+    "th": "Dwarf ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตกึ่งจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.enlightened_elf.description": {
+    "th": "Elf ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตกึ่งจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.enlightened_hobgoblin.description": {
+    "th": "Hobgoblin ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตกึ่งจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.enlightened_human.description": {
+    "th": "Human ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตกึ่งจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.enlightened_merfolk.description": {
+    "th": "Merfolk ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตกึ่งจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.enlightened_ogre.description": {
+    "th": "Ogre ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตกึ่งจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.ghoul.description": {
+    "th": "บริวารแวมไพร์ที่เกิดจาก Blood Raise อ่อนแอลงอย่างมากเมื่อโดนแสงแดด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.giant.description": {
+    "th": "เผ่า Majin ที่ทรงพลัง โดดเด่นที่สุดด้านสมรรถภาพร่างกายอันน่าทึ่งและความต้านทานเวทมนตร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.goblin.description": {
+    "th": "เผ่ากึ่งมนุษย์สายภูต ดูเหมือนจะสืบเชื้อสายจากลูกหลานของ Dwarf กับ Oni",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.god_slime.description": {
+    "th": "ขั้นวิวัฒนาการสู่ความเป็นเทพของ Slime",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.greater_daemon.description": {
+    "th": "เผ่า Daemon ที่ Lesser Daemon วิวัฒนาการมาเป็นเมื่อพัฒนาตัวตนและสะสมพลังได้เพียงพอ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.harpy.description": {
+    "th": "เผ่า Majin มีปีกที่ยกเลิกเวทบินได้ มักได้รับการขนานนามว่าผู้ครองนภา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.harpy_queen.description": {
+    "th": "สายพันธุ์ราชินีของ Harpy ที่สืบพันธุ์ได้โดยไม่ต้องปฏิสนธิหรือมีคู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.high_orc.description": {
+    "th": "ร่างวิวัฒนาการของ Orc ฉลาดขึ้นแต่ยังคงลักษณะเฉพาะของเผ่า Orc โดยมีรูปลักษณ์แทบไม่ต่างจาก Orc ทั่วไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.hobgoblin.description": {
+    "th": "ร่างวิวัฒนาการของ Goblin เพศชาย โดยเฉลี่ยอยู่ในระดับ D",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.hobgoblin_saint.description": {
+    "th": "Hobgoblin ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.human.description": {
+    "th": "เผ่าพันธุ์ที่อ่อนแอแต่มีประชากรมาก พึ่งพาเทคโนโลยีและจำนวนมากกว่าพละกำลัง เนื่องจากมีมาจิคูลน้อย ผู้ใช้สกิลและเวทมนตร์จึงหาได้ยาก และนิยมใช้ Battlewill แทน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.human_saint.description": {
+    "th": "Human ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.kijin.description": {
+    "th": "เผ่ากึ่งมนุษย์สายภูตที่สืบเชื้อสายจากภูตธาตุไฟ มีอายุขัยเฉลี่ยมากกว่าหนึ่งพันปี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.lesser_daemon.description": {
+    "th": "ระดับต่ำสุดของเผ่า Daemon ถือกำเนิดขึ้นเองใน Daemon Realm ค่อย ๆ สะสมประสบการณ์จากการต่อสู้และการถูกอัญเชิญ จนวิวัฒนาการเป็น Greater Daemon ในที่สุด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.lizardman.description": {
+    "th": "เผ่ามนุษย์เกล็ดที่สืบเชื้อสายจากมังกร เท้าที่มีพังผืดทำให้ได้เปรียบในพื้นที่เปียกชื้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.merfolk.description": {
+    "th": "เผ่าภูตที่สืบเชื้อสายจากภูตธาตุน้ำ ร่างกายคล้ายปลาทำให้ได้เปรียบอย่างยิ่งในน้ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.merfolk_saint.description": {
+    "th": "Merfolk ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.metal_slime.description": {
+    "th": "Slime ที่ดูดซับ Magic Ore จำนวนมาก แร่ที่ละลายอยู่ภายในทำให้ต้านทานความเสียหายส่วนใหญ่ได้สูง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.mystic_oni.description": {
+    "th": "ผลจากการที่ Kijin หวนคืนสู่รากเหง้าการเป็นภูตธาตุอย่างสมบูรณ์ จนกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.ogre.description": {
+    "th": "เผ่าภูตที่สืบเชื้อสายจากภูตธาตุไฟ มีสมรรถภาพร่างกายสูงยิ่งและสายสืบทอดที่ผูกพันกับญี่ปุ่นอย่างแน่นแฟ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.orc.description": {
+    "th": "เผ่า Beastfolk ที่สูญเสียความสามารถสลับร่างมนุษย์กับสัตว์ จึงมีร่างผสมของทั้งสองอย่างถาวร มีกำลังมากกว่าทั่วไป แต่ยังด้อยกว่าพลังดั้งเดิมเมื่อเป็น Beastfolk มาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.orc_disaster.description": {
+    "th": "ร่างวิวัฒนาการของ Orc Lord ที่เป็น Demon Lord Seed",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.orc_lord.description": {
+    "th": "สมาชิกเผ่า Orc ที่หายากและทรงพลัง มีสติปัญญาสูง ปรากฏตัวราวทุกสองสามศตวรรษ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.slime.description": {
+    "th": "เผ่ามอนสเตอร์ประเภท Spectral ที่ขาดสติปัญญาและความทะเยอทะยาน ปกติไม่ก้าวร้าว แต่จะโหดเหี้ยมอย่างยิ่งเมื่อถูกยั่วยุ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.spirit_beast.description": {
+    "th": "Beastfolk ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.spirit_bird.description": {
+    "th": "Harpy ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.spirit_boar.description": {
+    "th": "Orc ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.spirit_oni.description": {
+    "th": "Oni ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.spirit_skeleton.description": {
+    "th": "Wight ที่ \"วิวัฒนาการอย่างถูกวิธี\" และกลายเป็นสิ่งมีชีวิตจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.true_dragonewt.description": {
+    "th": "ร่างวิวัฒนาการของ Dragonewt และสิ่งมีชีวิตจิตวิญญาณที่สมบูรณ์ เป็นขั้นวิวัฒนาการอันดับสองจากสูงสุดของ Dragonewt เท่าที่ทราบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.vampire.description": {
+    "th": "เผ่า Majin ที่มีชีวิตเกือบเป็นนิรันดร์ แม้จะสืบพันธุ์ได้แต่โดยปกติจะละเว้น ด้วยพลังเวทและพลังชีวิตมหาศาล เนื้อหนังจึงไม่เสื่อมสลาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.vampire_lord.description": {
+    "th": "Vampire ที่มีพลังอยู่ในระดับสูงสุดกลุ่มหนึ่ง เทียบได้กับ Demon Lord",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.vampire_overcomer.description": {
+    "th": "Vampire ที่วิวัฒนาการจนเอาชนะจุดอ่อนต่อแสงอาทิตย์ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.wicked_oni.description": {
+    "th": "Oni สายพันธุ์หนึ่งที่มีแก่นแท้ใกล้เคียง Daemon มากกว่าภูตธาตุบริสุทธิ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.wight.description": {
+    "th": "มอนสเตอร์อันเดดโครงกระดูกกึ่งจิตวิญญาณ อ่อนแอลงอย่างมากเมื่อโดนแสงแดด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.race.wight_king.description": {
+    "th": "มอนสเตอร์อันเดดชนิดหนึ่งที่วิวัฒนาการมาจาก Wight มีพลังน่าหวั่นเกรงเทียบได้กับ Demon Lord Seed",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.reincarnation.random": {
+    "th": "สุ่ม",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.reincarnation.unknown": {
+    "th": "ไม่ทราบ",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.researcher_menu.enchantment_tab": {
+    "th": "การเอนชานต์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.settings": {
+    "th": "การตั้งค่า",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.abnormal_condition_nullification.description": {
+    "th": "ลบล้างสถานะผิดปกติและผลของสถานะเหล่านั้นทั้งหมดโดยสมบูรณ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.abnormal_condition_resistance.description": {
+    "th": "ต้านทานผลของสถานะผิดปกติที่อ่อนกว่า หรือลดความรุนแรงของสถานะที่แรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.absolute_severance.description": {
+    "th": "ใช้พลังตัดผ่านทุกสิ่งที่ขวางทาง โดยเสริมการโจมตีหรือปล่อยกระสุนฟันที่ตัดทุกสิ่งตามแนวทาง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.absorb_and_dissolve.description": {
+    "th": "ย่อยสลายไอเทมบางชนิดเพื่อกลืนกินทันที",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.acid_rain.description": {
+    "th": "อัญเชิญเมฆกรดที่กัดกร่อนเอนทิตีทุกตัวที่ได้รับผล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.acid_shell.description": {
+    "th": "ยิงลูกกรดกัดกร่อนไปยังเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.aerial_blade.description": {
+    "th": "ดึงเอนทิตีที่อยู่ใกล้เข้ามา ก่อนปลดปล่อยพลังจิตวิญญาณสร้างความเสียหายมหาศาล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.agility.description": {
+    "th": "เพิ่มความเร็วเคลื่อนที่ของผู้ใช้อย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.air_flight.description": {
+    "th": "ใช้ออร่าขับเคลื่อนตัวไปข้างหน้าและลอยตัวกลางอากาศ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.airflow_shut.description": {
+    "th": "ดูดอากาศรอบเป้าหมายออกทั้งหมด ทำให้เป้าหมายขาดอากาศหายใจ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.all_seeing_eye.description": {
+    "th": "เข้าสู่มุมมองบุคคลที่ 3 มุมมองที่กว้างขึ้นให้บัฟด้านการเคลื่อนที่และการกระทำ พร้อมยกระดับ Presence Sense",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.analyst.description": {
+    "th": "เพิ่มการประมวลผลทางความคิด วิเคราะห์เป้าหมายและปรากฏการณ์ เร่งการร่ายเวท และเข้าใจกฎของโลกอย่างลึกซึ้งเพื่อให้ทุกการกระทำมีประสิทธิภาพสูงสุด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.analytical_appraisal.description": {
+    "th": "ประเมินความแข็งแกร่งของคู่ต่อสู้เพื่อให้เข้าใจพลังโดยรวม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.analyze.description": {
+    "th": "วิเคราะห์สถานะและพลังของเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.anti_magic_area.description": {
+    "th": "สร้างเขตรอบผู้ใช้ที่จำกัดเวท Aspectual และเวทอัญเชิญทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.anti_shock_area.description": {
+    "th": "สร้างเขตรอบผู้ใช้ที่จำกัดความเสียหายกายภาพทั้งหมดที่ได้รับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.anti_skill.description": {
+    "th": "ทำให้ไม่รับความเสียหายจากเวทมนตร์ สกิล และ Battlewill ทำลายบาเรีย และขัดขวางการใช้สกิลของเอนทิตีอื่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.antidote.description": {
+    "th": "รักษาอาการคลื่นไส้ พิษ และอ่อนแอของสิ่งมีชีวิต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.aura_shield.description": {
+    "th": "สร้างโล่ออร่าควบแน่นเพื่อป้องกันการโจมตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.aura_slash.description": {
+    "th": "ควบแน่นออร่าตามคมดาบแล้วปล่อยคลื่นฟันระยะไกล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.aura_sword.description": {
+    "th": "เคลือบอาวุธด้วยออร่าเพื่อเพิ่มพลังโจมตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.barrier.description": {
+    "th": "หุ้มผู้ใช้ด้วย Physical Barrier ที่มีความแข็งแกร่งตามพลังชีวิต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.battlewill.description": {
+    "th": "รวบรวมเจตจำนงเพื่อเปลี่ยนมาจิคูลเป็นออร่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.beast_transformation.description": {
+    "th": "แปลงร่างเป็นสัตว์เพื่อฟื้นฟูพลังชีวิตและเสริมร่างกาย การแปลงร่างให้พละกำลังสูงมาก แต่ส่งผลเสียต่อร่างกาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.berserk.description": {
+    "th": "เสริมพลังร่างกายอย่างมหาศาลและเติมออร่าเปลวไฟ เข้าสู่โหมดคลุ้มคลั่งที่เสี่ยงอันตรายแต่ทรงพลังอย่างยิ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.berserker.description": {
+    "th": "ใช้ความพ่ายแพ้ของศัตรูเป็นพลัง ได้รับ EP จากการสังหาร ทำลายอุปกรณ์ได้เร็วขึ้น และเพิ่มค่าสถานะกายภาพตามระดับพลังของคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.bewilder.description": {
+    "th": "ชักใยทั้งมิตรและศัตรู บังคับให้กระทำตามเจตจำนงของคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.black_flame.description": {
+    "th": "ควบคุมเปลวไฟที่อัดแน่นด้วยพลังพายุเพื่อพ่นไฟสีดำใส่ศัตรู หรือยิงลูกไฟและ Hell Flare ที่ร้ายแรง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.black_lightning.description": {
+    "th": "ยิงสายฟ้าสีดำที่ปรับความแรงได้ หรืออัญเชิญพายุใหญ่โจมตีม็อบทุกตัวที่ไม่ใช่พันธมิตร อีกทั้งใช้การระเบิดพลาสมาระยะใกล้หลอมละลายแม้แต่ศัตรูที่แข็งแกร่งที่สุดได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.blizzard.description": {
+    "th": "สร้างพายุน้ำแข็งอันทรงพลังเพื่อชะลอศัตรูและพลิกสถานการณ์การต่อสู้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.blood_mist.description": {
+    "th": "สละเลือดของคุณเพื่ออัญเชิญหมอกที่ขโมยพลังชีวิตศัตรู สามารถระเบิดหมอกเพื่อทำร้ายเอนทิตีใกล้เคียง หรือยิงลำแสงเลือดอันทรงพลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.body_armor.description": {
+    "th": "เรียกเกล็ดของ Armorsaurus มาหุ้มร่างเพื่อป้องกันอันตราย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.body_double.description": {
+    "th": "ใช้พลังเวทหนึ่งในสิบเพื่ออัญเชิญร่างแยกเหมือนตัวคุณ ร่างแยกรับความเสียหายเพิ่มขึ้นแต่จะสู้เพื่อคุณจนถึงที่สุด ผู้ใช้สลับตำแหน่งกับร่างแยกได้ แต่เสี่ยงรับความเสียหายเพิ่มขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.burden.description": {
+    "th": "ยิงกระสุนพลังงานที่เพิ่มแรงโน้มถ่วงของเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.chain_explosion.description": {
+    "th": "อัญเชิญการระเบิดเป็นลำดับที่ปะทุต่อเนื่องรอบเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.chant_annulment.description": {
+    "th": "ทำให้ร่ายเวทที่ฝึกจนชำนาญได้ทันที แม้อยู่ในน้ำหรือได้รับสถานะใบ้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.charm.description": {
+    "th": "ใช้พลังที่มีมาแต่กำเนิดทำให้คู่ต่อสู้เป็นกลาง หรือควบคุมคู่ต่อสู้ที่อ่อนแอได้ชั่วคราว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.chef.description": {
+    "th": "ชำระล้างและฟื้นฟู ลบผลเสียทั้งหมดและฟื้นฟูพลังชีวิตให้ผู้ที่คุณดูแล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.chosen_one.description": {
+    "th": "แผ่อำนาจและบารมีให้ศัตรูหวาดกลัวจนหันมาติดตามคุณ พร้อมเสริมพลังให้ตนเองและพันธมิตร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.clairvoyance.description": {
+    "th": "เพิ่มความสามารถในการมองเห็นของผู้ใช้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.coercion.description": {
+    "th": "ปล่อยคลื่นคำรามไปด้านหน้า ทำให้เอนทิตีที่ได้รับผลหวาดกลัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.cold_nullification.description": {
+    "th": "ไม่รับความเสียหายจากความเย็นทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.cold_resistance.description": {
+    "th": "ไม่รับความเสียหายจากความเย็นที่อ่อน หรือช่วยต้านทานความเสียหายจากการโจมตีที่รุนแรง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.commander.description": {
+    "th": "นำพันธมิตรบุกโจมตี เสริมพลังให้ตนเองและพันธมิตรเพื่อสร้างความได้เปรียบอย่างท่วมท้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.confusion.description": {
+    "th": "ทำให้การมองเห็นของเป้าหมายโดยรอบสับสน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.cook.description": {
+    "th": "บิดเบือนความเป็นจริงเพื่อให้ศัตรูพบจุดจบ โดยไม่สนการหลบหลีกและบาเรียของพวกมัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.corrosion.description": {
+    "th": "เสริมการโจมตีด้วยผล Corrosion อันร้ายแรง เมื่อชำนาญแล้วสามารถสลับเปิด/ปิดได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.corrosion_nullification.description": {
+    "th": "ลบล้างความเสียหายจากการกัดกร่อนทั้งหมดโดยสมบูรณ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.corrosion_resistance.description": {
+    "th": "ไม่รับผลกัดกร่อนที่อ่อน หรือลดความเสียหายจากการโจมตีกัดกร่อนที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.create_greater_undead.description": {
+    "th": "เรียกอันเดดติดอาวุธขึ้นจากพื้นดินเพื่อช่วยผู้ใช้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.create_lesser_undead.description": {
+    "th": "เรียกอันเดดที่อ่อนแอขึ้นจากพื้นดินเพื่อช่วยผู้ใช้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.creator.description": {
+    "th": "สร้าง Unique Skill ใดก็ได้และใช้งานได้ในเวลาจำกัด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.curse.description": {
+    "th": "ปล่อย Miasmic Mist เพื่อสาปเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.curse_bind.description": {
+    "th": "เรียกวิญญาณคนตายมาตรึงและกัดกร่อนเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.danger_sense.description": {
+    "th": "ได้รับคำเตือนทางจิตเมื่อเอนทิตีที่มีเจตนาเป็นศัตรูเข้ามาใกล้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dark_cube.description": {
+    "th": "สร้างลูกบาศก์ความมืดที่ชะลอการเคลื่อนที่และสร้างความเสียหายอย่างต่อเนื่อง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dark_eight_palms.description": {
+    "th": "ปล่อยคลื่นออร่าทำลายล้างใส่ศัตรูได้สูงสุดแปดครั้ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.darkness.description": {
+    "th": "ใช้พลังจิตวิญญาณลดการมองเห็นของศัตรูในพื้นที่กว้าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.darkness_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายจากความมืดทั้งหมดโดยสมบูรณ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.darkness_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายจากความมืดที่อ่อน หรือลดความเสียหายจากการโจมตีที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.darkness_cannon.description": {
+    "th": "ยิงลำแสงยาวที่สร้างความเสียหายมหาศาล ทำลายเกราะ และทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.darkness_transform.description": {
+    "th": "ใช้ความมืดภายในเผาไหม้และทำให้คู่ต่อสู้ใกล้เคียงตาบอด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.death_march_dance.description": {
+    "th": "รวบรวมออร่าเป็นวงแหวนลูกแก้วออร่าทำลายล้างที่ถล่มลงมา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.degenerate.description": {
+    "th": "คราฟต์ แยกคืนวัตถุดิบ ปรับแต่งไอเทม และดูดซับความแข็งแกร่งจากศัตรูที่อ่อนกำลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.demon_dominate.description": {
+    "th": "ควบคุมเป้าหมายใดก็ได้ที่มีระดับไม่เกิน Calamity",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.demon_lord_haki.description": {
+    "th": "ปลดปล่อยออร่าปีศาจ ทำให้ผู้ที่อยู่โดยรอบสั่นสะท้านด้วยความกลัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.demon_marionette.description": {
+    "th": "ควบคุมเป้าหมายใดก็ได้ แม้จะอยู่ในระดับ Disaster",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.diamond_path.description": {
+    "th": "ทำให้ออร่ารอบตัวแข็งแกร่งเพื่อป้องกันการโจมตีที่เข้ามา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dimension_cutter.description": {
+    "th": "ฉีกห้วงอวกาศเพื่อส่งคมดาบรอยแยกมิติไปข้างหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.divine_berserker.description": {
+    "th": "เสริมพลังร่างกายอย่างมหาศาล แต่ต้องระวังผลข้างเคียงภายหลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.divine_ki_release.description": {
+    "th": "ใช้ Divine Ki ขยายพลัง Battlewill เพื่อสร้างความเสียหายเพิ่มและทำลายอุปกรณ์ที่อ่อนแอกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dominate.description": {
+    "th": "ควบคุมเป้าหมายระดับต่ำใดก็ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.doppelganger.description": {
+    "th": "ใช้พลังเวทของผู้ใช้เป็นสัดส่วนเพื่อสร้างร่างแยกที่เหมือนกันรอบตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dragon_ear.description": {
+    "th": "ใช้การได้ยินอันไวต่อเสียงระบุตำแหน่งม็อบใกล้เคียงที่ส่งเสียงได้อย่างแม่นยำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dragon_eye.description": {
+    "th": "ใช้สายตาอันทรงพลังประเมินพลังของเอนทิตีและมองไปได้ไกล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dragon_mode.description": {
+    "th": "ดึงศักยภาพมหาศาลออกมาได้วันละครั้ง เพื่อเพิ่ม EP เป็นสองเท่าและเสริมสมรรถภาพร่างกาย การทำเช่นนี้ส่งผลเสียต่อร่างกายชั่วคราว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.dragon_skin.description": {
+    "th": "เปลี่ยนผิวหนังเป็นเกล็ดที่แข็งแกร่งขึ้นตาม EP ที่เพิ่มขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.drain.description": {
+    "th": "ขโมยพลังชีวิตคู่ต่อสู้และเปลี่ยนสกิลนี้เป็นสกิลหนึ่งของคู่ต่อสู้ชั่วคราว เพื่อเปิดโอกาสพลิกสถานการณ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.drainage.description": {
+    "th": "ดูดน้ำรอบผู้ใช้ออก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth.description": {
+    "th": "วางบล็อกที่เลียนแบบบล็อกจากสภาพแวดล้อมโดยรอบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายธาตุดินทั้งหมดโดยสมบูรณ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายธาตุดินที่อ่อน หรือต้านทานความเสียหายจากการโจมตีที่รุนแรง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_domination.description": {
+    "th": "เพิ่มพลังความสามารถธาตุดินอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_jail.description": {
+    "th": "จำกัดการเคลื่อนไหวและทำให้เป้าหมายหนึ่งตัวอ่อนแอลง พร้อมใส่ดีบัฟเพื่อให้คุณปิดฉากได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.falsifier.empty": {
+    "th": "ว่าง",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.berserk.rage": {
+    "th": "Rage",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.bewilder.target": {
+    "th": "เป้าหมาย",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.black_flame.ball": {
+    "th": "§fFireball",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.degenerate.crafting": {
+    "th": "กำลังคราฟต์",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.fusionist.projectile": {
+    "th": "Stone",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.healer.heal": {
+    "th": "§fHeal",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.magic_aura.earth": {
+    "th": "Earth",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.magic_aura.water": {
+    "th": "น้ำ",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.merciless.steal": {
+    "th": "§fSoul Steal",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.shadow_motion.step": {
+    "th": "Shadow Step",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.spatial_motion.blink": {
+    "th": "§fBlink",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.mode.wrath.enrage": {
+    "th": "§fEnrage",
+    "via": "text-memory"
+  },
+  "lang|tensura|tensura.skill.ogre_sword_guillotine.description": {
+    "th": "เคลือบอาวุธด้วยออร่าเพื่อเพิ่มพลังโจมตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill_creator.create_skill": {
+    "th": "สร้าง",
+    "via": "text-memory"
+  },
+  "lang|tensura|tooltip.tensura.charybdis_core.active": {
+    "th": "ทำงานอยู่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.charybdis_core.inactive": {
+    "th": "ไม่ทำงาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.charybdis_core.inert": {
+    "th": "อยู่ระหว่างคูลดาวน์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.great_sage_menu.crafting": {
+    "th": "กำลังคราฟต์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.kiln.empty": {
+    "th": "ว่าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.kiln.mixing_left": {
+    "th": "ก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.kiln.mixing_right": {
+    "th": "ถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura_tno|tensura_tno.compat.tensurabarriers.guide.text.close": {
+    "th": "ปิด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura_tno|tensura_tno.compat.tensurabarriers.guide.skill.barrier": {
+    "th": "§fBarrier",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura_tno|tensura_tno.compat.tensurabarriers.ui.guide": {
+    "th": "คู่มือ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|toms_storage|tooltip.toms_storage.empty": {
+    "th": "ว่าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|toms_storage|tooltip.toms_storage.inventory_connector.channel.owner": {
+    "th": "เจ้าของ: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|twilightforest|item.twilightforest.travellers_gloves.desc": {
+    "th": "ของตกแต่ง (Cosmetic)",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|waystones|gui.waystones.waystone_selection.next_page": {
+    "th": "ถัดไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|waystones|gui.waystones.waystone_selection.previous_page": {
+    "th": "ก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|waystones|gui.waystones.waystone_settings.save": {
+    "th": "บันทึก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|waystones|gui.waystones.waystone_settings.close": {
+    "th": "ปิด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|waystones|tooltip.waystones.bound_to_none": {
+    "th": "ไม่มี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|yigd|enchantment.yigd.soulbound.desc": {
+    "th": "เก็บรักษาไอเทมไว้กับตัวเมื่อคุณตายและเกิดใหม่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|yigd|enchantment.yigd.death_sight.desc": {
+    "th": "หลุมศพของคุณจะเรืองแสงไฮไลต์ให้มองเห็นได้ชัดเจน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.barrier_piercing.desc": {
+    "th": "ทำลายบาเรียทุกชนิดที่อาวุธสัมผัส และเจาะเกราะได้บางส่วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|enchantment.tensura.dead_end_rainbow.desc": {
+    "th": "ตามหลักแล้วจะลดพลังชีวิตทางจิตวิญญาณของเป้าหมายเหลือ 0 หลังโจมตีครบ 7 ครั้ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.researcher_menu.enchantment_tab.xp_cost": {
+    "th": "ใช้ XP: %s แต้ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.researcher_menu.storage_tab": {
+    "th": "คลังมิติ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_lock.description": {
+    "th": "ทำให้พื้นดินแข็งตัวในตำแหน่งที่ผู้ร่ายต้องการ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถธาตุดินในระดับหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_spikes.description": {
+    "th": "สร้างหนามดินพุ่งจากพื้นเพื่อแทงศัตรู",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_storm.description": {
+    "th": "เรียกพายุทรายหนาทึบและหินร่วงลงรอบตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_transform.description": {
+    "th": "ใช้พลังแห่งดินเพิ่มความเสียหายและแรงโน้มถ่วงรอบตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earth_wall.description": {
+    "th": "เรียกกำแพงดินขนาดยักษ์ขึ้นจากพื้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.earthshatter_kick.description": {
+    "th": "กระทืบเท้าให้พื้นดินรอบตัวปะทุขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.eight_petals_flash.description": {
+    "th": "พุ่งเข้าฟันแปดครั้งต่อเนื่องแทบในพริบตา เล็งดวงตา ลำคอ หัวใจ ไต ปอด และขาหนีบของเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.electricity_nullification.description": {
+    "th": "ลบล้างความเสียหายจากไฟฟ้าทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.electricity_resistance.description": {
+    "th": "ไม่รับความเสียหายจากไฟฟ้าที่อ่อน และต้านทานการโจมตีที่แรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.electro_blast.description": {
+    "th": "ยิงลำแสงทะลุศัตรู สร้างความเสียหายรุนแรงพร้อมทำให้ศัตรูเป็นอัมพาต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.elephant_stampede.description": {
+    "th": "ปล่อยลูกพลังออร่าเป็นวงรอบตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.engorger.description": {
+    "th": "ขยายขนาดร่างกายและเพิ่มค่าสถานะทางกายภาพ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.envy.description": {
+    "th": "ดูดพลังจากศัตรู เสริมพลังให้ตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.escape.description": {
+    "th": "เชื่อมสองจุดในอวกาศเพื่อสร้างทางหนี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.explosion.description": {
+    "th": "เรียกลำแสงหนึ่งสายให้ระเบิดที่เป้าหมาย สร้างแรงระเบิดมหาศาลจากพลังเวทล้วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.eye_of_truth.description": {
+    "th": "เมื่อได้รับ Hero Egg ในตำนาน ม่านแห่งการหลอกลวงจะถูกฉีกออก ไม่มีภาพลวงตาหรือการซ่อนตัวใดหลอกสายตาคุณได้อีก และการมองเห็นจะสมบูรณ์แบบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.falsifier.description": {
+    "th": "มองทะลุคำลวงและการล่องหน ซ่อนตัวจากสายตาผู้อื่น และสร้างภาพลวงตา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.farsight.description": {
+    "th": "เพ่งสายตาเพื่อมองสิ่งที่อยู่ไกลออกไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fighter.description": {
+    "th": "ฝึกฝนจนเชี่ยวชาญ เรียนความสามารถต่อสู้และเวทมนตร์ได้ทันที รับแต้มความชำนาญมากขึ้น และโจมตีได้หนักขึ้นมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire.description": {
+    "th": "ใช้พลังจิตวิญญาณจุดไฟเล็กน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire_aspectual.description": {
+    "th": "ยิงกระสุนเวทเปลวไฟ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire_ball.description": {
+    "th": "ยิงลูกไฟอัดแน่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire_bolt.description": {
+    "th": "ยิงกระสุนเพลิง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire_breath.description": {
+    "th": "พ่นเปลวไฟเผาผลาญศัตรู",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire_lance.description": {
+    "th": "ยิงหอกเพลิงเวทมนตร์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire_storm.description": {
+    "th": "เรียกระลอกเปลวไฟเผาผลาญเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fire_wall.description": {
+    "th": "สร้างกำแพงไฟเพื่อกันเป้าหมายออกไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.five_petals_thrust.description": {
+    "th": "พุ่งแทงจุดตายห้าจุดจากทั้งหมดสิบจุด และใช้ท่าที่เล็งอีกห้าจุดเป็นท่าลวง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flame_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายจากเปลวไฟทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flame_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายจากเปลวไฟที่อ่อน และต้านทานเปลวไฟที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flame_breath.description": {
+    "th": "พ่นไฟเผาศัตรูและทำให้พื้นติดไฟ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flame_domination.description": {
+    "th": "เพิ่มพลังความสามารถไฟอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flame_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถไฟในระดับหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flame_transform.description": {
+    "th": "ใช้พลังแห่งไฟเผาศัตรูทั้งหมดที่อยู่ใกล้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flame_wall.description": {
+    "th": "สร้างกำแพงไฟลวงตาเพื่อกันเป้าหมายออกไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flare_circle.description": {
+    "th": "เปิดประตูสู่นรก ปล่อยเปลวเพลิงชั่วร้ายเผาศัตรูให้เป็นเถ้าถ่าน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.flight.description": {
+    "th": "ส่งตัวผู้ร่ายให้พุ่งไปข้างหน้ากลางอากาศ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.float.description": {
+    "th": "ลดแรงโน้มถ่วงของผู้ร่ายให้ลอยตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.formhide.description": {
+    "th": "ปรับออร่าให้กลมกลืนกับสภาพแวดล้อมจนผู้อื่นตรวจจับไม่ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.freeze.description": {
+    "th": "ทำให้บล็อกแหล่งน้ำแข็งตัวเป็นน้ำแข็ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.full_recovery.description": {
+    "th": "ฟื้นพลังชีวิตและค่าความอิ่มของสิ่งมีชีวิตจนเต็ม พร้อมมอบ Absorption",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.fusionist.description": {
+    "th": "เปลี่ยนโลกรอบตัวเป็นอาวุธ ดูดซับสิ่งแวดล้อมเพื่อสร้างกับระเบิดและระเบิดขว้างอันทรงพลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gate.description": {
+    "th": "ฉีกมิติเพื่อเชื่อมสองจุดในอวกาศ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.giantification.description": {
+    "th": "ขยายร่างเกินขนาดปกติเพื่อเพิ่มพละกำลังและระยะเอื้อม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gluttony.description": {
+    "th": "กลืนกินทุกสิ่งที่ขวางหน้า ไม่มีใครต้านทานได้ รับและมอบสกิล เข้าถึงคลังมิติ และเลียนแบบเอนทิตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.godly_craftsman.description": {
+    "th": "ใช้ประสบการณ์ที่สั่งสมสร้างผลงานชั้นยอดได้ง่าย และสลักอาวุธให้มีประสิทธิภาพน่าสะพรึงกลัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.godwolf_sense.description": {
+    "th": "เพิ่มประสาทสัมผัสให้มองเห็นในความมืด และตรวจพบเอนทิตีล่องหนที่อยู่ใกล้ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gourmand.description": {
+    "th": "กลืนกินพลังของศัตรู ขโมยมาจิคูลด้วยการโจมตี และแข็งแกร่งขึ้นเมื่อสังหารผู้อื่น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gourmet.description": {
+    "th": "ดูดกลืนศัตรู รับพลังใหม่ และย่อยสลายทุกสิ่งที่ขวางทาง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gravity_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายจากแรงโน้มถ่วงทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gravity_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายจากแรงโน้มถ่วงที่อ่อน และลดความเสียหายจากการโจมตีที่แรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gravity_domination.description": {
+    "th": "เพิ่มพลังความสามารถแรงโน้มถ่วงอย่างมาก และทำให้บินได้อย่างอิสระ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gravity_field.description": {
+    "th": "ลดแรงโน้มถ่วงรอบตัวให้เคลื่อนไหวง่ายขึ้น หรือสร้างพื้นที่ทรงกลมที่ปรับขนาดได้ ซึ่งให้ผลแบบเดียวกันพร้อมทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gravity_flight.description": {
+    "th": "ควบคุมแรงโน้มถ่วงเพื่อบิน โดยยังรักษาโมเมนตัมจากการเคลื่อนที่ก่อนหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.gravity_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถแรงโน้มถ่วงในระดับหนึ่ง และทำให้บินได้อย่างอิสระ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.great_sage.description": {
+    "th": "เพิ่มความสามารถทางความคิดให้เรียนรู้และร่ายได้เร็วขึ้น ประเมินเป้าหมาย วิเคราะห์เพื่อคัดลอกสกิล และแปรรูปวัตถุดิบเพื่อคราฟต์หรือทำสำเนาไอเทมและอุปกรณ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.greed.description": {
+    "th": "ช่วงชิงทุกสิ่ง พิชิตโลกและศัตรู สังหารผู้ที่ขวางทาง พร้อมเสริมความแข็งแกร่งให้ตัวเองหรือพันธมิตร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.guardian.description": {
+    "th": "ยืนหยัดเป็นปราการต่อหน้าศัตรู รับความเสียหายแทนพันธมิตรและเสริมการป้องกันให้พวกเขา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.haki.description": {
+    "th": "แผ่ออร่าข่มขู่ศัตรูใกล้ตัวให้ยอมสยบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.haze.description": {
+    "th": "ห่อหุ้มตัวเองด้วยออร่า ซ่อนตัวแม้จากประสาทสัมผัสที่เฉียบคมที่สุด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.healer.description": {
+    "th": "รักษาบาดแผลด้วยการสัมผัส หรือปล่อยอาการผิดปกติร้ายแรง เป็นได้ทั้งผู้ช่วยชีวิตและผู้มอบความทุกข์ทรมาน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.healing.description": {
+    "th": "รักษาสิ่งมีชีวิตได้เล็กน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.healing_rain.description": {
+    "th": "เรียกสายฝนแห่งการรักษาครอบคลุมบริเวณกว้าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.healthcare.description": {
+    "th": "เพิ่มพลังชีวิตและค่าความอิ่มสะสมของผู้ร่าย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.heat_nullification.description": {
+    "th": "ลบล้างความเสียหายจากความร้อนทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.heat_resistance.description": {
+    "th": "ไม่รับความเสียหายจากความร้อนที่อ่อน และลดความเสียหายจากแหล่งความร้อนที่แรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.heat_wave.description": {
+    "th": "ยิงกระสุนเพลิง หรือเรียกพายุไฟระยะใกล้ที่สร้างความเสียหายแก่เอนทิตีรอบตัวทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.heavenly_eye.description": {
+    "th": "ใช้สายตาเหนือโลกมองเห็นเอนทิตีรอบตัวทั้งหมด และข้ามความสามารถหลบหลีกได้บางส่วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.heavy_slash.description": {
+    "th": "ส่งออร่าสู่แขนแล้วฟาดฟันลงด้วยพลังแยกขุนเขา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.hellfire.description": {
+    "th": "เรียกลูกไฟนรก สร้างความเสียหายมหาศาลในพื้นที่เล็ก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.hero_haki.description": {
+    "th": "ใช้ Hero Aura ปลุกขวัญพันธมิตรและข่มขวัญศัตรู",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.holy_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายศักดิ์สิทธิ์ทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.holy_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายจากการโจมตีศักดิ์สิทธิ์ที่อ่อน และลดความเสียหายจากพลังศักดิ์สิทธิ์ที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.hydraulic_propulsion.description": {
+    "th": "ขับเคลื่อนตัวเองด้วยความเร็วสูงใต้น้ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.hypnos.description": {
+    "th": "ทำให้แม้แต่เอนทิตีที่แข็งแกร่งที่สุดหลับใหล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ice_blizzard.description": {
+    "th": "สร้างพายุหิมะรุนแรงเพื่อแช่แข็งศัตรู",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ice_breaker.description": {
+    "th": "ยิงหอกน้ำแข็งขนาดยักษ์ใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ice_breath.description": {
+    "th": "พ่นลมหายใจเยือกแข็งเพื่อแช่แข็งศัตรู",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ice_wall.description": {
+    "th": "เรียกกำแพงน้ำแข็งขึ้นใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.icicle_lance.description": {
+    "th": "ยิงแท่งน้ำแข็งใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.icicle_rain.description": {
+    "th": "ระดมยิงหอกน้ำแข็งจากท้องฟ้าใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.icicle_spear.description": {
+    "th": "สร้างหนามน้ำแข็งขนาดยักษ์พุ่งจากพื้นโจมตีเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.infinite_regeneration.description": {
+    "th": "ใช้มาจิคูลปริมาณมหาศาลฟื้นตัวทันทีจากบาดแผลแทบทุกชนิด ยกเว้นบาดแผลที่ร้ายแรงที่สุด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.infinity_prison.description": {
+    "th": "ขังศัตรูในกรงมิติที่ทำลายไม่ได้ หรือใช้บาเรียมิติปกป้องตัวเองจากภัยทุกชนิด พร้อมเข้าถึงคลังมิติ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.instant_move.description": {
+    "th": "รวมออร่าไว้ที่เท้าเพื่อเคลื่อนที่เร็วเกินสายตาจะตามทัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.invisible.description": {
+    "th": "ทำให้ผู้ร่ายล่องหนเพื่อซ่อนตัวจากเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.law_manipulation.description": {
+    "th": "ควบคุมกฎของโลกเพื่อข้ามข้อจำกัดหลายอย่าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.light.description": {
+    "th": "เรียกแสงชั่วคราวขับไล่ความมืด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.light_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายธาตุแสงทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.light_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายธาตุแสงที่อ่อน และลดความเสียหายจากการโจมตีที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.light_transform.description": {
+    "th": "ใช้แสงภายในตัวสร้างความเสียหายธาตุแสงและทำให้เอนทิตีใกล้ตัวทั้งหมดคลื่นไส้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.lighten.description": {
+    "th": "ลดแรงโน้มถ่วงของผู้ร่ายเพื่อเพิ่มความเร็วและพลังในการกระโดด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.lightning_domination.description": {
+    "th": "เพิ่มพลังความสามารถสายฟ้าอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.lightning_lance.description": {
+    "th": "ปล่อยกระสุนสายฟ้าทำให้ศัตรูถูกไฟฟ้าช็อต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.lightning_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถสายฟ้าในระดับหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.liquidize.description": {
+    "th": "เปลี่ยนพื้นดินในตำแหน่งที่ผู้ร่ายต้องการให้เหลว กลายเป็นกับดักอันตราย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.lust.description": {
+    "th": "ควบคุมความเป็นความตาย ดูดพลังจากศัตรู หรือฟื้นกำลังให้ผู้ที่อยู่ใต้การคุ้มครอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_aura.description": {
+    "th": "เสริมการโจมตีด้วยออร่าหลายธาตุ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_barrier.description": {
+    "th": "ห่อหุ้มผู้ร่ายด้วย Magic Barrier ที่มีความแข็งแกร่งตามพลังชีวิต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_bullet.description": {
+    "th": "รวมออร่าเป็นแรงระเบิดอันทรงพลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_darkness_transform.description": {
+    "th": "ใช้ Darkness Spirit Magic ระดับกลางได้ เพิ่มพลังการโจมตีธาตุมืด พร้อมเสริมพลังตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_earth_transform.description": {
+    "th": "ใช้ Earth Spirit Magic ระดับกลางได้ เพิ่มพลังการโจมตีธาตุดิน พร้อมเสริมพลังตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_flame_transform.description": {
+    "th": "ใช้ Flame Spirit Magic ระดับกลางได้ เพิ่มพลังการโจมตีไฟ พร้อมเสริมพลังตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_jamming.description": {
+    "th": "รบกวนสกิล เวทมนตร์ การบิน และเมื่อชำนาญแล้วจะรบกวนการแปลงร่างได้ด้วย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_light_transform.description": {
+    "th": "ใช้ Light Spirit Magic ระดับกลางได้ เพิ่มพลังการโจมตีธาตุแสง พร้อมเสริมพลังตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_nullification.description": {
+    "th": "ลบล้างความเสียหายเวทมนตร์ทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_resistance.description": {
+    "th": "ไม่รับความเสียหายจากเวทมนตร์ที่อ่อน และลดความเสียหายจากคาถาที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_sense.description": {
+    "th": "ใช้มาจิคูลตรวจจับเอนทิตีรอบตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_space_transform.description": {
+    "th": "ใช้ Space Spirit Magic ระดับกลางได้ เพิ่มพลังการโจมตีเชิงมิติ พร้อมเสริมพลังตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_wall.description": {
+    "th": "สร้างกำแพงเวทมนตร์เพื่อปกป้องผู้ร่าย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_water_transform.description": {
+    "th": "ใช้ Water Spirit Magic ระดับกลางได้ เพิ่มพลังการโจมตีธาตุน้ำ พร้อมเสริมพลังตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magic_wind_transform.description": {
+    "th": "ใช้ Wind Spirit Magic ระดับกลางได้ เพิ่มพลังการโจมตีธาตุลม พร้อมเสริมพลังตัวเองและทำให้ศัตรูอ่อนแอลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.magma_surge.description": {
+    "th": "ยิงลาวากระจายออกไป เผาและหลอมละลายทุกสิ่งในช่วงเวลาจำกัด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.majesty.description": {
+    "th": "เพิ่มชื่อเสียงกับชาวบ้านเพื่อรับเอฟเฟกต์ Hero of the Village ถาวร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.mana_manipulation.description": {
+    "th": "ควบคุมมานาได้ดีขึ้น ลดมาจิคูลที่ใช้ร่ายเวท และลดความเสียหายจากการโจมตีที่ใช้มาจิคูล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.martial_master.description": {
+    "th": "เสริมการโจมตีทางกายภาพ เร่งความคิดให้ตอบสนองและหลบหลีกได้ดีขึ้น พร้อมอัดศัตรูให้ยอมสยบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.mathematician.description": {
+    "th": "ใช้คณิตศาสตร์เพิ่มความสามารถต่อสู้ และใช้การประเมินเชิงวิเคราะห์ตรวจสอบทุกสิ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.maximum_magic_bullet.description": {
+    "th": "รวมออร่าเป็นแรงระเบิดมหึมา กวาดล้างทุกคนที่กล้าต่อต้าน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.megiddo.description": {
+    "th": "ใช้น้ำปล่อยพลังระเบิดจากดวงอาทิตย์อย่างรุนแรง สังหารศัตรูใกล้ตัว หรือควบคุมเองเพื่อรวมการโจมตีใส่ศัตรูที่แข็งแกร่งกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.mental_crush.description": {
+    "th": "บดขยี้จิตใจของเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.merciless.description": {
+    "th": "สังหารศัตรูที่อ่อนแอลงได้ทันที หรือดูดพลังชีวิตจากผู้ไร้ใจสู้และผู้ที่อ่อนแอกว่าคุณมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.mirage.description": {
+    "th": "สร้างร่างแยกลวงตารอบผู้ร่าย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.molecular_manipulation.description": {
+    "th": "ใช้ความรู้และพลังควบคุมองค์ประกอบของโลกเพื่อรับบล็อกและเคลื่อนย้ายเอนทิตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.mortal_fear.description": {
+    "th": "ทำให้ศัตรูที่อ่อนแอกว่าหวาดกลัวความตายอย่างจับใจ พร้อมเสริมพลังพันธมิตร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.mud_hand.description": {
+    "th": "ใช้มือโคลนหลายมือจับตรึงเป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.mud_spears.description": {
+    "th": "สร้างหนามโคลนพุ่งจากพื้นแทงศัตรู",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.multilayer_barrier.description": {
+    "th": "ปกป้องตัวเองด้วยบาเรียป้องกันอันทรงพลังหลายชั้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.murderer.description": {
+    "th": "หายเข้าไปในเงาแล้วสร้างความเสียหายมหาศาล พร้อมทำให้ตรวจจับด้วยเสียงไม่ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.musician.description": {
+    "th": "เปลี่ยนดนตรีไพเราะเป็นเครื่องมือทำลายล้าง ใช้เสียงสร้างแรงระเบิดทรงพลังที่ข้ามเกราะ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.observer.description": {
+    "th": "มองเห็นทุกสิ่ง หลบหลีกทุกอย่าง หลีกเลี่ยงการโจมตีตามสัญชาตญาณ ตรวจจับอันตรายและเอนทิตีที่ซ่อนอยู่ ไม่มีสิ่งใดพ้นสายตา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ogre_berserker.description": {
+    "th": "ปล่อยให้ความโกรธครอบงำ เพิ่มพลังกายอย่างมหาศาลชั่วคราว ก่อนผลข้างเคียงจะตามมา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ogre_flame.description": {
+    "th": "ใช้ออร่าสร้างเสาเพลิง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ogre_sword_cannon.description": {
+    "th": "อัดออร่าเป็นคมดาบแล้วยิงออกไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.oppressor.description": {
+    "th": "ควบคุมแรงโน้มถ่วง แรงดึงดูด และแรงผลัก หรือปล่อยการโจมตีระยะไกลร้ายแรงบดขยี้ทุกคนที่ขวางทาง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.pain_nullification.description": {
+    "th": "ลบล้างผลความเจ็บปวดทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.pain_resistance.description": {
+    "th": "ต้านทานผลความเจ็บปวด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.paralysing_breath.description": {
+    "th": "พ่นลมหายใจน่าสะพรึงกลัวเพื่อทำให้เหยื่อเป็นอัมพาต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.paralysis.description": {
+    "th": "เสริมการโจมตีด้วย Paralysis เมื่อชำนาญแล้วจะเปิดปิดได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.paralysis_nullification.description": {
+    "th": "ลบล้างผลอัมพาตทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.paralysis_resistance.description": {
+    "th": "ไม่รับผลอัมพาตที่อ่อน และลดระยะเวลาอัมพาตที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.physical_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายทางกายภาพทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.physical_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายจากการโจมตีทางกายภาพที่อ่อน และลดความเสียหายจากการโจมตีที่แรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.pierce_nullification.description": {
+    "th": "ลบล้างความเสียหายเจาะทะลุทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.pierce_resistance.description": {
+    "th": "ไม่รับความเสียหายเจาะทะลุที่อ่อน และลดความเสียหายจากการโจมตีที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.poison.description": {
+    "th": "เสริมการโจมตีด้วย Poison เมื่อชำนาญแล้วจะเปิดปิดได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.poison_nullification.description": {
+    "th": "ลบล้างความเสียหายจากพิษทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.poison_resistance.description": {
+    "th": "ไม่รับผลของพิษที่อ่อน และลดความเสียหายจากพิษที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.poisonous_breath.description": {
+    "th": "ใช้ลมหายใจเหม็นเน่ากัดกร่อนและทำให้เป้าหมายคลื่นไส้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.possession.description": {
+    "th": "เข้าสิงร่างกายที่อ่อนแอเพื่อก้าวเข้าสู่โลกใหม่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.possession_magic.description": {
+    "th": "เข้าสิงร่างกายที่อ่อนแอเพื่อรับพลังใหม่จากร่างนั้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.predator.description": {
+    "th": "เป็นมอนสเตอร์อย่างที่คุณควรเป็น กลืนกินทุกสิ่ง วิเคราะห์ คราฟต์ และขัดเกลาไอเทม เข้าถึงคลังมิติและเลียนแบบเอนทิตี",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.pride.description": {
+    "th": "เปลี่ยนพลังของศัตรูให้เป็นของตัวเองและพลิกสถานการณ์การต่อสู้ คัดลอกความสามารถเมื่อถูกโจมตีด้วยพลังนั้น หากผ่านเงื่อนไขที่กำหนด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.protection.description": {
+    "th": "เพิ่มพลังป้องกันของผู้ร่ายอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ranged_barrier.description": {
+    "th": "วางบาเรียขนาดต่าง ๆ เพื่อขังศัตรูไว้ข้างในหรือกันออกไป แต่การโจมตีที่รุนแรงยังทำลายบาเรียได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.reaper.description": {
+    "th": "สอดแนมด้วยร่างที่เล็กและคล่องตัวขึ้น พร้อมมองเห็นศัตรูรอบตัว สร้างร่างแยก หรือดูดแก่นพลังของศัตรูเพื่อสังหารในครั้งเดียว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.recovery.description": {
+    "th": "ฟื้นพลังชีวิตและค่าความอิ่มของสิ่งมีชีวิตเป็นจำนวนมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.reflector.description": {
+    "th": "พลิกสถานการณ์ด้วยการสะท้อนความเสียหายทั้งหมดที่ได้รับ ปล่อยกระสุนโจมตีร้ายแรงหรือสวนการโจมตีโดยตรง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.reincarnation.description": {
+    "th": "สละพลังบางส่วนของผู้ร่ายเพื่อกลับชาติมาเกิด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.reinforced_barrier.description": {
+    "th": "ห่อหุ้มผู้ร่ายด้วยบาเรียเสริมความแข็งแกร่งที่มีพลังตามพลังชีวิต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.reinforcement.description": {
+    "th": "เพิ่มความทนทานของอุปกรณ์ผู้ร่ายอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.researcher.description": {
+    "th": "ศึกษาตำราเวทโบราณ วิเคราะห์ย้อนกลับ และสร้างสิ่งมหัศจรรย์เหนือจินตนาการ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.reverser.description": {
+    "th": "พลิกกฎ เปลี่ยนแนวพลัง สลับบัฟกับดีบัฟ และปรับจุดแข็งจุดอ่อนให้เป็นประโยชน์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.roaring_lion_punch.description": {
+    "th": "รวมออร่าเป็นการโจมตีน่าเกรงขามด้วยสง่าราศีแห่งราชสีห์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.royal_beast.description": {
+    "th": "ปลดปล่อยความเกรี้ยวกราดดั้งเดิม เพิ่มพลังกายมหาศาลเพื่อบดขยี้ศัตรู",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sacred_haki.description": {
+    "th": "ทำให้ความชั่วหวาดหวั่นและมอบพลังแก่พันธมิตร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sage.description": {
+    "th": "เพิ่มความเร็วในการเรียนรู้และฝึกสกิล เวทมนตร์ และวิชาจนชำนาญ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.scale_armor.description": {
+    "th": "เคลื่อนผ่านน้ำและโคลนได้โดยไม่เสียเปรียบเหมือน Lizardman พร้อมเพิ่มการป้องกันเล็กน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.search_enemy.description": {
+    "th": "ไฮไลต์ม็อบศัตรูรอบผู้ร่าย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.seeker.description": {
+    "th": "เร่งกระบวนการคิดถึงขีดสุด เชี่ยวชาญเวทมนตร์ และควบคุมกฎพื้นฐานของโลกเพื่อให้การกระทำกับผลลัพธ์มีประสิทธิภาพสูงสุด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.seer.description": {
+    "th": "มองเห็นทุกสิ่ง คาดการณ์ท่าของศัตรู หลบหรือลดผลการโจมตี และอ่านการเคลื่อนไหวเพื่อโจมตีคริติคอล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.self_regeneration.description": {
+    "th": "เร่งการฟื้นตัวตามธรรมชาติของร่างกายเพื่อเพิ่มโอกาสรอดชีวิต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sense_heat_source.description": {
+    "th": "ไฮไลต์เอนทิตีที่แผ่ความร้อนอยู่ใกล้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sense_soundwave.description": {
+    "th": "เพิ่มประสาทหูเพื่อระบุตำแหน่งเอนทิตีใกล้ตัวได้แม่นยำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.severer.description": {
+    "th": "ฟันผ่านความเป็นจริง สร้างคมดาบมิติที่ตัดทะลุเกราะ และปล่อยพายุดาบทำลายล้าง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.shadow_bind.description": {
+    "th": "หากเป้าหมายยืนอยู่ในเงา จะตรึงไว้และสร้างความเสียหายทางจิตวิญญาณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.shadow_motion.description": {
+    "th": "หลอมรวมกับเงาแล้วเคลื่อนที่อย่างไร้ร่องรอย มีเพียงผู้สังเกตที่เฉียบคมที่สุดจึงจะมองเห็น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.shadow_striker.description": {
+    "th": "เป็นหนึ่งเดียวกับเงา สร้างความเสียหายทางจิตวิญญาณมหาศาล และป้องกันการตรวจจับตัวตนระดับต่ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.shrink.description": {
+    "th": "ย่อร่างให้หลบหลีกได้ดีขึ้น แต่เปราะบางต่อการโจมตีมากขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sleep_mist.description": {
+    "th": "ปล่อยหมอกนิทราครอบคลุมพื้นที่กว้างเพื่อทำให้เป้าหมายเป็นอัมพาต",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sloth.description": {
+    "th": "ทำให้โลกหยุดนิ่ง ส่งศัตรูสู่ห้วงนิทรามรณะ ดูดพลังของพวกเขา และพักเพื่อฟื้นพลังชีวิตที่สูญเสีย ปล่อยให้ความเฉื่อยชาครอบงำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.snake_eye.description": {
+    "th": "ส่งดีบัฟหลายชนิดใส่เป้าหมายเพียงแค่มอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sniper.description": {
+    "th": "สร้างความเสียหายจากระยะไกล ใช้กระสุนต่างชนิดฝ่าความต้านทานเพื่อสังหารอย่างรวดเร็ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.solar_beam.description": {
+    "th": "ยิงลำแสงสร้างความเสียหายมหาศาลแก่เอนทิตีอันเดดและเผาบล็อก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.solar_flare.description": {
+    "th": "ยิงคลื่นกระแทกพลังแสง ทำให้เป้าหมายทั้งหมดในพื้นที่กว้างคลื่นไส้ ตาบอด และเชื่องช้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.solar_rain.description": {
+    "th": "ยิงกระสุนแสงจำนวนมาก สร้างความเสียหายมหาศาลแก่สิ่งมีชีวิตอันเดด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.solar_wave.description": {
+    "th": "ยิงคลื่นพลังแสง ทำให้ศัตรูที่โดนตาบอดและเคลื่อนไหวช้าลง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sound_domination.description": {
+    "th": "เพิ่มพลังความสามารถเสียงอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sound_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถเสียงในระดับหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.space.description": {
+    "th": "สร้างแท่นที่มองไม่เห็นเพื่อใช้เป็นที่เหยียบกลางอากาศ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.space_transform.description": {
+    "th": "ใช้พลังแห่งมิติทำให้เอนทิตีใกล้ตัวทั้งหมดอ่อนแอลงและได้รับความเสียหาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spatial_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายเชิงมิติทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spatial_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายจากการโจมตีเชิงมิติที่อ่อน และลดความเสียหายจากการโจมตีข้ามมิติที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spatial_domination.description": {
+    "th": "เพิ่มพลังความสามารถมิติอย่างมาก และผ่าตัวเป้าหมายด้วยการโจมตีข้ามมิติเพื่อสร้างความเสียหายมหาศาล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spatial_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถมิติในระดับหนึ่ง และควบคุมมิติเพื่อเสริมการโจมตีระยะไกล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spatial_motion.description": {
+    "th": "ฉีกมิติเพื่อสร้างทางผ่านที่ปลอดภัยให้ตัวเองและพันธมิตร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spatial_storage.description": {
+    "th": "แหวกมิติสร้างพื้นที่ย่อยขนาดเล็กสำหรับเก็บไอเทม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spearhead.description": {
+    "th": "เสริมพลังและสั่งการพันธมิตร แล้วรับความสามารถของพวกเขามาเมื่อพวกเขาล่วงลับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spiritual_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายทางจิตวิญญาณทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.spiritual_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายจากการโจมตีทางจิตวิญญาณที่อ่อน และต้านทานการโจมตีที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.starved.description": {
+    "th": "กลืนกินทุกสิ่งที่ขวางหน้า หรือให้ลูกน้องที่อาละวาดทำแทน กัดกร่อนศัตรู ดูดกลืนพลัง และรับความสามารถของพวกเขามาเป็นของตัวเอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.steel_strength.description": {
+    "th": "เสริมกล้ามเนื้อเพื่อเพิ่มความเสียหาย เมื่อชำนาญแล้วจะเปิดปิดได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.sticky_steel_thread.description": {
+    "th": "ควบคุมเส้นด้ายในรูปแบบต่าง ๆ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.stone_shot.description": {
+    "th": "ยิงหนามหินใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.strength.description": {
+    "th": "ใช้มาจิคูลเสริมความแข็งแกร่งของกล้ามเนื้อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.strength_aspectual.description": {
+    "th": "เพิ่มพละกำลังของผู้ร่ายอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.strengthen_body.description": {
+    "th": "เสริมร่างกายให้ป้องกันการโจมตีได้ดีขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.summon_basilisk.description": {
+    "th": "อัญเชิญ Basilisk มาช่วยต่อสู้ชั่วคราว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.summon_daemon.description": {
+    "th": "อัญเชิญ Daemon จากนรกมาช่วยต่อสู้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.summon_greater_elemental.description": {
+    "th": "อัญเชิญ Greater Elemental Spirit ที่ทำสัญญาไว้ ให้ชำระล้างคนนอกรีตแทนคุณ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.summon_hound_dog.description": {
+    "th": "อัญเชิญ Hound Dog มาช่วยต่อสู้ชั่วคราว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.summon_medium_elemental.description": {
+    "th": "อัญเชิญ Elemental Spirit ที่ทำสัญญาไว้มาช่วยต่อสู้ชั่วคราว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.summon_otherworlder.description": {
+    "th": "อัญเชิญมนุษย์จากต่างโลก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.suppressor.description": {
+    "th": "จำกัดการวาร์ป สลับตำแหน่งให้ศัตรูสับสน และใช้การเคลื่อนย้ายชั่วพริบตาหรือประตูมิติเดินทางไกล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.survivor.description": {
+    "th": "อดทนและฟื้นฟูตนเองฝ่าทุกสิ่ง ต้านทานความเสียหายทางกายภาพและธรรมชาติ และยืนหยัดแม้เสียเปรียบอย่างหนัก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.swipe.description": {
+    "th": "ฟันผ่านมิติเป็นเส้นตรงเพื่อย้ายเอนทิตีหรือเคลื่อนย้ายผู้ร่าย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.telepathy.description": {
+    "th": "มองสัตว์ที่เชื่องแล้วใช้คำสั่งเพื่อสั่งการ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.teleport.description": {
+    "th": "เคลื่อนย้ายชั่วพริบตาไปยังตำแหน่งข้างหน้าที่มองเห็น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thermal_fluctuation_nullification.description": {
+    "th": "ลบล้างความเสียหายจากอุณหภูมิทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thermal_fluctuation_resistance.description": {
+    "th": "ไม่รับความเสียหายจากอุณหภูมิที่อ่อนไม่ว่าชนิดใด และต้านทานการโจมตีที่แรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thought_acceleration.description": {
+    "th": "เร่งความคิดให้ร่ายเวทและตอบสนองได้เร็วขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thought_communication.description": {
+    "th": "ส่งคำสั่งให้พันธมิตรใกล้ตัว และสั่งให้พวกเขาโจมตีผู้เล่นได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thrower.description": {
+    "th": "ใช้ทักษะและความแม่นยำขว้างทุกสิ่งเพื่อสร้างความเสียหายมหาศาล แม้แต่อากาศก็ผลักออกไปหรือใช้ผลักศัตรูกลับได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thunder.description": {
+    "th": "เรียกสายฟ้ารุนแรงลงในตำแหน่งที่ผู้ร่ายมอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thunder_breath.description": {
+    "th": "ปล่อยสายฟ้าจากปาก สร้างความเสียหายแก่ศัตรูด้านหน้า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thunder_lance.description": {
+    "th": "โจมตีด้วยหอกสายฟ้าเวทมนตร์อันทรงพลัง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thunder_orb.description": {
+    "th": "เรียกลูกพลังสายฟ้าที่โจมตีศัตรูซึ่งเข้ามาใกล้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.thunder_rain.description": {
+    "th": "เรียกเมฆสายฟ้าครอบคลุมพื้นที่กว้าง โจมตีศัตรูทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.titanification.description": {
+    "th": "เติบโตเป็นยักษ์สูงตระหง่าน เพิ่มพละกำลัง การป้องกัน และระยะเอื้อมอย่างมหาศาล พร้อมป้องกันเวทมนตร์จากศัตรูที่อ่อนแอกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.tornado_blade.description": {
+    "th": "ยิงลูกพลังลมอัดแน่นใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.traveler.description": {
+    "th": "เคลื่อนผ่านมิติได้อิสระ วาร์ประยะไกลหรือสร้างประตูมิติ และควบคุมละอองดาวเพื่อสร้างความเสียหายมหาศาล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.true_darkness.description": {
+    "th": "ทำให้เอนทิตีทั้งหมดติด Blindness และสร้างความเสียหายทางจิตวิญญาณมหาศาล",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.tuner.description": {
+    "th": "เปลี่ยนชะตาให้รอดจากการโจมตีถึงตาย ฟื้นตัวทันที และควบคุมความน่าจะเป็น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ultra_instinct.description": {
+    "th": "เพิ่มประสาทสัมผัสเพื่อหลบแรงกระแทกทางกายภาพ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ultrasonic_waves.description": {
+    "th": "ปล่อยเสียงกรีดร้องสร้างความเสียหายแก่ร่างกาย หรือใช้เสียงสะท้อนไฮไลต์เอนทิตีใกล้ตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.ultraspeed_regeneration.description": {
+    "th": "เพิ่มการรักษาตัวของร่างกายจนแทบเป็นไปไม่ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.universal_perception.description": {
+    "th": "รวมการตรวจจับเวทมนตร์ เสียง และความร้อน เพื่อตรวจจับเอนทิตีรอบตัว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.unpredictability.description": {
+    "th": "ในมือของ True Hero ความคาดเดาไม่ได้คืออำนาจสูงสุด ผู้กล้ามองเห็นทุกสิ่ง ข้ามการหลบหลีก และอ่านการเคลื่อนไหวของศัตรูเพื่อปิดกั้นการโจมตีคริติคอลหรือการหลบของพวกเขา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.unyielding.description": {
+    "th": "ดึงพลังจากพันธมิตรผู้ภักดี เสริมความแข็งแกร่งให้ลูกน้อง และสลับไปยังร่างสำรองอย่างต่อเนื่องเพื่อสู้ต่อ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.usurper.description": {
+    "th": "ช่วงชิงพลังหรือสิ่งอัญเชิญของศัตรู ขโมยความสามารถและควบคุมสกิลของพวกเขา ดูดพลังมาเสริมตัวเอง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.villain.description": {
+    "th": "เป็นตัวแทนแห่งความมุ่งร้ายและต่อสู้ฝ่ายชั่วร้าย แข็งแกร่งขึ้นจากการสังหาร ชักจูงศัตรูให้มาอยู่ฝ่ายเดียวกัน และเสริมพลังพันธมิตร",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.violent_break.description": {
+    "th": "ใช้ออร่าเพิ่มพละกำลังอย่างบ้าคลั่ง พร้อมชำระผลลบทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.voice_cannon.description": {
+    "th": "เปล่งเสียงดังปล่อยคลื่นเสียงอัดแน่นอันทรงพลัง บดศัตรูที่อ่อนแอกว่าให้แหลกเป็นผุยผง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.warp_portal.description": {
+    "th": "ฉีกมิติเพื่อเชื่อมสองจุดในอวกาศ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water.description": {
+    "th": "เรียกหรือควบคุมน้ำปริมาณเล็กน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_aspectual.description": {
+    "th": "เรียกน้ำปริมาณเล็กน้อย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายธาตุน้ำทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายธาตุน้ำที่อ่อน และลดความเสียหายจากการโจมตีที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_blade.description": {
+    "th": "ยิงคมดาบน้ำพุ่งเป็นเส้นตรง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_breathing.description": {
+    "th": "ทำให้ไม่ต้องใช้อากาศหายใจใต้น้ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_current_control.description": {
+    "th": "ควบคุมน้ำรอบตัวเพื่อขับเคลื่อนตัวเองไปได้ทุกทิศทาง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_cutter.description": {
+    "th": "ยิงคมดาบอัดแน่นเพื่อตัดศัตรูด้วยพลังน้ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_cutter_aspectual.description": {
+    "th": "ยิงคมดาบน้ำอัดแน่นใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_domination.description": {
+    "th": "เพิ่มพลังความสามารถธาตุน้ำอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_jail.description": {
+    "th": "ล้อมเป้าหมายด้วยกระแสน้ำ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถธาตุน้ำในระดับหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.water_transform.description": {
+    "th": "ใช้พลังแห่งน้ำสร้างความเสียหายและวางยาพิษศัตรูใกล้ตัวทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.weather_domination.description": {
+    "th": "ใช้มาจิคูลควบคุมสภาพอากาศได้มีประสิทธิภาพมากขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.weather_manipulation.description": {
+    "th": "ใช้มาจิคูลควบคุมสภาพอากาศ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind.description": {
+    "th": "เรียกลมกระโชกเล็กน้อยเพื่อผลักเป้าหมายออกไป หรือดันผู้เล่นขึ้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_attack_nullification.description": {
+    "th": "ลบล้างความเสียหายธาตุลมทั้งหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_attack_resistance.description": {
+    "th": "ไม่รับความเสียหายธาตุลมที่อ่อน และลดความเสียหายจากการโจมตีที่รุนแรงกว่า",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_blade.description": {
+    "th": "ยิงคมดาบลมอัดแน่นที่ผลักกระเด็นอย่างรุนแรง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_cutter.description": {
+    "th": "ยิงคมดาบลมอัดแน่นใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_domination.description": {
+    "th": "เพิ่มพลังความสามารถธาตุลมอย่างมาก",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_gust.description": {
+    "th": "ปล่อยกระแสลมแรงให้เป็นลมกระโชกหรือ Wind Charge พุ่งใส่เป้าหมาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_manipulation.description": {
+    "th": "เพิ่มพลังความสามารถธาตุลมในระดับหนึ่ง",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_protection.description": {
+    "th": "เรียกกระแสลมล้อมผู้ร่ายเพื่อเพิ่มความเร็วและการป้องกัน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wind_transform.description": {
+    "th": "ใช้พลังแห่งลมทำให้เอนทิตีใกล้ตัวทั้งหมดเป็นอัมพาตและได้รับความเสียหาย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.skill.wrath.description": {
+    "th": "ปลดปล่อยความโกรธล้วน ยิ่งโกรธนานก็ยิ่งแข็งแกร่งขึ้นอย่างไม่มีที่สิ้นสุด แต่ระวังผลเสียร้ายแรงที่ตามมา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.telepathy.subordinate_all.passive": {
+    "th": "ตั้งพฤติกรรมของลูกน้องทั้งหมดที่ติดต่อถึงเป็นไม่โจมตีแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.ban": {
+    "th": "World Restriction Area [%s] ห้ามใช้ทุกโหมดของ %s แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.ban_mode": {
+    "th": "World Restriction Area [%s] ห้ามใช้โหมด %3$s ของ %2$s แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.banned": {
+    "th": "World Restriction Area [%s] ห้ามใช้ทุกโหมดของ %s อยู่แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.banned_mode": {
+    "th": "World Restriction Area [%s] ห้ามใช้โหมด %3$s ของ %2$s อยู่แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.clear": {
+    "th": "World Restriction Area [%s] ไม่ห้ามใช้ความสามารถใดอีกแล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.not_banned": {
+    "th": "World Restriction Area [%s] ไม่ได้ห้ามใช้ %s อยู่ในขณะนี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.not_banned_mode": {
+    "th": "World Restriction Area [%s] ไม่ได้ห้ามใช้โหมด %3$s ของ %2$s อยู่ในขณะนี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.unban": {
+    "th": "World Restriction Area [%s] ยกเลิกการห้ามใช้ %s แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tensura.world_restriction.edit.ability.unban_mode": {
+    "th": "World Restriction Area [%s] ยกเลิกการห้ามใช้โหมด %3$s ของ %2$s แล้ว",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.coming_soon": {
+    "th": "เร็ว ๆ นี้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.coming_soon_feature": {
+    "th": "เร็ว ๆ นี้: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.creative_only": {
+    "th": "ใช้ได้เฉพาะโหมดสร้างสรรค์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.degenerate_menu.tab_1": {
+    "th": "คราฟต์และแยกคืนวัตถุดิบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.degenerate_menu.tab_2": {
+    "th": "สังเคราะห์และแยกส่วน",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.gear_durability_EP": {
+    "th": "§6EP: %s/%s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.great_sage_menu.automate": {
+    "th": "ทำอัตโนมัติ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.great_sage_menu.brew": {
+    "th": "เริ่มปรุงยา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.great_sage_menu.refining": {
+    "th": "ขัดเกลา",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.great_sword.tooltip": {
+    "th": "§9ต้องถือด้วยทั้งสองมือจึงจะใช้ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.iceblade.tooltip.shift": {
+    "th": "อาวุธระดับ Unique ที่ครั้งหนึ่งเคยเป็นของ Magic Swordsman of Ice",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.kiln.magisteel_output": {
+    "th": "แปรรูปเป็น Pure Magisteel",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.kiln.molten_item": {
+    "th": "%s หลอมเหลว %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.kiln.molten_output": {
+    "th": "แปรรูปเป็น Ingot/Nugget",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.long_sword.tooltip": {
+    "th": "§9เพิ่มค่าสถานะเมื่อใช้ด้วยทั้งสองมือ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.marionette_heart": {
+    "th": "ไอเทมเวทมนตร์หายากที่เปลี่ยนผู้ใช้เป็น Majin แลกกับความเสียหายเท่ากับครึ่งหนึ่งของพลังชีวิตสูงสุดและมาจิคูลปัจจุบันส่วนใหญ่",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.orc_disaster_head": {
+    "th": "ถ้วยรางวัล...?",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.press.shift": {
+    "th": "กด [§eShift§r] เพื่อดูข้อมูลเพิ่มเติม!",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.character": {
+    "th": "รีเซ็ตทุกอย่างของผู้ใช้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.disable": {
+    "th": "รีเซ็ตในสภาพนี้ไม่ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.disable.name": {
+    "th": "รีเซ็ต %s ในสภาพปัจจุบันไม่ได้",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.not_safe": {
+    "th": "รีเซ็ตที่นี่ไม่ปลอดภัย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.penalty": {
+    "th": "เปิด gamerule [resetIncompletePenalty] อยู่ หากใช้ม้วนนี้ขณะที่ยังทำเงื่อนไข Reset Counter ไม่ครบ จะเสียแต้มรีเซ็ต %s แต้ม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.race": {
+    "th": "รีเซ็ตค่าสถานะ สถานะการตั้งชื่อ สถานะการตื่นรู้ Spirit ความต้านทาน และเผ่าพันธุ์ของผู้ใช้ รวมถึง Intrinsic Skill ของเผ่านั้น",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.skill": {
+    "th": "รีเซ็ตสกิลทุกประเภทของผู้ใช้ ยกเว้น Intrinsic Skill ประจำเผ่าพันธุ์",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.reset_scroll.skill_warning": {
+    "th": "ม้วนนี้ไม่จ่ายค่า MP ของ Unique Skill ให้คุณ ระวัง มิฉะนั้นอาจไม่เหลือ Unique Skill เลย",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.return": {
+    "th": "กลับ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.shadow_storage.name": {
+    "th": "เงา: %s",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.smithing_table.lack_schematic": {
+    "th": "ต้องมี Schematic",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode": {
+    "th": "§aShift พร้อมคลิกขวา§r เพื่อเปลี่ยนโหมด",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode_magic": {
+    "th": "โหมด: §bMagic Bullet§r",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode_physical": {
+    "th": "โหมด: §bPhysical Bullet§r",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.spatial_blade.tooltip.blade": {
+    "th": "§aBlade Mode§r: §eคลิกขวา§r เพื่อยิงคมดาบออกไป",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.spatial_blade.tooltip.hilt": {
+    "th": "§aHilt Mode§r: §eคลิกขวา§r เพื่อเติมคมดาบ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.spell_cast_item.list": {
+    "th": "เวทมนตร์ที่ใช้:",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon": {
+    "th": "อัญเชิญ Slime",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon.control": {
+    "th": "ควบคุม",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon.summon": {
+    "th": "อัญเชิญ",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.web_gun.projectile": {
+    "th": "กระสุน:",
+    "via": "preserved-reviewed-work"
+  },
+  "lang|tensura|tooltip.tensura.wip": {
+    "th": "ความสามารถนี้ยังอยู่ระหว่างพัฒนา อาจทำงานไม่ตรงที่ตั้งใจ และรูปลักษณ์กับวิธีทำงานปัจจุบันอาจเปลี่ยนในอนาคต",
+    "via": "preserved-reviewed-work"
+  }
+}

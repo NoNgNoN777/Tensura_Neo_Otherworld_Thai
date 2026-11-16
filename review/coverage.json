@@ -1,0 +1,16 @@
+{
+  "status": "IN_PROGRESS",
+  "minecraft": "1.21.1",
+  "pack_format": 34,
+  "lang_selected": 11217,
+  "lang_covered": 1555,
+  "lang_pending": 9662,
+  "quest_records_total": 1878,
+  "quest_records_covered_including_preserved_names_and_references": 297,
+  "quest_pending": 1581,
+  "ponder_config_files": 12,
+  "manual_files_pending": 144,
+  "layout_overlap_fixed": false,
+  "font_runtime_verified": false,
+  "committed": false
+}

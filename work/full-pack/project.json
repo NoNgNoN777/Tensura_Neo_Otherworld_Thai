@@ -1,0 +1,48 @@
+{
+  "instance": "D:\\minecraft\\Instances\\Tensura Neo Otherworld",
+  "pack_id": "tensura_neo_otherworld",
+  "pack_name": "Tensura_Neo_Otherworld_Thai",
+  "mc_version": "1.21.1",
+  "loader": "neoforge",
+  "scope": {
+    "lang": true,
+    "quests": false,
+    "puffish": false
+  },
+  "lang_include": [
+    "(^|[._])(desc|description|tooltip|lore|info|hint|message|dialog|dialogue|guide|page|summary|usage|help|ability|passive|explanation|flavor|flavour|story|entry)\\d*s?([._]|$)",
+    "ponder",
+    "^(gui|message|chat)\\.",
+    "^tensura\\.(dialogue_window|researcher_menu|great_sage)",
+    "^ftbquests\\.",
+    "^greatsage\\.",
+    "^tensura\\.(?!skill\\.[^.]+$|race\\.[^.]+$)"
+  ],
+  "lang_exclude": [
+    "^#",
+    "^(death\\.attack|key\\.|subtitles\\.|itemGroup\\.|stat\\.|commands?\\.|config\\.|options?\\.|gui\\.config|text\\.autoconfig|modmenu\\.|advancements?\\.)",
+    "\\.config\\.",
+    "(^|\\.)(configuration|settings?)\\."
+  ],
+  "lang_namespaces_skip": [
+    "minecraft",
+    "realms",
+    "fabric",
+    "fabric-api",
+    "forge",
+    "neoforge"
+  ],
+  "lang_namespaces_skip_regex": "^(sodium.*|iris|indium|modmenu|cloth.?config.*|yet_?another_?config.*|yacl.*|fancymenu|konkrete|drippyloadingscreen|entity_(model|texture)_features|controlling|xaero.*|journeymap|voicechat|betterf3|lambdynlights|immediatelyfast|modernfix|ferritecore|krypton|c2me.*|debugify|puzzle|continuity|polytone|resourcepackoverrides|bettermodsbutton|chat_heads)$",
+  "lang_namespaces": [],
+  "override_en_us": true,
+  "use_mod_thai": true,
+  "quest_title_style": "thai (english)",
+  "strip_bold": true,
+  "delivery": [
+    "resourcepacks"
+  ],
+  "fonts": [],
+  "ship_jars": [],
+  "server_package": false,
+  "export_dir": "E:\\minecratf\\releases\\Tensura\\complete"
+}

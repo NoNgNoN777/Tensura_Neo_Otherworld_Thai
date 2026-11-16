@@ -1,0 +1,15 @@
+{
+  "config/ponderer/scripts/alchemy_furnace.json": "5682d453e261de10f64b25cc5a67c162638c9e4d65b635150670f413059ec6d9",
+  "config/ponderer/scripts/battlewill_manual.json": "3f5d5eae47184a62c449bca5d8350a80648431e2f0729b800e91dbf0210eeca4",
+  "config/ponderer/scripts/book.json": "99efdfb33ece7734c32c47d201efc673b7fa23a9c0c8b66e5d93f4c15362bba0",
+  "config/ponderer/scripts/charybdis_core.json": "931adfdeb4d5e975a1b57696da0a691a4edbc1b3b600527b2410905fa403dc57",
+  "config/ponderer/scripts/kiln_usage.json": "014d06f946d4a38797ebcca215e5e1f038ba9a9d988f6b36e8cb4071a8b3ac09",
+  "config/ponderer/scripts/magic_ore_shard.json": "78549821f3646160a4a369d66c3421bb7fd2ea6fdec4698ba7200401b3f266ef",
+  "config/ponderer/scripts/mining_station.json": "ed01bb8f87eda3961049fc517fb5acd0ecfbb6c5cd24ef688277d28a7dac78dc",
+  "config/ponderer/scripts/mithril_block.json": "6af11ac02f38e3a86b44e012198259bbeb1e24a455306b5af6fff0267f360d1d",
+  "config/ponderer/scripts/orb_of_prophec.json": "1a241f4af83e5c4f2ae47502ae2d8ee3a28e957dadd1cca895bc66769a3e54cf",
+  "config/ponderer/scripts/orb_of_prophecy.json": "034f94cde41d8f0e5e5d9d5612bbe5e21209a3081f86b04c912fb19cee446421",
+  "config/ponderer/scripts/smithing_bench.json": "1a4d4ee21373ae623783a28074d3d44493c7fc90513bc703c4c8e0ff69e1a4af",
+  "config/ponderer/scripts/toms_storage_tutorial.json": "91745f0cecf9edc52e89d6b7436ba67e9d21df5e0fc033e470e223441eaed513",
+  "config/ftbquests/quests/lang/en_us.snbt": "910e247cbe95962ea1656e86e20ffe4770d671ee84e63ce3659b148c29329b05"
+}

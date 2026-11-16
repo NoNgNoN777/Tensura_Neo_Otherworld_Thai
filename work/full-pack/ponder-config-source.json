@@ -1,0 +1,2048 @@
+{
+  "items": [
+    {
+      "file": "config\\ponderer\\scripts\\alchemy_furnace.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "New Scene - alchemy_furnace"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\alchemy_furnace.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        3,
+        "text",
+        "en_us"
+      ],
+      "english": "The placement of the alchemy ing"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\alchemy_furnace.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        5,
+        "text",
+        "en_us"
+      ],
+      "english": "The refining speed can be increa"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Battlewill Manual - Dungeon Loot & Skill Learning"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Obtainment & Introduction"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        6,
+        "text",
+        "en_us"
+      ],
+      "english": "Found in dungeon chests with a 50% chance."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+      "path": [
+        "scenes",
+        1,
+        "title",
+        "en_us"
+      ],
+      "english": "Usage – Learning a Battlewill Skill"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+      "path": [
+        "scenes",
+        1,
+        "steps",
+        5,
+        "text",
+        "en_us"
+      ],
+      "english": "Hold right-click to use. Learns a random Battlewill skill."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\battlewill_manual.json",
+      "path": [
+        "scenes",
+        1,
+        "steps",
+        8,
+        "text",
+        "en_us"
+      ],
+      "english": "Successfully learned Hazy Style Fighting!"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\book.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Is this the quest book?"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\book.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Rimuru!"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\book.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        5,
+        "text",
+        "en_us"
+      ],
+      "english": "Hey! Hello there, Reincarnate!"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\charybdis_core.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Introduction to the Charybdis Co"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\charybdis_core.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Underground Structure"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\charybdis_core.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        4,
+        "text",
+        "en_us"
+      ],
+      "english": "The egg-like core used to summon"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\charybdis_core.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        6,
+        "text",
+        "en_us"
+      ],
+      "english": "Activates when charged with 100K"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\kiln_usage.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Kiln Usage Tutorial"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\kiln_usage.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "GUI usage tutorial"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\magic_ore_shard.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Some uses of Magic Ore Shards."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\magic_ore_shard.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Usage 1: Twilight Portal."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\magic_ore_shard.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        13,
+        "text",
+        "en_us"
+      ],
+      "english": "Throw magic_ore_shard into water."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\mining_station.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "New Scene - mining_station"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\mining_station.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Scene 1"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\mining_station.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        4,
+        "text",
+        "en_us"
+      ],
+      "english": "Right-click to open and insert raw ore. Raw metal items are not accepted."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\mithril_block.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Feldway’s summoning ritual"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\mithril_block.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Feldway’s summoning ritual"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\mithril_block.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        5,
+        "text",
+        "en_us"
+      ],
+      "english": "Right-click the Magic Silver Blo"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\mithril_block.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        6,
+        "text",
+        "en_us"
+      ],
+      "english": "(Paths Gate dimension only)"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\orb_of_prophec.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "New Scene - orb_of_prophec"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\orb_of_prophec.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Scene 1"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\orb_of_prophec.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        2,
+        "text",
+        "en_us"
+      ],
+      "english": "Edit this ponder scene!"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\orb_of_prophecy.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "New Scene - orb_of_prophecy"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\orb_of_prophecy.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Scene 1"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\orb_of_prophecy.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        3,
+        "text",
+        "en_us"
+      ],
+      "english": "Right-click the portal frame to "
+    },
+    {
+      "file": "config\\ponderer\\scripts\\smithing_bench.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Usage of the Smithing Bench"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\smithing_bench.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Purpose of Blueprints"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\smithing_bench.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        2,
+        "text",
+        "en_us"
+      ],
+      "english": "To craft here, you need to unlock the recipe with a blueprint. Blueprints are obtained by acquiring certain materials."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+      "path": [
+        "title",
+        "en_us"
+      ],
+      "english": "Tom's Simple Storage Tutorial"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+      "path": [
+        "scenes",
+        0,
+        "title",
+        "en_us"
+      ],
+      "english": "Core, Chests & Terminal"
+    },
+    {
+      "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        4,
+        "text",
+        "en_us"
+      ],
+      "english": "Place the Inventory Proxy. It is the network hub."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        10,
+        "text",
+        "en_us"
+      ],
+      "english": "Place chests directly next to the core. They will automatically join the network."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        13,
+        "text",
+        "en_us"
+      ],
+      "english": "Sneak + right-click on the core to install the Storage Terminal."
+    },
+    {
+      "file": "config\\ponderer\\scripts\\toms_storage_tutorial.json",
+      "path": [
+        "scenes",
+        0,
+        "steps",
+        17,
+        "text",
+        "en_us"
+      ],
+      "english": "Right-click the Storage Terminal to open a unified inventory view."
+    }
+  ],
+  "files": {
+    "config\\ponderer\\scripts\\alchemy_furnace.json": {
+      "id": "ponderer:alchemy_furnace",
+      "items": [
+        "mortal_cultivation:alchemy_furnace"
+      ],
+      "title": {
+        "en_us": "New Scene - alchemy_furnace",
+        "zh_cn": "炼丹炉的介绍"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "s_5c277",
+          "title": {
+            "zh_cn": ""
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "structure": "ponderer:ldl"
+            },
+            {
+              "type": "idle",
+              "duration": 10
+            },
+            {
+              "type": "rotate_camera_y",
+              "duration": 20,
+              "degrees": -25.0
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "炼丹的材料摆放位置需要一样，有火焰特效即正在炼丹中",
+                "en_us": "The placement of the alchemy ing"
+              },
+              "point": [
+                2.0,
+                0.0,
+                1.0
+              ],
+              "placeNearTarget": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "通过丹经秘籍或者精炭可以提升炼制速度",
+                "en_us": "The refining speed can be increa"
+              },
+              "point": [
+                3.0,
+                1.0,
+                1.0
+              ],
+              "placeNearTarget": true
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\battlewill_manual.json": {
+      "id": "ponderer:battlewill_manual",
+      "items": [
+        "tensura:battlewill_manual"
+      ],
+      "title": {
+        "en_us": "Battlewill Manual - Dungeon Loot & Skill Learning",
+        "zh_cn": "战斗意志手册 - 地牢战利品与技能学习"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "scenes": [
+        {
+          "id": "obtainment",
+          "title": {
+            "en_us": "Obtainment & Introduction",
+            "zh_cn": "获取方式"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "structure": "ponderer:basic",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "replace_blocks",
+              "block": "minecraft:stone_bricks",
+              "blockPos": [
+                0,
+                0,
+                0
+              ],
+              "blockPos2": [
+                4,
+                0,
+                4
+              ],
+              "spawnParticles": false
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:chest",
+              "blockPos": [
+                2,
+                1,
+                2
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": false,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "create_item_entity",
+              "pos": [
+                2.5,
+                2.0,
+                2.5
+              ],
+              "motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "item": "tensura:battlewill_manual",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "show_controls",
+              "duration": 70,
+              "point": [
+                3.0,
+                1.8,
+                3.0
+              ],
+              "direction": "down",
+              "item": "tensura:battlewill_manual",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 40
+            },
+            {
+              "type": "text",
+              "duration": 50,
+              "text": {
+                "en_us": "Found in dungeon chests with a 50% chance.",
+                "zh_cn": "在地牢遗迹的箱子中有 50% 几率找到战斗意志手册。"
+              },
+              "point": [
+                2.5,
+                1.5,
+                2.0
+              ],
+              "color": "green",
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            }
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en_us": "Usage – Learning a Battlewill Skill",
+            "zh_cn": "使用与技能学习"
+          },
+          "steps": [
+            {
+              "type": "show_structure"
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "create_item_entity",
+              "pos": [
+                2.5,
+                2.0,
+                2.5
+              ],
+              "motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "item": "tensura:battlewill_manual",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 40
+            },
+            {
+              "type": "show_controls",
+              "duration": 40,
+              "point": [
+                2.5,
+                2.0,
+                2.5
+              ],
+              "direction": "down",
+              "action": "right",
+              "item": "tensura:battlewill_manual",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 50,
+              "text": {
+                "en_us": "Hold right-click to use. Learns a random Battlewill skill.",
+                "zh_cn": "长按右键使用，随机学习一种斗气技能。"
+              },
+              "point": [
+                2.5,
+                2.0,
+                2.5
+              ],
+              "color": "green",
+              "placeNearTarget": true
+            },
+            {
+              "type": "idle",
+              "duration": 60
+            },
+            {
+              "type": "indicate_success",
+              "blockPos": [
+                2,
+                2,
+                2
+              ],
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 50,
+              "text": {
+                "en_us": "Successfully learned Hazy Style Fighting!",
+                "zh_cn": "成功学习气斗法！"
+              },
+              "point": [
+                2.5,
+                2.0,
+                2.5
+              ],
+              "color": "green",
+              "placeNearTarget": true
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\book.json": {
+      "id": "ponderer:book",
+      "items": [
+        "ftbquests:book"
+      ],
+      "title": {
+        "zh_cn": "这里是任务书？",
+        "en_us": "Is this the quest book?"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "zh_cn": "利姆露！",
+            "en_us": "Rimuru!"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "structure": "ponderer:ftbq",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "rotate_camera_y",
+              "duration": 10,
+              "degrees": 180.0
+            },
+            {
+              "type": "zoom_scene",
+              "duration": 20,
+              "scale": 1.6
+            },
+            {
+              "type": "create_entity",
+              "entity": "tensura_neb:rimuru_ogre_fight",
+              "pos": [
+                2.0,
+                1.0,
+                2.0
+              ],
+              "lookAt": [
+                5.0,
+                2.0,
+                5.0
+              ]
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "嘿！转生者你好呀！这里是思索场景哦，任务书还要思索？",
+                "en_us": "Hey! Hello there, Reincarnate!"
+              },
+              "point": [
+                2.0,
+                2.5,
+                2.0
+              ],
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\charybdis_core.json": {
+      "id": "ponderer:charybdis_core",
+      "items": [
+        "tensura:charybdis_core"
+      ],
+      "title": {
+        "zh_cn": "卡律布狄斯核心的介绍",
+        "en_us": "Introduction to the Charybdis Co"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "zh_cn": "地底结构",
+            "en_us": "Underground Structure"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "structure": "ponderer:fbhh",
+              "scale": 0.5,
+              "rotation": 120.0,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "zoom_scene",
+              "duration": 40,
+              "scale": 2.0
+            },
+            {
+              "type": "rotate_camera_y",
+              "duration": 15,
+              "degrees": 10.0
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 70,
+              "text": {
+                "zh_cn": "卡律布狄斯核心是一种蛋状核心，用于召唤卡律布狄斯。",
+                "en_us": "The egg-like core used to summon"
+              },
+              "point": [
+                10.3,
+                4.0,
+                8.0
+              ],
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 80,
+              "text": {
+                "zh_cn": "放置在生物 16 格内可吸收范围内死亡生物的 EP"
+              },
+              "point": [
+                10.0,
+                3.0,
+                10.0
+              ],
+              "placeNearTarget": true
+            },
+            {
+              "type": "text",
+              "duration": 90,
+              "text": {
+                "zh_cn": "充满100K EP后激活，可消耗获取EP，或右键召唤Bos",
+                "en_us": "Activates when charged with 100K"
+              },
+              "point": [
+                11.5,
+                3.0,
+                11.5
+              ],
+              "placeNearTarget": true
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\kiln_usage.json": {
+      "id": "ponderer:kiln_usage",
+      "items": [
+        "tensura:kiln"
+      ],
+      "title": {
+        "en_us": "Kiln Usage Tutorial",
+        "zh_cn": "窑炉使用教程"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "s_90d04",
+          "title": {
+            "zh_cn": "GUI介绍",
+            "en_us": "GUI usage tutorial"
+          },
+          "steps": [
+            {
+              "type": "show_interface",
+              "point": [
+                0.06909120214641007,
+                1.0,
+                0.7573096703217743
+              ],
+              "direction": "up",
+              "block": "tensura:kiln",
+              "blockPos": [
+                0,
+                0,
+                0
+              ],
+              "whileSneaking": false,
+              "enableNbt": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "这里是放入燃料的地方"
+              },
+              "point": [
+                0.953,
+                -0.282,
+                0.0
+              ]
+            },
+            {
+              "type": "idle",
+              "duration": 10,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "这里放入你要烧制的矿石"
+              },
+              "point": [
+                0.939,
+                0.272,
+                0.0
+              ]
+            },
+            {
+              "type": "idle",
+              "duration": 20,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 40,
+              "text": {
+                "zh_cn": "左边熔炼槽位"
+              },
+              "point": [
+                -0.994,
+                0.788,
+                0.0
+              ],
+              "placeNearTarget": true
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "右边熔炼槽位"
+              },
+              "point": [
+                0.43,
+                0.836,
+                0.0
+              ]
+            },
+            {
+              "type": "idle",
+              "duration": 10,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "中间的是输出槽位与选择要输出的结果按钮"
+              },
+              "point": [
+                -0.325,
+                0.473,
+                0.0
+              ],
+              "placeNearTarget": true
+            },
+            {
+              "type": "idle",
+              "duration": 40
+            },
+            {
+              "type": "change_interface_slot",
+              "interfaceSlots": [
+                {
+                  "slotIndex": 0,
+                  "slotX": 203,
+                  "slotY": 52,
+                  "ingredientId": "minecraft:iron_ingot",
+                  "ingredientKind": "item"
+                },
+                {
+                  "slotIndex": 1,
+                  "slotX": 203,
+                  "slotY": 98,
+                  "ingredientId": "minecraft:coal_block",
+                  "ingredientKind": "item"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\magic_ore_shard.json": {
+      "id": "ponderer:magic_ore_shard",
+      "items": [
+        "tensura:magic_ore_shard"
+      ],
+      "title": {
+        "en_us": "Some uses of Magic Ore Shards.",
+        "zh_cn": "魔矿碎片的一些使用"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "en_us": "Usage 1: Twilight Portal.",
+            "zh_cn": "作用1：暮色传送门"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:grass_block",
+              "blockPos": [
+                1,
+                1,
+                1
+              ],
+              "blockPos2": [
+                1,
+                1,
+                3
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:pink_petals",
+              "blockPos": [
+                1,
+                2,
+                1
+              ],
+              "blockPos2": [
+                1,
+                2,
+                3
+              ],
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:grass_block",
+              "blockPos": [
+                4,
+                1,
+                4
+              ],
+              "blockPos2": [
+                4,
+                1,
+                1
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:pink_petals",
+              "blockPos": [
+                4,
+                2,
+                4
+              ],
+              "blockPos2": [
+                4,
+                2,
+                1
+              ],
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:grass_block",
+              "blockPos": [
+                3,
+                1,
+                1
+              ],
+              "blockPos2": [
+                1,
+                1,
+                1
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:pink_petals",
+              "blockPos": [
+                3,
+                2,
+                1
+              ],
+              "blockPos2": [
+                1,
+                2,
+                1
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:grass_block",
+              "blockPos": [
+                1,
+                1,
+                4
+              ],
+              "blockPos2": [
+                3,
+                1,
+                4
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:pink_petals",
+              "blockPos": [
+                1,
+                2,
+                4
+              ],
+              "blockPos2": [
+                3,
+                2,
+                4
+              ],
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:water",
+              "blockPos": [
+                2,
+                1,
+                2
+              ],
+              "blockPos2": [
+                2,
+                1,
+                3
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:water",
+              "blockPos": [
+                3,
+                1,
+                3
+              ],
+              "blockPos2": [
+                3,
+                1,
+                2
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "idle",
+              "duration": 40
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "en_us": "Throw magic_ore_shard into water.",
+                "zh_cn": "将魔矿碎片丢入水中"
+              },
+              "point": [
+                3.0,
+                2.0,
+                3.0
+              ],
+              "placeNearTarget": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "create_item_entity",
+              "pos": [
+                3.0,
+                3.0,
+                3.0
+              ],
+              "motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "count": 1,
+              "item": "tensura:magic_ore_shard"
+            },
+            {
+              "type": "idle",
+              "duration": 15
+            },
+            {
+              "type": "replace_blocks",
+              "block": "minecraft:nether_portal",
+              "blockPos": [
+                2,
+                1,
+                2
+              ],
+              "blockPos2": [
+                3,
+                1,
+                3
+              ],
+              "spawnParticles": false
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\mining_station.json": {
+      "id": "ponderer:mining_station",
+      "items": [
+        "tensura:mining_station"
+      ],
+      "title": {
+        "en_us": "New Scene - mining_station",
+        "zh_cn": "Usage of the Mining Station"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "en_us": "Scene 1",
+            "zh_cn": "采矿站的使用"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "set_block",
+              "direction": "down",
+              "block": "minecraft:stone",
+              "blockPos": [
+                0,
+                0,
+                0
+              ],
+              "blockPos2": [
+                5,
+                0,
+                5
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": false,
+              "smartDisplay": true,
+              "entranceAnimation": "simultaneous",
+              "entranceDuration": 20,
+              "entranceInterval": 1
+            },
+            {
+              "type": "set_block",
+              "direction": "down",
+              "block": "tensura:mining_station",
+              "blockPos": [
+                2,
+                1,
+                2
+              ],
+              "blockPos2": [
+                2,
+                1,
+                2
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": false,
+              "smartDisplay": true,
+              "entranceAnimation": "simultaneous",
+              "entranceDuration": 20,
+              "entranceInterval": 1
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "en_us": "Right-click to open and insert raw ore. Raw metal items are not accepted.",
+                "zh_cn": "右键打开放入原矿石，不能是粗矿"
+              },
+              "point": [
+                2.5,
+                2.0,
+                2.5
+              ],
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "show_controls",
+              "duration": 80,
+              "point": [
+                2.0,
+                2.4,
+                2.0
+              ],
+              "direction": "down",
+              "action": "right",
+              "item": "tensura:deepslate_magic_ore"
+            }
+          ]
+        },
+        {
+          "id": "s_97530",
+          "steps": [
+            {
+              "type": "show_interface",
+              "point": [
+                0.6068407149177801,
+                1.0,
+                0.33334500631917763
+              ],
+              "direction": "up",
+              "block": "tensura:mining_station",
+              "blockPos": [
+                0,
+                0,
+                0
+              ],
+              "nbt": "{Items:[],x:0,y:0,z:0}",
+              "whileSneaking": false,
+              "enableNbt": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "这里放入原矿"
+              },
+              "point": [
+                0.036,
+                0.815,
+                0.0
+              ]
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "change_interface_slot",
+              "interfaceSlots": [
+                {
+                  "slotIndex": 0,
+                  "slotX": 80,
+                  "slotY": 7,
+                  "ingredientId": "minecraft:deepslate_iron_ore",
+                  "ingredientKind": "item"
+                }
+              ]
+            },
+            {
+              "type": "idle",
+              "duration": 5
+            },
+            {
+              "type": "change_interface_slot",
+              "interfaceSlots": [
+                {
+                  "slotIndex": 0,
+                  "slotX": 80,
+                  "slotY": 7,
+                  "ingredientId": "minecraft:deepslate_iron_ore",
+                  "ingredientKind": "item"
+                },
+                {
+                  "slotIndex": 1,
+                  "slotX": 8,
+                  "slotY": 55,
+                  "ingredientId": "minecraft:raw_iron",
+                  "ingredientKind": "item"
+                },
+                {
+                  "slotIndex": 2,
+                  "slotX": 26,
+                  "slotY": 55,
+                  "ingredientId": "minecraft:raw_iron",
+                  "ingredientKind": "item"
+                },
+                {
+                  "slotIndex": 3,
+                  "slotX": 44,
+                  "slotY": 55,
+                  "ingredientId": "minecraft:cobblestone",
+                  "ingredientKind": "item"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\mithril_block.json": {
+      "id": "ponderer:mithril_block",
+      "items": [
+        "tensura:mithril_block"
+      ],
+      "title": {
+        "zh_cn": "费尔德维的召唤仪式（需要在路径之门维度进行）",
+        "en_us": "Feldway’s summoning ritual"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "zh_cn": "费尔德维的召唤仪式（需要在路径之门维度进行）",
+            "en_us": "Feldway’s summoning ritual"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "set_block",
+              "block": "tensura:pure_magisteel_block",
+              "blockPos": [
+                1,
+                1,
+                1
+              ],
+              "blockPos2": [
+                3,
+                1,
+                3
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "set_block",
+              "block": "tensura:mithril_block",
+              "blockPos": [
+                2,
+                2,
+                2
+              ],
+              "blockPos2": [
+                2,
+                2,
+                2
+              ],
+              "immediateDisplay": true,
+              "entranceAnimation": "none"
+            },
+            {
+              "type": "text",
+              "duration": 100,
+              "text": {
+                "zh_cn": "右键魔银块即可召唤费尔德维",
+                "en_us": "Right-click the Magic Silver Blo"
+              },
+              "point": [
+                2.0,
+                2.5,
+                2.0
+              ],
+              "placeNearTarget": true
+            },
+            {
+              "type": "text",
+              "duration": 100,
+              "text": {
+                "zh_cn": "需要在路径之门维度进行",
+                "en_us": "(Paths Gate dimension only)"
+              },
+              "point": [
+                2.0,
+                2.0,
+                2.0
+              ],
+              "color": "red",
+              "placeNearTarget": true
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\orb_of_prophec.json": {
+      "id": "ponderer:orb_of_prophec",
+      "items": [
+        "eternal_starlight:orb_of_prophec"
+      ],
+      "title": {
+        "en_us": "New Scene - orb_of_prophec",
+        "zh_cn": "新场景 - orb_of_prophec"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "en_us": "Scene 1",
+            "zh_cn": "场景 1"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "en_us": "Edit this ponder scene!",
+                "zh_cn": "编辑这个思索场景!"
+              },
+              "point": [
+                2.5,
+                2.0,
+                2.5
+              ],
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\orb_of_prophecy.json": {
+      "id": "ponderer:orb_of_prophecy",
+      "items": [
+        "eternal_starlight:orb_of_prophecy"
+      ],
+      "title": {
+        "en_us": "New Scene - orb_of_prophecy",
+        "zh_cn": "新场景 - orb_of_prophecy"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "en_us": "Scene 1",
+            "zh_cn": "场景 1"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "structure": "ponderer:yhxg",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "rotate_camera_y",
+              "duration": 20,
+              "degrees": 20.0
+            },
+            {
+              "type": "text",
+              "duration": 80,
+              "text": {
+                "zh_cn": "右键传送门框架即可激活传送门进入维度",
+                "en_us": "Right-click the portal frame to "
+              },
+              "point": [
+                1.0,
+                5.0,
+                3.0
+              ]
+            },
+            {
+              "type": "show_controls",
+              "duration": 80,
+              "point": [
+                3.0,
+                3.0,
+                4.0
+              ],
+              "direction": "down",
+              "action": "right",
+              "item": "eternal_starlight:orb_of_prophec"
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\smithing_bench.json": {
+      "id": "ponderer:smithing_bench",
+      "items": [
+        "tensura:smithing_bench"
+      ],
+      "title": {
+        "en_us": "Usage of the Smithing Bench",
+        "zh_cn": "锻造台的使用"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": true,
+      "scenes": [
+        {
+          "id": "scene_1",
+          "title": {
+            "en_us": "Purpose of Blueprints",
+            "zh_cn": "图纸的作用"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "set_block",
+              "direction": "down",
+              "block": "tensura:smithing_bench",
+              "blockPos": [
+                2,
+                1,
+                2
+              ],
+              "blockPos2": [
+                2,
+                1,
+                2
+              ],
+              "spawnParticles": false,
+              "immediateDisplay": false,
+              "smartDisplay": true,
+              "entranceAnimation": "simultaneous",
+              "entranceDuration": 20,
+              "entranceInterval": 1
+            },
+            {
+              "type": "text",
+              "duration": 120,
+              "text": {
+                "zh_cn": "你要在这里进行合成则需要图纸解锁，图纸是通过得到某种材料获得的",
+                "en_us": "To craft here, you need to unlock the recipe with a blueprint. Blueprints are obtained by acquiring certain materials."
+              },
+              "point": [
+                3.0,
+                2.0,
+                4.0
+              ],
+              "placeNearTarget": true
+            },
+            {
+              "type": "show_controls",
+              "duration": 116,
+              "point": [
+                2.0,
+                2.5,
+                2.0
+              ],
+              "direction": "down",
+              "action": "right",
+              "item": "tensura:low_magisteel_gear_schematic"
+            }
+          ]
+        },
+        {
+          "id": "s_68477",
+          "title": {
+            "zh_cn": "GUI介绍"
+          },
+          "steps": [
+            {
+              "type": "show_interface",
+              "point": [
+                0.31649011246645387,
+                1.0,
+                0.9740475264725319
+              ],
+              "direction": "up",
+              "block": "tensura:smithing_bench",
+              "blockPos": [
+                0,
+                0,
+                0
+              ],
+              "whileSneaking": false,
+              "enableNbt": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 80,
+              "text": {
+                "zh_cn": "通过图纸解锁的内容都会在这里面显示出来"
+              },
+              "point": [
+                0.631,
+                0.519,
+                0.0
+              ]
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 60,
+              "text": {
+                "zh_cn": "点击需要合成的内容材料会自动填充"
+              },
+              "point": [
+                0.381,
+                0.074,
+                0.0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "config\\ponderer\\scripts\\toms_storage_tutorial.json": {
+      "id": "ponderer:toms_storage_tutorial",
+      "items": [
+        "toms_storage:storage_terminal"
+      ],
+      "title": {
+        "en_us": "Tom's Simple Storage Tutorial",
+        "zh_cn": "汤姆的简易存储教程"
+      },
+      "structures": [
+        "ponderer:basic"
+      ],
+      "tags": [],
+      "editable": false,
+      "scenes": [
+        {
+          "id": "core_chests_terminal",
+          "title": {
+            "en_us": "Core, Chests & Terminal",
+            "zh_cn": "核心、箱子与终端"
+          },
+          "steps": [
+            {
+              "type": "show_structure",
+              "structure": "ponderer:basic",
+              "blockPos": [
+                5,
+                5,
+                5
+              ],
+              "blockPos2": [
+                5,
+                5,
+                5
+              ],
+              "attachKeyFrame": true
+            },
+            {
+              "type": "replace_blocks",
+              "block": "minecraft:oak_planks",
+              "blockPos": [
+                0,
+                0,
+                0
+              ],
+              "blockPos2": [
+                4,
+                0,
+                4
+              ],
+              "spawnParticles": false
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "set_block",
+              "block": "toms_storage:inventory_proxy",
+              "blockPos": [
+                2,
+                1,
+                2
+              ],
+              "immediateDisplay": true,
+              "entranceAnimation": "none",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 50,
+              "text": {
+                "en_us": "Place the Inventory Proxy. It is the network hub.",
+                "zh_cn": "放置存储核心，这是网络的中枢。"
+              },
+              "point": [
+                2.5,
+                1.5,
+                2.0
+              ],
+              "color": "blue",
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 45
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:chest",
+              "blockPos": [
+                2,
+                1,
+                1
+              ],
+              "spawnParticles": true,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:chest",
+              "blockPos": [
+                2,
+                1,
+                3
+              ],
+              "spawnParticles": true
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:chest",
+              "blockPos": [
+                1,
+                1,
+                2
+              ],
+              "spawnParticles": true
+            },
+            {
+              "type": "set_block",
+              "block": "minecraft:chest",
+              "blockPos": [
+                3,
+                1,
+                2
+              ],
+              "spawnParticles": true
+            },
+            {
+              "type": "text",
+              "duration": 50,
+              "text": {
+                "en_us": "Place chests directly next to the core. They will automatically join the network.",
+                "zh_cn": "紧挨核心放置箱子，它们会自动加入网络。"
+              },
+              "point": [
+                2.5,
+                1.5,
+                1.0
+              ],
+              "color": "green",
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 60
+            },
+            {
+              "type": "set_block",
+              "block": "toms_storage:storage_terminal",
+              "blockProperties": {
+                "facing": "south"
+              },
+              "blockPos": [
+                2,
+                2,
+                2
+              ],
+              "immediateDisplay": true,
+              "entranceAnimation": "none",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "text",
+              "duration": 50,
+              "text": {
+                "en_us": "Sneak + right-click on the core to install the Storage Terminal.",
+                "zh_cn": "对着核心潜行右键安装存储终端。"
+              },
+              "point": [
+                2.5,
+                2.5,
+                2.0
+              ],
+              "color": "blue",
+              "placeNearTarget": true,
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 60
+            },
+            {
+              "type": "show_controls",
+              "duration": 50,
+              "point": [
+                2.0,
+                3.0,
+                2.3
+              ],
+              "direction": "down",
+              "action": "right",
+              "item": "toms_storage:storage_terminal",
+              "attachKeyFrame": true
+            },
+            {
+              "type": "idle",
+              "duration": 20
+            },
+            {
+              "type": "text",
+              "duration": 50,
+              "text": {
+                "en_us": "Right-click the Storage Terminal to open a unified inventory view.",
+                "zh_cn": "右键存储终端，打开统一储物界面。"
+              },
+              "point": [
+                2.5,
+                2.5,
+                2.0
+              ],
+              "color": "green",
+              "placeNearTarget": true
+            },
+            {
+              "type": "idle",
+              "duration": 60
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1290 @@
+[
+  {
+    "key": "lang|tensura|tensura.researcher_menu.enchantment_tab.xp_cost",
+    "en": "Xp cost: %s points"
+  },
+  {
+    "key": "lang|tensura|tensura.researcher_menu.storage_tab",
+    "en": "Spatial Storage"
+  },
+  {
+    "key": "lang|tensura|tensura.skill.earth_lock.description",
+    "en": "Solidify the earth where the caster desires."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.earth_manipulation.description",
+    "en": "Boosts the power of Earth abilities by a decent amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.earth_spikes.description",
+    "en": "Raises earth spikes from the ground to pierce through your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.earth_storm.description",
+    "en": "Summons a viscous sandstorm and falling rocks around you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.earth_transform.description",
+    "en": "Channel the powers of the earth to deal increased damage and increase local gravity around you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.earth_wall.description",
+    "en": "Call forth giant earth walls from the ground."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.earthshatter_kick.description",
+    "en": "Stomp your foot down upheaving the land around you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.eight_petals_flash.description",
+    "en": "Dash and attack the target's eyes, throat, heart, kidneys, lungs, and groin with eight consecutive and near instant slashes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.electricity_nullification.description",
+    "en": "Completely nullify all electricity damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.electricity_resistance.description",
+    "en": "Ignore weak electrical damage or resist the damage from stronger attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.electro_blast.description",
+    "en": "Fire a beam attack that pierces through enemies and deals devastating damage while paralyzing your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.elephant_stampede.description",
+    "en": "Throw a ring of aura spheres around you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.engorger.description",
+    "en": "Increase your size and boost your physical stats."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.envy.description",
+    "en": "Absorb strength from enemies, buff yourself and debilitate your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.escape.description",
+    "en": "Connect two points in space to create a escape route."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.explosion.description",
+    "en": "Summon a single beam of light, that detonates at the target, creating a devastating blast of pure magical power."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.eye_of_truth.description",
+    "en": "By obtaining the mythical Hero Egg, the veil of deception is torn apart. No illusion or concealment can deceive your sight, and your vision becomes perfect."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.falsifier.description",
+    "en": "See through falsehoods and invisibility, conceal your presence from prying eyes and create illusions."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.farsight.description",
+    "en": "Focus your eyes and become able to see things far away."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fighter.description",
+    "en": "Achieve mastery through discipline. Learn combat and magic abilities instantly, gain more mastery points, and hit much harder."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire.description",
+    "en": "Use your spirit to start a small fire."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire_aspectual.description",
+    "en": "Shoot magic fiery projectiles."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire_ball.description",
+    "en": "Shoot concentrated balls of fire."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire_bolt.description",
+    "en": "Shoots a flaming bolt."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire_breath.description",
+    "en": "Breathe flames and incinerate your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire_lance.description",
+    "en": "Shoot fiery lances of magic."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire_storm.description",
+    "en": "Call forth fiery surges of flame to incinerate targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fire_wall.description",
+    "en": "Create a wall of fire to keep targets away."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.five_petals_thrust.description",
+    "en": "Dash and pierce the opponent in five of ten vital points and uses the other five as feints."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flame_attack_nullification.description",
+    "en": "Completely nullify all flame damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flame_attack_resistance.description",
+    "en": "Ignore weaker flame damage or resist the damage from more powerful flames."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flame_breath.description",
+    "en": "Spew fire to burn away enemies and set fire to the land."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flame_domination.description",
+    "en": "Boosts the power of fire abilities by a large amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flame_manipulation.description",
+    "en": "Boosts the power of fire abilities by a decent amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flame_transform.description",
+    "en": "Channel the powers of fire to burn all nearby foes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flame_wall.description",
+    "en": "Create a wall of illusional fire to keep targets away."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flare_circle.description",
+    "en": "Opens a Gate to Hell from which wicked flames erupt to turn your enemies to ash."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.flight.description",
+    "en": "Propel the caster forward in the air."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.float.description",
+    "en": "Decrease the caster's gravity to float."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.formhide.description",
+    "en": "Match your aura to the surroundings, which makes you imperceptible."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.freeze.description",
+    "en": "Solidify water sources into ice."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.full_recovery.description",
+    "en": "Recover a living being's health and food points to the maximum as well as Absorption."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.fusionist.description",
+    "en": "Turn the world into a weapon, absorb the environment to create powerful mines and grenades."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gate.description",
+    "en": "Tear space asunder connecting two points in space."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.giantification.description",
+    "en": "Grow beyond your normal size to gain increased strength and reach."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gluttony.description",
+    "en": "Absorb all in your path. None can win. Receive and provide skills, gain access to a spatial storage and mimic entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.godly_craftsman.description",
+    "en": "Utilize your years of experience to create masterpieces with ease and engrave your weapons for terrifying efficiency."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.godwolf_sense.description",
+    "en": "Improve your senses to be able to see in the dark or even spot invisible entities nearby."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gourmand.description",
+    "en": "Feast on the energy of your opponents. Steal magicule with your attacks and become more powerful when killing others."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gourmet.description",
+    "en": "Absorb your enemies, gain new powers, and break down anything that stands in your way."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gravity_attack_nullification.description",
+    "en": "Completely nullify all gravity damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gravity_attack_resistance.description",
+    "en": "Ignore weaker gravity-based damage or reduce the damage from stronger attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gravity_domination.description",
+    "en": "Boosts Gravity abilities by a large amount and allows you to fly without hindrance."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gravity_field.description",
+    "en": "Weaken gravity around yourself to make movement easier or create a variously sized sphere granting previous effects while debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gravity_flight.description",
+    "en": "Manipulate gravity to allow flight, your momentum from before will be continued."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.gravity_manipulation.description",
+    "en": "Boosts Gravity abilities by a decent amount and allows you to fly without hindrance."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.great_sage.description",
+    "en": "Improve your cognitive skills to learn and cast faster, become able to appraise targets and use analysis to copy skills and process materials to craft or clone items or equipment."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.greed.description",
+    "en": "Take everything. Conquer the world and your enemies with it. Kill anyone who stands in your path while strengthening yourself or your allies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.guardian.description",
+    "en": "Stand as a bastion against the force of your enemies. Absorb the damage from your allies and fortify their defenses."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.haki.description",
+    "en": "Project your aura to cow nearby foes into submission."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.haze.description",
+    "en": "Wrap yourself in a cloak of aura concealing yourself from even the most heightened of senses."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.healer.description",
+    "en": "Mend wounds with a touch or unleash devastating afflictions, capable of both salvation and suffering."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.healing.description",
+    "en": "Heal a living being on a low level."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.healing_rain.description",
+    "en": "Call forth a rain of healing in a wide radius."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.healthcare.description",
+    "en": "Boost the caster's health and saturation."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.heat_nullification.description",
+    "en": "Completely negate all heat damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.heat_resistance.description",
+    "en": "Ignore weaker heat-based damage or reduce the damage from stronger heat sources."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.heat_wave.description",
+    "en": "Shoot a fiery projectile or summon a short-ranged fire storm which will damage all nearby entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.heavenly_eye.description",
+    "en": "Project your otherworldly gaze to see all nearby entities and partially ignore dodging abilities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.heavy_slash.description",
+    "en": "Channel your aura into your arms and bring down a mountain-splitting slash."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.hellfire.description",
+    "en": "Summon a sphere of hellfire to deal massive damage in a small area."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.hero_haki.description",
+    "en": "Use your Hero Aura to inspire your allies and terrify your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.holy_attack_nullification.description",
+    "en": "Completely nullify all holy damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.holy_attack_resistance.description",
+    "en": "Ignore weaker holy attacks or reduce the damage from stronger divine powers."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.hydraulic_propulsion.description",
+    "en": "Propel yourself at high speeds underwater."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.hypnos.description",
+    "en": "Put even the strongest entities into sleep."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ice_blizzard.description",
+    "en": "Create a powerful storm of snow to freeze your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ice_breaker.description",
+    "en": "Shoot a giant icicle spear toward targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ice_breath.description",
+    "en": "Spew icy breath to freeze enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ice_wall.description",
+    "en": "Call forth walls of ice upon targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.icicle_lance.description",
+    "en": "Shoot frozen icicles toward targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.icicle_rain.description",
+    "en": "Strike targets with a barrage of icicle lances from the sky."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.icicle_spear.description",
+    "en": "Strike targets with a giant icicle spike from the ground."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.infinite_regeneration.description",
+    "en": "Use your massive amount of magicule to instantly regenerate from all but the most grievous of injuries."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.infinity_prison.description",
+    "en": "Trap enemies in an unbreakable dimensional cage or shield yourself from any threat with your dimensional barrier. Gain access to spatial storage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.instant_move.description",
+    "en": "Gather your aura at your feet to travel faster than the eye can see."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.invisible.description",
+    "en": "Turn the caster invisible to hide from targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.law_manipulation.description",
+    "en": "Bypass many restrictions by manipulating the law of the world."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.light.description",
+    "en": "Summons a temporary light to block out the darkness."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.light_attack_nullification.description",
+    "en": "Completely nullify all light damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.light_attack_resistance.description",
+    "en": "Ignore weaker light damage or reduce the damage from more powerful attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.light_transform.description",
+    "en": "Channel your inner light to deal light damage and nauseate all nearby entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.lighten.description",
+    "en": "Lighten the caster's gravity for greater speed and jump power."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.lightning_domination.description",
+    "en": "Boosts Lightning abilities by a large amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.lightning_lance.description",
+    "en": "Launch a lighting projectile which will electrify your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.lightning_manipulation.description",
+    "en": "Boosts Lightning abilities by a decent amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.liquidize.description",
+    "en": "Liquidize the earth where the caster desires to turn into deadly traps."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.lust.description",
+    "en": "Assert your control over life and death. Drain your enemies of their strength or invigorate those under your wing."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_aura.description",
+    "en": "Empower your attacks with many elemental aura."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_barrier.description",
+    "en": "Coat the caster with a Magic Barrier with the strength based on Health."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_bullet.description",
+    "en": "Gather your aura into a powerful blast."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_darkness_transform.description",
+    "en": "Gain access to the intermediate Darkness Spirit Magic and boost your darkness attacks while buffing yourself and debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_earth_transform.description",
+    "en": "Gain access to the intermediate Earth Spirit Magic and boost your earth attacks while buffing yourself and debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_flame_transform.description",
+    "en": "Gain access to the intermediate Flame Spirit Magic and boost your fire attacks while buffing yourself and debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_jamming.description",
+    "en": "Interferes with skills, magics, flight and transformation with mastery."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_light_transform.description",
+    "en": "Gain access to the intermediate Light Spirit Magic and boost your light attacks while buffing yourself and debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_nullification.description",
+    "en": "Completely negate all magic damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_resistance.description",
+    "en": "Ignore weaker magical attacks or reduce the damage from stronger spells."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_sense.description",
+    "en": "Using magicule to sense entities around."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_space_transform.description",
+    "en": "Gain access to the intermediate Space Spirit Magic and boost your spatial attacks while buffing yourself and debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_wall.description",
+    "en": "Generate a magic wall to protect the caster."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_water_transform.description",
+    "en": "Gain access to the intermediate Water Spirit Magic and boost your water attacks while buffing yourself and debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magic_wind_transform.description",
+    "en": "Gain access to the intermediate Wind Spirit Magic and boost your wind attacks while buffing yourself and debuffing enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.magma_surge.description",
+    "en": "Fire a spread of lava that burns and melts anything for a limited time."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.majesty.description",
+    "en": "By boosting your reputation with the villagers, gain a permanent Hero of the Village effect."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.mana_manipulation.description",
+    "en": "Grant better control on Mana with less magicule cost on casted Magics and less damage taken from magicule-based attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.martial_master.description",
+    "en": "Empower your physical attacks, accelerate your thought process to react and dodge better while beating your enemies to submission. "
+  },
+  {
+    "key": "lang|tensura|tensura.skill.mathematician.description",
+    "en": "Use mathematics to improve your combat abilities, become able to use analytical appraisal to assess all."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.maximum_magic_bullet.description",
+    "en": "Gather your aura into a gargantuan blast obliterating all who dare oppose you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.megiddo.description",
+    "en": "Unleash powerful sun blasts using water to kill any nearby foes. It can also be used manually to concentrate fire for any stronger foes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.mental_crush.description",
+    "en": "Crush the mind of targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.merciless.description",
+    "en": "Instantly kill weakened enemies or drain the life force of those who lack the will to fight or of those much weaker than you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.mirage.description",
+    "en": "Create illusionary clones around the caster."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.molecular_manipulation.description",
+    "en": "Use your intricate knowledge and power over the building blocks of the world to obtain blocks and move entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.mortal_fear.description",
+    "en": "Inspire a gripping fear of death in weaker enemies while empowering your allies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.mud_hand.description",
+    "en": "Bind targets with several hands of mud."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.mud_spears.description",
+    "en": "Raise mud spikes from the ground to pierce through your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.multilayer_barrier.description",
+    "en": "Protect yourself with a multitude of powerful defensive barriers."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.murderer.description",
+    "en": "Disappear into the shadows and deal massive damage, also become undetectable by sound."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.musician.description",
+    "en": "Turn beautiful music into an instrument of destruction. Use sound to create powerful blasts which ignore armor. "
+  },
+  {
+    "key": "lang|tensura|tensura.skill.observer.description",
+    "en": "See all, evade all. Instinctively avoid attacks, detect concealed dangers, and identify hidden entities. Nothing escapes your watchful gaze."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ogre_berserker.description",
+    "en": "Allow rage to consume you to massively improve your physical powers for a time before the aftereffects set in."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ogre_flame.description",
+    "en": "Use your aura to create a pillar of fire."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ogre_sword_cannon.description",
+    "en": "Condense your aura into a blade projectile."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.oppressor.description",
+    "en": "Dominate gravity yourself, control attractive and repulsive forces or unleash devastating ranged attacks which will crush anyone unfortunate enough to be in your path."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.pain_nullification.description",
+    "en": "Completely negate all pain effects."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.pain_resistance.description",
+    "en": "Resist pain effects."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.paralysing_breath.description",
+    "en": "Spew a horrifying breath to paralyze your prey."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.paralysis.description",
+    "en": "Empower your attacks with the effect of Paralysis, toggleable when mastered."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.paralysis_nullification.description",
+    "en": "Completely negate all paralysis effects."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.paralysis_resistance.description",
+    "en": "Ignore weaker paralysis effects or reduce the duration of stronger paralysis."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.physical_attack_nullification.description",
+    "en": "Completely negate all physical damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.physical_attack_resistance.description",
+    "en": "Ignore weaker physical attacks or reduce the damage from stronger blows."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.pierce_nullification.description",
+    "en": "Completely negate all piercing damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.pierce_resistance.description",
+    "en": "Ignore weaker piercing damage or reduce the damage from stronger attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.poison.description",
+    "en": "Empower your attacks with the effect of Poison, toggleable when mastered."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.poison_nullification.description",
+    "en": "Completely nullify all poison damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.poison_resistance.description",
+    "en": "Ignore weaker poisons or reduce the damage from more potent toxins."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.poisonous_breath.description",
+    "en": "Use your disgusting breath to corrode and nauseate your targets. "
+  },
+  {
+    "key": "lang|tensura|tensura.skill.possession.description",
+    "en": "Possess a weakened material body to gain access to a whole new world."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.possession_magic.description",
+    "en": "Possess a weakened material body to gain a new powers from that body."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.predator.description",
+    "en": "Become the monster you were meant to be. Eat all. Analyze, craft and refine items, gain access to a spatial storage and mimic entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.pride.description",
+    "en": "Turn the strength of your opponents into your own and turn the tides of battle. Copy abilities when you are struck by them, provided you meet the necessary conditions."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.protection.description",
+    "en": "Greatly enhance the caster's defence."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ranged_barrier.description",
+    "en": "Place down differently sized barriers which block enemies in or out. Strong attacks can still destroy them."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.reaper.description",
+    "en": "Do recon by becoming smaller and more agile while seeing all enemies nearby. Spawn clones, or consume the essence of your enemies to obliterate them in a single strike."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.recovery.description",
+    "en": "Greatly recover a living being's health as well as food points."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.reflector.description",
+    "en": "Turn back the tides of battle by reflecting all of the received damage. Unleash a devastating projectile attack or counter an attack directly."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.reincarnation.description",
+    "en": "Sacrifice a portion of the caster's power to reincarnate."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.reinforced_barrier.description",
+    "en": "Coat the caster with reinforced Barriers with the strength based on Health."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.reinforcement.description",
+    "en": "Greatly enhance the caster's gears durability."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.researcher.description",
+    "en": "Study ancient magic tomes, reverse engineer them, and create wonders beyond imagination."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.reverser.description",
+    "en": "Flip the rules. Change alignments, invert buffs and debuffs while shifting strengths and weaknesses to your benefit."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.roaring_lion_punch.description",
+    "en": "Focus your aura into a fearsome blow with the regalness of a lion."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.royal_beast.description",
+    "en": "Unleash a primal fury and gain a massive physical boost to crush your enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sacred_haki.description",
+    "en": "Strike fear into the hearts of evil and give strength to your allies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sage.description",
+    "en": "Increase the speed at which you learn and master skills, magic and arts."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.scale_armor.description",
+    "en": "Like the lizardmen, move through water and mud with no penalties while receiving a slight defense buff. "
+  },
+  {
+    "key": "lang|tensura|tensura.skill.search_enemy.description",
+    "en": "Highlight hostile mobs around the caster."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.seeker.description",
+    "en": "Accelerate thought processing to extreme levels, mastery over magics and manipulate the fundamental laws governing the world to optimize actions and outcomes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.seer.description",
+    "en": "See everything. Foresee your opponent’s moves. Dodge or mitigate their attacks and predict their movement to score critical strikes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.self_regeneration.description",
+    "en": "Speed up your body’s natural regeneration to increase your survivability."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sense_heat_source.description",
+    "en": "Highlights entities that generate heat nearby."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sense_soundwave.description",
+    "en": "Empower your ears to precisely locate any nearby entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.severer.description",
+    "en": "Slice through reality and manifest spatial blades which cut through armor and unleash devastating blade storms."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.shadow_bind.description",
+    "en": "If the target is standing in shadows, bind them and deal spiritual damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.shadow_motion.description",
+    "en": "Melt into the shadows and move unseen by all but the most keen observers."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.shadow_striker.description",
+    "en": "Become one with the shadows and deal massive spiritual damage and become immune to lesser presence detection."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.shrink.description",
+    "en": "Reduce your size to enhance your evasion but increase your vulnerability"
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sleep_mist.description",
+    "en": "Release a wide area of sleeping mist to paralyze targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sloth.description",
+    "en": "Grind the world to a halt. Put your enemies into a deadly sleep, drain their power and rest to regain any lost vitality. May lethargy take over."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.snake_eye.description",
+    "en": "Apply various debuff on targets on sight."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sniper.description",
+    "en": "Deal damage from afar while using different bullets to get past resistances and ensure a quick kill."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.solar_beam.description",
+    "en": "Fire a light beam that deals massive damage to undead entities and burns blocks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.solar_flare.description",
+    "en": "Shoot a shockwave of light energy to give nausea, blindness and slowness to all targets in a wide AOE."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.solar_rain.description",
+    "en": "Shoot many light projectiles that deal massive damage to undead creatures."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.solar_wave.description",
+    "en": "Shoot a wave of light energy that blinds and slows hit enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sound_domination.description",
+    "en": "Boosts Sound abilities by a large amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sound_manipulation.description",
+    "en": "Boosts Sound abilities by a decent amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.space.description",
+    "en": "Form invisible platforms to create footholds midair."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.space_transform.description",
+    "en": "Channel the powers of space to weaken and damage all nearby entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spatial_attack_nullification.description",
+    "en": "Completely nullify all spatial damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spatial_attack_resistance.description",
+    "en": "Ignore weaker spatial attacks or reduce the damage from stronger dimensional strikes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spatial_domination.description",
+    "en": "Boosts Space abilities by a large amount and deals massive damage by splitting a target with dimensional attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spatial_manipulation.description",
+    "en": "Boosts Space abilities by a decent amount and manipulate space to empower your ranged attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spatial_motion.description",
+    "en": "Tear space asunder granting yourself and your allies safe passage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spatial_storage.description",
+    "en": "Rift space to create a small pocket dimension to store items."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spearhead.description",
+    "en": "Empower and command your allies, and then collect their abilities once they pass on."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spiritual_attack_nullification.description",
+    "en": "Completely negate all spiritual damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.spiritual_attack_resistance.description",
+    "en": "Ignore weaker spiritual attacks or resist stronger ones."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.starved.description",
+    "en": "Consume all in your path or have your rampaging subordinates do it. Corrode your enemies, devour their strength, and adding their abilities to your own."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.steel_strength.description",
+    "en": "Strengthen your muscles and gain an increase in damage, toggleable when mastered."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.sticky_steel_thread.description",
+    "en": "Manipulate threads in various form."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.stone_shot.description",
+    "en": "Shoot rock spikes toward targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.strength.description",
+    "en": "Use magicule to strengthen your muscles."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.strength_aspectual.description",
+    "en": "Greatly enhance the caster's strength power."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.strengthen_body.description",
+    "en": "Strengthen your body to better protect yourself against attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.summon_basilisk.description",
+    "en": "Summon a Basilisk to temporarily fight for you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.summon_daemon.description",
+    "en": "Summon a Daemon from hell to fight for you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.summon_greater_elemental.description",
+    "en": "Summon your contracted greater elemental spirit to have it purge the world of heretics for you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.summon_hound_dog.description",
+    "en": "Summon a Hound Dog to temporarily fight for you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.summon_medium_elemental.description",
+    "en": "Summon your contracted elemental spirit to temporarily fight for you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.summon_otherworlder.description",
+    "en": "Summon a human from a different world."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.suppressor.description",
+    "en": "Restrict teleportation, confuse enemies by swapping places, and use your blink as well as the spatial gate to cross large distances."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.survivor.description",
+    "en": "Endure and outheal anything, resist physical and natural damage and withstand overwhelming odds."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.swipe.description",
+    "en": "Slashing through space in a straight line, displacing entities or teleporting the caster."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.telepathy.description",
+    "en": "Give orders to tames when looking at them through commands."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.teleport.description",
+    "en": "Quickly blink forward in space to a location within view."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thermal_fluctuation_nullification.description",
+    "en": "Completely negate all thermal damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thermal_fluctuation_resistance.description",
+    "en": "Ignore weaker thermal damage regardless of its type or resist stronger attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thought_acceleration.description",
+    "en": "Increase the speed at which you think to cast magic more quickly as well as to increase your reaction speed."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thought_communication.description",
+    "en": "Send commands to nearby allies and become able to instruct them to attack players."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thrower.description",
+    "en": "Use your skill and your precision to throw anything and deal massive damage. You can even shove air or push back your foes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thunder.description",
+    "en": "Strike powerful thunder where the caster looks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thunder_breath.description",
+    "en": "Release thunder from your mouth to damage foes in front of you."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thunder_lance.description",
+    "en": "Strike powerful thunder lances of magic."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thunder_orb.description",
+    "en": "Call forth a sphere of thunder that strikes any enemy get by."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.thunder_rain.description",
+    "en": "Call forth a wide area of thunder clouds that strike all enemies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.titanification.description",
+    "en": "Grow into a towering titan to massively increase your strength, defense, and reach while gaining immunity to magic from weaker foes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.tornado_blade.description",
+    "en": "Fire a concentrated sphere of wind toward targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.traveler.description",
+    "en": "Move freely through space, teleport large distances or create spatial gates. Manipulate stardust to immense damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.true_darkness.description",
+    "en": "Inflict Blindness on all entities and deal massive spiritual damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.tuner.description",
+    "en": "Change your fate survive fatal blows, regenerate instantly and manipulate probability."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ultra_instinct.description",
+    "en": "Enhance your sense to dodge physical impact."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ultrasonic_waves.description",
+    "en": "Shoot out a screech of sound which damages physical bodies or use echolocation to highlight nearby entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.ultraspeed_regeneration.description",
+    "en": "Boost your bodies healing to nearly impossible levels "
+  },
+  {
+    "key": "lang|tensura|tensura.skill.universal_perception.description",
+    "en": "Combine all magic, sound and heat sense to detect entities around."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.unpredictability.description",
+    "en": "In the hands of a True Hero, unpredictability reigns supreme. The Hero sees all, becoming able to ignore dodge and even read the movements of their opponent to disable their critical attacks or their dodge avoidance."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.unyielding.description",
+    "en": "Draw power from loyal allies. Fortify subordinates and seamlessly switch to a backup body to stay in the fight."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.usurper.description",
+    "en": "Seize your enemies' power or their summons. Steal their abilities and take control of their skills, draining their strength for your own."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.villain.description",
+    "en": "Embody malice and fight on the side of evil. Gain increased power from killing your foes, manipulate your enemies into joining your side and empower your allies."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.violent_break.description",
+    "en": "Channel your aura, recklessly enhancing your strength and cleansing you of any negative effects."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.voice_cannon.description",
+    "en": "Fire powerful blasts of concentrated sound waves by producing loud vocal sounds atomizing weaker targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.warp_portal.description",
+    "en": "Tear space asunder connecting two points in space."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water.description",
+    "en": "Call forth or manipulate small amounts of water."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_aspectual.description",
+    "en": "Call forth small amounts of water."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_attack_nullification.description",
+    "en": "Completely nullify all water damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_attack_resistance.description",
+    "en": "Ignore weaker water-based damage or reduce the damage from stronger attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_blade.description",
+    "en": "Shoot out a blade of water which flies in a straight line."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_breathing.description",
+    "en": "Remove the requirement of air underwater."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_current_control.description",
+    "en": "Manipulate water around you to propel yourself in any direction."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_cutter.description",
+    "en": "Fires a concentrated blade to cut your enemies with the power of water."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_cutter_aspectual.description",
+    "en": "Fire concentrated blades of water toward targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_domination.description",
+    "en": "Boosts Water abilities by a large amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_jail.description",
+    "en": "Surround targets with flows of water."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_manipulation.description",
+    "en": "Boosts Water abilities by a decent amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.water_transform.description",
+    "en": "Channel the powers of water to damage and poison all nearby foes."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.weather_domination.description",
+    "en": "Use magicule to manipulate the weather with a higher efficiency."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.weather_manipulation.description",
+    "en": "Use magicule to manipulate the weather."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind.description",
+    "en": "Call forth a small gust of wind which can push targets away or the player up."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_attack_nullification.description",
+    "en": "Completely nullify all wind damage."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_attack_resistance.description",
+    "en": "Ignore weaker wind damage or reduce the damage from stronger attacks."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_blade.description",
+    "en": "Fires a concentrated blade of wind which has heavy knockback."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_cutter.description",
+    "en": "Fire concentrated blades of wind toward targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_domination.description",
+    "en": "Boosts Wind abilities by a large amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_gust.description",
+    "en": "Release strong currents of winds to create gusts or wind charges toward targets."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_manipulation.description",
+    "en": "Boosts Wind abilities by a decent amount."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_protection.description",
+    "en": "Call forth flows of wind to coat the caster with speed and protection."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wind_transform.description",
+    "en": "Channel the powers of wind to paralyze and damage all nearby entities."
+  },
+  {
+    "key": "lang|tensura|tensura.skill.wrath.description",
+    "en": "Unleash pure rage and use it to get infinitely stronger the longer your anger persists. Beware of the devastating drawback."
+  },
+  {
+    "key": "lang|tensura|tensura.telepathy.subordinate_all.passive",
+    "en": "All reached subordinates' behaviour have been set to to Passive."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.ban",
+    "en": "World Restriction Area [%s] has banned all modes of %s."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.ban_mode",
+    "en": "World Restriction Area [%s] has banned mode %3$s of %2$s."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.banned",
+    "en": "World Restriction Area [%s] is already banning all modes of %s."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.banned_mode",
+    "en": "World Restriction Area [%s] is already banning mode %3$s of %2$s."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.clear",
+    "en": "World Restriction Area [%s] has no longer banned any ability."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.not_banned",
+    "en": "World Restriction Area [%s] is currently not banning the usage of %s."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.not_banned_mode",
+    "en": "World Restriction Area [%s] is currently not banning mode %3$s of %2$s."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.unban",
+    "en": "World Restriction Area [%s] has unbanned the usage of %s."
+  },
+  {
+    "key": "lang|tensura|tensura.world_restriction.edit.ability.unban_mode",
+    "en": "World Restriction Area [%s] has unbanned mode %3$s of %2$s."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.coming_soon",
+    "en": "Coming Soon"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.coming_soon_feature",
+    "en": "Coming Soon: %s"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.creative_only",
+    "en": "Creative Mode Only"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.degenerate_menu.tab_1",
+    "en": "Crafting & Uncrafting"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.degenerate_menu.tab_2",
+    "en": "Synthesis & Separation"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.gear_durability_EP",
+    "en": "§6EP: %s/%s"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.great_sage_menu.automate",
+    "en": "Automate"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.great_sage_menu.brew",
+    "en": "Start Brewing"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.great_sage_menu.refining",
+    "en": "Refining"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.great_sword.tooltip",
+    "en": "§9Only usable with both hands."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.iceblade.tooltip.shift",
+    "en": "A Unique Grade Weapon which once belonged to the Magic Swordsman of Ice."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.kiln.magisteel_output",
+    "en": "Convert to Pure Magisteel"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.kiln.molten_item",
+    "en": "%s Molten %s"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.kiln.molten_output",
+    "en": "Convert to Ingot/Nugget"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.long_sword.tooltip",
+    "en": "§9Buffed stats when used with both hands."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.marionette_heart",
+    "en": "A rare magic item that can turn the user into a Majin with the cost of half their max HP in damage and most of their current Magicule."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.orc_disaster_head",
+    "en": "Trophy...?"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.press.shift",
+    "en": "Press [§eShift§r] for more Information!"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.character",
+    "en": "Reset everything from the user."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.disable",
+    "en": "It's not allowed to reset at this state."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.disable.name",
+    "en": "It's not allowed to reset %s at the current state."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.not_safe",
+    "en": "It's not safe to reset here."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.penalty",
+    "en": "The gamerule [resetIncompletePenalty] is enabled, using this scroll while you haven't completed all Reset Counter requirements will result in the lost of %s reset point(s)."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.race",
+    "en": "Reset the user's Statistic, Naming status, Awakening status, Spirits, Resistances and Race along with its Intrinsic Skills."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.skill",
+    "en": "Reset every skill of every type from the user except their Race's Intrinsic Skills."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.reset_scroll.skill_warning",
+    "en": "This scroll will not cover your Unique SKill's MP cost. Be careful, or else you can end up with no Unique Skills."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.return",
+    "en": "Return"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.shadow_storage.name",
+    "en": "Shadow: %s"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.smithing_table.lack_schematic",
+    "en": "Schematic required."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode",
+    "en": "§aShift Right-click§r to change modes."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode_magic",
+    "en": "Mode: §bMagic Bullet§r."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.sniper_pistol.tooltip.mode_physical",
+    "en": "Mode: §bPhysical Bullet§r."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.spatial_blade.tooltip.blade",
+    "en": "§aBlade Mode§r: §eRight-click§r to shoot out blades."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.spatial_blade.tooltip.hilt",
+    "en": "§aHilt Mode§r: §eRight-click§r to replenish blades."
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.spell_cast_item.list",
+    "en": "Used Magic:"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon",
+    "en": "Summon Slime"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon.control",
+    "en": "Control"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.spell_cast_item.slime_summon.summon",
+    "en": "Summon"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.web_gun.projectile",
+    "en": "Projectile:"
+  },
+  {
+    "key": "lang|tensura|tooltip.tensura.wip",
+    "en": "This feature is a work in progress. It will likely not work as intended and how it currently looks and works may be subject to change in the future."
+  }
+]
