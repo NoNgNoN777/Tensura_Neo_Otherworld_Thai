@@ -1,0 +1,152 @@
+[
+  {
+    "key": "lang|greatsage|greatsage.analysis.latent",
+    "previous": "You have not begun to grasp this. It will take far longer, and cost more.",
+    "en": "This skill must be learned before mastery training can begin."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.noResistance",
+    "previous": "Resistances cannot be analysed.",
+    "en": "Resistances cannot receive periodic mastery training."
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.remaining",
+    "previous": "%s left",
+    "en": "Next mastery gain: %s"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.resources",
+    "previous": "ANALYSIS RESOURCES",
+    "en": "ANALYSIS CAPACITY"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.efficiency",
+    "previous": "Efficiency",
+    "en": "Allocation"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.success",
+    "previous": "Success %s%%",
+    "en": "+1–2 per cycle (%s%%)"
+  },
+  {
+    "key": "lang|greatsage|greatsage.analysis.shareHint",
+    "previous": "click to raise, right click to lower",
+    "en": "Higher allocation shortens the cycle; full is fastest, zero pauses"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.desc",
+    "previous": "Break a skill down into its parts to master it passively.",
+    "en": "Gain 1–2 mastery per cycle until the skill is mastered."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.analyzing.capacity",
+    "previous": "Threads: %s  -  Efficiency: %s%%",
+    "en": "Threads: %s  -  Total capacity: %s%%"
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.confirm.warning",
+    "previous": "This skill cannot be used until the analysis is finished.",
+    "en": "Training continues until mastery or cancellation. This skill cannot be used meanwhile."
+  },
+  {
+    "key": "lang|greatsage|greatsage.menu.resources.desc",
+    "previous": "Share his working capacity between the skills under analysis.",
+    "en": "Training uses a share of total capacity. Full allocation is fastest; half takes twice as long."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.kaiseki_kanryou",
+    "previous": "Understood. Analysis complete. Skill mastery has improved.",
+    "en": "Answer. Analysis training complete. The skill is mastered."
+  },
+  {
+    "key": "lang|greatsage|greatsage.voice.shinchoku",
+    "previous": "Analysis of %s stands at %s.",
+    "en": "The current analysis cycle for %s is %s complete."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_resistance.desc",
+    "previous": "Analyse resistances you have actually started building. Latent ones still do not count.",
+    "en": "Periodic training does not support resistances. This node no longer enables resistance analysis."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_extra.desc",
+    "previous": "Analyse Extra skills.",
+    "en": "Enables Extra skill training: gain 1–2 mastery every 6 minutes at full allocation."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_unique.desc",
+    "previous": "Analyse Unique skills.",
+    "en": "Enables Unique skill training: gain 1–2 mastery every 12 minutes at full allocation."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.rank_ultimate.desc",
+    "previous": "Analyse Ultimate skills. The last door, and the longest to reach.",
+    "en": "Enables Ultimate skill training: gain 1–2 mastery every 20 minutes at full allocation."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_1.desc",
+    "previous": "Analysis budget 100% to 110%. This is the branch that actually buys speed.",
+    "en": "Expands the allocation scale from 100% to 110%. Full allocation still uses the base cycle for each skill tier."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_2.desc",
+    "previous": "Analysis budget up to 120%.",
+    "en": "Expands the allocation scale to 120%. The base cycle at full allocation is unchanged."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_3.desc",
+    "previous": "Analysis budget up to 130%.",
+    "en": "Expands the allocation scale to 130%. The base cycle at full allocation is unchanged."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_4.desc",
+    "previous": "Analysis budget up to 140%.",
+    "en": "Expands the allocation scale to 140%. The base cycle at full allocation is unchanged."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.budget_5.desc",
+    "previous": "Analysis budget up to 150%. Needs the fourth thread too.",
+    "en": "Expands the allocation scale to 150%. Does not shorten the base cycle. Still requires the fourth thread."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_1.desc",
+    "previous": "Analyses fail 15% less often.",
+    "en": "Previously reduced analysis failure chance by 15%. Periodic training has no random failure roll, so this effect is inactive."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_2.desc",
+    "previous": "Takes another 20% off what is left of the failure chance.",
+    "en": "Previously reduced remaining failure chance by 20%. Periodic training has no random failure roll, so this effect is inactive."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_3.desc",
+    "previous": "Another 25% off.",
+    "en": "Previously reduced remaining failure chance by 25%. Periodic training has no random failure roll, so this effect is inactive."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_4.desc",
+    "previous": "Another 30% off.",
+    "en": "Previously reduced remaining failure chance by 30%. Periodic training has no random failure roll, so this effect is inactive."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.precision_5.desc",
+    "previous": "Another 40% off. The whole branch leaves about a fifth of the original failure chance, never zero.",
+    "en": "Previously reduced remaining failure chance by 40%. Periodic training has no random failure roll, so this effect is inactive."
+  },
+  {
+    "key": "lang|greatsage|greatsage.tree.recovery.desc",
+    "previous": "When an analysis fails, half of the magicules it cost come back.",
+    "en": "Periodic training has no random failure roll, so failed-analysis refunds do not occur."
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.10.title",
+    "previous": "Analysis opens locked modes",
+    "en": "Periodic analysis and skill modes"
+  },
+  {
+    "key": "lang|greatsage|greatsage.whatsnew.0_0_7.10.desc",
+    "previous": "Skills that keep modes sealed (Sloth, Black Lightning...) open them when the Sage analyses them. FoxAblaze Ultimate's Raphael counts as the Sage.",
+    "en": "With TNO compatibility, analysis grants mastery periodically and no longer fills mode learning points. FoxAblaze Ultimate Raphael also counts as Great Sage."
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "Torn Pages & Ancient Books",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:torn_page",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:ancient_scholar_table",
+      "title": "Crafting the Scholar Table",
+      "text": "The brush and cinnabar blood ink in this recipe are tools. Both remain in the crafting grid after the table is made. Right-click the table to open its interface."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Finding Torn Pages",
+      "text": "Torn Pages may appear in chests from Ancient Cities, Desert Pyramids, Jungle Temples, Ruined Portals, and Underwater Ruins. Each eligible chest yields 0 to 3 pages.$(br2)Complete manuals never generate directly in wild loot chests."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:torn_page",
+      "title": "Analyzing Pages",
+      "text": "Place Torn Pages in the Scholar Table's Analysis page to analyze them automatically."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:ancient_book",
+      "title": "One Book, One Array",
+      "text": "Place the Ancient Book produced by analyzing Torn Pages into Decipher to begin breaking its array."
+    }
+  ]
+}

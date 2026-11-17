@@ -1,0 +1,29 @@
+{
+  "name": "Sword Flight",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/sword_flight.png",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Sword Flight",
+      "text": "Transform a held sword into a rideable flying sword and travel while standing upon its blade.$(br2)$(bold)Type:$() Extra Skill$(br)$(bold)Activation Cost:$() 2,000 magicules$(br)$(bold)Source:$() Decipher an Ancient Book and study a Sword Flight Manual"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:sword_flight_manual",
+      "title": "Deploying the Sword",
+      "text": "Hold a sword in either hand and press the skill key. It leaves that hand and becomes a flying sword entity. Right-click your sword to stand on and ride it."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Flight Controls",
+      "text": "Use movement keys for horizontal control.$(br)$(bold)Jump:$() ascend$(br)$(bold)Sprint (Ctrl by default):$() descend$(br)$(bold)Shift:$() dismount$(br2)The sword follows its rider's facing direction and moves faster while sprinting."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Summoning and Recalling",
+      "text": "Use $(bold)Shift+Right-click$() on the sword to return it to your inventory.$(br2)If an existing deployed sword is elsewhere, pressing the skill key summons it toward you."
+    }
+  ]
+}

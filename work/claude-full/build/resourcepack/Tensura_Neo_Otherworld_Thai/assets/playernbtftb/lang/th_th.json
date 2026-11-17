@@ -1,0 +1,7 @@
+{
+  "ftbquests.task.playernbtftb.player_nbt": "NBT ของผู้เล่น",
+  "ftbquests.task.playernbtftb.player_nbt.desc": "ตรวจสอบว่าข้อมูล NBT ของผู้เล่นตรงกับโครงสร้างที่ระบุหรือไม่",
+  "ftbquests.task.playernbtftb.player_nbt.nbt": "ข้อมูล NBT",
+  "ftbquests.task.playernbtftb.player_nbt.checkInterval": "ช่วงเวลาตรวจสอบ (tick)",
+  "ftbquests.task.playernbtftb.player_nbt.exactMatch": "โหมดจับคู่ตรงทุกประการ"
+}

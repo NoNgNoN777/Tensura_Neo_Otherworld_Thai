@@ -1,0 +1,17 @@
+{
+ "items": {
+  "lang|ymktn|ymktn.gpu.integrated.message": "คุณกำลังใช้ %s แต่มี GPU แยก (%s) ให้ใช้ เปลี่ยนไปใช้ GPU แยกเพื่อประสิทธิภาพที่ดีขึ้น ตรวจสอบการตั้งค่ากราฟิกใน Windows หรือแผงควบคุม GPU ของคุณ",
+  "lang|yigd|text.yigd.message.rob.too_early": "คุณปล้นหลุมศพนี้ไม่ได้จนกว่าจะถึง %s",
+  "lang|yigd|text.yigd.message.missing_key": "คุณไม่มีกุญแจที่ถูกต้องเพื่อปลดล็อกหลุมศพนี้",
+  "lang|yigd|text.yigd.message.no_shovel": "คุณต้องใช้พลั่วเพื่อปล้นหลุมศพนี้",
+  "lang|yigd|text.yigd.message.sellout_player": "%s ออกจากเกม และมีหลุมศพที่ X: %d / Y: %d / Z: %d / %s",
+  "lang|yigd|text.yigd.message.inform_robbery": "หลุมศพของคุณหลุมหนึ่งถูกปล้น",
+  "lang|yigd|text.yigd.message.inform_robbery.with_details": "%s ปล้นหลุมศพของคุณหลุมหนึ่ง",
+  "lang|yigd|text.yigd.message.grave_location": "หลุมศพของคุณอยู่ที่ X: %d / Y: %d / Z: %d / %s",
+  "lang|yigd|text.yigd.message.on_day": " ในวันที่ %d",
+  "lang|yigd|text.yigd.message.irl_time": " (%d %s, %d, %d:%d%s)",
+  "lang|yigd|text.yigd.message.grave_destroyed": "หลุมศพของคุณถูกทำลายโดยไม่คาดคิด หากมีสิทธิ์ที่เหมาะสม กู้คืนหลุมศพได้ด้วยคำสั่ง /yigd",
+  "lang|yigd|text.yigd.message.grave_relocated": "หลุมศพของคุณถูกย้ายไปที่ X: %d / Y: %d / Z: %d / %s",
+  "lang|yigd|text.yigd.message.grave_generation_error": "สร้างหลุมศพล้มเหลว ทิ้งไอเทม"
+ }
+}

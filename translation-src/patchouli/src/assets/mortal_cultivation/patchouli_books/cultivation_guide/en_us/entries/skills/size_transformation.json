@@ -1,0 +1,16 @@
+{
+  "name": "Heaven and Earth Manifestation",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/intrinsic/size_transformation.png",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "When large, you tower over the battlefield; when small, you become tiny as dust. This skill shifts your body size to trade mobility for reach and strength."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Intrinsic Skill$(br)$(bold)Input:$() Hold the skill key and scroll the mouse wheel$(br)$(bold)Cost:$() 3500 magicules per adjustment$(br2)Size ranges from about 0.3 to 10.0 and snaps back to your race's default size when close enough. Growing above your default size increases attack damage and interaction range. Size modifiers are cleaned up or restored on death, respawn, and login."
+    }
+  ]
+}

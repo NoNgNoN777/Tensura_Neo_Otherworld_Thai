@@ -1,0 +1,10 @@
+{
+  "effect.mowziesmobs.suns_blessing.description": "ให้คุณบัญชาพลังแห่งดวงอาทิตย์",
+  "effect.mowziesmobs.geomancy.description": "ให้คุณบัญชาพลังแห่งผืนดิน",
+  "effect.mowziesmobs.frozen.description": "ป้องกันการกระทำทั้งหมดในช่วงเวลาสั้นๆ ความเสียหายจากไฟจะลบเอฟเฟกต์ก่อนกำหนด",
+  "effect.mowziesmobs.sunblock.description": "เพิ่มการฟื้นฟูและความต้านทานความเสียหายเล็กน้อย",
+  "effect.mowziesmobs.poison_resist.description": "ป้องกันสถานะเอฟเฟกต์ Poison",
+  "effect.mowziesmobs.eclipsed.description": "ป้องกันสถานะเอฟเฟกต์อื่นทั้งหมดขณะที่ทำงานอยู่",
+  "effect.mowziesmobs.fragility.description": "เพิ่มความเสียหายที่ได้รับ",
+  "entity.mowziesmobs.sculptor.boss_info.timer.text": "เวลาที่เหลือ"
+}

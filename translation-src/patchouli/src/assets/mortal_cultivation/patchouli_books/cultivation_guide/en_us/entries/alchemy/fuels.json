@@ -1,0 +1,18 @@
+{
+  "name": "Essence Charcoal & Fuels",
+  "category": "mortal_cultivation:alchemy",
+  "icon": "mortal_cultivation:prime_essence_charcoal",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Essence Charcoal & Fuels",
+      "text": "The Alchemy Furnace accepts any burnable item as fuel, but different Essence Charcoals provide different $(bold)speed multipliers$(), greatly reducing crafting time.$(br2)Normal fuels (coal, charcoal, etc.) have a 1.0x speed multiplier, providing only base crafting speed.$(br2)Below are the speed bonuses for each type:"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Speed Overview",
+      "text": "Cooking progress currently advances at an integer speed, discarding decimal portions. Effective defaults are:$(li)$(bold)Mud Essence Charcoal$() — $(#090)1x$()$(li)$(bold)Yellow Essence Charcoal$() — $(#990)1x$()$(li)$(bold)Black Essence Charcoal$() — $(#666)1x$()$(li)$(bold)Void Essence Charcoal$() — $(#909)2x$()$(li)$(bold)Prime Essence Charcoal$() — $(#f60)5x$()$(li)$(bold)Explosive Crystal$() — $(#f00)10x$()$(br2)Prime Essence Charcoal reduces a 30-minute Foundation Building Pill to about 6 minutes. Configure values in mortal_cultivation-alchemy_furnace.toml."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "rconfig.server.desc": "คุณสมบัติที่อัปเดตแบบเรียลไทม์ได้",
+  "rconfig.server.properties.white-list.desc": "หากเปิด เฉพาะผู้ใช้ในไวต์ลิสต์เท่านั้นที่เข้าเซิร์ฟเวอร์ได้",
+  "rconfig.server.properties.max-players.desc": "จำนวนผู้เล่นสูงสุดที่เล่นบนเซิร์ฟเวอร์พร้อมกันได้",
+  "rconfig.server.properties.motd.desc": "ข้อความที่แสดงในรายการเซิร์ฟเวอร์",
+  "rconfig.server.properties.allow-flight.desc": "หากเปิด ผู้เล่นบินในเซิร์ฟเวอร์ได้ ซึ่งมักจำเป็นในเซิร์ฟเวอร์ม็อด",
+  "rconfig.server.properties.pvp.desc": "หากเปิด ผู้เล่นโจมตีกันเองได้",
+  "rconfig.server.properties.enforce-whitelist.desc": "หากเปิด เฉพาะผู้ใช้ในไวต์ลิสต์เท่านั้นที่เข้าเซิร์ฟเวอร์ได้ หากมีผู้ใช้ที่ไม่อยู่ในไวต์ลิสต์อยู่บนเซิร์ฟเวอร์ พวกเขาจะถูกเตะออก",
+  "rconfig.ui.constant.mod_configs.description": "เลือก config เพื่อดูหรือแก้ไข"
+}

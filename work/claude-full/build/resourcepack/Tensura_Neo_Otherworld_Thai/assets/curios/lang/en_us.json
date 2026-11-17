@@ -1,0 +1,8 @@
+{
+  "curios.tooltip.slot": "ช่อง:",
+  "curios.tooltip.inactive": "ช่องที่ไม่ได้ใช้งาน",
+  "argument.entity.options.curios.description": "ช่องเก็บของ curios ของเอนทิตี",
+  "gui.curios.toggle": "สลับการมองเห็น",
+  "gui.curios.toggle.cosmetics": "สลับ Cosmetics",
+  "gui.curios.page": "หน้า %d / %d"
+}

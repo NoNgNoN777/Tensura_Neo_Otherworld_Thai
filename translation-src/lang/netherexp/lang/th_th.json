@@ -1,0 +1,10 @@
+{
+  "item.netherexp.smithing_template.pump_charge_upgrade.additions_slot_description": "เพิ่ม Spark of Treachery",
+  "item.netherexp.smithing_template.pump_charge_upgrade.base_slot_description": "เพิ่ม Shotgun Fist",
+  "item.netherexp.spark_of_treachery.description": "เปิด Brazier Chest ได้",
+  "item.netherexp.non_consumable.tooltip": "ไอเทมที่ไม่ถูกใช้หมด",
+  "enchantment.netherexp.phantasm_hull.desc": "การย่อตัวทำให้กระสุนทะลุผ่านตัวคุณได้ โดยแลกกับความทนทาน",
+  "enchantment.netherexp.counterforce.desc": "กลับทิศทางการกระเด็นและให้ I-frame เมื่อใช้กลางอากาศโดยไม่มีแรงดึงลง",
+  "enchantment.netherexp.recoil.desc": "เพิ่มแรงถีบกลับของตัวเองเมื่อยิงปืนลูกซอง",
+  "enchantment.netherexp.barrage.desc": "เพิ่มจำนวนกระสุนที่ปืนลูกซองยิงออกไป แต่คูลดาวน์นานขึ้น"
+}

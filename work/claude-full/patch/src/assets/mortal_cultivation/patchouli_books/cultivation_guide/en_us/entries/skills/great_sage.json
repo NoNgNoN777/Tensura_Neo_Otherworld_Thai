@@ -1,0 +1,24 @@
+{
+  "name": "Great Sage",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/great_sage.png",
+  "sortnum": 24,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The evolved form of mastered Mischief, combining Celestial Twin, Defy, Cloud Walker, Primal Fury, and White Lie."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Extra Skill$(br)$(bold)Obtainment Cost:$() 130000 MP$(br)$(bold)Learning Cost:$() 3000$(br)$(bold)Max Mastery:$() 2500$(br2)Celestial Twin summons a stronger clone and has a 12-minute cooldown. If the twin already exists, sneak-use to teleport to it with a 10-second teleport cooldown. The clone copies your data and gains Self Regeneration, doubled damage, doubled health, resistance, and absorption."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Defy costs 30000 MP, grants about 10 seconds of near-invulnerability, and also affects your twin. When it ends, accumulated damage becomes absorption at 1.5x value; cooldown is 5 minutes. Cloud Walker costs 1% of base maximum magicules to start, grants high-speed flight and invisibility, and has a 50-second cooldown."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Primal Fury costs 1% of base maximum magicules to start, temporarily equips the Ruyi Jingu Bang, doubles attack, health, and speed, and grants Strength and Speed effects. White Lie costs 15000 MP and lasts 5 minutes: with no target player, it hides you; with a target player, it disguises you and temporarily copies one skill you do not have. The copied skill is removed when the effect ends. Cooldown is 5 minutes."
+    }
+  ]
+}

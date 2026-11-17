@@ -1,0 +1,24 @@
+{
+  "name": "Alchemy Furnace",
+  "category": "mortal_cultivation:alchemy",
+  "icon": "mortal_cultivation:alchemy_furnace",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:alchemy_furnace_crafting",
+      "title": "Crafting",
+      "text": "Craft with copper ingots, copper blocks, a blast furnace, and magic ore shards. When placed, automatically forms a 2-block-tall structure."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How to Use",
+      "text": "The Alchemy Furnace has 7 slots:$(br2)$(bold)Material Slots (left 3):$() Ingredient type and the count in each stack must match exactly. The three slots are unordered, but extra materials invalidate the recipe.$(br2)$(bold)Fuel Slot (bottom 1):$() Add any burnable item. Shift+Right-click quick-inserts fuel.$(br2)$(bold)Output Slots (right 3):$() Finished pills appear here."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Acceleration",
+      "text": "$(bold)1. Alchemy Prodigy$()$(br)Enable the skill and remain near the furnace:$(br2)$(li)Normal — cooking time is halved (effective range about 5 blocks)$(li)Mastered — cooking time becomes 10% (effective range about 10 blocks)$(br2)$(bold)2. Fire Spirit Root$()$(br)A Fire-root player within about 5 blocks adds a ×0.8 cooking-time multiplier, stacking with the skill.$(br2)$(bold)3. Special Fuels$()$(br)See \"Essence Charcoal & Fuels\"."
+    }
+  ]
+}

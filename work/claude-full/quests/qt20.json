@@ -1,0 +1,162 @@
+{
+ "task.F52DF00000000001.title": "Spirit King",
+ "task.F52DF00000000002.title": "Demonic Elemental Lord",
+ "task.F52DF00000000003.title": "Divine Demonic Elemental",
+ "quest.00DB12A9AF2C1FFD.quest_desc": [
+  "&lเหมืองต้องคำสาป (Cursed Quarry)&r",
+  "ผู้เล่นจะพบ Manipulator ที่นี่ เอาชนะพวกมันเพื่อช่วยชาวบ้านและรับรางวัล",
+  "",
+  "&lนครศักดิ์สิทธิ์ (Holy City)&r",
+  "คุณพบ NPC สองตนที่นี่:",
+  "หมอ: มอบยาแบบสุ่มได้",
+  "ช่างตีเหล็ก: ถอดแยกและซ่อมเครื่องมือได้โดยไม่ลบเอนชานต์",
+  "",
+  "&lรังของ Azazel (Azazel's Nest)&r",
+  "พื้นที่สุดท้าย",
+  "คู่มืออธิบายวิธีเรียก Azazel พบได้ในถัง"
+ ],
+ "quest.00DB12A9AF2C1FFD.title": "คฤหาสน์ Nether (Nether Mansion)",
+ "quest.0179DFC39E3DEA90.title": "&#FF6854【รีไซเคิล】&fTime Crystal",
+ "quest.046679A496CA3C16.title": "&#FF6854【รีไซเคิล】&fStealth Essence",
+ "quest.0668C631159F6257.title": "&#FF6854【รีไซเคิล】&fWisdom Crystal",
+ "quest.09B467D9EEF54A23.title": "&#FF6854【รีไซเคิล】&fIce Essence",
+ "quest.0FA7CF15D7DB68F8.quest_desc": [
+  "เอาชนะบอส Reinhard เพื่อรับสกิลนี้"
+ ],
+ "quest.17F034E84C497FF7.title": "&#FF6854【รีไซเคิล】&fElemental Essence",
+ "quest.1B69E7AEA2AFBFCE.title": "&#FF6854【รีไซเคิล】&fWrath Crystal",
+ "quest.1C7DE5CD874BFD81.quest_desc": [
+  "&6มีโอกาส 1% ดรอปจาก Cave Spider (แมงมุมพิษ), ปลาปักเป้า, ผึ้ง, แม่มด และ Bogged และโอกาส 2% ดรอปจาก Water Frog, Army Wasp, Giant Ant, Hell Moth, Hound (เฉพาะแบบวิวัฒนาการ/หางงู), Long-Armed Lizard, Phantom Spore, Tempest Serpent, Water Maiden และ Land Fish&r บริโภค 10 ชิ้นขณะครอบครอง Samael, Lord of Poison เพื่อล็อกสกิลขั้นสูงสุดนี้ในหน้า “Lock” ป้องกันการสูญเสียเมื่อเกิดใหม่"
+ ],
+ "quest.1C7DE5CD874BFD81.quest_subtitle": "เก็บรักษาสกิลนี้",
+ "quest.1EA0A4CC394E4555.title": "&#FF6854【รีไซเคิล】&fAbundance Crystal",
+ "quest.21E84033328B9661.quest_desc": [
+  "คลิกขวาใน Overworld ด้วย EP เกิน 1 ล้านเพื่อเรียก"
+ ],
+ "quest.21E84033328B9661.quest_subtitle": "เรียก Reinhard",
+ "quest.2231192849E57DBE.title": "&#FF6854【รีไซเคิล】&fVoid Crystal",
+ "quest.225091B4BF12F381.quest_desc": [
+  "ข้างในมีแท่นบูชา 6 แท่น กดคลิกขวาค้างที่แท่นหนึ่งเพื่อหันมุมมองไปที่บล็อกรูน ทำลายบล็อกรูน แล้วคลิกขวาแท่นที่ตรงกันด้วยมันเพื่อแก้ปริศนา ทำซ้ำกับอีก 5 แท่น เมื่อครบทั้งหมด พอร์ทัลตรงกลางจะเปิด",
+  "",
+  "เขาวงกตเต็มไปด้วยปริศนา คุณต้องแก้เพื่อไปถึงห้องบอส (Azazel ตัวจริง)",
+  "หลังเข้าห้องบอส คุณต้องมี Azazel Mask เพื่อเปิดใช้งานบอส (ดรอปจากบอสโบสถ์ใน Nether)",
+  "",
+  "&4&lคำเตือน! หากท้าทายบอสตัวนี้ ระวังอุปกรณ์ทั้งหมดของคุณกลายเป็นทอง!",
+  "",
+  "&l&#FF4AC3อย่าไปด้านหลังบัลลังก์!&r"
+ ],
+ "quest.225091B4BF12F381.quest_subtitle": "สิ่งก่อสร้างโบราณใน Overworld",
+ "quest.2515FE33D75FECAB.quest_subtitle": "เก็บรักษาสกิลนี้",
+ "quest.2534A0115BA9C0B0.title": "&#FF6854【รีไซเคิล】&fC-Rank Monster Leather",
+ "quest.3072ADF52B960186.title": "&#FF6854【รีไซเคิล】&fFire Essence",
+ "quest.340B19E35FB5A686.quest_desc": [
+  "/foxablazeultimate debug requirements [skill]"
+ ],
+ "quest.340B19E35FB5A686.quest_subtitle": "สกิล Unique ในแถวนี้ได้มาจากการเกิดใหม่เท่านั้น",
+ "quest.340B19E35FB5A686.title": "คุณรู้หรือไม่? (Did you know?)",
+ "quest.366FBE5B6BC77FFD.title": "&#FF6854【รีไซเคิล】&fDragon Essence",
+ "quest.3854E70EB92F36F0.title": "&#FF6854【รีไซเคิล】&fOath Crystal",
+ "quest.3D857975CC764D30.quest_desc": [
+  "หากคุณพบบ้าน deepslate หลังเล็กใน Overworld อาจเป็นบ้านของเขา",
+  "",
+  "{image:ablazeaqzlcz:textures/ftb/netherman/believer_house.png width:150 height:100 align:center click_action:none:}",
+  "",
+  "&6ซื้อหนังสือคู่มือจากนักเทศน์ข้างใน แล้วมันจะนำทางคุณ แน่นอนว่าคุณข้ามคู่มือและมุ่งไปยัง Nether เพื่อหา Nether Mansion เลยก็ได้"
+ ],
+ "quest.3D857975CC764D30.quest_subtitle": "ค้นหา",
+ "quest.413CE569DEB67F2F.title": "&#FF6854【รีไซเคิล】&fDeadly Poison Crystal",
+ "quest.4940AF13DC2FACD5.quest_desc": [
+  "วิธีรับ:",
+  "【ชำนาญ】Poison",
+  "【ชำนาญ】Merciless",
+  "ใช้มาจิคูล 700,000",
+  "ขึ้นกับกฎความเป็นหนึ่งเดียว samaelTrulyUnique"
+ ],
+ "quest.4D44AED229765359.quest_desc": [
+  "/foxablazeultimate debug requirements [skill]"
+ ],
+ "quest.4D44AED229765359.quest_subtitle": "จะตรวจสอบได้อย่างไรว่าคุณครบทุกเงื่อนไข?",
+ "quest.4D44AED229765359.title": "คำสั่งดีบักที่มีประโยชน์ (A Handy Debug Command)",
+ "quest.4D886404A58C7D50.quest_desc": [
+  "เริ่มต้นด้วยการเรียนสกิลการรับรู้ใดๆ ที่มีให้! แล้วลองเอาชนะมอนสเตอร์สักตัว"
+ ],
+ "quest.4D886404A58C7D50.quest_subtitle": "“ฉันมองไม่เห็น”",
+ "quest.50DE3DD490DAB5BE.quest_desc": [
+  "พบได้ในหมู่บ้าน Lizardman หรือได้จากการสังหารสิ่งมีชีวิตเช่น Ender Dragon",
+  "บริโภค 10 ชิ้นขณะครอบครอง Veldora, Lord of Storms เพื่อล็อกสกิลขั้นสูงสุดนี้ในหน้า “Lock” ป้องกันการสูญเสียเมื่อเกิดใหม่"
+ ],
+ "quest.50DE3DD490DAB5BE.quest_subtitle": "เก็บรักษาสกิลนี้",
+ "quest.50DE3DD490DAB5BE.title": "Dragon Essence",
+ "quest.5441924B55D01DC6.title": "&#FF6854【รีไซเคิล】&fB-Rank Monster Leather",
+ "quest.564D43F7C8429A86.title": "&#FF6854【รีไซเคิล】&fGluttony Crystal",
+ "quest.5DF86A7E1E40F9EA.quest_desc": [
+  "&6มีโอกาส 1% ดรอปจาก Cave Spider (แมงมุมพิษ), ปลาปักเป้า, ผึ้ง, แม่มด และ Bogged และโอกาส 2% ดรอปจาก Water Frog, Army Wasp, Giant Ant, Hell Moth, Hound (เฉพาะแบบวิวัฒนาการ/หางงู), Long-Armed Lizard, Phantom Spore, Tempest Serpent, Water Maiden และ Land Fish&r บริโภค 10 ชิ้นขณะครอบครอง Samael, Lord of Poison เพื่อล็อกสกิลขั้นสูงสุดนี้ในหน้า “Lock” ป้องกันการสูญเสียเมื่อเกิดใหม่"
+ ],
+ "quest.665624CD691CC829.title": "&#FF6854【รีไซเคิล】&fD-Rank Monster Leather",
+ "quest.67E535BC4659333A.quest_desc": [
+  "วิธีรับ:",
+  "1.คัดลอก/ขโมย: Cave Spider · ปลาปักเป้า",
+  "2.ทางเลือก: กิน Spider Eye 100 ชิ้น",
+  "3.ทางเลือกที่ 2: สังหาร Dark Spider 100 ตัว"
+ ],
+ "quest.67E535BC4659333A.title": "&6【ขั้นสูง】&fรับสกิล Poison (Obtain the Poison Skill)",
+ "quest.69C9B106737659A5.title": "&#FF6854【รีไซเคิล】&fStar Essence",
+ "quest.6CB90BB1E35B9B72.quest_desc": [
+  "1.ฝึกสกิล 【Blessed One】 ให้ชำนาญ",
+  "2.กลายเป็น Hero",
+  "3.มีมาจิคูล 2 ล้าน"
+ ],
+ "quest.700D630CD7A52B1D.title": "&#FF6854【รีไซเคิล】&fSpecial A-Rank Monster Leather",
+ "quest.728A316CA5A43DD5.title": "&#FF6854【รีไซเคิล】&fA-Rank Monster Leather",
+ "quest.7CD42C1828B871BF.title": "&#FF6854【รีไซเคิล】&fBlaze Crystal",
+ "task.350BCC0210360FFD.title": "สกิลเหล่านี้อาจเป็นประโยชน์กับคุณ (These skills might be helpful to you)",
+ "task.4307A7EEAAD2BDBE.title": "เขาวงกต (Labyrinth)",
+ "task.5F35CF4FB00527DF.title": "สกิลเหล่านี้อาจเป็นประโยชน์กับคุณ (These skills might be helpful to you)",
+ "task.6CEF6377EBA02C9F.title": "บ้านนักเทศน์ (Preacher's House)",
+ "task.75149888467AEFAC.title": "Sculk Worm",
+ "quest.09AE5F155BFA4BFE.quest_desc": [
+  "คุณมีโอกาสได้คัมภีร์เวทนี้จาก Dwarf Mage, Mage Tower หรือจากการแปรงทรายน่าสงสัย"
+ ],
+ "quest.09AE5F155BFA4BFE.title": "&6【เวท】&rมอบรูปร่างให้มาจิคูลของคุณ (Give Your Magicules Form)",
+ "quest.3EDCA6002F1D67BE.quest_desc": [
+  "ไบโอมหม่นมืดที่เล่าลือว่ามีอันเดดหลอกหลอน แต่ก็พบสมุนไพรหลายชนิดที่นี่ด้วย",
+  "ระวัง Evil Centipede! สัตว์ร้ายเหล่านี้มีลมหายใจโจมตีที่ทำให้อัมพาต!",
+  "",
+  "คุณต้องมี EP อย่างน้อย 6,000 เพื่อเข้าพื้นที่นี้"
+ ],
+ "quest.3EDCA6002F1D67BE.quest_subtitle": "อีกที่หนึ่งบนแผนที่ อีกเรื่องราวของคุณเอง",
+ "quest.3EDCA6002F1D67BE.title": "&6【สำรวจ】&fMiasma Plains (Miasma Plains)",
+ "quest.4D001EB712C9BA0D.quest_subtitle": "ก่อนการโจมตีครั้งต่อไป ลองคิดว่าจะปกป้องตัวเองอย่างไร",
+ "quest.4D001EB712C9BA0D.title": "&6【เจตจำนงนักรบ】&rสร้างแนวป้องกัน (Build a Line of Defense)",
+ "quest.5469879011183326.quest_desc": [
+  "ผลไม้นี้เติบโตบนต้นไม้ใน Spirit Forest ไบโอมที่เขียวชอุ่มและมีเกาะลอย"
+ ],
+ "quest.5469879011183326.quest_subtitle": "เดินทางสู่ Spirit Forest",
+ "quest.56E588F1D2BA7A06.quest_subtitle": "สกิลแนะนำสำหรับช่วงต้นและปลายเกม",
+ "quest.58DD4B4BE52EF776.quest_desc": [
+  "คุณมีโอกาสได้คัมภีร์เวทนี้จาก Dwarf Mage, Mage Tower หรือจากการแปรงทรายน่าสงสัย"
+ ],
+ "quest.58DD4B4BE52EF776.title": "&6【เวท】&rมอบรูปร่างให้มาจิคูลของคุณ (Give Your Magicules Form)",
+ "quest.6EB7C9B95E60156A.quest_desc": [
+  "&#FF9CD8บทนี้ดำเนินตามความก้าวหน้าหลักของม็อด TenSura ต้นฉบับ เควสต์บางอย่างมีการกระโดดข้ามความก้าวหน้าค่อนข้างมาก จึงทำเควสต์ผจญภัยอื่นก่อนได้ตามสบาย!"
+ ],
+ "quest.789F3DAC2253DB54.quest_desc": [
+  "สถานที่ที่พายุทรายโหมกระหน่ำทั้งวัน ความเข้มข้นของมาจิคูลสูงมาก การเข้าไปโดยไม่มีมาจิคูลของตนเองมากพอจะทำให้เกิดพิษมาจิคูลและตายในที่สุด",
+  "Armored Dragon, Basilisk, Spear-Legged Armored Spider และ Tempest Serpent เกิดที่นี่",
+  "",
+  "คุณต้องมี EP อย่างน้อย 8,000 เพื่อเข้าพื้นที่นี้"
+ ],
+ "quest.789F3DAC2253DB54.quest_subtitle": "เปลี่ยนชื่อบนแผนที่ให้เป็นสถานที่ที่คุณเห็นกับตา",
+ "quest.789F3DAC2253DB54.title": "&6【สำรวจ】&fDeath Desert (Death Desert)",
+ "quest.7D4B144B801CB767.quest_desc": [
+  "ดินแดนนี้รกร้างจริงหรือ? ดูเหมือนมี Magisteel Ore ฝังอยู่ใต้พื้นผิวมากมาย",
+  "",
+  "คุณต้องมี EP อย่างน้อย 12,000 เพื่อเข้าพื้นที่นี้"
+ ],
+ "quest.7D4B144B801CB767.quest_subtitle": "ทิ้งรอยเท้าของคุณไว้ในดินแดนแปลกหน้าอีกแห่ง",
+ "quest.7D4B144B801CB767.title": "&6【สำรวจ】&fBarren Lands (Barren Lands)",
+ "task.06DCD81E700B301B.title": "Barren Lands",
+ "task.132788B59094286D.title": "Death Desert",
+ "task.6C26583E36BC4F32.title": "Miasma Plains",
+ "task.720B3DB0FD910C63.title": "เคล็ดลับเควสต์ประจำบท (Chapter Quest Tips)"
+}

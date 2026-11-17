@@ -1,0 +1,12 @@
+{
+  "yungscavebiomes.advancements.root.description": "Explore the underground...",
+  "yungscavebiomes.advancements.poke_the_cactus.description": "You touched the cactus. We told you not to, but you did it anyway.",
+  "yungscavebiomes.advancements.the_snack_that_bites_back.description": "Eat a Prickly Peach",
+  "yungscavebiomes.advancements.frosted_caves.description": "Discover the Frosted Caves",
+  "yungscavebiomes.advancements.lost_caves.description": "Set foot in the Lost Caves",
+  "yungscavebiomes.advancements.mine_enchanted_ice.description": "Mine Enchanted Ice",
+  "yungscavebiomes.advancements.frost_potion.description": "Brew a Potion of Frost",
+  "yungscavebiomes.advancements.sandstorm_end.description": "Survive a Sandstorm",
+  "effect.yungscavebiomes.frost.description": "ลดความเร็วในการเคลื่อนที่และสร้างความเสียหายต่อเนื่อง",
+  "effect.yungscavebiomes.buffeted.description": "ลดความเร็วในการเคลื่อนที่และทำให้มุมมองแคบลง"
+}

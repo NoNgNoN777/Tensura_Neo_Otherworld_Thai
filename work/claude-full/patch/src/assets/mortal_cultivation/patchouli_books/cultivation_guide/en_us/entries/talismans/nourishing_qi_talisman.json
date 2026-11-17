@@ -1,0 +1,13 @@
+{
+  "name": "Nourishing Qi Talisman",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:nourishing_qi_talisman",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:nourishing_qi_talisman",
+      "text": "Hold Right-click for about 1 second, then release at full charge; releasing early does nothing. A successful cast consumes one talisman and grants Qi Nourishing for 8 seconds.$(br2)Each second restores 1% max health, 3% max magicules, and 3% max aura."
+    }
+  ]
+}

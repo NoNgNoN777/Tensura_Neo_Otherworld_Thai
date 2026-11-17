@@ -1,0 +1,23 @@
+{
+  "name": "Ruins Progression",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:ancient_stele",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "A Lost Legacy",
+      "text": "This progression revolves around ruins, runes, and ancient books. Prepare $(item)Spirit Glasses$() and an empty $(item)Reflection Orb$() before searching for an underground stele grotto.$(br2)Only the glasses reveal hidden runes and allow the orb to work on a stele."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Complete Route",
+      "text": "$(li)Gather runes from a stele$(li)Extract and store them in a Rune Table$(li)Find Torn Pages in ruin chests$(li)Analyze them into an Ancient Book$(li)Spend runes to rotate its array$(li)Connect the network and claim a random manual"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Two Resources",
+      "text": "Deciphering needs two separate resources:$(br2)$(bold)Torn Pages$() power Ancient Book production, while $(bold)runes$() pay for rotations on its array.$(br2)Gathering only one cannot complete the progression, so collect both while exploring."
+    }
+  ]
+}

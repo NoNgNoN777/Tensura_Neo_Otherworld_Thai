@@ -1,0 +1,12 @@
+{
+  "item.tno_tensura_extras.teleport_magic_tube.desc": "เทเลพอร์ตสินค้าที่ลงทะเบียนไปยังตำแหน่งที่กำหนด",
+  "tno_tensura_extras.skill.all_rounder.description": "แย่งชิง battlewill ของศัตรู ขโมยความสามารถของพวกเขาและควบคุมสกิลของพวกเขา ดูดพละกำลังของพวกเขาเพื่อใช้เอง",
+  "tno_tensura_extras.skill.optimist.description": "เมื่อรับคำสั่ง เพิ่มความสามารถกายภาพทั้งหมดเป็นสามเท่า แต่ส่งผลเฉพาะต่อคู่ต่อสู้ที่อ่อนแอกว่าตัวเอง",
+  "tno_tensura_extras.skill.time_traveler.description": "ตั๋วเที่ยวเดียวสู่อดีต การใช้ถูกจำกัดอย่างเข้มงวดเพราะเงื่อนไขการเปิดใช้ซับซ้อนและเข้มงวดอย่างยิ่ง",
+  "tno_tensura_extras.skill.looter.description": "เมื่อสังหารสิ่งมีชีวิต สิ่งมีชีวิตเงาที่มีความสามารถเท่ากับเป้าหมายที่ถูกสังหารถูกสร้างขึ้นจากความมืด",
+  "tno_tensura_extras.skill.seducer.description": "ปล้นวิญญาณ เผยแพร่ความกลัว",
+  "tno_tensura_extras.skill.day_night_inversion.description": "พิธีกรรมลึกลับที่ย้อนหลักการของกลางวันและกลางคืน สลับสิ่งศักดิ์สิทธิ์และปีศาจ",
+  "tno_tensura_extras.skill.holy_demonic_inversion.description": "พิธีกรรมลึกลับที่ย้อนหลักการของกลางวันและกลางคืน สลับสิ่งศักดิ์สิทธิ์และปีศาจ",
+  "tno_tensura_extras.skill.alignment_field.description": "ด้วยบาเรียร์ของข้า ย้อนหลักการของมาจิคูลของเจ้า คืนมันสู่ธาตุ ไม่มีเวทใดบุกรุกได้",
+  "tno_tensura_extras.skill.realm_spear.description": "นำทางด้วยเวท สามภพอยู่ในเอื้อมถึง"
+}

@@ -1,0 +1,12 @@
+108 constructionwand|gui.constructionwand.void_sack.sending 'Sending →'
+109 constructionwand|gui.constructionwand.void_sack.storing 'Storing'
+110 constructionwand|gui.constructionwand.void_sack.toggle_tooltip 'Toggle: send to container / store internally'
+111 crafttweaker|crafttweaker.command.conflict.description.output ' for output %s'
+112 crafttweaker|crafttweaker.command.conflict.description.type ' for type %s'
+113 crafttweaker|crafttweaker.command.description.conflicts 'Identifies and reports conflicts between various recipes'
+114 crafttweaker|crafttweaker.command.description.ctgui 'Provides info on the state of CTGUI'
+115 crafttweaker|crafttweaker.command.description.discord 'Provides a link to the CraftTweaker discord server'
+116 crafttweaker|crafttweaker.command.description.docs 'Opens a link to the docs'
+117 crafttweaker|crafttweaker.command.description.dump 'Dumps available sub commands for the dump command'
+118 crafttweaker|crafttweaker.command.description.dump.brackets 'Dumps available Bracket Expressions into the /ct_dumps folder'
+119 crafttweaker|crafttweaker.command.description.dump.info "Outputs a list of all known '%s' Brackets"

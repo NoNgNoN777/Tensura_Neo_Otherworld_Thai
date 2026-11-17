@@ -1,18 +1,20 @@
-# สถานะงานแปลทั้งแพ็ก: ยังไม่ครบ
+# สถานะงานแปลทั้งแพ็ก: แปลครบแล้ว (รอทดสอบในเกม)
 
-ใช้ English (US), คงชื่อเฉพาะอังกฤษ, แปลเนื้อเรื่องและคำอธิบายไทย ไม่มีการ commit/stage/push
+ภาษาที่ใช้ English (US) คงชื่อเฉพาะเป็นอังกฤษ แปลเนื้อเรื่องและคำอธิบายเป็นไทย ไม่มีการ commit/stage/push
 
-- Lang ที่มีคำแปลหรือคงคำตามบริบท: 1,555 / 11,217 ข้อ; ยังขาด 9,662 ข้อ
-- เควส: ครอบคลุม 297 / 1,878 ระเบียน รวมชื่อเฉพาะและตัวอ้างอิงที่คงเดิม; ยังขาด 1,581 ระเบียน
-- Ponder ใน config: 12 ไฟล์ / 43 ข้อความ; UI ของ Ponder namespace มีคำแปลครบในขอบเขตที่เลือก
-- คู่มือที่สำรวจพบและยังต้องทำ: 144 ไฟล์
-- ปรับแหล่งภาษา Great Sage ตามแพ็กภายใน TNO ที่เปิดใช้อยู่ 30 ข้อ
-- แก้การอ้างอิงฟอนต์ใน Resource Pack แล้ว แต่ยังไม่ได้ทดสอบในเกม; ปัญหาตำแหน่งซับทับแชตยังไม่แก้สำเร็จ
+| ส่วน | จำนวน | สถานะ |
+|---|---|---|
+| lang (ทุกม็อดในแพ็ก) | 11,217 ข้อ | ครบ แปลหรือคงคำตามบริบท |
+| เควส FTB | 1,878 ระเบียน | ครบ (ชื่อเควสรูป `ชื่อไทย (English)`) |
+| คู่มือ Patchouli | 144 ไฟล์ / 594 ข้อความ | ครบ |
+| Ponder | 12 ไฟล์ / 43 ข้อความ | ครบ (ทำไว้ก่อนหน้า) |
+| ซับ Great Sage | 30 ข้อ ตามแพ็กภายใน TNO | ครบ ใช้ข้อความอังกฤษของแพ็กที่เปิดใช้อยู่ |
 
-ชุดทดสอบ: `Tensura_Neo_Otherworld_Thai_InProgress_For_Friends.zip` ไม่ใช่ชุดแปลเสร็จสมบูรณ์ ยังไม่ได้ติดตั้งชุดใหม่นี้ลง instance
+ตั้งใจไม่แปล: advancements (คงอังกฤษ), เสียงพากย์, ชื่อไอเทม/ม็อบ/สกิล/เผ่า/มิติ, ข้อความภาษาญี่ปุ่นในหน้าจอพิธี Great Sage (kanji)
 
-ต้นฉบับสำหรับสร้างซ้ำ: `translation-src/`; สร้างด้วย `python tools/build_pack.py`; ตรวจด้วย `python tools/verify_pack.py`
-งานเพื่อนเดิมใน `work/` คงไว้ งานต่ออยู่ `work/full-pack/`
-รายการตกหล่นทุก key อยู่ `review/pending-lang.json`, `review/pending-quests.json`, `review/pending-manuals.json`
-จุดเสี่ยงความหมายและภาพ: `review/SEMANTIC_WATCHLIST_TH.md`; ผลตรวจอัตโนมัติ: `review/verification.json`
-ผลตรวจอัตโนมัติผ่านไม่เท่ากับแปลครบหรือผ่านทดสอบภาพในเกม
+ชุดส่งมอบ: `Tensura_Neo_Otherworld_Thai_For_Friends.zip` และ `resourcepacks/Tensura_Neo_Otherworld_Thai.zip`
+สร้างซ้ำ: `python tools/build_full.py` · ตรวจ: `python tools/verify_full.py` (ผลใน `review/verification-full.json` และ `review/build-report-full.json`)
+
+ยังไม่ทำ / ยังไม่ยืนยัน: ทดสอบในเกมจริง (ฟอนต์ไทยกับทุกหน้าต่าง, ตัดบรรทัดในเควสยาว, การแสดงผล Patchouli) และปัญหาซับ Great Sage ทับแชต
+
+ต้นฉบับ: `translation-src/` (`lang/`, `quests/`, `patchouli/`, `config-overlay/`, `resourcepack/`) งานระหว่างทางของรอบนี้อยู่ใน `work/claude-full/` สคริปต์เก่า `tools/build_pack.py` และ `tools/verify_pack.py` ยังคงไว้เป็นของชุดทดสอบเดิม (`build_full.py` เรียกใช้ฟังก์ชันของ `build_pack.py`)

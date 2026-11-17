@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "lang_keys": 11217,
+  "quest_records": 1878,
+  "patchouli_files": 144,
+  "files_sha256": {
+    "config/ftbquests/quests/lang/en_us.snbt": "aacd8dcb593ade43c34c8ea1b4efe5fd9ff2c06c33afbf0e850faa273bc6e5bd",
+    "config/ftbquests/quests/lang/th_th.snbt": "aacd8dcb593ade43c34c8ea1b4efe5fd9ff2c06c33afbf0e850faa273bc6e5bd",
+    "config/ponderer/scripts/alchemy_furnace.json": "387906b4d4e1de7d8c3a1cb817fd1a1e2c72806085ad25682a8b924f3e98a781",
+    "config/ponderer/scripts/battlewill_manual.json": "3a5c53bc0c0db16d3063d105405bcbfdd9bb4c8ebf752db865fed2a71b5bec45",
+    "config/ponderer/scripts/book.json": "fea9d5a2ddbef918c52b27617a273b80e148d303947f83760562eabbd142542e",
+    "config/ponderer/scripts/charybdis_core.json": "f551368f8aee9072f105f7984b7d3f75e4b5cae440b789ed58e08bd436d11dd9",
+    "config/ponderer/scripts/kiln_usage.json": "64dcd824d54457bb39be9a80ff4bf1c4a205a7be465c52072c64786a819644be",
+    "config/ponderer/scripts/magic_ore_shard.json": "9648e45dc930c2b7cdf5ffd398d305db25352fac2fde1d36b4067fe4763e4a05",
+    "config/ponderer/scripts/mining_station.json": "fbc066e6e3c482d13bfb15f99499d0828735b4e4937b2b93ce8963a18afb1001",
+    "config/ponderer/scripts/mithril_block.json": "36385b4b49e39f8aafc0a57d7f8ca3e827180dbca3625759c443aba0ae6e77c6",
+    "config/ponderer/scripts/orb_of_prophec.json": "c987d008b2d4e154e2fdcaa22dc6b6de0cb451541672742435cccd0874f0c699",
+    "config/ponderer/scripts/orb_of_prophecy.json": "e951a7e7425ce316f60a19962a3b17d58322828bb1e42b6cfef726e29fb3a4dd",
+    "config/ponderer/scripts/smithing_bench.json": "98fc3ad42ac37ad973eb54c7505671179adbb8041d1866577861af43f546cc15",
+    "config/ponderer/scripts/toms_storage_tutorial.json": "567561b1d9a6fcca121268d3e02fa73aab3c04c595c021d0039a4e2f58cf0464",
+    "INSTALL_TH.md": "14cdd1839222c10dfd6c08a7940f9c11fee6f84359115446407528f9d2e1dbce",
+    "resourcepacks/Tensura_Neo_Otherworld_Thai.zip": "fada0a5c1a939e7887b0bf5f6e3186af1f1c7240e97c3825514d9153f52e5c60"
+  },
+  "quest_roundtrip": "PASS",
+  "zip_crc": "PASS",
+  "runtime_test": "NOT_RUN"
+}

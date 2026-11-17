@@ -1,0 +1,19 @@
+{
+  "name": "Reflection Orb",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:zhao_ying_zhu",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:zhao_ying_zhu",
+      "title": "Collecting the Inscription",
+      "text": "While wearing Spirit Glasses, right-click an Ancient Stele with an empty Reflection Orb. Collection cannot begin without the glasses, if the orb is already filled, or while the stele is busy."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rune Capacity",
+      "text": "A filled orb carries $(bold)100 runes$(). The orb has 5 durability; every completed extraction at a Rune Table consumes 1 durability, and the orb disappears when all five uses are spent."
+    }
+  ]
+}

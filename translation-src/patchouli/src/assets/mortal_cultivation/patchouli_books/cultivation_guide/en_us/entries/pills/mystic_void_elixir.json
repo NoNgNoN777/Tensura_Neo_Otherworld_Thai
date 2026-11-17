@@ -1,0 +1,21 @@
+{
+  "name": "Mystic Void Elixir",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:mystic_void_elixir",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:mystic_void_elixir",
+      "text": "A mysterious pill that resonates with the void, granting profound insight into the nature of reality.$(br2)$(bold)Effect:$() A required condition for evolving from $(bold)Spirit Transformation$() to $(bold)Void Refinement$().$(br2)$(bold)Evolution Requirements:$()$(li)Existence Points (EP) >= 100,000$(li)Consume 1 Mystic Void Elixir$(br2)Right-click to consume."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "mortal_cultivation:localized_fantasy_term",
+      "item2": "tensura:elemental_essence#2",
+      "item3": "tensura:royal_blood#3",
+      "output": "mortal_cultivation:mystic_void_elixir",
+      "time": "$(bold)Crafting Time:$() 45 min$(br)$(italic)Note: Cinnabar Blood Ink has both a shapeless crafting recipe and an Alchemy Furnace recipe.$()"
+    }
+  ]
+}

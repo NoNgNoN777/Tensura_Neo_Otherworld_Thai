@@ -1,0 +1,13 @@
+{
+  "font.minecraft.default.desc": "ฟอนต์มาตรฐานของ Minecraft",
+  "font.minecraft.alt.desc": "ฟอนต์แบบอักษรรูนที่เกี่ยวข้องกับการร่ายมนตร์และเวทมนตร์",
+  "font.minecraft.illageralt.desc": "ฟอนต์ลึกลับที่ Illager ใช้",
+  "font.minecraft.uniform.desc": "ฟอนต์เรียบๆ ที่ไม่มีการตกแต่ง",
+  "tooltips.bookshelf.loot.unknown": "ของดรอปที่ไม่ทราบ",
+  "tooltips.bookshelf.loot.unknown.desc": "ของดรอปบางอย่างไม่สามารถแสดงได้ในตอนนี้",
+  "tooltips.bookshelf.loot.empty": "ดรอปว่างเปล่า",
+  "tooltips.bookshelf.loot.empty.desc": "อาจไม่มีอะไรดรอปเลยก็ได้!",
+  "tooltips.bookshelf.loot.dynamic": "ดรอปแบบไดนามิก",
+  "tooltips.bookshelf.loot.dynamic.desc": "ของดรอปบางอย่างขึ้นอยู่กับสถานการณ์",
+  "gui.jei.category.loot.name": "Loot Table"
+}

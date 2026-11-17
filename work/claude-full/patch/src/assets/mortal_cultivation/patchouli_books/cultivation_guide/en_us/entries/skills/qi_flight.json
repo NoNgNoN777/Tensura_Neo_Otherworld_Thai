@@ -1,0 +1,16 @@
+{
+  "name": "Qi Flight",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/qi_flight.png",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Control the spiritual energy inside your body to fly freely through the air."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Extra Skill$(br)$(bold)Obtainment:$() Cannot be unlocked automatically through EP; it must be obtained by other means$(br)$(bold)Input:$() Press the skill key to toggle flight$(br)$(bold)Cost:$() 1.5 magicules per toggle, with no ongoing drain$(br2)When enabled on the ground with space overhead, it first lifts you 1 block and then enables high-speed flight. Press again to disable it. Each toggle has a 3-second cooldown."
+    }
+  ]
+}

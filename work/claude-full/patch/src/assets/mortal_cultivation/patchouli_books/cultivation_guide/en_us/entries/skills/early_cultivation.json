@@ -1,0 +1,16 @@
+{
+  "name": "Early Cultivation",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/intrinsic/early.png",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A basic cultivation attack that condenses magicules into a small fireball and launches it along your line of sight."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Intrinsic Skill$(br)$(bold)Cost:$() 50 magicules$(br)$(bold)Cooldown:$() 8 seconds$(br2)The fireball flies quickly, explodes on impact with an entity or block, has about 2 explosion power, and deals fire damage on direct hits. It also explodes after about 5 seconds or around 50 blocks of travel."
+    }
+  ]
+}

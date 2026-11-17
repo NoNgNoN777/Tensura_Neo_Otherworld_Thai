@@ -1,0 +1,19 @@
+{
+  "batch": "128",
+  "how_to": "Translate each value of `items` to Thai following references/translation-rules.md. Write done_128.json with the SAME keys: {\"items\": {key: thai}}. List values stay lists.",
+  "items": {
+    "lang|ymktn|ymktn.gpu.integrated.message": "You are using %s, but a dedicated GPU (%s) is available. Switch to your dedicated GPU for better performance. Check your graphics settings in Windows or your GPU control panel.",
+    "lang|yigd|text.yigd.message.rob.too_early": "You can not rob this grave until in %s",
+    "lang|yigd|text.yigd.message.missing_key": "You do not have the proper key to unlock this grave",
+    "lang|yigd|text.yigd.message.no_shovel": "You need a shovel to loot this grave",
+    "lang|yigd|text.yigd.message.sellout_player": "%s logged off, and they have a grave at X: %d / Y: %d / Z: %d / %s",
+    "lang|yigd|text.yigd.message.inform_robbery": "One of your graves has been robbed",
+    "lang|yigd|text.yigd.message.inform_robbery.with_details": "%s has robbed one of your graves",
+    "lang|yigd|text.yigd.message.grave_location": "Your grave is located at X: %d / Y: %d / Z: %d / %s",
+    "lang|yigd|text.yigd.message.on_day": " on day %d",
+    "lang|yigd|text.yigd.message.irl_time": " (%d %s, %d, %d:%d%s)",
+    "lang|yigd|text.yigd.message.grave_destroyed": "Your grave has been unexpectedly destroyed. With proper permissions graves can be restored by using /yigd commands",
+    "lang|yigd|text.yigd.message.grave_relocated": "Your grave has been relocated to X: %d / Y: %d / Z: %d / %s",
+    "lang|yigd|text.yigd.message.grave_generation_error": "Grave failed to generate. Dropping items"
+  }
+}

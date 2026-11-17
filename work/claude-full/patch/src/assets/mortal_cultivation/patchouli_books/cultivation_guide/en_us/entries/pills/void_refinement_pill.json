@@ -1,0 +1,21 @@
+{
+  "name": "Void Refinement Pill",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:void_refinement_pill",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:void_refinement_pill",
+      "text": "A wondrous pill condensed from void essence, helping cultivators break through the Void Refinement bottleneck.$(br2)$(bold)Effect:$() A required condition for evolving from $(bold)Void Refinement$() to $(bold)Unity$().$(br2)$(bold)Evolution Requirements:$()$(li)Existence Points (EP) >= 200,000$(li)Consume 1 Void Refinement Pill$(br2)Right-click to consume."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:dragon_essence#8",
+      "item2": "tensura:elemental_essence#8",
+      "item3": "tensura:unicorn_horn#8",
+      "output": "mortal_cultivation:void_refinement_pill",
+      "time": "$(bold)Crafting Time:$() 120 min"
+    }
+  ]
+}

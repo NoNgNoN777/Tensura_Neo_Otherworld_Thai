@@ -1,0 +1,16 @@
+{
+  "name": "Alchemy Prodigy",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/alchemy_prodigy.png",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Precise control reduces refinement time and stabilizes pill formation. This skill improves nearby Alchemy Furnaces."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Extra Skill$(br)$(bold)Input:$() Press the skill key to enable or disable$(br)$(bold)Cost:$() None$(br2)While enabled, it dynamically changes nearby Alchemy Furnaces: within about 5 blocks, normal skill reduces total cooking time to 50%; when mastered, it reaches about 10 blocks and reduces time to 10%. Leaving range or disabling it restores the original total while preserving proportional progress."
+    }
+  ]
+}

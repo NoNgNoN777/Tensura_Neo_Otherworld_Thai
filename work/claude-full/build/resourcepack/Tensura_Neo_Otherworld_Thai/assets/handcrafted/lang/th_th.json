@@ -1,0 +1,14 @@
+{
+  "tooltip.handcrafted.bed_pillow": "คลิกขวาด้วย Cushion เพื่อเปลี่ยนสีหมอนของเตียง",
+  "tooltip.handcrafted.bed_sheet": "คลิกขวาด้วย Sheet เพื่อเปลี่ยนผ้าปูเตียง",
+  "tooltip.handcrafted.counter": "คลิกขวาด้วยไม้หรือหินเพื่อเปลี่ยนพื้นผิวเคาน์เตอร์",
+  "tooltip.handcrafted.crockery_combo": "คลิกขวาด้วยไอเทมใดก็ได้เพื่อวางไอเทมนั้นบนจาน",
+  "tooltip.handcrafted.cushion": "คลิกขวาด้วย Cushion เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+  "tooltip.handcrafted.hammer": "เปลี่ยนรูปลักษณ์ของบล็อก",
+  "tooltip.handcrafted.hammer_use_look": "คลิกขวาด้วย Hammer เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+  "tooltip.handcrafted.hammer_use_look_shift": "Shift + คลิกขวาด้วย Hammer เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+  "tooltip.handcrafted.hammer_use_shape": "คลิกขวาด้วย Hammer เพื่อเปลี่ยนรูปทรงของบล็อก",
+  "tooltip.handcrafted.place_on_furniture": "วางบนเฟอร์นิเจอร์ได้",
+  "tooltip.handcrafted.sheet": "คลิกขวาด้วย Sheet เพื่อเปลี่ยนรูปลักษณ์ของบล็อก",
+  "tooltip.handcrafted.shift_description": "กด SHIFT ค้างเพื่อดูข้อมูลเพิ่มเติม"
+}

@@ -1,0 +1,8 @@
+{
+  "kerria.enabled.tooltip": "เปิดหรือปิด Kerria",
+  "kerria.fastUpload.tooltip": "เพิ่มประสิทธิภาพการอัปโหลดเท็กซ์เจอร์จาก CPU ไป GPU ด้วยบัฟเฟอร์ที่แมปถาวรและ pixel buffer object\n\nต้องรองรับ OpenGL 4.5 หรือ ARB_direct_state_access และ ARB_buffer_storage",
+  "kerria.cache.tooltip": "แคชเท็กซ์เจอร์ที่อัปโหลดแล้วเพื่อตัดการอัปโหลดจาก CPU ไป GPU และถ่ายโอนซับเท็กซ์เจอร์ระหว่างหน่วยความจำ GPU โดยตรง\n\nต้องรองรับ OpenGL 4.5 หรือ ARB_direct_state_access, ARB_copy_image และ ARB_texture_storage",
+  "kerria.bufferSize.tooltip": "กำหนดขนาดของบัฟเฟอร์ที่แมปถาวร หน่วยเป็น KB",
+  "kerria.minCacheSize.tooltip": "กำหนดขนาดแคชเริ่มต้นสำหรับเท็กซ์เจอร์แอนิเมชัน",
+  "kerria.maxCacheSize.tooltip": "กำหนดขนาดแคชสูงสุดสำหรับเท็กซ์เจอร์แอนิเมชัน"
+}

@@ -1,0 +1,91 @@
+import json,sys
+sys.stdout.reconfigure(encoding='utf-8')
+W=r'D:\minecraft\Tensura_Neo_Otherworld_Thai\work\claude-full'
+N=77
+D={
+'greatsage.world.event.true_demon_lord':"ประกาศ บุคคล %s: ยืนยันการตื่นรู้เป็น True Demon Lord",
+'greatsage.world.event.harvest_festival':"ประกาศ บุคคล %s เริ่มวิวัฒนาการเป็น Demon Lord Harvest Festival เริ่มต้นขึ้น",
+'greatsage.world.event.true_hero':"ประกาศ บุคคล %s: ยืนยันการตื่นรู้เป็น True Hero",
+'greatsage.scene.validate':"ยืนยัน",
+'greatsage.scene.draw_hint':"กด Enter เพื่อยืนยัน · คลิกขวาเพื่อย้อนเส้นหนึ่งเส้น",
+'greatsage.ep1.tainetsu':"Heat Resistance… ได้รับแล้ว…",
+'greatsage.ep1.seikou':"สำเร็จ",
+'greatsage.ep1.shitotsu':"Pierce Resistance… ได้รับแล้ว…",
+'greatsage.ep1.tsuzuite':"ดำเนินต่อ…",
+'greatsage.ep1.butsuri':"Physical Attack Resistance… ได้รับแล้ว…",
+'greatsage.ep1.tsuukaku':"Pain Nullification… ได้รับแล้ว…",
+'greatsage.ep1.ketsueki':"กำลังสร้างร่างกายที่ไม่ต้องการเลือด…",
+'greatsage.ep1.taikan':"Cold Resistance… ได้รับแล้ว…",
+'greatsage.ep1.netsuhendou':"Heat Resistance และ Cold Resistance วิวัฒนาการเป็น Thermal Fluctuation Resistance",
+'greatsage.ep1.denjiha':"กำลังลบข้อมูลด้วยคลื่นแม่เหล็กไฟฟ้า…",
+'greatsage.ep1.jouhou_fusoku':"ข้อมูลไม่เพียงพอ ล้มเหลว",
+'greatsage.ep1.dairi':"กำลังดำเนินมาตรการทดแทน",
+'greatsage.ep1.denryuu':"Electricity Resistance… ได้รับแล้ว…",
+'greatsage.ep1.fuzoku':"พร้อมกันนี้…",
+'greatsage.ep1.mahi':"Paralysis Resistance… ได้รับแล้ว…",
+'greatsage.ep1.hoshokusha':"Unique Skill: Predator… ได้รับแล้ว…",
+'greatsage.ep1.kenja':"Extra Skill: Sage… ได้รับแล้ว…",
+'greatsage.ep1.daikenja':"กำลังวิวัฒนาการ Sage เป็น Unique Skill Great Sage…",
+'greatsage.ep1.satoru.burning':"เกิดอะไรขึ้นกับฉัน…? มันร้อนจัด…",
+'greatsage.ep1.satoru.stop':"ทำให้มันหยุดที…",
+'greatsage.ep1.satoru.stabbed':"ถูกแทงกลางถนน… ฉันไม่น่าจะจบแบบนี้",
+'greatsage.ep1.satoru.blood':"เจ็บ… เลือดเยอะมาก…",
+'greatsage.ep1.satoru.cold':"หนาวจัง…",
+'greatsage.ep1.satoru.dying':"นี่คือจุดจบสินะ… ฉันกำลังจะตาย",
+'greatsage.ep1.satoru.drive':"คอมพิวเตอร์ของฉัน… ลบไดรฟ์ ทุกไฟล์เลย",
+'greatsage.ep1.satoru.virgin':"สามสิบเจ็ดปี และไม่เคยมีแฟนสักครั้ง…",
+'greatsage.ep1.satoru.reborn':"ชาติหน้า ฉันจะลุยให้สุด… และกลืนกินทุกอย่าง",
+'greatsage.ep1.satoru.wizard':"เขาว่ากันว่าเกินสามสิบจะกลายเป็นพ่อมด…",
+'greatsage.ep1.satoru.sage':"ด้วยวัยฉัน ป่านนี้คงเป็นปราชญ์แล้ว ปราชญ์ผู้ยิ่งใหญ่เลยก็ได้",
+'greatsage.ep1.satoru.rest':"เงียบจัง… ให้ฉันได้นอนเสียทีเถอะ…",
+'greatsage.sigil.fehu.reading':"คทาที่มีสองกิ่งเอื้อมไปข้างหน้า",
+'greatsage.sigil.thurisaz.reading':"เสาที่มีหนามอยู่ข้างๆ",
+'greatsage.sigil.ansuz.reading':"คทาที่มีสองแขนร่วงลง",
+'greatsage.sigil.haegl.reading':"สองเสาที่ผูกด้วยคานไขว้",
+'greatsage.sigil.naudiz.reading':"เสาตั้งที่ถูกแท่งเฉียงฟาด",
+'greatsage.sigil.jera.reading':"สองตะขอที่หมุนรอบกัน",
+'greatsage.sigil.perthro.reading':"ถ้วยที่นอนตะแคง เปิดอยู่",
+'greatsage.sigil.algiz.reading':"ก้านที่แยกออกเป็นสาม",
+'greatsage.sigil.tiwaz.reading':"หอกที่ชี้ตรงขึ้นฟ้า",
+'greatsage.sigil.mannaz.reading':"สองเสาที่เชื่อมด้วยการไขว้",
+'greatsage.sigil.dagaz.reading':"สองสามเหลี่ยมที่พบกันที่ปลายยอด",
+'greatsage.sigil.othala.reading':"เพชรที่ยืนบนสองขา",
+'greatsage.sigil.yr.reading':"ก้านที่แยกออกชี้ลง",
+'greatsage.sigil.wunjo.reading':"ธงที่ชูบนเสา",
+'greatsage.sigil.ing.reading':"เมล็ดที่ปิดสนิท ไขว้กันที่ปลาย",
+'greatsage.sigil.mercury.reading':"เขาเหนือวงกลมเหนือกางเขน",
+'greatsage.sigil.venus.reading':"วงกลมที่วางบนกางเขน",
+'greatsage.sigil.earth.reading':"วงกลมที่แบ่งเป็นสี่",
+'greatsage.sigil.mars.reading':"วงกลมที่มีจุดพุ่งออกไป",
+'greatsage.sigil.jupiter.reading':"ขดที่พิงกางเขน",
+'greatsage.sigil.saturn.reading':"กางเขนที่จบด้วยตะขอ",
+'greatsage.sigil.uranus.reading':"วงกลมที่สวมมงกุฎด้วยกางเขนเล็ก",
+'greatsage.sigil.sulfur.reading':"สามเหลี่ยมที่ยืนบนกางเขน",
+'greatsage.sigil.salt':"เกลือ",
+'greatsage.sigil.salt.reading':"วงกลมที่ถูกผ่ากลาง",
+'greatsage.sigil.air':"อากาศ",
+'greatsage.sigil.air.reading':"สามเหลี่ยมที่ถูกตัดเหนือฐาน",
+'greatsage.sigil.earth_element':"ธาตุดิน",
+'greatsage.sigil.earth_element.reading':"สามเหลี่ยมชี้ลงที่มีคานขวาง",
+'greatsage.sigil.philosophers_stone':"Philosopher's Stone",
+'greatsage.sigil.philosophers_stone.reading':"วงกลมและสี่เหลี่ยมที่ซ้อนกันในสามเหลี่ยม",
+'greatsage.sigil.opposition':"ความตรงข้าม",
+'greatsage.sigil.opposition.reading':"สองวงกลมที่เชื่อมด้วยเส้น",
+'greatsage.sigil.ceres':"Ceres",
+'greatsage.sigil.ceres.reading':"เคียวที่ยืนบนกางเขน",
+'greatsage.sigil.aries':"Aries",
+'greatsage.sigil.aries.reading':"สองเขาที่ม้วนออกนอก",
+'greatsage.sigil.taurus':"Taurus",
+'greatsage.sigil.taurus.reading':"วงกลมที่มีเขาตั้งอยู่ด้านบน",
+}
+keys=[]
+out={}
+for l in open(W+rf'\tmp\d0{N}.txt',encoding='utf-8'):
+    if ' = ' not in l: continue
+    k,v=l.rstrip('\n').split(' = ',1)
+    keys.append(k)
+    a=k.replace('foxablazeaqzl_wiki.wiki.','')
+    if a in D: out[k]=D[a]
+    elif a.startswith('greatsage.grant.') or a.endswith('.kanji') or a.startswith('greatsage.sigil.'): out[k]=json.loads(v)
+print('keys',len(keys),'out',len(out),[k for k in keys if k not in out])
+json.dump(out,open(W+rf'\tmp\t0{N}.json','w',encoding='utf-8'),ensure_ascii=False)
