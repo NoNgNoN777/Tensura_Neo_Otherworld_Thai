@@ -1,0 +1,13 @@
+{
+  "name": "Monster Gathering Talisman",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:monster_gathering_talisman",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:monster_gathering_talisman",
+      "text": "Gathers mobs and controls them.$(br2)$(bold)Usage:$() Right-click to throw and place. Attracts nearby mobs to the talisman's position.$(br2)$(bold)Retrieve:$() Shift+Right-click with empty hand to pick up."
+    }
+  ]
+}

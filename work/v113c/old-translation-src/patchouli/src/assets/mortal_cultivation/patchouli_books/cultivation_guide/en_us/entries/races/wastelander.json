@@ -1,0 +1,18 @@
+{
+  "name": "Wastelander",
+  "category": "mortal_cultivation:races",
+  "icon": "minecraft:barrier",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Wastelander",
+      "text": "Wastelanders cannot undergo any evolution. Only by repairing their meridians through special means can they begin the path of cultivation.$(br2)Here are three ways to become Human:"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Transformation Methods",
+      "text": "$(li)$(bold)Heaven Cleansing Elixir$()$(br)Consuming it directly transforms you into the Human race.$(br2)$(li)$(bold)Dream Realm Challenge$()$(br)When sleeping at night, there is a chance to enter a Dream Realm. Defeat the Wither Skeleton to succeed and become Human.$(br2)$(li)$(bold)Break and Rebuild Manual$()$(br)A possible reward for deciphering an Ancient Book at a Scholar Table. Right-click it to become Human."
+    }
+  ]
+}

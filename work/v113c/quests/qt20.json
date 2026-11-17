@@ -1,0 +1,21 @@
+{
+"quest.743339616652364F.quest_desc": ["มีโอกาสได้จากการสังหาร Hell Moth หรือ Army Wasp", "", "[ { \"text\": \"วิธีหา Hell Moth\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1CF63C044EAFA8D7\" } } ]"],
+"quest.74F615E1EE2FC750.quest_desc": {"old": [["จากเศษแร่เวท 64 ชิ้น", "จาก Magic Ore 64 ชิ้น"]]},
+"quest.7520ACD27D831180.quest_subtitle": "[เมื่อได้รับวิญญาณที่กำหนดแล้ว ให้คลิกส่งเควส]",
+"quest.7520ACD27D831180.title": "Fire Spirit • ระดับกลาง",
+"quest.7536532A088C6144.title": "ตามหา Foliaath (Find a Foliaath)",
+"quest.7621D7B84C9D710F.quest_desc": ["วาง Unbound Tome ลงใน Spellbinding Table และเลือกเวทที่คุณชำนาญเพื่อผูก จากนั้นคลิกขวาเพื่อร่ายได้ทันทีโดยไม่ต้องเปิดเมนูสกิล", "", "วิธีรับ: พบได้ในกล่องของ Dwarf Magic Trainer ด้วยโอกาส 1% หรือในหอนักเวทด้วยโอกาส 5%~10%"],
+"quest.7699A815D2FAA05D.quest_desc": ["Spirit Charcoal ชนิดต่างๆ ลดเวลาเล่นแร่แปรธาตุได้ &lThe Supreme Alchemy Canon&r เป็นสกิลที่ลดเวลาเล่นแร่แปรธาตุเช่นกัน หลังเรียนแล้วเปิดใช้ด้วยปุ่มสกิล"],
+"quest.76CF8528AD72AE60.quest_desc": ["การปรุง Low Magisteel Ingot 1 แท่งต้องใช้แท่งเหล็กอย่างน้อย 1 แท่ง + Magic Ore 4 ชิ้น ดังนั้นคุณต้องขุดแร่เวทเยอะมาก!"],
+"quest.77224F3957EF8057.quest_desc": ["มีสองวิธีไปยัง Spirit Dimension: กลับชาติมาเกิดเป็นเผ่าวิญญาณแล้วคุณจะเกิดใหม่ที่นั่น หรือเดินทางผ่าน Labyrinth Tree ไปยัง Prayer Altar ที่จุดลึกที่สุด แล้วบินขึ้นไปสู่ Spirit Dimension", "ที่นี่มีวิญญาณมากมาย บางตนอยากรู้อยากเห็นและเป็นมิตร บางตนเป็นศัตรู &6ที่นี่เหมาะสำหรับหา Elemental Fragment", "", "&zหากต้องการกลับ Overworld ให้กระโดดลงเพื่อกลับเข้า Labyrinth Tree แล้วใช้พอร์ทัล Overworld อันที่ใกล้ที่สุดอยู่ข้างบันไดที่นำไปยัง Prayer Altar", "", "&6เผ่าวิญญาณมีเงื่อนไขเพิ่มเติมก่อนกลับ Overworld: ต้องใช้ Possession สิงสิ่งมีชีวิตที่มีร่างกายก่อน ไม่เช่นนั้นจะตายในไม่ช้าหลังกลับ Overworld! ( •̀ ω •́ )✧", "", "[ { \"text\": \"ทำเควสพอร์ทัล Spirit Labyrinth ให้สำเร็จ\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"21D64A9C2520E210\" } } ]"],
+"quest.77224F3957EF8057.title": "ยินดีต้อนรับสู่โลกวิญญาณ! (Welcome to the Spirit World!)",
+"quest.774C400118E08DB2.title": "Ogre General",
+"quest.77DAE84C2DA918B8.quest_desc": {"old": [["Unlimited Imprisonment", "Infinity Prison"], ["ผ่าน Integration ของ Lord of Wisdom", "ผ่าน Synthesise ของ Wisdom King · Raphael"]]},
+"quest.77DAE84C2DA918B8.title": "&6【ขั้นสูง】&fUltimate Skill: Time-Space Lord · Yog-Sothoth",
+"quest.789F3DAC2253DB54.quest_desc": {"old": [["Armored Dragon, Basilisk, Spear-Legged Armored Spider และ Tempest Serpent", "Armorsaurus, Basilisk, Knight Spider และ Tempest Serpent"]]},
+"quest.789F3DAC2253DB54.title": "&6【สำรวจ】&fDesert of Death",
+"quest.78B7C0A0CB97647C.quest_desc": ["ผู้มีอยู่อันทรงพลังเหนือ Demon ธรรมดาและต่ำกว่า Demon Peer", "Greater Demon มีคลังมาจิคูลและสติปัญญามหาศาล ใช้เวทและความสามารถทางวิญญาณอันทรงพลังได้อย่างชำนาญ จัดอยู่ในชนชั้นปกครองของ Underworld เทียบกับ Demon ระดับต่ำกว่า พวกมันมีร่างที่มั่นคงกว่าและสำนึกในตัวเองที่แข็งแกร่งกว่า"],
+"quest.78B7C0A0CB97647C.title": "Greater Demon",
+"quest.7A20976135887AD4.quest_desc": {"old": [["Hero's Egg", "Hero Egg"]]},
+"quest.7A8B9C0D1E2F3456.title": "Ede Saine"
+}

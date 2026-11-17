@@ -1,0 +1,28 @@
+{
+  "name": "Spirit Forest",
+  "category": "mortal_cultivation:spirit_forest",
+  "icon": "mortal_cultivation:spirit_sapling",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Into the Forest",
+      "text": "The $(thing)Spirit Forest$() grows in the Overworld. Spirit Trees form a layered canopy, bamboo fills the gaps, and mist hangs over the ground and water.$(br2)$(thing)Spirit Monkeys$() live here, alongside cattle, sheep and wolves. Keep an eye on the plants beneath the trees as you pass."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Trees & Undergrowth",
+      "text": "Spirit Trees vary in height and shape. Their leaves may bear $(item)Spirit Fruit$(), while $(item)Lightning-Struck Wood Lingzhi$() can grow on their trunks.$(br2)Moss, ferns, flowers and mushrooms cover the forest floor. Among the bamboo are mossy rocks and clearings scattered with pink petals."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Herbs & Ore",
+      "text": "Look among the undergrowth for $(item)Hipokute Grass$() and $(item)Spirit Recovery Herb$(). You may also come across $(item)Millennium Ginseng$() or $(item)Immortal Herb$(). It is easy to pass them by in a hurry.$(br2)The rock beneath the forest can also contain $(item)Spirit Charcoal Ore$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Springs & Old Stones",
+      "text": "Springs flow from the rocks, with bamboo paths along their banks. Follow the water to see the springhead and waterside plants.$(br2)Mossy platforms, broken steps and small grottoes lie among the trees. Some ruins hold an $(item)Ancient Stele$(). Plants fill the cracks, but the old stonework remains."
+    }
+  ]
+}

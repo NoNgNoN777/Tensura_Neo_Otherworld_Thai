@@ -1,0 +1,20 @@
+{
+  "ftbquests.reward.tensura_ftb.ability": "ความสามารถ",
+  "ftbquests.reward.tensura_ftb.random_ability": "ความสามารถสุ่ม",
+  "tensura_ftb.reward.ability.random": "ตัวเลือกสุ่ม",
+  "tensura_ftb.reward.ability.new_ability": "ตรวจเฉพาะความสามารถใหม่",
+  "ftbquests.task.tensura_ftb.ability": "การได้รับความสามารถ",
+  "tensura_ftb.task.ability.status": "สถานะการได้รับ",
+  "tensura_ftb.task.ability.ability": "ความสามารถ",
+  "tensura_ftb.task.ability.remove_time": "วินาทีที่ลบ",
+  "ftbquests.reward.tensura_ftb.awakening": "วิวัฒนาการ",
+  "ftbquests.task.tensura_ftb.awakening": "สถานะการตื่นรู้",
+  "ftbquests.task.tensura_ftb.awakening.status": "สถานะการตื่นรู้",
+  "ftbquests.reward.tensura_ftb.existence_value": "ค่าการดำรงอยู่",
+  "ftbquests.task.tensura_ftb.existence_value": "ค่าการดำรงอยู่",
+  "ftbquests.reward.tensura_ftb.spirit": "Elemental Spirit",
+  "ftbquests.task.tensura_ftb.spirit": "Elemental Spirit",
+  "ftbquests.reward.tensura_ftb.race": "เผ่า",
+  "ftbquests.task.tensura_ftb.race": "เผ่า",
+  "ftbquests.task.tensura_ftb.race.race": "เผ่า"
+}

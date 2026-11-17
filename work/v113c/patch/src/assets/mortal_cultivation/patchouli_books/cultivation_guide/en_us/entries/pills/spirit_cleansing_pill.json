@@ -1,0 +1,13 @@
+{
+  "name": "Spirit Cleansing Pill",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:spirit_cleansing_pill",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:spirit_cleansing_pill",
+      "text": "The Spirit Cleansing Pill refines an awakened spirit root, refreshing it into another spirit root.$(br2)$(bold)Effect:$() Consuming it refreshes your current spirit root and grants the resonance and inheritance tied to the new root.$(br2)$(bold)Limit:$() It has no effect if you have not awakened a spirit root.$(br2)Right-click to consume."
+    }
+  ]
+}

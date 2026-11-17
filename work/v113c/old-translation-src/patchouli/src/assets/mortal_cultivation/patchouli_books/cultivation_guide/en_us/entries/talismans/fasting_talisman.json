@@ -1,0 +1,13 @@
+{
+  "name": "Fasting Talisman",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:fasting_talisman",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:fasting_talisman",
+      "text": "No activation is required. While a Fasting Talisman is anywhere in your inventory or either hand, it continuously keeps hunger and saturation full.$(br2)It has 25 durability and loses 1 durability per minute while active, disappearing when exhausted."
+    }
+  ]
+}

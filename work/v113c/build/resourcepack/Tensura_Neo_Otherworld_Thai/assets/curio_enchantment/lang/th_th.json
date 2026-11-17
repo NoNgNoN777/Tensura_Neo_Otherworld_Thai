@@ -1,0 +1,11 @@
+{
+  "enchantment.curio_enchantment.solid.desc": "แต่ละเลเวลให้ค่าเกราะ 0.25",
+  "enchantment.curio_enchantment.grow.desc": "แต่ละเลเวลให้พลังชีวิตสูงสุด 0.2",
+  "enchantment.curio_enchantment.light.desc": "แต่ละเลเวลให้ความเร็วเคลื่อนที่ 5%",
+  "enchantment.curio_enchantment.quick_casting.desc": "แต่ละเลเวลลดเวลาร่ายเวท 4%",
+  "enchantment.curio_enchantment.devoted.desc": "เมื่อร่ายเวทเดียวกันต่อเนื่อง การร่ายแต่ละครั้งจะเพิ่มพลังเวทของคุณ 15% และเลเวลของเอนแชนต์นี้คือจำนวนครั้งสูงสุดที่ซ้อนได้",
+  "enchantment.curio_enchantment.various.desc": "เมื่อร่ายเวทใหม่ผ่านสมุดเวท เพิ่มพลังเวทของคุณ 5% ต่อเลเวล",
+  "enchantment.curio_enchantment.knowledge.desc": "เวททุกเวทในสมุดเวทของคุณจะให้มานาสูงสุด 5 และพลังเวท 1% แก่สมุดเวทของคุณ",
+  "enchantment.curio_enchantment.ancient_wisdom.desc": "+1 เลเวลเวททั้งหมดบนสมุดเวท",
+  "enchantment.curio_enchantment.quick_claw.desc": "แต่ละเลเวลให้ประสิทธิภาพการขุด 2%"
+}

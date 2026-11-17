@@ -1,6 +1,6 @@
 # Tensura Neo Otherworld Thai — ชุดแปลครบทั้งแพ็ก
 
-สำหรับแพ็ก Tensura Neo Otherworld 1.1.3b2 / Minecraft 1.21.1 NeoForge เท่านั้น แปลข้อความตัวอักษรครบทุกส่วนที่ระบุไว้ใน `TRANSLATION_STATUS.md` ไม่มีเสียงพากย์ ชื่อไอเทม ม็อบ สกิล เผ่า และมิติคงเป็นอังกฤษตามที่ตกลง
+สำหรับแพ็ก Tensura Neo Otherworld 1.1.3c / Minecraft 1.21.1 NeoForge เท่านั้น แปลข้อความตัวอักษรครบทุกส่วนที่ระบุไว้ใน `TRANSLATION_STATUS.md` ไม่มีเสียงพากย์ ชื่อไอเทม ม็อบ สกิล เผ่า และมิติคงเป็นอังกฤษตามที่ตกลง
 
 ## ติดตั้ง
 
@@ -13,9 +13,9 @@
 
 ## สิ่งที่ครอบคลุม
 
-- ข้อความ lang 11,217 ข้อ (ม็อดทั้งหมดในแพ็ก รวมซับของ Great Sage)
-- เควส FTB 1,878 ระเบียน (ชื่อเควสเป็นรูป `ชื่อไทย (English)`)
-- คู่มือ Patchouli 144 ไฟล์ (Natures Aura, Mortal Cultivation, Ice and Fire)
+- ข้อความ lang 11,361 ข้อ (ม็อดทั้งหมดในแพ็ก รวมซับของ Great Sage)
+- เควส FTB 1,520 ระเบียน (ชื่อเควสเป็นรูป `ชื่อไทย (English)`)
+- คู่มือ Patchouli 150 ไฟล์ (Natures Aura, Mortal Cultivation, Ice and Fire)
 - Ponder 12 ไฟล์
 - ไม่แปล: ข้อความ advancements (คงอังกฤษตามที่ตกลง), เสียง, ชื่อไอเทม/ม็อบ/สกิล/เผ่า/มิติ
 

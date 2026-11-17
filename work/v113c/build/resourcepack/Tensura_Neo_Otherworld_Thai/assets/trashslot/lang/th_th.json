@@ -1,0 +1,10 @@
+{
+  "trashslot.hint.toggleOn": "กด %s เพื่อเปิดช่องทิ้งขยะสำหรับหน้าจอนี้!",
+  "trashslot.hint.toggledOff": "คุณปิดช่องทิ้งขยะแล้ว! กด %s เพื่อเปิดอีกครั้ง",
+  "trashslot.hint.deletedWhileHidden": "ทิ้งไอเทมแล้ว!",
+  "trashslot.hint.deletionDenied": "ทิ้งไอเทมไม่ได้!",
+  "trashslot.hint.locked": "ล็อกช่องทิ้งขยะแล้ว กด %s เพื่อปลดล็อก",
+  "trashslot.hint.unlocked": "ปลดล็อกช่องทิ้งขยะแล้ว กด %s เพื่อล็อก",
+  "tooltip.trashslot.destroy_item": "ทำลายไอเทม",
+  "tooltip.trashslot.trash_item": "ทิ้งไอเทม"
+}

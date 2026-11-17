@@ -34,5 +34,7 @@
   "foxablazeultimate.skill.velgrynd.description": "มังกรแท้สีเลือดที่ซ่อนเปลวเพลิงไว้ในความเงียบ และเปลี่ยนปีเวลาให้เป็นโซ่ตรวน ไล่ตามผู้ที่จากไปไกลจากที่ที่เขาเคยยืนอยู่เสมอ",
   "foxablazeultimate.skill.azathoth.description": "กล่าวกันว่าก่อนจักรวาลถือกำเนิด มีความว่างเปล่านิรันดร์อยู่ เมื่อความว่างเปล่านั้นลืมตาขึ้น แม้แต่วิญญาณ กาล-อวกาศ และการดำรงอยู่เองก็กลายเป็นเพียงเหยื่ออันเงียบงัน",
   "foxablazeultimate.skill.samael.description": "ระบุจุดอ่อนของสิ่งมีชีวิตและสร้างพิษที่เหมาะกับเป้าหมาย",
-  "gamerule.samaelTrulyUnique.description": "เมื่อเปิดใช้ ผู้เล่นเพียงคนเดียวบนเซิร์ฟเวอร์เท่านั้นที่ครอบครอง Samael, Lord of Death Poison ได้"
+  "gamerule.samaelTrulyUnique.description": "เมื่อเปิดใช้ ผู้เล่นเพียงคนเดียวบนเซิร์ฟเวอร์เท่านั้นที่ครอบครอง Samael, Lord of Death Poison ได้",
+  "foxablazeultimate.skill.asmodeus.description": "ควบคุมกฎแห่งชีวิตและความตาย",
+  "gamerule.asmodeusTrulyUnique.description": "เมื่อเปิด จะมีผู้เล่นเพียงคนเดียวบนเซิร์ฟเวอร์ที่ครอบครอง Asmodeus, Lord of Lust ได้"
 }

@@ -28,7 +28,7 @@ def verify():
    nk+=len(src)
   assert not any(n.endswith(('.ttf','.otf','.jar')) for n in names),'font/binary bundled'
   pat=[n for n in names if '/patchouli_books/' in n and n.endswith('.json')]
-  assert len(pat)==2*144,len(pat)
+  npf=sum(1 for _ in (bf.SRC/"patchouli/src").rglob("*.json"));assert len(pat)==2*npf,len(pat)
   assert sum(1 for n in pat if THAI.search(z.read(n).decode('utf-8')))>=2*100
  # 3. quests round-trip from the delivered lang file
  qsrc=bp.read(bf.SRC/'quests/source.json');qt=bp.read(bf.SRC/'quests/translations.json')['items']
@@ -42,7 +42,7 @@ def verify():
   for n,dg in man.items():assert hashlib.sha256(z.read(n)).hexdigest()==dg,n
   assert len(z.namelist())==len(man)+1
   for n in z.namelist():assert not n.startswith(('/','\\')) and '..' not in Path(n).parts,n
- res={'zip_crc':'PASS','deterministic_rebuild':'PASS','lang_keys':nk,'patchouli_files':144,'quest_records':len(qt),'quest_roundtrip':'PASS','manifest':'PASS','runtime_game_test':'NOT_RUN'}
+ res={'zip_crc':'PASS','deterministic_rebuild':'PASS','lang_keys':nk,"patchouli_files":npf,'quest_records':len(qt),'quest_roundtrip':'PASS','manifest':'PASS','runtime_game_test':'NOT_RUN'}
  bp.write(ROOT/'review/verification-full.json',res)
  print('PASS',res)
 if __name__=='__main__':verify()

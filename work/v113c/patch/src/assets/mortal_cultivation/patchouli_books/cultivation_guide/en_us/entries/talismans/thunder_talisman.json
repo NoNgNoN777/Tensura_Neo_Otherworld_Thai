@@ -1,0 +1,13 @@
+{
+  "name": "Five Thunder Talisman",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:thunder_talisman",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:thunder_talisman",
+      "text": "Summons heavenly thunder to strike enemies with devastating power.$(br2)$(bold)Usage:$() Right-click to throw. On hit, triggers a lightning strike dealing massive AoE damage."
+    }
+  ]
+}

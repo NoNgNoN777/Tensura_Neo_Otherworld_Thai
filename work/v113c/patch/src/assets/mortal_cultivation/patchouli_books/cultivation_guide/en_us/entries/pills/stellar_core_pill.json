@@ -1,0 +1,21 @@
+{
+  "name": "Stellar Core Pill",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:stellar_core_pill",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:stellar_core_pill",
+      "text": "A powerful buff pill that harnesses the power of stars.$(br2)$(bold)Effect:$() Grants the following buffs for 3 minutes:$(li)Strength III$(li)Resistance I$(li)Absorption II$(br2)$(bold)Cooldown:$() 10 minutes$(br2)$(bold)Note:$() Combat support pill, not used for race evolution. Right-click to consume."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:enchanted_silver_apple",
+      "item2": "minecraft:enchanted_golden_apple",
+      "item3": "tensura:low_potion",
+      "output": "mortal_cultivation:stellar_core_pill",
+      "time": "$(bold)Crafting Time:$() 30 min"
+    }
+  ]
+}

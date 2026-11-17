@@ -1,5 +1,6 @@
 {
   "tensura_tno.ftbquests.hide_chapter_group.tooltip": "ซ่อนกลุ่มนี้และทุกบทของมันนอกโหมดแก้ไข การปิดสิ่งนี้คงการตั้งค่าการมองเห็นของแต่ละบทไว้",
+  "tensura_tno.ftbquests.enable_chapter_group_tasks.tooltip": "ปิดเพื่อหยุดความคืบหน้า การทำสำเร็จ และการรับรางวัลของเควสทั้งหมดในกลุ่มนี้ชั่วคราว โดยยังคงความคืบหน้าเดิมไว้ ไม่เกี่ยวกับการแสดงผลของกลุ่มบท",
   "tensura_tno.race_prestige.stextras_divine_kobold.lore.chat": "§r\n§5§lRace Prestige\n§4เกล็ดแห่งหายนะต้องกลายเป็นเกราะของเจ้า พิสูจน์คุณค่าผ่านฝีมือและพลังที่สั่นสะเทือนผืนดิน\n§r",
   "tensura_tno.race_prestige.stextras_divine_fox.lore.chat": "§r\n§5§lRace Prestige\n§4มายา เสน่ห์ และเปลวเพลิงศักดิ์สิทธิ์กำหนดเส้นทางของเจ้า จงเป็นจิ้งจอกลึกลับที่แท้จริง\n§r",
   "tensura_tno.race_prestige.heavenly_fox_sovereign.lore.chat": "§r\n§5§lRace Prestige\n§4แก่นวิญญาณแห่งฟ้าดินมารวมกันที่เจ้า บัญชาวิญญาณทั้งปวงด้วยพลังสัญญาของเจ้า และพิสูจน์ว่าเจ้าคือ Heavenly Fox Sovereign ผู้สูงสุด\n§r",

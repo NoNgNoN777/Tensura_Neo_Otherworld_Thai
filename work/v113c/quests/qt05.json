@@ -1,0 +1,17 @@
+{
+"quest.1CD3F15F43DC7C8F.quest_desc": ["กด &6N&r เพื่อตั้งชื่อสิ่งมีชีวิตที่ตั้งชื่อได้ HP ของมันต้องต่ำกว่า 25% ของค่าสูงสุด หรือต้องติดเอฟเฟกต์ Fear ที่ผู้ตั้งชื่อเป็นผู้ทำให้เกิด", "", "&d[Tame] (-)&r ใช้มาจิคูลเท่าที่จำเป็นในการทำให้เป้าหมายเชื่องเท่านั้น และไม่ใช้ MP ถาวร", "", "&d[Evolve] (=)&r ทำให้ NPC เป้าหมายวิวัฒนาการหากเข้าเงื่อนไข ทำให้เป็นผู้ใต้บังคับบัญชาของคุณ และฟื้น HP ของมันเต็ม ขึ้นกับความแข็งแกร่งของสิ่งที่ถูกตั้งชื่อ มีโอกาส 5% ที่จะเสียมาจิคูลสูงสุดบางส่วนไปถาวร", "", "&d[Bestow] (+)&r ทำให้ NPC เป้าหมายวิวัฒนาการหากเข้าเงื่อนไข และคูณ EP ของมันสิบเท่า มีโอกาส 10% ที่จะใช้ถาวรสูงสุด 300% ของค่าตั้งชื่อ โปรดทราบว่า Bestow ให้ EP แก่เป้าหมายได้สูงสุด 1,000,000", "", "{@pagebreak}", "&lถาม: ทำให้มอนสเตอร์หวาดกลัวได้อย่างไร?&r", "&lตอบ:&r ใช้สกิลอย่าง Coercion หรือ Haki เพื่อใส่ Fear และเตรียมพร้อมตั้งชื่อให้เร็ว ไม่เช่นนั้น Fear อาจฆ่ามันได้", "(หลังชำนาญสกิลอย่าง Coercion หรือ Haki ปรับพลังได้ด้วย Shift + ปุ่มสกิล + ล้อเมาส์ ยิ่งพลังต่ำ ความเสียหายยิ่งน้อย)"],
+"quest.1CF63C044EAFA8D7.quest_subtitle": "สิ่งมีชีวิตจาก Dark Forest และ Pale Forest 【Hell Moth】",
+"quest.1D217C6641299B70.title": "ธง Dwargon (Dwargon flag)",
+"quest.1D379C9CE94220AB.quest_desc": ["&6ดรอปจากแม่มดด้วยโอกาส 2% และจาก Luminous Valentine ด้วยโอกาส 100%&r หากมี Asmodeus, Lord of Lust การกิน 10 ชิ้นจะล็อก Ultimate Skill นี้ในเมนู \"Lock\" ได้ เพื่อไม่ให้สูญเสียเมื่อกลับชาติมาเกิด"],
+"quest.1D379C9CE94220AB.quest_subtitle": "เก็บรักษาสกิลนี้",
+"quest.1DE8784B7276EDA8.title": "&6【เควสต์ข้างทาง】&rแข็งแกร่งขึ้น! เร็วขึ้น! (Stronger! Faster!)",
+"quest.1DF55B2C88B9B888.quest_subtitle": "หมดแก้ว",
+"quest.1E2728F6C84FFB35.quest_desc": ["หินนี้เกิดบนพื้นผิวรอบบ่อน้ำพุร้อน บ่อน้ำพุร้อนหาง่ายที่สุดใน Crystallized Desert แต่เกิดได้ในทุกไบโอม"],
+"quest.1E7A25799F815ABA.quest_desc": {"old": [["สถานีทำงานเครื่องตัดไม้หลายตัว", "Woodcutter หลายตัว"]]},
+"quest.1EA0A4CC394E4555.title": "&#FF6854【รีไซเคิล】&fHarvest Crystal",
+"quest.1EDD37632534A093.title": "Arachne",
+"quest.1F6166FE5D1FA206.quest_subtitle": "ปราสาทที่ถูก Ghast ทำลาย",
+"quest.209E2AD1EE638BBE.title": "&6【ขั้นสูง】&fUltimate Skill: Hell Sniper",
+"quest.21B29DCE7B2F00E1.quest_desc": {"old": [["Cold Invalidation, Pain Invalidation, Holy Attack Resistance, Poison Invalidation, Abnormal Status Resistance และ Psychic Attack Resistance", "Cold Nullification, Pain Nullification, Holy Attack Resistance, Poison Nullification, Abnormal Condition Resistance และ Spiritual Attack Resistance"]]},
+"quest.21B29DCE7B2F00E1.title": "เอาชนะ Ancient Remnant (Defeat the Ancient Remnant)"
+}

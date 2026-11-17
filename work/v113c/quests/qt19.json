@@ -1,0 +1,11 @@
+{
+"quest.6E1440F32E657018.quest_desc": {"old": [["Soul Point ได้รับหลังทำเควสต์", "แต้ม Soul Grade ได้รับหลังทำเควสต์"]]},
+"quest.6E1440F32E657018.quest_subtitle": "Soul Grade คืออะไร?",
+"quest.6E53D3E5F740EEB2.quest_desc": {"old": [["Cangming อาจลาดตระเวนทุกพื้นที่ในเมือง", "Cangming Patrol อาจปรากฏในทุกพื้นที่ของเมือง"]]},
+"quest.6F222F289C890B85.quest_desc": ["รวมอุปกรณ์ Cataclysm ชิ้นต่างๆ เพื่อปลดล็อกพลังที่ยิ่งใหญ่กว่าเดิม"],
+"quest.6F7A8B9C0D1E2345.title": "Greater Taratect",
+"quest.70918DAFF1515131.quest_subtitle": "หอคอยใน Badlands",
+"quest.70E1F2210C8BFDCD.quest_desc": {"old": [["[https://url-shortener.curseforge.com/V7uiX](https://url-shortener.curseforge.com/V7uiX)", "https://url-shortener.curseforge.com/V7uiX"]]},
+"quest.72C175DAC08AC81C.quest_desc": ["มีโอกาสได้จากการสังหารวิญญาณต่างๆ พบวิญญาณได้บ่อยใน Spirit World", "", "[ { \"text\": \"เงื่อนไขการเข้าสู่ Spirit World\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"77224F3957EF8057\" } } ]"],
+"quest.73C1BBF552AF3614.quest_desc": {"old": [["Lower bound: มาจิคูลสูงสุด", "Nether: มาจิคูลสูงสุด"], ["ฟื้นมาจิคูลได้เร็วในแดนรกร้าง ป่าโบราณ ที่ราบหมอกพิษ และทะเลทรายมรณะด้วย", "ฟื้นมาจิคูลได้เร็วใน Barren Land, ป่าโบราณ, Miasmic Plains และ Desert of Death ด้วย"], ["EP คือบัตรประจำตัวของโลกนี้ หากน้อยเกินไปจะเข้าโลกหรือกลุ่มอื่นไม่ได้", "EP แสดงสถานะของคุณในโลกนี้ หากน้อยเกินไปจะเข้ามิติหรือไบโอมบางแห่งไม่ได้ การถึงเกณฑ์ EP ยังปลดล็อกสกิลใหม่ให้เรียนด้วย"], ["เทคนิคการต่อสู้ด้วยชี่", "Battlewill"], ["หากคุณเป็นปีศาจ ชื่อเผ่า", "หากคุณเป็น Majin ชื่อเผ่า"], ["&lสุขภาพจิต (SHP),", "&lพลังชีวิตวิญญาณ (SHP),"]]}
+}

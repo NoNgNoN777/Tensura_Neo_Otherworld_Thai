@@ -1,0 +1,14 @@
+{
+  "block.bosses_of_mass_destruction.void_lily.tooltip": "ละอองเกสรนี้นำทางไปสู่ที่ใดกันนะ?",
+  "item.bosses_of_mass_destruction.soul_star.tooltip": "มันนำทางไปสู่ที่ใดกันนะ?",
+  "item.bosses_of_mass_destruction.crystal_fruit.tooltip": "มอบ Regeneration และ Resistance ชั่วครู่",
+  "item.bosses_of_mass_destruction.charged_ender_pearl.tooltip": "ใช้ซ้ำได้ และมอบ Resistance ชั่วครู่",
+  "item.bosses_of_mass_destruction.charged_ender_pearl.tooltip2": "หลังจากเทเลพอร์ต",
+  "item.bosses_of_mass_destruction.crafting_material.tooltip": "วัตถุดิบสำหรับคราฟต์",
+  "item.bosses_of_mass_destruction.brimstone_nectar.tooltip": "รีเซ็ตสิ่งก่อสร้างของบอสที่อยู่ใกล้เคียงเมื่อใช้",
+  "item.bosses_of_mass_destruction.mob_ward.tooltip": "เมื่อวางแล้ว ม็อบจะไม่เกิดในระยะ 64 บล็อกทุกทิศทาง",
+  "item.bosses_of_mass_destruction.monolith_block.tooltip_0": "เมื่อวางแล้ว เพิ่มพลังระเบิด 30% ในระยะ",
+  "item.bosses_of_mass_destruction.monolith_block.tooltip_1": "64 บล็อกทุกทิศทาง ผลนี้ไม่สามารถซ้อนทับกันได้",
+  "item.bosses_of_mass_destruction.levitation_block.tooltip": "เมื่อวางแล้ว มอบการบินแบบโหมดสร้างสรรค์ในพื้นที่แนวตั้ง 7x7",
+  "item.bosses_of_mass_destruction.earthdive_spear.tooltip": "เทเลพอร์ตระยะสั้นทะลุบล็อกทึบได้"
+}

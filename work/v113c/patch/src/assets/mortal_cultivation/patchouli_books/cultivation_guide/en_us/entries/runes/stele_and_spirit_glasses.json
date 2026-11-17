@@ -1,0 +1,25 @@
+{
+  "name": "Spirit Glasses & Grottoes",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:spirit_glasses",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:spirit_glasses",
+      "title": "Crafting Spirit Glasses",
+      "text": "Right-click the glasses to equip them in the head slot."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Finding a Grotto",
+      "text": "Stele grottoes generate sparsely below ground in the Overworld, averaging about one every 1,200 blocks. They only appear in newly generated chunks.$(br2)There is no artificial entrance; explore underground caves or dig into the surrounding rock."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:ancient_stele",
+      "title": "Ancient Stele",
+      "text": "Each grotto has a pool, central island, earth and moss layers, glow berries overhead, and a stele at its center.$(br2)The stele cannot be mined with a pickaxe. Wear Spirit Glasses to see its faint golden runes."
+    }
+  ]
+}

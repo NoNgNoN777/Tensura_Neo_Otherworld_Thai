@@ -1,0 +1,16 @@
+{
+  "name": "Hundred Ghosts Surge",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/hundred_ghosts_surge.png",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Command a hundred souls through the Ten Thousand Soul Banner. This skill revolves around summoning, recalling, and harvesting souls from the banner."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Extra Skill$(br)$(bold)Obtainment:$() Cannot be unlocked automatically through EP; it must be obtained by other means$(br)$(bold)Modes:$() Summon Mode / Soul Collection Mode$(br2)Summon Mode costs 100000 magicules, summons or recalls your banner, and has a 40-minute cooldown. Soul Collection Mode costs 50000 magicules and converts souls in your owned or targeted banner into soul points; on success, it has a 20-minute cooldown."
+    }
+  ]
+}

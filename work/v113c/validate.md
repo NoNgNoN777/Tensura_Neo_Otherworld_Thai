@@ -1,0 +1,304 @@
+# Validate 20261117-131253
+
+errors: 0, warnings: 1589
+
+- warn `lang|ancient_artifacts|tensura.skill.mode.shadow_striker.shadow_slash`: left in English
+- warn `lang|constructionwand|constructionwand.description.durability.limited`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|constructionwand|constructionwand.description.wand`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|constructionwand|constructionwand.tooltip.blocks`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|crafttweaker|crafttweaker.command.info.entity.type.bracket`: left in English
+- warn `lang|jade|tooltip.jade.delay`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|jade|tooltip.jade.mode_comparator`: left in English
+- warn `lang|jade|tooltip.jade.mode_subtractor`: left in English
+- warn `lang|jade|tooltip.jade.power`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|jade|gui.jade.translators`: left in English
+- warn `lang|cataclysm|item.cataclysm.ignitium_helmet.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.ignitium_leggings.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.ignitium_boots.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.cursium_helmet.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.cursium_chestplate.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.cursium_leggings.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.cursium_boots.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.ignitium_upgrade.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.ignitium_upgrade.applies_to.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.ignitium_upgrade.ingredients.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.cursium_upgrade.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.cursium_upgrade.applies_to.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.cursium_upgrade.ingredients.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_netherite_monstrosity.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_ender_guardian.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_ignis.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_the_harbinger.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_the_leviathan.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_ancient_remnant.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_maledictus.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_scylla.desc`: left in English
+- warn `lang|cataclysm|item.cataclysm.music_disc_the_cataclysmfarer.desc`: left in English
+- warn `lang|cataclysm|ability.cataclysm.amethyst_cluster`: left in English
+- warn `lang|naturesaura|info.naturesaura.ender_crate`: left in English
+- warn `lang|naturesaura|info.naturesaura.ender_access`: left in English
+- warn `lang|naturesaura|info.naturesaura.ender_name`: left in English
+- warn `lang|patchouli|patchouli.gui.lexicon.progress_tooltip`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|patchouli|patchouli.gui.lexicon.progress_tooltip.secret`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|stextras|stextras.skill.blacksmith.description`: item name translated? ['smithing bench'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|stextras|ftbquests.task.stextras.prestige`: left in English
+- warn `lang|stextras|ftbquests.task.stextras.race_prestige`: left in English
+- warn `lang|stextras|ftbquests.reward.stextras.reincarnation_essence`: left in English
+- warn `lang|tensura_blade|tooltip.tensura_blade.magicule_recovery_name`: left in English
+- warn `lang|tensura_blade|tooltip.tensura_blade.boss_sense_name`: left in English
+- warn `lang|tensura_blade|message.tensura_blade.boss.summon_name`: left in English
+- warn `lang|vanillabackport|item.minecraft.music_disc_bounce.desc`: left in English
+- warn `lang|vanillabackport|item.minecraft.music_disc_lava_chicken.desc`: left in English
+- warn `lang|vanillabackport|item.minecraft.music_disc_tears.desc`: left in English
+- warn `lang|betterdeserttemples|betterdeserttemples.advancements.root.description`: left in English
+- warn `lang|betterdeserttemples|betterdeserttemples.advancements.temple_clear.description`: left in English
+- warn `lang|betterdeserttemples|betterdeserttemples.advancements.temple_entry.title`: left in English
+- warn `lang|betterdeserttemples|betterdeserttemples.advancements.temple_entry.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.root.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.poke_the_cactus.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.the_snack_that_bites_back.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.frosted_caves.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.lost_caves.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.mine_enchanted_ice.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.frost_potion.description`: left in English
+- warn `lang|yungscavebiomes|yungscavebiomes.advancements.sandstorm_end.description`: left in English
+- warn `lang|artifacts|artifacts.advancements.adventurous_eater.description`: left in English
+- warn `lang|artifacts|artifacts.advancements.amateur_archaeologist.description`: left in English
+- warn `lang|artifacts|artifacts.advancements.chest_slayer.description`: left in English
+- warn `lang|bookshelf|gui.jei.category.loot.name`: left in English
+- warn `lang|chloride|chloride.world.clouds.height.desc.__COMMENT`: left in English
+- warn `lang|chronodawn|gui.chronodawn.chronicle.title`: left in English
+- warn `lang|netherman|book.netherman.page2.line3`: left in English
+- warn `lang|netherman|book.netherman.page2.line5`: left in English
+- warn `lang|netherman|book.netherman.page6.line4`: left in English
+- warn `lang|curios|gui.curios.page`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|emi_loot|emi_loot.emi_loot_config.conditionStyle.tooltip`: left in English
+- warn `lang|emi_loot|emi_loot.emi_loot_config.conditionStyle.tooltip.sns`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_whisper_of_the_stars.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_dusk_o_ereyesterday.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_tranquility.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_nest.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_posterity.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_the_thorny_reign.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_profundity.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_wailing_well.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_stars_shining_upon_the_sea.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_optimized_option.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_mechanical_fossil.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_fake_light.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_tranquility_ii.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_atlantis.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_sacred_desert.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_spirit.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_ether_rain.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_brisk.desc`: left in English
+- warn `lang|eternal_starlight|item.eternal_starlight.music_disc_moonlight.desc`: left in English
+- warn `lang|eternal_starlight|enchantment.eternal_starlight.abyssal_touch.desc`: item name translated? ['abyssal fire'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|eternal_starlight|tooltip.eternal_starlight.accessory_combination_target.chestplate`: left in English
+- warn `lang|eternal_starlight|crest.eternal_starlight.blazing_beam.desc`: item name translated? ['laser beam'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|eternal_starlight|gui.eternal_starlight.jei.category.geyser_smoking`: left in English
+- warn `lang|eternal_starlight|gui.eternal_starlight.jei.category.drying`: left in English
+- warn `lang|eternal_starlight|gui.eternal_starlight.jei.category.alloy`: left in English
+- warn `lang|eternal_starlight|gui.eternal_starlight.jei.category.alloy_furnace_cooling`: left in English
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.sub_ability.open`: left in English
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.sloth.description`: item name translated? ['magic circle'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.law_manipulation.description`: item name translated? ['magic circle'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trmysticism.discharge.description`: item name translated? ['lightning bolt'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.wind_manipulation.description`: item name translated? ['wind sphere'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.wind_domination.description`: item name translated? ['wind sphere'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.sniper.description`: item name translated? ['Thrown Item'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trmysticism.malleable.description`: item name translated? ['clay golem'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.spatial_manipulation.description`: item name translated? ['Thrown Item'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.spatial_domination.description`: item name translated? ['Thrown Item'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.traveler.description`: item name translated? ['Thrown Item'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.gourmet.description`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.heat_wave.description`: item name translated? ['fire storm'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.water_manipulation.description`: item name translated? ['water ball'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.water_domination.description`: item name translated? ['water ball'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.thrower.description`: item name translated? ['Thrown item', 'thrown item'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.blood_mist.description`: item name translated? ['blood mist'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensura.sticky_steel_thread.description`: item name translated? ['steel thread', 'sticky thread'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.foxablazeultimate.veldora.description`: item name translated? ['lightning bolt'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.foxablazeultimate.hell_sniper.description`: item name translated? ['magic circle'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.tensuramoreskills.istaroth.description`: item name translated? ['falling block'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.merlin.description`: item name translated? ['Magic Circle'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.gabriel.description`: item name translated? ['ice crystal'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.metatron.description`: item name translated? ['anti-magic area'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.overdrive.description`: item name translated? ['Magic Circle'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.raphael_knowledge.description`: item name translated? ['magic circle', 'magic ore'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.raphael_wisdom.description`: item name translated? ['magic circle', 'magic ore'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.spacetime_manipulation.description`: item name translated? ['Thrown Item'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.sunshine.description`: item name translated? ['flame orb'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.surya.description`: item name translated? ['anti-magic area'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.yaoyorozu.description`: item name translated? ['Magic Circle'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.skill.trnightmare.yog-sotohort.description`: item name translated? ['severance cutter'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.low_potion.description`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.high_potion.description`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.full_potion.description`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.dubious_food.description`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.armorsaurus_scale.description`: item name translated? ['Armorsaurus scale'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.elemental_essence.description`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.web_gun_schematic.description`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.hipokute_seeds.description`: item name translated? ['hipokute grass'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.hipokute_grass.description`: item name translated? ['hipokute grass'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|foxablazeaqzl_wiki|foxablazeaqzl_wiki.wiki.item.tensura.hipokute_flower.description`: item name translated? ['hipokute grass'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|ftbchunks|minimap.info.ftbchunks.debug.title`: left in English
+- warn `lang|ftblibrary|ftblibrary.client_settings.tooltips`: left in English
+- warn `lang|ftbquests|ftbquests.keys`: left in English
+- warn `lang|ftbquests|ftbquests.gui`: left in English
+- warn `lang|ftbquests|ftbquests.icon.tooltip`: item name translated? ['Custom icon'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|ftbquests|ftbquests.file`: item name translated? ['Quest Book'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|ftbquests|ftbquests.file.loot_crate_no_drop`: item name translated? ['Loot Crate'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|ftbquests|ftbquests.file.progression_mode.linear`: left in English
+- warn `lang|ftbquests|ftbquests.file.progression_mode.flexible`: left in English
+- warn `lang|ftbquests|ftbquests.quest.min_required_header`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.quest.hidden_quests_footer`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.quest_link`: left in English
+- warn `lang|ftbquests|ftbquests.gui.claim_all_exclusion`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.task.ftbquests.forge_energy`: left in English
+- warn `lang|ftbquests|ftbquests.task.ftbquests.forge_energy.text`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.task.ftbquests.tech_reborn_energy`: left in English
+- warn `lang|ftbquests|ftbquests.task.ftbquests.tech_reborn_energy.text`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.task.ftbquests.buildcraft_mj`: left in English
+- warn `lang|ftbquests|ftbquests.task.ftbquests.buildcraft_mj.text`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.task.ftbquests.ic2_energy`: left in English
+- warn `lang|ftbquests|ftbquests.task.ftbquests.ic2_energy.text`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.task.ftbquests.botania_mana`: left in English
+- warn `lang|ftbquests|ftbquests.task.ftbquests.botania_mana.text`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.task.ftbquests.botania_mana.text`: left in English
+- warn `lang|ftbquests|ftbquests.task.ftbquests.gamestage`: left in English
+- warn `lang|ftbquests|ftbquests.task.ftbquests.gamestage.team_stage`: left in English
+- warn `lang|ftbquests|ftbquests.reward.blocked`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.reward.ftbquests.advancement`: left in English
+- warn `lang|ftbquests|ftbquests.reward.ftbquests.gamestage`: left in English
+- warn `lang|ftbquests|ftbquests.reward.ftbquests.npc_mail.message`: left in English
+- warn `lang|ftbquests|ftbquests.reward_table.and_more`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.reward_table.enable_loot_crate`: item name translated? ['Loot Crate'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|ftbquests|ftbquests.reward_table.disable_loot_crate`: item name translated? ['Loot Crate'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|ftbquests|ftbquests.reward_table.used_in`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbquests|ftbquests.barrier.teleport`: left in English
+- warn `lang|ftbquests|ftbquests.ui.notification.toast`: left in English
+- warn `lang|ftbquests|ftbquests.ui.notification.action_bar`: left in English
+- warn `lang|ftbquests|ftbquests.objects`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbultimine|ftbultimine.info.blocks`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbultimine|ftbultimine.info.partial_render`: mod text uses %d or a bare % next to %s; vanilla may print the raw template - check this tooltip in game, and use %s / %% if it shows raw
+- warn `lang|ftbqlang|ftbqlang.message.saved`: item name translated? ['Quest book'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|ftbqlang|ftbqlang.message.unavailable`: item name translated? ['quest book'] - names of items/blocks/fluids stay English (translation-rules.md)
+- warn `lang|fzzy_config|fc.button.info.page_up`: left in English
+- warn `lang|fzzy_config|fc.button.info.page_down`: left in English
+- warn `lang|fzzy_config|fc.button.info.home`: left in English
+- warn `lang|greatsage|greatsage.ceremony.demon_lord_seed`: left in English
+- warn `lang|greatsage|greatsage.ceremony.harvest_festival`: left in English
+- warn `lang|greatsage|greatsage.ceremony.hero_egg`: left in English
+- warn `lang|greatsage|greatsage.ceremony.true_demon_lord`: left in English
+- warn `lang|greatsage|greatsage.ceremony.true_hero`: left in English
+- warn `lang|greatsage|greatsage.filter.tier.extra`: left in English
+- warn `lang|greatsage|greatsage.filter.tier.resistance`: left in English
+- warn `lang|greatsage|greatsage.filter.tier.ultimate`: left in English
+- warn `lang|greatsage|greatsage.filter.tier.unique`: left in English
+- warn `lang|greatsage|greatsage.grant.abnormal_condition_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.absolute_severance`: left in English
+- warn `lang|greatsage|greatsage.grant.all_seeing_eye`: left in English
+- warn `lang|greatsage|greatsage.grant.analyst`: left in English
+- warn `lang|greatsage|greatsage.grant.anti_skill`: left in English
+- warn `lang|greatsage|greatsage.grant.berserk`: left in English
+- warn `lang|greatsage|greatsage.grant.berserker`: left in English
+- warn `lang|greatsage|greatsage.grant.bewilder`: left in English
+- warn `lang|greatsage|greatsage.grant.body_double`: left in English
+- warn `lang|greatsage|greatsage.grant.chant_annulment`: left in English
+- warn `lang|greatsage|greatsage.grant.chef`: left in English
+- warn `lang|greatsage|greatsage.grant.chosen_one`: left in English
+- warn `lang|greatsage|greatsage.grant.coercion`: left in English
+- warn `lang|greatsage|greatsage.grant.cold_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.commander`: left in English
+- warn `lang|greatsage|greatsage.grant.cook`: left in English
+- warn `lang|greatsage|greatsage.grant.corrosion`: left in English
+- warn `lang|greatsage|greatsage.grant.corrosion_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.creator`: left in English
+- warn `lang|greatsage|greatsage.grant.danger_sense`: left in English
+- warn `lang|greatsage|greatsage.grant.darkness_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.degenerate`: left in English
+- warn `lang|greatsage|greatsage.grant.divine_berserker`: left in English
+- warn `lang|greatsage|greatsage.grant.earth_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.electricity_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.engorger`: left in English
+- warn `lang|greatsage|greatsage.grant.envy`: left in English
+- warn `lang|greatsage|greatsage.grant.falsifier`: left in English
+- warn `lang|greatsage|greatsage.grant.farsight`: left in English
+- warn `lang|greatsage|greatsage.grant.fighter`: left in English
+- warn `lang|greatsage|greatsage.grant.flame_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.fusionist`: left in English
+- warn `lang|greatsage|greatsage.grant.gluttony`: left in English
+- warn `lang|greatsage|greatsage.grant.godly_craftsman`: left in English
+- warn `lang|greatsage|greatsage.grant.gourmand`: left in English
+- warn `lang|greatsage|greatsage.grant.gourmet`: left in English
+- warn `lang|greatsage|greatsage.grant.gravity_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.great_sage`: left in English
+- warn `lang|greatsage|greatsage.grant.greed`: left in English
+- warn `lang|greatsage|greatsage.grant.guardian`: left in English
+- warn `lang|greatsage|greatsage.grant.haki`: left in English
+- warn `lang|greatsage|greatsage.grant.healer`: left in English
+- warn `lang|greatsage|greatsage.grant.heat_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.heat_wave`: left in English
+- warn `lang|greatsage|greatsage.grant.holy_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.infinite_regeneration`: left in English
+- warn `lang|greatsage|greatsage.grant.infinity_prison`: left in English
+- warn `lang|greatsage|greatsage.grant.light_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.lust`: left in English
+- warn `lang|greatsage|greatsage.grant.magic_aura`: left in English
+- warn `lang|greatsage|greatsage.grant.magic_jamming`: left in English
+- warn `lang|greatsage|greatsage.grant.magic_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.magic_sense`: left in English
+- warn `lang|greatsage|greatsage.grant.majesty`: left in English
+- warn `lang|greatsage|greatsage.grant.martial_master`: left in English
+- warn `lang|greatsage|greatsage.grant.mathematician`: left in English
+- warn `lang|greatsage|greatsage.grant.merciless`: left in English
+- warn `lang|greatsage|greatsage.grant.mortal_fear`: left in English
+- warn `lang|greatsage|greatsage.grant.multilayer_barrier`: left in English
+- warn `lang|greatsage|greatsage.grant.murderer`: left in English
+- warn `lang|greatsage|greatsage.grant.musician`: left in English
+- warn `lang|greatsage|greatsage.grant.observer`: left in English
+- warn `lang|greatsage|greatsage.grant.oppressor`: left in English
+- warn `lang|greatsage|greatsage.grant.pain_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.paralysis`: left in English
+- warn `lang|greatsage|greatsage.grant.paralysis_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.physical_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.pierce_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.poison`: left in English
+- warn `lang|greatsage|greatsage.grant.poison_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.predator`: left in English
+- warn `lang|greatsage|greatsage.grant.pride`: left in English
+- warn `lang|greatsage|greatsage.grant.reaper`: left in English
+- warn `lang|greatsage|greatsage.grant.reflector`: left in English
+- warn `lang|greatsage|greatsage.grant.researcher`: left in English
+- warn `lang|greatsage|greatsage.grant.reverser`: left in English
+- warn `lang|greatsage|greatsage.grant.royal_beast`: left in English
+- warn `lang|greatsage|greatsage.grant.sage`: left in English
+- warn `lang|greatsage|greatsage.grant.seeker`: left in English
+- warn `lang|greatsage|greatsage.grant.seer`: left in English
+- warn `lang|greatsage|greatsage.grant.self_regeneration`: left in English
+- warn `lang|greatsage|greatsage.grant.sense_heat_source`: left in English
+- warn `lang|greatsage|greatsage.grant.sense_soundwave`: left in English
+- warn `lang|greatsage|greatsage.grant.severer`: left in English
+- warn `lang|greatsage|greatsage.grant.shadow_motion`: left in English
+- warn `lang|greatsage|greatsage.grant.shadow_striker`: left in English
+- warn `lang|greatsage|greatsage.grant.sloth`: left in English
+- warn `lang|greatsage|greatsage.grant.sniper`: left in English
+- warn `lang|greatsage|greatsage.grant.spatial_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.spatial_motion`: left in English
+- warn `lang|greatsage|greatsage.grant.spearhead`: left in English
+- warn `lang|greatsage|greatsage.grant.spiritual_attack_resistance`: left in English
+- warn `lang|greatsage|greatsage.grant.starved`: left in English
+- warn `lang|greatsage|greatsage.grant.sticky_steel_thread`: left in English
+- warn `lang|greatsage|greatsage.grant.strength`: left in English
+- warn `lang|greatsage|greatsage.grant.strengthen_body`: left in English
+- warn `lang|greatsage|greatsage.grant.suppressor`: left in English
+- warn `lang|greatsage|greatsage.grant.survivor`: left in English
+- warn `lang|greatsage|greatsage.grant.telepathy`: left in English
+- warn `lang|greatsage|greatsage.grant.thought_communication`: left in English
+- warn `lang|greatsage|greatsage.grant.thrower`: left in English
+- warn `lang|greatsage|greatsage.grant.traveler`: left in English
+- warn `lang|greatsage|greatsage.grant.tuner`: left in English
+- warn `lang|greatsage|greatsage.grant.universal_perception`: left in English
+- warn `lang|greatsage|greatsage.grant.unyielding`: left in English
+- warn `lang|greatsage|greatsage.grant.usurper`: left in English

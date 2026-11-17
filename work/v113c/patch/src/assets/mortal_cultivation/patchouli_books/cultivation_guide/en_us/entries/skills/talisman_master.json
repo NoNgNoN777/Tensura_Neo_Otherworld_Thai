@@ -1,0 +1,16 @@
+{
+  "name": "Talisman Master",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/talisman_master.png",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "An Extra Skill for practitioners who specialize in talisman creation. It opens the talisman-making interface."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Extra Skill$(br)$(bold)Input:$() Press the skill key$(br)$(bold)Cost:$() None$(br2)Using the skill opens the Talisman Table interface and plays a page-turn sound. It does not use a toggle state; it is a direct activation skill."
+    }
+  ]
+}

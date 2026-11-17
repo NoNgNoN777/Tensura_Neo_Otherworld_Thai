@@ -1,0 +1,8 @@
+{
+  "gui.tensura_trepu.evolution_requirements": "เงื่อนไขวิวัฒนาการ",
+  "gui.tensura_trepu.evolution_requirements.wastelander_to_human.elixir": "บริโภค Heaven Cleansing Elixir",
+  "gui.tensura_trepu.evolution_requirements.wastelander_to_human.mindscape": "ชนะบททดสอบ Dream Realm หลังนอนตอนกลางคืน",
+  "gui.tensura_trepu.evolution_requirements.wastelander_to_human.manual": "ใช้ Break and Rebuild Manual",
+  "gui.tensura_trepu.evolution_requirements.angel_to_tengu": "สิง Okami",
+  "tooltip.tensura_trepu.gear_evolution_remaining": "ต้องการ %sEP เพื่อวิวัฒนาการเป็น %s"
+}

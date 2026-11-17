@@ -1,0 +1,16 @@
+{
+  "artifact.silent_strike.description": "โจมตีจากด้านหลังหรือขณะที่ไม่ถูกเล็งเป้า จะสร้างความเสียหายเพิ่มขึ้นหนึ่งครั้ง",
+  "artifact.armor_exploitation.description": "เพิ่มอัตราคริติคอลตามค่า Armor ของเป้าหมาย",
+  "artifact.shadow_slash_mode.description": "เพิ่มโหมด Shadow Slash ที่วาร์ปไปด้านหลังเป้าหมายแล้วโจมตีทันที",
+  "artifact.ogres_wrath.description": "เพิ่ม Physical Damage เมื่อผู้สวมใส่มี HP ต่ำ",
+  "artifact.rising_inferno.description": "Fire Damage เพิ่มขึ้นเรื่อยๆ ตลอดการต่อสู้",
+  "artifact.commanders_controlled_rage.description": "อัปเกรด Inspire และลดค่าใช้จ่ายมาจิคูลตามค่า MP ปัจจุบัน",
+  "tooltip.ancient_artifacts.grade": "เกรด: %s",
+  "tooltip.ancient_artifacts.evolution": "วิวัฒนาการ: %s",
+  "tooltip.ancient_artifacts.grade_suffix": "[เกรด %s]",
+  "tooltip.ancient_artifacts.refinement": "การปรับแต่ง: %s",
+  "tensura.skill.mode.shadow_striker.shadow_slash": "Shadow Slash",
+  "tensura.skill.mode.shadow_striker.shadow_slash.fail": "Shadow Slash ล้มเหลว ต้องมี Shadowbind Bracelets",
+  "tensura.skill.mode.shadow_striker.shadow_slash.fail.unlock": "Shadow Slash ล้มเหลว ต้องปลดล็อกเอฟเฟกต์ 3 บน Shadowbind Bracelets ของคุณก่อน",
+  "tooltip.ancient_artifacts.tooltip_hidden": "พยายามได้ดีนะเพื่อน"
+}

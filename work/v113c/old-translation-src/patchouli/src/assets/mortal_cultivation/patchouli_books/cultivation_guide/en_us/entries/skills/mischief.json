@@ -1,0 +1,20 @@
+{
+  "name": "Mischief",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/mischief.png",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Trick the three realms with more than brute force. Mischief focuses on a celestial twin, concealment, and death avoidance."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Extra Skill$(br)$(bold)Obtainment Cost:$() 85000 MP$(br)$(bold)Max Mastery:$() 1000$(br)$(bold)Modes:$() Celestial Twin / White Lie$(br2)Celestial Twin costs 20% of your base maximum magicules and summons a following clone at your line of sight. The clone copies your stats, equipment, and skills, gains Self Regeneration, deals double attack damage, and has a 40-minute cooldown. If a twin already exists, sneak-use to teleport to it with a 60-second teleport cooldown."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "White Lie costs 15000 MP, lasts 5 minutes, grants invisibility and presence concealment, and has a 10-minute cooldown. If your twin is alive when you would die, you teleport to it, inherit its health, and the twin disappears to cancel that death."
+    }
+  ]
+}

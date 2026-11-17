@@ -1,0 +1,6 @@
+{
+  "gui.smsn.missing_cloth_config.title": "เปิดการตั้งค่าในเกมไม่ได้",
+  "gui.smsn.missing_cloth_config.message": "คุณต้องติดตั้งม็อด Cloth Config API จึงจะใช้ฟีเจอร์การตั้งค่าในเกมได้\nคลิกปุ่มด้านล่างเพื่อไปยังหน้าดาวน์โหลด",
+  "gui.smsn.missing_cloth_config.modrinth_download": "Modrinth",
+  "gui.smsn.missing_cloth_config.curseforge_download": "CurseForge"
+}

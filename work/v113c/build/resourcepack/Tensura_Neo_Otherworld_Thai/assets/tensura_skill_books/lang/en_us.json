@@ -1,0 +1,8 @@
+{
+  "message.tensura_skill_books.already_has": "คุณมีสกิลนี้อยู่แล้ว: %s",
+  "message.tensura_skill_books.missing_skill_id": "ตำราเรียนเล่มนี้ไม่มี skill id",
+  "message.tensura_skill_books.invalid_skill": "ตำราเรียนเล่มนี้ชี้ไปยังสกิลที่ไม่ถูกต้องหรือสกิลที่เรียนจากตำราไม่ได้: %s",
+  "message.tensura_skill_books.random_disabled": "%s ถูกปิดโดย config",
+  "message.tensura_skill_books.random_empty": "ไม่มีสกิล %s ที่ใช้ได้",
+  "message.tensura_skill_books.random_success": "เรียนรู้สกิลแล้ว: %s"
+}

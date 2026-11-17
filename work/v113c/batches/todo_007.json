@@ -1,0 +1,19 @@
+{
+  "batch": "007",
+  "how_to": "Translate each value of `items` to Thai following references/translation-rules.md. Write done_007.json with the SAME keys: {\"items\": {key: thai}}. List values stay lists.",
+  "items": {
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.domain.description": "At 100% Bloom, press to seal everyone nearby inside the Field of a Thousand Flowers, your own flower realm, for 120 seconds. Everyone returns where they stood when it ends. Shift + Press closes it early and refunds 50% of the cost.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.grimoire.description": "Open Tensura’s spell selector. Selected library spells join the move cycle.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.black_hole.description": "Open a collapsing sphere. Shift + press collapses it early.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.lightning.description": "Strike up to five enemies and chain lightning. Shift + press fires Thunderbolt.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.golem.description": "Raise a stone shield for two minutes. Shift + press detonates it.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.mirror_copy.description": "Create one copy with a separate magicule reserve. Shift + press dismisses it and refunds unused magicules.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.feint.description": "Fake a magicule surge, interrupt enemies and weaken their magic resistance.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.final_reveal.description": "Hold while aiming at an enemy. Releases a Black Hole, lightning, and a sealing golem. Damage increases when concealment hid your strength. Locks concealment for 30 seconds.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.archivist.description": "Press to switch to Mirror. Use the skill toggle for Mana Suppression. While slotted: +250% spell learning and mastery, 75% lower spell cost.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.mirror.description": "Press to switch to Archivist. Use the skill toggle for Perfect Concealment: 5% perceived MP, blocked appraisal, and 10% lower MP regeneration.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.convergence.description": "Cast Black Hole, Lightning, and Golem within 10 seconds. Your mirror casts count. Automatically grants +250% spell damage and a three-element aura for 30 seconds. Press to check its status.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.pendragon.description": "God's Favourite: Holy and Light damage x1.5 (x2 mastered), Blessed and Heavenly Eye. Chosen One: Inspiration I while holding Excalibur. Summon Excalibur for 500,000 MP, hold Holy Order or Light Ray, or cycle Holy Aura through Holy, Light and off. Mastery grows through holy/light damage, successful casts and maintained abilities.",
+    "lang|tensuramoreskills|tensuramoreskills.skill.chosen_king.description": "Master of All: +1% physical and Battlewill damage per mastered Battlewill. Weapon Master: +3 Battlewill learning and x1.5 Battlewill damage. Sword: Strength II/III and Haste I/II; shield: Resistance I offhand, II mainhand; pickaxe: Haste II/III. Toggle King's Endurance for +30% melee dodge, projectile dodging and Regeneration I. Sword Master grants Aura Sword I (II with Excalibur). Mastery grows through attacks, successful casts and King's Endurance."
+  }
+}

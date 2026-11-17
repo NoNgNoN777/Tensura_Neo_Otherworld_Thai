@@ -1,0 +1,20 @@
+{
+"quest.0D960805EE9F7AA5.quest_desc": ["หากต้องการปลุก Harbinger ที่หลับอยู่ ต้องเอาชนะ Wither เพื่อรับ Nether Star ก่อน แล้วถือมันคลิกขวาที่ Harbinger", "มันมีสองช่วงเหมือน Wither ความเสียหายโจมตีจะเพิ่มขึ้นในช่วงที่สอง", "", "&6สกิลของมันได้แก่ Physical Attack Resistance, Pierce Resistance, Electricity Nullification, Thermal Fluctuation Resistance, Spiritual Attack Resistance, Magic Resistance และ Abnormal Condition Resistance"],
+"quest.0E105E703E79C81B.quest_desc": ["Magic Engine ทั่วไปป้องกันไม่ให้มอนสเตอร์เกิดในรัศมี 16 บล็อก ส่วน Labyrinth Magic Engine เพิ่มรัศมีเป็น 32 บล็อก"],
+"quest.0FA7CF15D7DB68F8.title": "&6【ขั้นสูง】&fรับ Unique Skill Blessing Bearer (Obtain the Unique Skill Blessing Bearer)",
+"quest.0FC666681CCE2617.title": "High Ogre",
+"quest.0FDA8DE439A0FC25.quest_desc": ["&4หากต้องการปิดระบบนี้ ให้ใช้ gamerule ต่อไปนี้:", "&4/gamerule uniqueSECost false", "", "[Soul Energy] จะถูกสุ่มเมื่อกลับชาติมาเกิดครั้งแรก มีค่าตั้งแต่ 500,000 ถึง 7,000,000", "Soul Energy เริ่มต้นของคุณจะพอสำหรับรับ Unique Skill แรกเสมอ", "", "หลังจากนั้น Reset Scroll และม้วนอื่นๆ จะไม่สุ่ม Soul Energy ใหม่", "การรีเซ็ตตัวละครจะคืน Soul Energy ปัจจุบันให้เท่ากับค่าสูงสุดของ Soul Energy", "ค่าสูงสุดของ Soul Energy เพิ่มขึ้นถาวรได้ด้วยการกระทำบางอย่างเท่านั้น", "", "การรับ Unique Skill ใหม่จะใช้ Soul Energy ตามความแข็งแกร่งของสกิลนั้น", "หาก Soul Energy ไม่พอ จะรับ Unique Skill นั้นไม่ได้", "", "โอกาสของ Soul Energy เริ่มต้น:", "65%: 500,000–1,000,000", "25%: 1,000,000–2,000,000", "6%: 2,000,000–3,000,000", "2%: 3,000,000–4,000,000", "1%: 4,000,000–5,000,000", "0.5%: 5,000,000–6,000,000", "0.3%: 6,000,000–6,500,000", "0.2%: 6,500,000–7,000,000", "", "&6การเกิดเหตุการณ์ตื่นพลังจะเพิ่ม Soul Energy 500,000–1,000,000", "&6เหตุการณ์ตื่นพลังเกิดได้อีกครั้งหลังการรีเซ็ตแต่ละครั้ง", "", "&6การทำเควส Reset Counter สำเร็จจะเพิ่ม Soul Energy 500,000–1,000,000", "", "&6การได้รับชื่อเพิ่ม Soul Energy ได้ถาวร", "&6การตั้งชื่อให้ตัวเองให้ Soul Energy ได้สูงสุด 250,000", "&6หากผู้เล่นอื่นตั้งชื่อให้คุณ ปริมาณที่ได้ขึ้นกับว่าเขามี Soul Energy มากกว่าคุณเท่าไร ได้สูงสุด 1,000,000", "&6หากผู้ตั้งชื่อมี Soul Energy น้อยกว่าหรือเท่ากับคุณ คุณอาจไม่ได้ Soul Energy เลย", "&6การเพิ่ม Soul Energy จากการตั้งชื่อเกิดได้เพียงครั้งเดียว และเกิดอีกไม่ได้แม้หลังรีเซ็ต", "", "คำสั่งตรวจดู Soul Energy:", "/mysticism get stat AblazeAQZL soulEnergy current"],
+"quest.101F636AC88EA48C.quest_desc": ["หากต้องการอยู่รอดในโลกนี้ คุณต้องแข็งแกร่งขึ้น เริ่มจากล่ามอนสเตอร์สักสองสามตัว", "", "รับ Monster Leather ได้จากการสังหาร &lLizard, Barghest, Direwolf&r และมอนสเตอร์อื่นๆ ในป่า", "รับ Slime Chunk ได้จากการสังหาร Slime &l(พบบ่อยในป่าและที่ราบ)&r", "", "เผ่าของคุณอ่อนแอเกินกว่าจะเอาชนะพวกมัน? ลองขังพวกมันไว้ใน \"เรือ\"", "", "รู้ไหม? หนังอัปเกรดเป็นเกรดสูงขึ้นได้ด้วยการคราฟต์!"],
+"quest.101F636AC88EA48C.title": "&6【เนื้อเรื่องหลัก】&rวัตถุดิบมอนสเตอร์ชิ้นแรกของคุณ (Your First Monster Materials)",
+"quest.118FAB1F433F17BA.quest_desc": {"old": [["Magic Ore Fragment", "Magic Ore"]]},
+"quest.129638DFCD29D823.quest_subtitle": "[เมื่อได้รับวิญญาณที่กำหนดแล้ว ให้คลิกส่งเควส]",
+"quest.129638DFCD29D823.title": "Wind Spirit·ระดับสูง",
+"quest.129C3092F055B640.title": "Wrath Oni",
+"quest.12E7EFE9B3A1B5A7.quest_desc": {"old": [["เกรด A (8wEP)", "เกรด A (80,000 EP)"], ["ว่าเหลือการอัปเกรดกี่ครั้ง", "ว่ายังต้องใช้ EP อีกเท่าไรสำหรับการอัปเกรดครั้งถัดไป"]]},
+"quest.138625D83CAE9E7C.quest_subtitle": "[เมื่อได้รับวิญญาณที่กำหนดแล้ว ให้คลิกส่งเควส]",
+"quest.138625D83CAE9E7C.title": "Fire Spirit·ระดับสูง",
+"quest.139C40496643C9CC.quest_desc": ["มีและชำนาญ 【Mathematician】 และ 【Usurper】 เป็น True Hero หรือ True Demon Lord และมีมาจิคูลอย่างน้อย 500,000", "", "ในโหมดผู้เล่นหลายคน ผู้เล่นเพียงคนเดียวเท่านั้นที่เป็นเจ้าของสกิลนี้ได้ ยกเลิกข้อจำกัดนี้ได้โดยเปลี่ยน gamerule"],
+"quest.139C40496643C9CC.title": "&6【ขั้นสูง】&fUltimate Skill: Fortune King · Fortuna",
+"quest.14CD486EE27C60B3.quest_subtitle": "วาง Magic Bottle of Water ในเตาเพื่อ \"ต้มให้ร้อน\"",
+"quest.14CD486EE27C60B3.title": "Magic Bottle of Water หลังเผา (Magic Bottle of Water after firing)"
+}

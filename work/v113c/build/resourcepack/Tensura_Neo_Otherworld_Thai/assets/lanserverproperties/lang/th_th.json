@@ -1,0 +1,7 @@
+{
+  "lanserverproperties.options.online_mode.on.message": "การเปิดโหมดออนไลน์จะอนุญาตเฉพาะผู้เล่นที่ล็อกอินด้วยบัญชี Microsoft/Mojang ที่ถูกต้องเข้าร่วมเซิร์ฟเวอร์ LAN ได้",
+  "lanserverproperties.options.online_mode.off.vanilla.message": "การปิดโหมดออนไลน์จะอนุญาตให้ทุกคนเข้าร่วมเซิร์ฟเวอร์ LAN ได้",
+  "lanserverproperties.options.online_mode.off.fixed.message": "โหมดนี้อนุญาตให้ทุกคนเข้าร่วมเซิร์ฟเวอร์ LAN ได้ โดยคง UUID ของผู้ที่ล็อกอินด้วยบัญชี Microsoft/Mojang ไว้ ใช้โหมดนี้หากคุณย้ายมาจากโหมดออนไลน์และต้องการคงช่องเก็บของไว้",
+  "lanserverproperties.options.preference_enabled.message": "โหลดการตั้งค่าจากค่ากำหนดที่เก็บไว้โดยอัตโนมัติ หากเซิร์ฟเวอร์ยังไม่ถูกเผยแพร่ มิฉะนั้นหน้าต่างนี้จะแสดงการตั้งค่าปัจจุบันของเซิร์ฟเวอร์",
+  "lanserverproperties.gui.always_offline.message": "รายการชื่อผู้เล่นที่คั่นด้วยช่องว่างซึ่งถือว่าออฟไลน์เสมอ ใช้ได้เฉพาะในโหมด 'Offline Mode + UUID Fix' และช่วยแก้ปัญหาชื่อชนกันระหว่างผู้เล่นออฟไลน์กับผู้เล่นออนไลน์ที่ลงทะเบียนแล้ว"
+}

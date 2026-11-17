@@ -1,0 +1,24 @@
+{
+  "name": "Rune Table",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:rune_table",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:rune_table",
+      "title": "Crafting a Rune Table",
+      "text": "A Rune Table extracts and stores runes from golden Reflection Orbs. Right-click the block to open its orb slot and storage display."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Extracting Runes",
+      "text": "Place a filled golden orb in the slot. It rises above the table and extraction begins. After about 5 minutes, the table gains 100 runes and the orb loses 1 durability. It returns to blue while durability remains, but is consumed after its fifth extraction."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Capacity and Pausing",
+      "text": "A Rune Table stores up to 500 runes."
+    }
+  ]
+}

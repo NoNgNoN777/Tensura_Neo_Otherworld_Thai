@@ -1,0 +1,23 @@
+{
+  "name": "Deciphering the Array",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:ancient_book",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Starting",
+      "text": "Place an Ancient Book in Decipher to begin deciphering and breaking its array."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rotating Runes",
+      "text": "$(bold)Left-click$() a rune to rotate it counterclockwise.$(br)$(bold)Right-click$() to rotate it clockwise.$(br2)Each valid rotation consumes a random 3 to 8 runes from the nearby table."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Connection Rules",
+      "text": "The board contains a 6x4 array. Every opening must align with the neighboring cell, and all runes must form one complete network from the array's heart.$(br2)Connected paths carry flowing golden light. A gap, one-sided connection, or isolated branch means the array is not solved."
+    }
+  ]
+}

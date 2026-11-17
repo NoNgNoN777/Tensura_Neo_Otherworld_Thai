@@ -1,0 +1,21 @@
+{
+  "name": "Giant Spirit Pill",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:giant_spirit_pill",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:giant_spirit_pill",
+      "text": "A pill that eases inner demons and stabilizes the Nascent Soul.$(br2)$(bold)Effect:$() A required condition for evolving from $(bold)Golden Core$() to $(bold)Nascent Soul$().$(br2)$(bold)Evolution Requirements:$()$(li)Existence Points (EP) >= 30000$(li)Consume 1 Giant Spirit Pill$(br2)$(bold)Bonus Effect:$() Grants Resistance I for 5 minutes.$(br2)Right-click to consume."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:hipokute_flower",
+      "item2": "tensura:low_arcane_potion",
+      "item3": "tensura:zane_blood",
+      "output": "mortal_cultivation:giant_spirit_pill",
+      "time": "$(bold)Crafting Time:$() 45 min"
+    }
+  ]
+}

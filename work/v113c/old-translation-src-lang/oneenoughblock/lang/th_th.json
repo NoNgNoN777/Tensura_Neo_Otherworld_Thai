@@ -1,0 +1,11 @@
+{
+  "gui.oneenoughblock.add_block": "เพิ่มบล็อก",
+  "gui.oneenoughblock.add_block_tag": "เพิ่มแท็กบล็อก",
+  "gui.oneenoughitem.data_id.blocks": "Blocks",
+  "tooltip.oneenoughblock.item_replaced": "ถูกแทนที่",
+  "tooltip.oneenoughblock.replaced_with_tag": "แทนที่ด้วยแท็ก: %s",
+  "tooltip.oneenoughblock.replaced_with_block": "แทนที่ด้วยบล็อก: %s",
+  "tooltip.oneenoughblock.source_runtime": "(จากกฎรันไทม์)",
+  "tooltip.oneenoughblock.source_saved": "(จากกฎที่บันทึกไว้)",
+  "tooltip.oneenoughblock.item_used_as_result": "บล็อกนี้ถูกใช้เป็นผลลัพธ์"
+}

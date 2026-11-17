@@ -1,0 +1,13 @@
+{
+  "name": "Nine Nether Cold Pool",
+  "category": "mortal_cultivation:spirit_forest",
+  "icon": "mortal_cultivation:nine_yin_lotus",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Beneath the Forest",
+      "text": "The $(thing)Nine Nether Cold Pool$() lies deep beneath the ground-level Spirit Forest. Dark rock encloses the cavern, stalactites hang overhead, and $(item)Nine Yin Lotus$() grows on the dim water.$(br2)No forest sunlight reaches here: only rock, cold water and lotus flowers meet the eye."
+    }
+  ]
+}

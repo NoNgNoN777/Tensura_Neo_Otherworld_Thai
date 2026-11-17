@@ -1,0 +1,17 @@
+{
+"quest.67E535BC4659333A.quest_desc": {"old": [["Dark Spider", "Black Spider"]]},
+"quest.693FB4CD082DEF0B.quest_subtitle": "[เมื่อได้รับวิญญาณที่กำหนดแล้ว ให้คลิกส่งเควส]",
+"quest.693FB4CD082DEF0B.title": "Fire Spirit • ระดับต่ำ",
+"quest.69A16C2D76C41BDE.quest_desc": ["มันอาศัยในป่า ทุ่งหญ้า และหนองน้ำ ลองไปเสี่ยงโชคที่นั่น คุณยังอาจพบ Slime King Crown ในหีบของซากปรักหักพังและใช้อัญเชิญ Slime King ได้!", "เป็นสิ่งมีชีวิตหายากที่เกิดแทน Slime ปกติด้วยโอกาส&m&61/1000&r&r (ไม่ได้ต่ำขนาดนั้น)", "[\"มันภูมิคุ้มกันอาวุธระยะไกลทางกายภาพและฟื้นฟูเร็วมากด้วย &4Ultraspeed Regeneration&r หากไม่เตรียมพร้อม มันอาจบั่นทอนคุณจนหมดแรง &6หากสกิลของคุณทำความเสียหายมันไม่ได้ ให้ไปหา \", {\"text\": \"วิญญาณ\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"4835EBAC6D933CDB\"}}, \" แล้ว \\\"ยืม\\\" เวทมาสักหน่อย—นั่นเป็นทางเลือกที่ฉลาดกว่า\"]", "", "&lวิธีโจมตีของมัน:&r", "สร้างความเสียหายแบบกัดกร่อน (แต่ไม่ใช่เอฟเฟกต์กัดกร่อน) ดังนั้นหากคุณมี Corrosion Resistance หรือ Corrosion Nullification คุณจะภูมิคุ้มกันความเสียหายของ Slime", "", "หลังเอาชนะมัน &bSlime Core&r ดูดซับได้ด้วยสกิลติดตัวของเผ่า Slime คือ Absorb & Dissolve เพื่อเพิ่มหรือลดขนาดตัว ยังใช้คราฟต์ Staff of Slime เพื่ออัญเชิญ Slime เป็นทหารแนวหน้าที่สละได้"],
+"quest.69A16C2D76C41BDE.title": "&6【ล่าบอส①】&rให้การต่อสู้เริ่มต้น! เอาชนะ Slime King (Let the Battle Begin! Defeat the Slime King)",
+"quest.6A183D91CE6AF375.quest_desc": ["การเอาชนะมันจะดรอป &5Block of Pure Magisteel&r โยนหนึ่งบล็อกลงกลาง Labyrinth Arena เพื่ออัญเชิญ Elemental Colossus อีกครั้ง ทำซ้ำได้ไม่จำกัด"],
+"quest.6A6CABAF79536A2E.title": "Zana Horowa",
+"quest.6AAB6D0E51DB699C.quest_desc": ["1. ได้ EP ขณะติด Blindness เพื่อปลดล็อกสกิลนี้", "2. วิธีง่ายคือคราฟต์ &5Suspicious Stew&r กินมัน แล้วสังหารสิ่งมีชีวิตเพื่อรับ EP จะปลดล็อกการเรียนสกิล \"Danger Sense\" เมื่อเรียนแล้ว กดปุ่มสกิลที่ตรงกันค้างเพื่อใช้ &6Night Vision และการตรวจจับสิ่งมีชีวิต&r", "3. บางเผ่ามีติดตัวมา", "", "เมื่อสกิล&bชำนาญ&rเต็มที่ คุณเปิดให้ทำงานเบื้องหลังได้โดยเปิดสวิตช์ในแผงทางขวาของสกิล"],
+"quest.6AAB6D0E51DB699C.title": "&6【เคล็ดลับ】&rสกิลจำเป็นช่วงต้น [Magic Sense] (A necessary skill in the early stage [Magic Sense])",
+"quest.6BF28FAF8EB4389A.quest_desc": {"old": [["Beyond Blessing", "Blessing of Transcendence"], ["ความหายากของการสลักแบ่งเป็น common, rare, rare และ epic", "ความหายากของการสลักแบ่งเป็น Common, Uncommon, Rare และ Epic"]]},
+"quest.6CA53A7C9D542C77.quest_subtitle": "[เมื่อได้รับวิญญาณที่กำหนดแล้ว ให้คลิกส่งเควส]",
+"quest.6CA53A7C9D542C77.title": "Space Spirit • ระดับสูง",
+"quest.6CB90BB1E35B9B72.quest_desc": {"old": [["【Blessed One】", "【Blessing Bearer】"]]},
+"quest.6CB90BB1E35B9B72.title": "&6【ขั้นสูง】&fUltimate Skill: Sword Saint - Reinhard",
+"quest.6D0CA0984266A8E2.quest_desc": ["เหรียญแลกเปลี่ยนในอัตรา 1:100 แลกกับดวอร์ฟหรือ Lizardman เพื่อรับไอเทมที่มีประโยชน์ รวมถึงพิมพ์เขียว grimoire และม้วนเวท", "&6Merchant Dwarf ใน Dwargon แลกสกุลเงินให้คุณได้", "คุณใช้เหรียญทองได้ในหน้าต่อไปนี้:", "[ { \"text\": \"แลก Unique Skill\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"02CAA99E62FA7519\" } } ]", "คุณต้องมี Soul Energy เพียงพอด้วยจึงจะแลก Unique Skill ได้:", "[ { \"text\": \"Soul Energy\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0FDA8DE439A0FC25\" } } ]", "แลกสกุลเงินกับดวอร์ฟข้างรถม้าบิน"]
+}

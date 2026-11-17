@@ -1,0 +1,21 @@
+{
+  "name": "Foundation Building Pill",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:foundation_building_pill",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:foundation_building_pill",
+      "text": "The first pill on the path of cultivation.$(br2)$(bold)Effect:$() A required condition for evolving from $(bold)Human$() to $(bold)Foundation Establishment$().$(br2)$(bold)Evolution Requirements:$()$(li)Existence Points (EP) >= 2000$(li)Consume 1 Foundation Building Pill$(br2)Right-click to consume."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:monster_leather_b#3",
+      "item2": "tensura:high_quality_magic_crystal#2",
+      "item3": "minecraft:ghast_tear",
+      "output": "mortal_cultivation:foundation_building_pill",
+      "time": "$(bold)Crafting Time:$() 30 min"
+    }
+  ]
+}

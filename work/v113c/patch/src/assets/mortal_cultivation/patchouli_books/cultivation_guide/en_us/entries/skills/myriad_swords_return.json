@@ -1,0 +1,24 @@
+{
+  "name": "Myriad Swords Return",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/myriad_swords_return.png",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "All Swords Pay Homage",
+      "text": "Swords descend in six streams, pursue the caster's crosshair, pass through their mark, and turn for another attack.$(br2)$(bold)Type:$() Extra Skill$(br)$(bold)Source:$() Decipher an Ancient Book and study a Myriad Swords Return Manual"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:myriad_swords_return_manual",
+      "title": "Maintaining the Art",
+      "text": "Hold the skill key to cast and release it to stop. Maintaining the art consumes $(bold)2,000 magicules per second$(); it cannot continue without enough energy. The formation contains 60 swords divided into six circulating streams."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Targeting and Damage",
+      "text": "The crosshair can lock an unobstructed valid creature up to about 48 blocks away. Attacks begin after roughly 0.9 seconds of steady aim, then deal $(bold)8 damage$() about once every 2 ticks. Successive strikes clear normal hurt invulnerability, producing a dense chain of hits."
+    }
+  ]
+}

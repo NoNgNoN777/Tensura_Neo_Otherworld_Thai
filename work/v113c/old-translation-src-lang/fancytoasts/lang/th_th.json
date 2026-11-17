@@ -1,0 +1,23 @@
+{
+  "fancytoasts.gui.label.description": "คำอธิบาย:",
+  "fancytoasts.gui.tooltip.task": "เสียงสำหรับ Advancement ประเภท Task",
+  "fancytoasts.gui.tooltip.goal": "เสียงสำหรับ Advancement ประเภท Goal",
+  "fancytoasts.gui.tooltip.challenge": "เสียงสำหรับ Advancement ประเภท Challenge",
+  "fancytoasts.gui.tooltip.textures": "เท็กซ์เจอร์ที่ใช้กับ Toast สามารถโหลดเท็กซ์เจอร์แบบกำหนดเองได้จากโฟลเดอร์ \"./config/textures\"",
+  "fancytoasts.gui.tooltip.animations": "แอนิเมชันที่ใช้เมื่อ Toast แสดงขึ้น",
+  "fancytoasts.gui.tooltip.sounds": "เสียงที่เล่นในขณะที่ Toast ปรากฏ",
+  "fancytoasts.gui.tooltip.jade_compatibility": "สลับความเข้ากันได้กับ Jade หากเปิด ป้าย Jade จะถูกซ่อนเมื่อมี Toast ของ Advancement ปรากฏ",
+  "fancytoasts.gui.tooltip.sounds_enabled": "สลับเสียง หากปิด เสียงของ Toast ทั้งหมดจะถูกปิด",
+  "fancytoasts.gui.tooltip.position": "ตำแหน่งของ Advancement Toast ที่ด้านบนของหน้าจอ",
+  "fancytoasts.gui.tooltip.screen_behavior": "ประเภทการเรนเดอร์ของ Advancement Toast เมื่อเปิดหน้าจอ (ช่องเก็บของ หีบ ฯลฯ)",
+  "fancytoasts.animations.toast.standard.description": "แอนิเมชันมาตรฐาน สงบและนิ่ง เลื่อนเบาๆ คล้ายสไตล์ Vanilla",
+  "fancytoasts.animations.toast.playful.description": "พลังงาน! ความสนุก! เกม! แอนิเมชันที่มีชีวิตชีวาและทดลองมากกว่า",
+  "fancytoasts.animations.toast.quirky.description": "โยกเยกและป่วน ขยับตลอดไม่หยุด",
+  "fancytoasts.textures.toast.vanilla.description": "ได้แรงบันดาลใจจากสไตล์ Vanilla Minecraft",
+  "fancytoasts.textures.toast.nature.description": "หลงอยู่ที่ไหนสักแห่งในป่า ได้แรงบันดาลใจจากแม่ธรรมชาติ",
+  "fancytoasts.textures.toast.og.description": "หากคุณเป็นผู้เล่น OG ตัวจริงและรักสไตล์ดิบแบบเก่า นี่คือสำหรับคุณ",
+  "fancytoasts.textures.toast.modern.description": "หรูหรา สะอาด และเรียบร้อย",
+  "fancytoasts.textures.toast.terracraft.description": "นั่นอะไรน่ะ? ฉันว่าฉันเห็นตาสีแดงดวงใหญ่บนท้องฟ้า! เดี๋ยวนะ มันพุ่งเข้ามา... ได้แรงบันดาลใจจาก Terraria",
+  "fancytoasts.textures.toast.steamy.description": "ฉันใช้เวลา 1500 ชั่วโมงเพื่อให้ได้ 100%! แม่ภูมิใจในตัวฉันไหม? ได้แรงบันดาลใจจาก Steam",
+  "fancytoasts.sound.minecraft.description": "เสียงในตัวจาก Minecraft"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Puppet Talisman",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:puppet_talisman",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:puppet_talisman",
+      "text": "The terrifying puppet art of the southern lands.$(br2)$(bold)Usage:$() Right-click on a mob to consume magicules and take control of the target.$(br2)$(bold)Restriction:$() The target must not be too powerful and must not already be tamed."
+    }
+  ]
+}

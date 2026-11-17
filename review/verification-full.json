@@ -1,9 +1,9 @@
 {
   "zip_crc": "PASS",
   "deterministic_rebuild": "PASS",
-  "lang_keys": 11217,
-  "patchouli_files": 144,
-  "quest_records": 1878,
+  "lang_keys": 11361,
+  "patchouli_files": 150,
+  "quest_records": 1520,
   "quest_roundtrip": "PASS",
   "manifest": "PASS",
   "runtime_game_test": "NOT_RUN"

@@ -1,0 +1,13 @@
+{
+  "name": "Azure Moss Qilin",
+  "category": "mortal_cultivation:spirit_forest",
+  "icon": "minecraft:bamboo",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Within the Bamboo",
+      "text": "The $(thing)Azure Moss Qilin$() lives in bamboo clearings in the spirit forests. Tall bamboo surrounds a level patch of grass, leaving gaps to walk through.$(br2)Look for these clearings on the forest floor. Beyond the bamboo, you may find their resident waiting."
+    }
+  ]
+}

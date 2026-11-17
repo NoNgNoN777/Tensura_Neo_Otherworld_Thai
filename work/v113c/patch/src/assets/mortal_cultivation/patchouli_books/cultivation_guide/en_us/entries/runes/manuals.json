@@ -1,0 +1,37 @@
+{
+  "name": "Lost Manuals",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:sword_flight_manual",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Deciphering Rewards",
+      "text": "Each solved Ancient Book has an equal chance to become one of these manuals:$(li)Sword Flight Manual$(li)Break and Rebuild Manual$(li)Myriad Swords Return Manual$(li)Supreme Alchemy Canon$(br2)These manuals do not generate directly in wild loot chests."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:sword_flight_manual",
+      "title": "Sword Flight Manual",
+      "text": "Right-click to learn the extra skill Sword Flight. A successful study consumes the manual outside Creative mode. A player who already knows the skill does not consume it again."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:myriad_swords_return_manual",
+      "title": "Myriad Swords Return",
+      "text": "Right-click to learn the extra skill Myriad Swords Return. A successful study consumes the manual outside Creative mode. A player who already knows the skill does not consume it again."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:break_and_rebuild_manual",
+      "title": "Break and Rebuild",
+      "text": "A meridian-restoring art intended for the Wastelander race. When its conditions are met, right-clicking the manual sheds that broken state and opens a cultivation path."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:the_supreme_alchemy_canon",
+      "title": "Supreme Alchemy Canon",
+      "text": "Right-click to comprehend Alchemy Prodigy. If the skill is already known, studying instead increases its mastery until it is fully mastered."
+    }
+  ]
+}

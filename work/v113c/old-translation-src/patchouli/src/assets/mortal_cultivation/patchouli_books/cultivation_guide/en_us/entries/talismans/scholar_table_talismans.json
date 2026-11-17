@@ -1,0 +1,29 @@
+{
+  "name": "Scholar Table Talismans",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:brush_and_ink",
+  "sortnum": -1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:brush_and_ink",
+      "title": "Brush and Ink",
+      "text": "Shapelessly combine a Brush with Cinnabar Blood Ink. The resulting Brush and Ink has 20 durability and is the dedicated tool for the Scholar Table's Talisman Making page."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Talisman Making",
+      "text": "Right-click a Scholar Table and switch to Talisman Making. Put Brush and Ink in the lower-left tool slot, then arrange ingredients in the seven ring slots. The center previews an output only when every position matches a recipe."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Materials and Durability",
+      "text": "Taking the center output consumes one item from every occupied recipe slot. Making $(item)Talisman Paper$() does not damage Brush and Ink; every completed talisman costs 1 durability.$(br2)JEI and EMI display all seven-slot layouts and their exact order."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Two Talisman Interfaces",
+      "text": "This entry describes only the Scholar Table page. The older Talisman Master skill still opens a separate interface that accepts a Brush and Cinnabar Blood Ink individually and follows its own tool rules."
+    }
+  ]
+}

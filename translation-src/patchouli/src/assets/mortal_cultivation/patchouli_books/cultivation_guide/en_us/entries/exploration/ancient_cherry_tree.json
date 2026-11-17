@@ -1,0 +1,13 @@
+{
+  "name": "Giant Ancient Cherry Tree",
+  "category": "mortal_cultivation:spirit_forest",
+  "icon": "minecraft:cherry_sapling",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "The Old Cherry Tree",
+      "text": "A $(thing)Giant Ancient Cherry Tree$() may stand in the ground-level $(thing)Spirit Forest$(). Its thick trunk holds a broad pink canopy, with vines below and fallen petals around its roots.$(br2)That patch of pink is worth a closer look. Only at the roots does the tree's full size become clear."
+    }
+  ]
+}

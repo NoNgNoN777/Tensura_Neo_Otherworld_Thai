@@ -1,6 +1,6 @@
 # Tensura Neo Otherworld Thai
 
-ภาษาไทยสำหรับ Tensura Neo Otherworld 1.1.3b2 / Minecraft 1.21.1 NeoForge โดยเล่นด้วยภาษาเกม English (US) และคงชื่ออุปกรณ์/สกิลเฉพาะเป็นอังกฤษ
+ภาษาไทยสำหรับ Tensura Neo Otherworld 1.1.3c / Minecraft 1.21.1 NeoForge โดยเล่นด้วยภาษาเกม English (US) และคงชื่ออุปกรณ์/สกิลเฉพาะเป็นอังกฤษ
 
 **แปลครบทุกส่วนแล้ว (ยังรอทดสอบในเกมจริง)** ดู [สถานะล่าสุด](TRANSLATION_STATUS.md) และ [รายการที่ต้องตรวจบริบท](review/SEMANTIC_WATCHLIST_TH.md)
 

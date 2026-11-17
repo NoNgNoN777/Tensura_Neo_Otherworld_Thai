@@ -1,0 +1,16 @@
+{
+  "name": "Cultivating the Mystic Dao",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/cultivating_the_mystic_dao.png",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Sit within the void and refine your divine consciousness. This skill suspends the cultivator in meditation and manifests a Taoist array below them."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Extra Skill$(br)$(bold)Obtainment:$() Cannot be unlocked automatically through EP; it must be obtained by other means$(br)$(bold)Input:$() Keep holding the skill key; release to stop$(br)$(bold)Cost:$() None$(br2)Meditation creates a Taoist array, fixes your hovering position, restores 1% of max health and base magicules each second, and grants mastery every 3 seconds. It does not currently restore aura, and its effects require the key to remain held."
+    }
+  ]
+}

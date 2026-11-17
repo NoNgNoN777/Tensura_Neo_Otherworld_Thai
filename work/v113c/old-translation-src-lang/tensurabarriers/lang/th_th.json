@@ -1,0 +1,15 @@
+{
+  "tensurabarriers.skill.barrier_arts.description": "ออกแบบบาเรียร์ของคุณเอง ใช้แต้มที่ได้จากสกิลของคุณกับ modifier ย่อตัว + Barrier Creation ซ่อมบาเรียร์ ย่อตัว + preset แสดงค่าสถานะของมัน",
+  "tensurabarriers.skill.admin_barrier.description": "Barrier Arts สำหรับผู้ดูแล",
+  "tensurabarriers.skill.barrier_master.description": "ความชำนาญเหนือบาเรียร์ ทุกบาเรียร์ที่คุณสร้างแข็งแกร่งและมีประสิทธิภาพขึ้น บาเรียร์พ้นคูลดาวน์เร็วขึ้นสองเท่าและได้ modifier บางอย่างโดยไม่ต้องมีสกิล",
+  "tensurabarriers.skill.barrier_master.containment.description": "กดเพื่อขว้างวงแหวนสามวงใส่ผู้ที่คุณมองอยู่ เมื่อโดนเป้าหมาย จะผนึกสกิล เวท และ battlewill ของมัน",
+  "tensurabarriers.skill.spatial_bind.description": "พันธนาการเป้าหมาย ห้ามไม่ให้ใช้สกิลมิติและเคลื่อนที่",
+  "tensurabarriers.skill.barrier_dispel.description": "ด้วยความชำนาญเวทบาเรียร์ระดับหนึ่ง เรียนรู้การสลายบาเรียร์โดยสมบูรณ์",
+  "tensurabarriers.skill.invasion.description": "ใช้เวทมิติระดับสูงบุกรุกบาเรียร์หากแข็งแกร่งพอ",
+  "tensurabarriers.skill.simple_barrier.description": "สร้างบาเรียร์ง่ายๆ รอบตัวคุณ คุณยังย่อตัวและมองเพื่อนเพื่อป้องกันเขาแทนได้",
+  "tensurabarriers.skill.defensive_wall.description": "ร่ายกำแพงป้องกันตรงหน้าคุณ",
+  "tensurabarriers.skill.black_casing.description": "สร้างบาเรียร์ที่ทำลายไม่ได้ แต่ทำให้คุณขยับไม่ได้และดูดมาจิคูล 5% ต่อวินาที",
+  "tensurabarriers.skill.barrier_formation.description": "สร้างบาเรียร์สำหรับตัวคุณเองหรือคุณและพันธมิตร HP ของบาเรียร์ถูกแบ่งระหว่างเป้าหมาย",
+  "tensura.attribute.barrier_boost": "Barrier Boost",
+  "tensura.attribute.barrier_cost": "Barrier Cost"
+}

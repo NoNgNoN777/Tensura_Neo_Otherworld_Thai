@@ -1,0 +1,16 @@
+{
+  "name": "Alchemist Fire",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/intrinsic/alchemist_fire.png",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A cultivator's true flame. Hold the skill key to breathe fire, burn targets in front of you, and refine smeltable blocks or items."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Type:$() Intrinsic Skill$(br)$(bold)Input:$() Hold the skill key$(br)$(bold)Cost:$() 400 magicules per second, or 200 per second with a Heaven Spirit Root$(br2)While the breath remains on a target, each damage check has 10 base damage. Fire Spirit Root increases damage by 50%, while Heaven Spirit Root increases it by 60%. Releasing the key removes the Alchemist Fire breath entity."
+    }
+  ]
+}

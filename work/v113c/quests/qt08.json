@@ -1,0 +1,19 @@
+{
+"quest.3091985C0E95C53F.quest_desc": ["แลกแผนที่ไปยังสิ่งก่อสร้างโรงเรียนกับ Cartographer ระดับ master หลังเอาชนะบอสที่นั่น มันจะเกิดใหม่หลังคูลดาวน์ 40 นาที มันยังมีโอกาสเกิดในบ้านหินของหมู่บ้านที่ราบ และปรากฏในป่าได้", "", "ระหว่างการโจมตีทางอากาศในสงครามโลกครั้งที่สอง Shizue Izawa ถูก&4Demon Lord Leon Cromwell&rอัญเชิญมายังต่างโลก ร่างกายของเธอปรับตัวกับมาจิคูลของโลกนั้นไม่ได้ ทำให้เธอเกือบตาย", "", "เพื่อให้เธอมีชีวิตอยู่ Leon บังคับหลอมรวมวิญญาณไฟ \"Ifrit\" เข้าสู่ร่างของเธอ ทำให้เธอเป็น \"Fire Majin\" แต่ Ifrit ไม่ได้อยู่ใต้การควบคุมทั้งหมด และอาจยึดครองจิตสำนึกของเธอ เปลี่ยนเธอเป็นสัตว์ประหลาดไฟผู้ทำลายล้าง", "{image:ablazeaqzlcz:textures/ftb/ifrit_shizu.png width:100 height:100 align:center}", "หากต้องการ&bปลดปล่อย Shizue Izawa&r คุณต้องเอาชนะ&4วิญญาณไฟ Ifrit&r"],
+"quest.3091985C0E95C53F.quest_subtitle": "Fire Majin",
+"quest.3091985C0E95C53F.title": "&6【สายท้าทาย ①】&rผู้มาจากต่างโลกที่เกลียด Slime... (An Otherworlder Who Hates Slimes...)",
+"quest.30A3566EB22079CA.quest_desc": ["&6วัสดุสำคัญสำหรับคราฟต์ golem", "", "เมื่อมีสกิลสิงร่าง คุณใช้ golem เหล่านี้เป็นร่างใหม่และรับพลังชีวิตของ Bone Golem ได้ เผ่าและมาจิคูลของคุณไม่ได้รับผลกระทบ", "&8ตัวอย่าง: สิง Bone Golem ที่มี HP 400 ขณะคุณมี HP 20 จะได้ร่างที่มี HP 400", "", "เมื่อมันตาย Bone Golem จะกลับเข้าช่องเก็บของ"],
+"quest.30C4FEDFA9A5DB16.quest_desc": {"old": [["สกิลใน hotbar ของคุณถูกล้าง", "สกิลในแถบตั้งค่าล่วงหน้าของคุณถูกล้าง"]]},
+"quest.318F8A3B3BBD8349.quest_desc": {"old": [["&5แบบแปลนไม้กายสิทธิ์&r", "&5Magic Staff Schematic&r"]]},
+"quest.321ECD9F13D78465.title": "&6【ขั้นสูง】&fรับ Unique Skill Infinity Prison (Obtain the Unique Skill Infinity Prison)",
+"quest.3295C80D42E1CB08.title": "&6【ขั้นสูง】&fรับ Unique Skill Lust (Obtain the Unique Skill Lust)",
+"quest.32E1EA9C678DFF9C.quest_desc": ["ช่องตรงกลางคือผลลัพธ์ แท่งสองข้างเก็บวัสดุที่หลอมแล้วซึ่งใช้หลอมรวม ส่วนขวาสุดรับแร่และเชื้อเพลิงเหมือนเตาหลอม"],
+"quest.33334EFC5EC1E3B6.quest_desc": ["มันอมตะต่อการโจมตีธรรมดาและเอฟเฟกต์สถานะทั้งหมด การโจมตีปกติแทบไม่ลดพลังชีวิตของมัน อย่าพยายามออกจากลานต่อสู้ และอย่าบิน!"],
+"quest.337C56118E98F19E.title": "Arch Taratect",
+"quest.33A31F36D0204245.quest_desc": ["มีสองช่วงและใช้ท่าทั้งหมดในช่วงแรก ช่วงที่สองเสริมความสามารถเดิมให้แรงขึ้น", "&6สกิลของมันได้แก่ Flame Attack Nullification, Heat Nullification, Physical Attack Resistance, Pierce Resistance และ Abnormal Condition Nullification"],
+"quest.33AB6B567959623B.quest_desc": ["มันเกิดที่ชั้นสองของ Flame Arena เอาชนะมันเพื่อรับ Dying Embers แล้วรวมสี่ชิ้นเป็น &lBurning Ashes&r ถือ Burning Ashes คลิกขวาที่ Altar of Fire เพื่ออัญเชิญ Flame Demon"],
+"quest.33AB6B567959623B.title": "เอาชนะ Ignited Revenant (Defeat the Ignited Revenant)",
+"quest.33C7424919F54C10.quest_desc": ["&8*หมายเหตุ: รายงานบั๊กได้ที่ช่อง &5Discord&r&8 หรือ &r&bชุมชน QQ&r&8 ของเรา!*&r&r", "&#FFBD5BQQ Group 5: 1079552596&r", "", "&6รู้ไหม? ข้อความในรูปแบบต่อไปนี้คลิกด้วยเมาส์ได้", "[ { \"text\": \"『วิธีบังคับโหลดชังก์』\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7D00E143DC7B8D9E\" } } ]", "", "[ { \"text\": \"『การเรียนรู้และใช้สกิล』\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4205403C9223C4B7\" } } ]", "", "[ { \"text\": \"『การตั้งค่าปุ่ม』\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"24A42438DA227224\" } } ]"],
+"quest.340B19E35FB5A686.quest_desc": [""],
+"quest.37220E036887A3FD.title": "Small Lesser Taratect"
+}

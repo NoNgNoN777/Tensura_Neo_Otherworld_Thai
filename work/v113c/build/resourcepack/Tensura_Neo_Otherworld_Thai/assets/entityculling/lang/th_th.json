@@ -1,0 +1,13 @@
+{
+  "text.entityculling.tab.tick_culling.tooltip": "เอนทิตีที่เลือกในแท็บนี้จะไม่ถูกปรับปรุงเมธอด tick เมื่อถูกตัดทิ้ง ซึ่งมีประโยชน์กับเอนทิตีที่ต้อง tick เพื่อฟังก์ชันบางอย่าง เช่น เรือ",
+  "text.entityculling.tab.entity_culling.tooltip": "เอนทิตีที่เลือกในแท็บนี้จะไม่ถูกตัดทิ้งเลย ส่วนใหญ่จำเป็นสำหรับเอนทิตีฝั่งไคลเอนต์หรือเอนทิตีที่ต้องเรนเดอร์ไม่ว่าจะมองเห็นหรือไม่",
+  "text.entityculling.tab.block_entity_culling.tooltip": "Block Entity ที่เลือกในแท็บนี้จะไม่ถูกตัดทิ้งเลย ส่วนใหญ่จำเป็นสำหรับ Block Entity ที่ต้องเรนเดอร์ไม่ว่าจะมองเห็นหรือไม่",
+  "text.entityculling.renderNametagsThroughWalls.tooltip": "เมื่อปิด เอนทิตีที่ถูกตัดทิ้งจะไม่แสดงป้ายชื่อทะลุกำแพง",
+  "text.entityculling.tickCulling.tooltip": "เมื่อเปิด เอนทิตีที่ถูกตัดทิ้งจะไม่ tick ซึ่งช่วยเพิ่มประสิทธิภาพในบางกรณี แต่อาจทำให้เกิดปัญหากับม็อดบางตัว ลองใช้ตัวเลือกควบคุมละเอียดในแท็บอื่นแทน",
+  "text.entityculling.disableF3.tooltip": "เมื่อเปิด ข้อมูลดีบัก F3 จะไม่แสดงข้อมูลการตัดทิ้ง",
+  "text.entityculling.skipEntityCulling.tooltip": "เมื่อเปิด จะข้ามการตัดทิ้งเอนทิตีทั้งหมด มีประโยชน์สำหรับการดีบักหรือเมื่อต้องการปิดการตัดทิ้งชั่วคราว",
+  "text.entityculling.skipBlockEntityCulling.tooltip": "เมื่อเปิด จะข้ามการตัดทิ้ง Block Entity ทั้งหมด มีประโยชน์สำหรับการดีบักหรือเมื่อต้องการปิดการตัดทิ้งชั่วคราว",
+  "text.entityculling.blockEntityFrustumCulling.tooltip": "เมื่อเปิด การดึงสถานะ Block Entity จะถูกตัดทิ้งตาม view frustum ของกล้อง ช่วยเพิ่มประสิทธิภาพในกรณีที่ modloader หรือม็อดอื่นยังไม่ทำสิ่งนี้",
+  "text.entityculling.forceDisplayCulling.tooltip": "เมื่อเปิด Display Entity ที่ไม่มี bounding box จะถูกกำหนด bounding box เริ่มต้นเพื่อใช้ในการตัดทิ้ง ช่วยเพิ่มประสิทธิภาพสำหรับแมพ/เซิร์ฟเวอร์ที่ตั้งค่า Display Entity ไม่ถูกต้อง แต่อาจทำให้เกิดปัญหาด้านภาพ",
+  "text.entityculling.solidLeaves.tooltip": "เมื่อเปิด ใบไม้จะถูกถือเป็นของแข็งเพื่อการตัดทิ้ง ช่วยเพิ่มประสิทธิภาพในป่า แต่ก็อาจทำให้เกิดปัญหาด้านภาพ มีประโยชน์เมื่อตั้ง 'See-Through Leaves' เป็น Off หรือใช้ resource pack ใบไม้ทึบ"
+}

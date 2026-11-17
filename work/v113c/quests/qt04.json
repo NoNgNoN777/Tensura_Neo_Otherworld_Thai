@@ -1,0 +1,21 @@
+{
+"quest.15B40702B126BC7E.quest_desc": ["วาง &l【Charybdis Core】&r ในพื้นที่เกิดมอนสเตอร์และสังหารมอนสเตอร์เพื่อให้ EP แก่มัน", "ตรวจดู EP ของมันด้วยสกิล หรือทุบแกนเพื่อตรวจดู เมื่อถึง 100,000 EP มันจะเริ่มเรืองแสงและส่งเสียงประหลาด", "คลิกขวาที่มันตอนนั้นเพื่อฟัก &l【Charybdis】&r"],
+"quest.1600000000000001.quest_desc": ["1. สิง Okami เพื่อเป็น Tengu", "2. ใช้ Cryptid Essence เพื่อเป็น Phantom", "3. ใช้ Daemon Essence เพื่อเป็น Fallen", "4. ตามเส้นทางวิวัฒนาการ Angel ปกติ"],
+"quest.166F39FFE1C98A63.quest_desc": ["&6คุณต้องทำเควส \"Reset Counter\" ให้สำเร็จจึงจะได้แต้มเหล่านี้!&r", "ระบบนี้ให้คุณล็อกสกิลใดก็ได้ สกิลที่ล็อกไว้จะยังอยู่แม้รีเซ็ตตัวละคร การปลดล็อกสกิลใช้ Soul Level และ EP (ปลดล็อกถ้าไม่ต้องการเก็บสกิลนั้นไว้ในการรีเซ็ตครั้งถัดไป)", "{image:ablazeaqzlcz:textures/ftb/lock.png width:100 height:122 align:center}", "จำนวนช่องล็อกขึ้นกับแต้ม Soul Grade ของคุณ", "ทุก 20 แต้มให้ช่องล็อกเพิ่มหนึ่งช่อง", "", "&6ข้อมูลที่เกี่ยวข้อง:&r", "[ { \"text\": \"Reincarnation Essence และ Reset Counter\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2E0D203C4166C35C\" } } ]", "[ { \"text\": \"เควส Reset Counter\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6533548BC66DB5E7\" } } ]"],
+"quest.1799D47AD6127BDA.quest_desc": ["1. ชำนาญ Aquilar", "2. มีความจุมาจิคูลสูงสุดอย่างน้อย 1,000,000"],
+"quest.1799D47AD6127BDA.quest_subtitle": "เงื่อนไข↓",
+"quest.1799D47AD6127BDA.title": "&6【ขั้นสูง】&fUltimate Skill Aquilar, Lord of Spacetime",
+"quest.17D5656DDF929E02.quest_desc": {"old": [["Hero's Egg", "Hero Egg"]]},
+"quest.17D5656DDF929E02.title": "&6[ขั้นสูง]&fUltimate Skill Beelzebuth",
+"quest.18B0E4E9EBA923B2.title": "High Ogre",
+"quest.191AA02FB477C725.quest_desc": ["คุณเก็บวัสดุนี้ได้จากมังกรที่ยังไม่กลายเป็นโครงกระดูกเท่านั้น คลิกขวาที่มังกรด้วย Glass Bottle เพื่อเก็บ การเก็บมากเกินไปจะทำให้มังกรกลายเป็นโครงกระดูก หลังจากนั้นจะไม่ได้เกล็ดหรือเนื้อมังกรอีก"],
+"quest.1A2B3C4D5E6F7890.title": "Zoa Ele",
+"quest.1AECBCFE5C2CD2C7.quest_desc": {"old": [["โหมด “Integration” ของ Raphael, Lord of Wisdom", "โหมด “Synthesise” ของ Wisdom King · Raphael"], ["- ชำนาญ Raphael, Lord of Wisdom", "- ชำนาญ Wisdom King · Raphael"], ["- ชำนาญ Uriel, Lord of Vows", "- ชำนาญ Covenant King · Uriel"], ["- ชำนาญ Beelzebuth, Lord of Gluttony", "- ชำนาญ Gluttony King · Beelzebuth"]]},
+"quest.1AECBCFE5C2CD2C7.title": "&6【ขั้นสูง】&fUltimate Skill: Harvest King · Shub-Niggurath",
+"quest.1AF9B2AEF4CA630F.quest_desc": ["คลิกขวาที่ Abyss Altar ตรงกลางด้วย Abyss Offering เพื่ออัญเชิญมัน", "&6มีสองช่วงและมีสกิลต่อไปนี้: Water Attack Nullification, Cold Nullification, Physical Attack Resistance, Magic Resistance และ Spiritual Attack Resistance"],
+"quest.1B277EAB185E607D.title": "Lesser Poison Taratect",
+"quest.1B4BCC24E3D32BAF.quest_subtitle": "【ความชำนาญ】",
+"quest.1B4BCC24E3D32BAF.title": "&6【ขั้นสูง】&fรับ Unique Skill Aquilar (Obtain the Unique Skill Aquilar)",
+"quest.1C74FBA64D8DB9AB.title": "Ogre King",
+"quest.1C7DE5CD874BFD81.quest_desc": {"old": [["Water Frog", "Aqua Frog"], ["Long-Armed Lizard, Phantom Spore", "Leech Lizard, Phantaspore"], ["Water Maiden และ Land Fish", "Undine และ Landfish"], ["Samael, Lord of Poison", "Samael, Lord of Death Poison"]]}
+}

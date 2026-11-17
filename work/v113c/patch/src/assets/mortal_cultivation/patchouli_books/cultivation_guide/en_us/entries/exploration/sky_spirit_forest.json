@@ -1,0 +1,18 @@
+{
+  "name": "Sky Spirit Forest",
+  "category": "mortal_cultivation:spirit_forest",
+  "icon": "mortal_cultivation:spirit_leaves",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Above the Canopy",
+      "text": "High above the forest lies the $(thing)Sky Spirit Forest$(). Stone islands of different sizes hang over the canopy, topped with grass and moss.$(br2)Streams on some islands spill over the edges as waterfalls. From the woods below, the water seems to fall out of the clouds."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Island Life",
+      "text": "Spirit Trees, bamboo, flowers and mushrooms grow on the islands, where $(thing)Spirit Monkeys$() can also be found.$(br2)Look for $(item)Hipokute Grass$() and $(item)Spirit Recovery Herb$() among the plants. The trees may bear $(item)Spirit Fruit$() and $(item)Lightning-Struck Wood Lingzhi$()."
+    }
+  ]
+}

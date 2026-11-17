@@ -1,0 +1,17 @@
+{
+ "items": {
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.domain.description": "เมื่อ Bloom ถึง 100% กดเพื่อผนึกทุกคนที่อยู่ใกล้ไว้ใน Field of a Thousand Flowers มิติดอกไม้ของคุณเอง เป็นเวลา 120 วินาที เมื่อสิ้นสุด ทุกคนจะกลับไปยังจุดที่ยืนอยู่ก่อนหน้า Shift + กด เพื่อปิดก่อนเวลาและคืนค่าใช้จ่าย 50%",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.grimoire.description": "เปิดตัวเลือกเวทของ Tensura เวทในคลังที่เลือกจะเข้าร่วมในวงจรท่า",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.black_hole.description": "เปิดทรงกลมที่กำลังยุบตัว Shift + กด เพื่อให้ยุบตัวก่อนเวลา",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.lightning.description": "ฟาดศัตรูได้สูงสุดห้าตัวและสายฟ้าโซ่ Shift + กด เพื่อยิง Thunderbolt",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.golem.description": "ยกโล่หินขึ้นสองนาที Shift + กด เพื่อจุดระเบิด",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.mirror_copy.description": "สร้างร่างสำเนาหนึ่งร่างที่มีคลังมาจิคูลแยกต่างหาก Shift + กด เพื่อยกเลิกและคืนมาจิคูลที่ยังไม่ได้ใช้",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.feint.description": "แสร้งปล่อยมาจิคูลพุ่งพล่าน ขัดจังหวะศัตรูและลดความต้านทานเวทของพวกมัน",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.final_reveal.description": "กดค้างขณะเล็งศัตรู ปล่อย Black Hole สายฟ้า และ golem ผนึก ความเสียหายเพิ่มขึ้นเมื่อการปกปิดได้ซ่อนพลังของคุณไว้ ล็อกการปกปิดไว้ 30 วินาที",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.archivist.description": "กดเพื่อสลับเป็น Mirror ใช้ปุ่มสลับสกิลสำหรับ Mana Suppression ขณะอยู่ในช่อง: การเรียนรู้และความชำนาญเวท +250% ค่าใช้จ่ายเวทลดลง 75%",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.mirror.description": "กดเพื่อสลับเป็น Archivist ใช้ปุ่มสลับสกิลสำหรับ Perfect Concealment: MP ที่ผู้อื่นรับรู้ 5% ปิดกั้นการประเมิน และการฟื้น MP ลดลง 10%",
+  "lang|tensuramoreskills|tensuramoreskills.skill.mode.ewigkeit.convergence.description": "ร่าย Black Hole, Lightning และ Golem ภายใน 10 วินาที การร่ายของร่างสำเนาก็นับด้วย ให้ความเสียหายเวท +250% และออร่าสามธาตุอัตโนมัติเป็นเวลา 30 วินาที กดเพื่อดูสถานะ",
+  "lang|tensuramoreskills|tensuramoreskills.skill.pendragon.description": "God's Favourite: ความเสียหาย Holy และ Light x1.5 (x2 เมื่อชำนาญ) พร้อม Blessed และ Heavenly Eye Chosen One: Inspiration I ขณะถือ Excalibur อัญเชิญ Excalibur ด้วย MP 500,000 กดค้างเพื่อใช้ Holy Order หรือ Light Ray หรือวน Holy Aura ระหว่าง Holy, Light และปิด ความชำนาญเพิ่มจากความเสียหาย holy/light การร่ายที่สำเร็จ และความสามารถที่คงไว้",
+  "lang|tensuramoreskills|tensuramoreskills.skill.chosen_king.description": "Master of All: ความเสียหายกายภาพและ Battlewill +1% ต่อ Battlewill ที่ชำนาญแล้ว Weapon Master: การเรียนรู้ Battlewill +3 และความเสียหาย Battlewill x1.5 ดาบ: Strength II/III และ Haste I/II โล่: Resistance I ในมือรอง II ในมือหลัก พลั่ว: Haste II/III สลับ King's Endurance เพื่อหลบระยะประชิด +30% หลบกระสุน และ Regeneration I Sword Master ให้ Aura Sword I (II เมื่อมี Excalibur) ความชำนาญเพิ่มจากการโจมตี การร่ายที่สำเร็จ และ King's Endurance"
+ }
+}
