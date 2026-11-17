@@ -226,5 +226,10 @@
   "tensuramoreskills.skill.mode.ewigkeit.mirror.description": "กดเพื่อสลับเป็น Archivist ใช้ปุ่มสลับสกิลสำหรับ Perfect Concealment: MP ที่ผู้อื่นรับรู้ 5% ปิดกั้นการประเมิน และการฟื้น MP ลดลง 10%",
   "tensuramoreskills.skill.mode.ewigkeit.convergence.description": "ร่าย Black Hole, Lightning และ Golem ภายใน 10 วินาที การร่ายของร่างสำเนาก็นับด้วย ให้ความเสียหายเวท +250% และออร่าสามธาตุอัตโนมัติเป็นเวลา 30 วินาที กดเพื่อดูสถานะ",
   "tensuramoreskills.skill.pendragon.description": "God's Favourite: ความเสียหาย Holy และ Light x1.5 (x2 เมื่อชำนาญ) พร้อม Blessed และ Heavenly Eye Chosen One: Inspiration I ขณะถือ Excalibur อัญเชิญ Excalibur ด้วย MP 500,000 กดค้างเพื่อใช้ Holy Order หรือ Light Ray หรือวน Holy Aura ระหว่าง Holy, Light และปิด ความชำนาญเพิ่มจากความเสียหาย holy/light การร่ายที่สำเร็จ และความสามารถที่คงไว้",
-  "tensuramoreskills.skill.chosen_king.description": "Master of All: ความเสียหายกายภาพและ Battlewill +1% ต่อ Battlewill ที่ชำนาญแล้ว Weapon Master: การเรียนรู้ Battlewill +3 และความเสียหาย Battlewill x1.5 ดาบ: Strength II/III และ Haste I/II โล่: Resistance I ในมือรอง II ในมือหลัก พลั่ว: Haste II/III สลับ King's Endurance เพื่อหลบระยะประชิด +30% หลบกระสุน และ Regeneration I Sword Master ให้ Aura Sword I (II เมื่อมี Excalibur) ความชำนาญเพิ่มจากการโจมตี การร่ายที่สำเร็จ และ King's Endurance"
+  "tensuramoreskills.skill.chosen_king.description": "Master of All: ความเสียหายกายภาพและ Battlewill +1% ต่อ Battlewill ที่ชำนาญแล้ว Weapon Master: การเรียนรู้ Battlewill +3 และความเสียหาย Battlewill x1.5 ดาบ: Strength II/III และ Haste I/II โล่: Resistance I ในมือรอง II ในมือหลัก พลั่ว: Haste II/III สลับ King's Endurance เพื่อหลบระยะประชิด +30% หลบกระสุน และ Regeneration I Sword Master ให้ Aura Sword I (II เมื่อมี Excalibur) ความชำนาญเพิ่มจากการโจมตี การร่ายที่สำเร็จ และ King's Endurance",
+  "tensuramoreskills.race.example_race.notes": "คุณปรับแต่งเผ่าตัวอย่างนี้ได้ทุกอย่างตามต้องการ",
+  "tensuramoreskills.skill.caedros_god_of_conquest.conquest_summon": "คุณอัญเชิญง้าวเถ้าถ่านแห่งการพิชิต",
+  "tensuramoreskills.skill.caedros_god_of_conquest.cloud_active": "เมฆของสกิลนี้ปกคลุมโลกอยู่แล้ว",
+  "tensuramoreskills.skill.caedros_god_of_conquest.cloud_start": "เมฆบดบังท้องฟ้า ทะเลทรายสีขาวกลืนกินโลกทั้งใบ…",
+  "tensuramoreskills.skill.caedros_god_of_conquest.cloud_end": "เมฆแดงสลายตัว คาเอดรอสปล่อยดินแดนนี้ให้เป็นอิสระ"
 }

@@ -36,5 +36,10 @@
   "foxablazeultimate.skill.samael.description": "ระบุจุดอ่อนของสิ่งมีชีวิตและสร้างพิษที่เหมาะกับเป้าหมาย",
   "gamerule.samaelTrulyUnique.description": "เมื่อเปิดใช้ ผู้เล่นเพียงคนเดียวบนเซิร์ฟเวอร์เท่านั้นที่ครอบครอง Samael, Lord of Death Poison ได้",
   "foxablazeultimate.skill.asmodeus.description": "ควบคุมกฎแห่งชีวิตและความตาย",
-  "gamerule.asmodeusTrulyUnique.description": "เมื่อเปิด จะมีผู้เล่นเพียงคนเดียวบนเซิร์ฟเวอร์ที่ครอบครอง Asmodeus, Lord of Lust ได้"
+  "gamerule.asmodeusTrulyUnique.description": "เมื่อเปิด จะมีผู้เล่นเพียงคนเดียวบนเซิร์ฟเวอร์ที่ครอบครอง Asmodeus, Lord of Lust ได้",
+  "foxablazeultimate.skill.raphael.fusion_declaration": "§b《แจ้งให้ทราบ สิทธิ์ในการช่วยเหลือเฉพาะบุคคลได้รับการยกระดับแล้ว เร่งความคิด วิเคราะห์ประเมิน และประมวลผลคู่ขนาน ได้หลอมรวมกันอีกครั้ง》",
+  "foxablazeultimate.skill.uriel.skill_declaration": "§b《แจ้งให้ทราบ พันธสัญญาไร้รูปได้รับการยอมรับแล้ว เมื่อจิตใจประสานและศรัทธากลายเป็นหนึ่ง หลักแห่งการพิทักษ์ก็ถือกำเนิด อำนาจปกครองใหม่ได้ตอบรับเสียงเรียกแล้ว》",
+  "foxablazeultimate.skill.beelzebub.fusion_declaration": "§b《แจ้งให้ทราบ ความตะกละและความไร้ปรานีได้รับการยอมรับว่าเป็นความหิวกระหายหนึ่งเดียวที่ยิ่งใหญ่กว่าเดิม กำลังหลอมรวมเป็น “ราชันแห่งความตะกละ” ขั้นสูง ปลดล็อกอำนาจเหนือมิติจินตภาพแล้ว》",
+  "gamerule.protectUltimateOnReset": "คัมภีร์รีเซ็ตไม่มีผลต่ออัลติเมตสกิล",
+  "foxablazeultimate.predation_filter.button.expand": "เพิ่มบล็อกลงในรายการห้ามกลืนกิน เพื่อป้องกันการกลืนกินโดยไม่ตั้งใจ"
 }

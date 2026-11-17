@@ -1,0 +1,240 @@
+[
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.menu.skill_intro",
+    "en": "Ability Archive",
+    "th": "คลังความสามารถ",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.menu.adventure_archive",
+    "en": "Adventure Archive",
+    "th": "บันทึกการผจญภัย",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.menu.item_archive",
+    "en": "Item Archive",
+    "th": "คลังข้อมูลไอเทม",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.placeholder",
+    "en": "Placeholder",
+    "th": "ยังไม่มีคำอธิบายในต้นฉบับ",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.evolution.title",
+    "en": "Skill evolution · Drag to pan / Scroll to zoom",
+    "th": "วิวัฒนาการสกิล · ลากเพื่อเลื่อน / เลื่อนล้อเมาส์เพื่อซูม",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.evolution.toggle",
+    "en": "Show / hide skill evolution routes",
+    "th": "แสดง / ซ่อนเส้นทางวิวัฒนาการสกิล",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.evolution.or",
+    "en": "OR",
+    "th": "หรือ",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.evolution.all",
+    "en": "Required together",
+    "th": "ต้องมีร่วมกัน",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.evolution.reference",
+    "en": "The same skill is shown here as a prerequisite. It does not need to be acquired again.",
+    "th": "สกิลเดียวกันนี้แสดงไว้เพื่อระบุเงื่อนไขที่ต้องมี ไม่จำเป็นต้องรับสกิลซ้ำอีกครั้ง",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.evolution.any_route",
+    "en": "Any route",
+    "th": "เส้นทางใดก็ได้",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.evolution.route_number",
+    "en": "Route %s",
+    "th": "เส้นทาง %s",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_category.consumables",
+    "en": "Consumables",
+    "th": "ของใช้สิ้นเปลือง",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.raw",
+    "en": "Raw",
+    "th": "อาหารดิบ",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.cooked",
+    "en": "Cooked",
+    "th": "อาหารปรุงสุก",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.drinks",
+    "en": "Drinks",
+    "th": "เครื่องดื่ม",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.misc",
+    "en": "Misc",
+    "th": "เบ็ดเตล็ด",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_category.mob_drops",
+    "en": "Mob Drops",
+    "th": "ของดรอปจากม็อบ",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.magic_crystals",
+    "en": "Magic Crystals",
+    "th": "Magic Crystals",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.monster_leather",
+    "en": "Monster Leather",
+    "th": "Monster Leather",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.specific_mob_drops",
+    "en": "Specific mob drops",
+    "th": "ของดรอปจากม็อบเฉพาะชนิด",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.essence",
+    "en": "Essence",
+    "th": "Essence",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.blood",
+    "en": "Blood",
+    "th": "เลือด",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_category.schematics",
+    "en": "Schematics",
+    "th": "พิมพ์เขียว",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_category.misc",
+    "en": "Misc",
+    "th": "เบ็ดเตล็ด",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.unprocessed",
+    "en": "Unprocessed",
+    "th": "ยังไม่แปรรูป",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.ingots",
+    "en": "Ingots",
+    "th": "แท่งโลหะ",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.plants",
+    "en": "Plants",
+    "th": "พืช",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.elemental",
+    "en": "Elemental",
+    "th": "ธาตุ",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.core",
+    "en": "Core",
+    "th": "แกน",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.shard",
+    "en": "Shard",
+    "th": "เศษชิ้นส่วน",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.bone_golems",
+    "en": "Bone Golems",
+    "th": "Bone Golems",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.reset_scrolls",
+    "en": "Reset Scrolls",
+    "th": "Reset Scrolls",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_category.bosses",
+    "en": "Bosses",
+    "th": "บอส",
+    "via": "context-reviewed UI"
+  },
+  {
+    "namespace": "foxablazeaqzl_wiki",
+    "key": "foxablazeaqzl_wiki.wiki.item_section.combat_mechanics",
+    "en": "Combat Mechanics",
+    "th": "กลไกการต่อสู้",
+    "via": "context-reviewed UI"
+  }
+]

@@ -2,7 +2,7 @@
 
 ภาษาไทยสำหรับ Tensura Neo Otherworld 1.1.3c / Minecraft 1.21.1 NeoForge โดยเล่นด้วยภาษาเกม English (US) และคงชื่ออุปกรณ์/สกิลเฉพาะเป็นอังกฤษ
 
-**แปลครบทุกส่วนแล้ว (ยังรอทดสอบในเกมจริง)** ดู [สถานะล่าสุด](TRANSLATION_STATUS.md) และ [รายการที่ต้องตรวจบริบท](review/SEMANTIC_WATCHLIST_TH.md)
+**ยังไม่รับรองว่าแปลครบ: พบ UI ที่หลุดจากตัวกรองเดิม และกำลังตรวจข้อความเพิ่มเติม** ดู [สถานะล่าสุด](TRANSLATION_STATUS.md) และ [รายการที่ต้องตรวจบริบท](review/SEMANTIC_WATCHLIST_TH.md)
 
 - ชุดสำหรับลอง: `Tensura_Neo_Otherworld_Thai_For_Friends.zip`
 - ติดตั้งและย้อนกลับ: [INSTALL_TH.md](INSTALL_TH.md)
