@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "lang_keys": 11361,
+  "lang_keys": 11364,
   "quest_records": 1520,
   "patchouli_files": 150,
   "files_sha256": {
@@ -19,7 +19,7 @@
     "config/ponderer/scripts/smithing_bench.json": "98fc3ad42ac37ad973eb54c7505671179adbb8041d1866577861af43f546cc15",
     "config/ponderer/scripts/toms_storage_tutorial.json": "567561b1d9a6fcca121268d3e02fa73aab3c04c595c021d0039a4e2f58cf0464",
     "INSTALL_TH.md": "b305f77873e428ae0705c0c70014757dafc92622f440640948d80769d8234497",
-    "resourcepacks/Tensura_Neo_Otherworld_Thai.zip": "cf7d26f6a91a82d26646d6cc711e79d1ac0a6e03fd38bd8cc010b5b80532f1d4"
+    "resourcepacks/Tensura_Neo_Otherworld_Thai.zip": "1e06c9533eafa8fe7c134eb12acb86d3b900fee7010aeac32b165a4d9c2c3bb3"
   },
   "quest_roundtrip": "PASS",
   "zip_crc": "PASS",

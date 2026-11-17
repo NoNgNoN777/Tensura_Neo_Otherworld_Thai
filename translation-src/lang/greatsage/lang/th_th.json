@@ -1443,5 +1443,8 @@
   "greatsage.naming.evolved_form": "%s ที่วิวัฒนาการแล้ว",
   "greatsage.subtitle.scene.naming.02": "ตั้งชื่อสำเร็จ",
   "greatsage.subtitle.scene.naming.03": "คุณได้รับชื่อแล้ว",
-  "greatsage.subtitle.scene.naming.04": "ยืนยันว่าได้รับการวิวัฒนาการผ่านการตั้งชื่อ"
+  "greatsage.subtitle.scene.naming.04": "ยืนยันว่าได้รับการวิวัฒนาการผ่านการตั้งชื่อ",
+  "greatsage.analysis.unavailable": "ใช้การวิเคราะห์ไม่ได้ คุณต้องยังมีชีวิต ไม่อยู่ในโหมด spectator และเป็นไปตามกฎการเข้าถึง Great Sage ของโลกนี้",
+  "greatsage.analysis.notLearned": "ต้องเรียนรู้สกิลนี้ก่อนจึงจะเริ่มฝึกความชำนาญได้",
+  "greatsage.analysis.invalidCost": "ค่าใช้จ่ายการวิเคราะห์ของสกิลนี้ไม่ถูกต้อง เริ่มการฝึกไม่ได้"
 }
