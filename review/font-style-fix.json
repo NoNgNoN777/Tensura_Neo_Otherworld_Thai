@@ -1,0 +1,19 @@
+{
+  "changed_files": [
+    "translation-src/lang/foxablazeultimate/lang/th_th.json",
+    "translation-src/lang/fzzy_config/lang/th_th.json",
+    "translation-src/lang/inventoryprofilesnext/lang/th_th.json",
+    "translation-src/lang/netherman/lang/th_th.json",
+    "translation-src/lang/particle_effects/lang/th_th.json",
+    "translation-src/lang/patchouli/lang/th_th.json",
+    "translation-src/lang/relics/lang/th_th.json",
+    "translation-src/lang/tennogamenolife/lang/th_th.json",
+    "translation-src/lang/tensura_tno/lang/th_th.json",
+    "translation-src/quests/translations.json"
+  ],
+  "removed_styles": [
+    "bold",
+    "italic"
+  ],
+  "runtime_verified": false
+}

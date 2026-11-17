@@ -4,8 +4,8 @@
   "quest_records": 1520,
   "patchouli_files": 150,
   "files_sha256": {
-    "config/ftbquests/quests/lang/en_us.snbt": "0210bf930a146802d5fd0181f26780ec33a4e62733078d1f80af052c26bca11d",
-    "config/ftbquests/quests/lang/th_th.snbt": "0210bf930a146802d5fd0181f26780ec33a4e62733078d1f80af052c26bca11d",
+    "config/ftbquests/quests/lang/en_us.snbt": "97662f81d992653c94363d08555dd0afde7bf53b8e90869ef2a0e2f35cb81e8a",
+    "config/ftbquests/quests/lang/th_th.snbt": "97662f81d992653c94363d08555dd0afde7bf53b8e90869ef2a0e2f35cb81e8a",
     "config/ponderer/scripts/alchemy_furnace.json": "387906b4d4e1de7d8c3a1cb817fd1a1e2c72806085ad25682a8b924f3e98a781",
     "config/ponderer/scripts/battlewill_manual.json": "3a5c53bc0c0db16d3063d105405bcbfdd9bb4c8ebf752db865fed2a71b5bec45",
     "config/ponderer/scripts/book.json": "fea9d5a2ddbef918c52b27617a273b80e148d303947f83760562eabbd142542e",
@@ -18,8 +18,8 @@
     "config/ponderer/scripts/orb_of_prophecy.json": "e951a7e7425ce316f60a19962a3b17d58322828bb1e42b6cfef726e29fb3a4dd",
     "config/ponderer/scripts/smithing_bench.json": "98fc3ad42ac37ad973eb54c7505671179adbb8041d1866577861af43f546cc15",
     "config/ponderer/scripts/toms_storage_tutorial.json": "567561b1d9a6fcca121268d3e02fa73aab3c04c595c021d0039a4e2f58cf0464",
-    "INSTALL_TH.md": "b305f77873e428ae0705c0c70014757dafc92622f440640948d80769d8234497",
-    "resourcepacks/Tensura_Neo_Otherworld_Thai.zip": "1e06c9533eafa8fe7c134eb12acb86d3b900fee7010aeac32b165a4d9c2c3bb3"
+    "INSTALL_TH.md": "5934dfbfe6ac3293fab99c65dab09ffab31201e65c747e24909cd3d21a7bb576",
+    "resourcepacks/Tensura_Neo_Otherworld_Thai.zip": "ca15ceaa272f22b7df53a773f2b1c2eb8549dbe2d91dfb9ad1dcb8d6ea70fb04"
   },
   "quest_roundtrip": "PASS",
   "zip_crc": "PASS",

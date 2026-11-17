@@ -8,7 +8,7 @@
   "patchouli.gui.lexicon.progress_tooltip.info": "ทำ Advancement ให้สำเร็จเพื่อปลดล็อกเพิ่ม!",
   "patchouli.gui.lexicon.editor.info": "นี่คือตัวแก้ไขรายการในหนังสือ Patchouli ใช้สำหรับการพัฒนาหรือการแปล หากเป็นผู้เล่นจะไม่มีประโยชน์$(br2)โปรดดูรหัสควบคุมที่ใช้ได้ที่ $(l:https://github.com/Vazkii/Patchouli/wiki/Text-Formatting-101)Patchouli wiki$()",
   "patchouli.gui.lexicon.index.info": "ดัชนีของทุกบทที่มีในหนังสือเล่มนี้$(br2)คุณสามารถค้นหาในดัชนีหรือหมวดอื่นได้เพียงพิมพ์คำค้น แล้วแถบค้นหาจะปรากฏขึ้นมาช่วยคุณ",
-  "patchouli.gui.lexicon.history.info": "ส่วนนี้เก็บบทที่คุณเพิ่งเปิดดูล่าสุดไม่กี่บท$(br2)บทต่างๆ จะถูกเพิ่มและลบโดยอัตโนมัติขณะที่คุณเปิดอ่าน หากต้องการเก็บไว้ให้นานขึ้น สามารถบุ๊กมาร์กได้ $(br2)$(o)เคล็ดลับ: ลองกด Shift แล้วคลิกปุ่มของบท!$()",
+  "patchouli.gui.lexicon.history.info": "ส่วนนี้เก็บบทที่คุณเพิ่งเปิดดูล่าสุดไม่กี่บท$(br2)บทต่างๆ จะถูกเพิ่มและลบโดยอัตโนมัติขณะที่คุณเปิดอ่าน หากต้องการเก็บไว้ให้นานขึ้น สามารถบุ๊กมาร์กได้ $(br2)เคล็ดลับ: ลองกด Shift แล้วคลิกปุ่มของบท!$()",
   "patchouli.gui.lexicon.toast.info": "ปลดล็อกบทใหม่แล้ว",
   "patchouli.gui.lexicon.button.prev_page": "ก่อนหน้า",
   "patchouli.gui.lexicon.button.next_page": "ถัดไป",
