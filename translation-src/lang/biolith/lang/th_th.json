@@ -2,5 +2,6 @@
   "biolith.command.help": "ตัวเลือกคำสั่ง:\n  §9/biolith help§r - ข้อมูลคำสั่ง Biolith\n  §9/biolith describe§r - ข้อมูลไบโอมและนอยส์",
   "biolith.command.help.missing": "§eไม่มีวิธีใช้สำหรับคำสั่งที่ระบุ",
   "biolith.command.help.describe": "§9/biolith describe [at (<entity>|<position>)]§r - ข้อมูลเกี่ยวกับนอยส์และการเลือกไบโอม",
-  "biolith.command.hint": "§6(ลอง \"§9/biolith help§6\" เพื่อดูข้อมูลคำสั่ง...)"
+  "biolith.command.hint": "§6(ลอง \"§9/biolith help§6\" เพื่อดูข้อมูลคำสั่ง...)",
+  "biolith.world.minecraft.overworld": "โลกบน (Overworld)"
 }

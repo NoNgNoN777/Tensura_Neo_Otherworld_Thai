@@ -108,5 +108,10 @@
   "message.oneenoughitem.deduplication_in_progress": "กำลังกำจัดสูตรซ้ำ โปรดรอ...",
   "message.oneenoughitem.script_generated": "สร้างสคริปต์เสร็จสิ้น: ลบ %s สูตร บันทึกที่: %s",
   "message.oneenoughitem.multi_add_tags_result": "เพิ่ม %d แท็กสำเร็จ",
-  "message.oneenoughitem.multi_add_result": "เพิ่ม %d ไอเทมสำเร็จ"
+  "message.oneenoughitem.multi_add_result": "เพิ่ม %d ไอเทมสำเร็จ",
+  "mode.oneenoughitem.add": "เพิ่ม",
+  "mode.oneenoughitem.modify": "แก้ไข",
+  "mode.oneenoughitem.remove": "ถอดออก",
+  "mode.oneenoughitem.unknown": "ไม่ทราบ",
+  "error.oneenoughitem.file_create_failed": "สร้างไฟล์ล้มเหลว: %s"
 }

@@ -4,5 +4,10 @@
   "argument.entity.options.curios.description": "ช่องเก็บของ curios ของเอนทิตี",
   "gui.curios.toggle": "สลับการมองเห็น",
   "gui.curios.toggle.cosmetics": "สลับ Cosmetics",
-  "gui.curios.page": "หน้า %d / %d"
+  "gui.curios.page": "หน้า %d / %d",
+  "curios.identifier.ring": "วงแหวน",
+  "curios.identifier.head": "หัว",
+  "curios.slot": "ช่อง",
+  "curios.cosmetic": "ของตกแต่ง (Cosmetic)",
+  "curios.identifier.back": "ด้านหลัง"
 }

@@ -19,5 +19,15 @@
   "fancytoasts.textures.toast.modern.description": "หรูหรา สะอาด และเรียบร้อย",
   "fancytoasts.textures.toast.terracraft.description": "นั่นอะไรน่ะ? ฉันว่าฉันเห็นตาสีแดงดวงใหญ่บนท้องฟ้า! เดี๋ยวนะ มันพุ่งเข้ามา... ได้แรงบันดาลใจจาก Terraria",
   "fancytoasts.textures.toast.steamy.description": "ฉันใช้เวลา 1500 ชั่วโมงเพื่อให้ได้ 100%! แม่ภูมิใจในตัวฉันไหม? ได้แรงบันดาลใจจาก Steam",
-  "fancytoasts.sound.minecraft.description": "เสียงในตัวจาก Minecraft"
+  "fancytoasts.sound.minecraft.description": "เสียงในตัวจาก Minecraft",
+  "fancytoasts.gui.unknown": "ไม่ทราบ",
+  "fancytoasts.gui.custom": "กำหนดเอง",
+  "fancytoasts.gui.label.task": "ภารกิจ",
+  "fancytoasts.gui.label.challenge": "ท้าทาย",
+  "fancytoasts.gui.label.position": "ตำแหน่ง",
+  "fancytoasts.gui.label.position_left": "ด้านซ้าย",
+  "fancytoasts.gui.label.position_right": "ด้านขวา",
+  "fancytoasts.gui.label.position_center": "ศูนย์กลาง",
+  "fancytoasts.gui.label.screen_behavior_top": "ด้านบน",
+  "fancytoasts.animations.toast.standard": "มาตรฐาน"
 }

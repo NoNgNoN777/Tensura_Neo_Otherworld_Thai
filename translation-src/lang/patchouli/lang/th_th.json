@@ -15,5 +15,13 @@
   "patchouli.gui.lexicon.button.back.info": "กด Shift แล้วคลิกเพื่อกลับหน้าแรก",
   "patchouli.gui.lexicon.button.resize.verybig.message": "จอคุณใหญ่ขนาดไหนเนี่ย",
   "patchouli.gui.lexicon.button.editor.info": "(กด Shift แล้วคลิกเพื่อรีโหลด)",
-  "patchouli.gui.lexicon.button.visualize.info": "(คลิกอีกครั้งเพื่อล้าง)"
+  "patchouli.gui.lexicon.button.visualize.info": "(คลิกอีกครั้งเพื่อล้าง)",
+  "patchouli.gui.lexicon.chapters": "บท",
+  "patchouli.gui.lexicon.seconds": "%s วินาที",
+  "patchouli.gui.lexicon.button.back": "ด้านหลัง",
+  "patchouli.gui.lexicon.button.resize.size0": "ค่าเริ่มต้น",
+  "patchouli.gui.lexicon.button.resize.size1": "น้อย",
+  "patchouli.gui.lexicon.button.resize.size2": "กลาง",
+  "patchouli.gui.lexicon.button.resize.size4": "มาก",
+  "patchouli.gui.lexicon.button.editor": "ตัวแก้ไข"
 }

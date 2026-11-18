@@ -1,3 +1,19 @@
 {
-  "string.naturescompass.info": "ข้อมูล"
+  "string.naturescompass.info": "ข้อมูล",
+  "string.naturescompass.rain": "ฝน",
+  "string.naturescompass.back": "ด้านหลัง",
+  "string.naturescompass.sortBy": "เรียงตาม",
+  "string.naturescompass.medium": "กลาง",
+  "string.naturescompass.none": "ไม่มี",
+  "string.naturescompass.low": "ต่ำ",
+  "string.naturescompass.high": "สูง",
+  "string.naturescompass.biome": "ไบโอม",
+  "string.naturescompass.dimension": "มิติ",
+  "string.naturescompass.distance": "ระยะทาง",
+  "string.naturescompass.radius": "รัศมี",
+  "string.naturescompass.search": "ค้นหา",
+  "string.naturescompass.searching": "กำลัค้นหา",
+  "string.naturescompass.source": "แหล่งที่มา",
+  "string.naturescompass.tags": "แท็ก",
+  "string.naturescompass.temperature": "อุณหภูมิ"
 }

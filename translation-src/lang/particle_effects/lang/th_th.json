@@ -1,5 +1,7 @@
 {
   "particle_effects.modmenu.no_config_library_screen.message": "คุณต้องติดตั้ง §6Yet Another Config Lib [YACL]§f เพื่อเปิดหน้าจอตั้งค่า ${mod_name}\n\n§aเปิดหน้า Modrinth ของ §6YACL §aหรือไม่?",
   "particle_effects.modmenu.option.mod_enabled.description": "หากเปิด ทุกอนุภาคของทุกเอฟเฟกต์จะถูกแทนที่ด้วยเท็กซ์เจอร์เฉพาะตัว หากปิดจะไม่แทนที่",
-  "particle_effects.modmenu.option.debug_log_enabled.description": "หากเปิด ข้อมูลเพิ่มเติมจะถูกบันทึกลงคอนโซลเพื่อดีบัก หากปิดจะไม่บันทึก"
+  "particle_effects.modmenu.option.debug_log_enabled.description": "หากเปิด ข้อมูลเพิ่มเติมจะถูกบันทึกลงคอนโซลเพื่อดีบัก หากปิดจะไม่บันทึก",
+  "particle_effects.modmenu.formatter.enabled_or_disabled.true": "เปิดใช้งาน",
+  "particle_effects.modmenu.formatter.enabled_or_disabled.false": "ปิดใช้งาน"
 }

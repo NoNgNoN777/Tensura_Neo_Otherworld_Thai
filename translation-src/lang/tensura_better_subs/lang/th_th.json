@@ -3,5 +3,6 @@
   "tensura.skill.mode.thought_communication.skills": "เมนูสถานะ",
   "tensura.skill.mode.thought_communication.select_subordinate": "เลือกผู้ใต้บังคับบัญชา",
   "tensura.skill.mode.thought_communication.use_skill": "ใช้สกิล",
-  "tensura_better_subs.ability_selection.magicule_cost": "ต้นทุนมาจิคูล: %s"
+  "tensura_better_subs.ability_selection.magicule_cost": "ต้นทุนมาจิคูล: %s",
+  "tensura_better_subs.targeting.sub_selected": "เลือก %s แล้ว"
 }

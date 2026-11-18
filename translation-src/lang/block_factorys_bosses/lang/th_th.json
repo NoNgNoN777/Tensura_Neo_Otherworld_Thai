@@ -25,5 +25,6 @@
   "item.block_factorys_bosses.undying_tentacle.description_3": "§9เรียกหนวดมาต่อสู้กับศัตรู",
   "message.block_factorys_bosses.cannon.no_balls": "กระสุนหมด!",
   "message.block_factorys_bosses.dragon_tower.block_protection": "Dragon Tower ได้รับการปกป้องด้วยเวทมนตร์โบราณ!",
-  "message.block_factorys_bosses.helvar.knocked_down": "Helvar ล้มลงแล้ว!"
+  "message.block_factorys_bosses.helvar.knocked_down": "Helvar ล้มลงแล้ว!",
+  "attribute.block_factorys_bosses.roll_count": "จำนวนการสุ่ม"
 }

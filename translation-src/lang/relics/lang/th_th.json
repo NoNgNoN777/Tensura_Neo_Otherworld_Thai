@@ -215,5 +215,6 @@
   "tooltip.relics.leveling_source.generic.spreading.title": "การกระจายประสบการณ์",
   "tooltip.relics.leveling_source.generic.spreading.description": "ทุกครั้งที่ relic ใดๆ ในช่องเก็บของได้รับประสบการณ์ ไม่ว่าด้วยวิธีใด %1$s%% ของประสบการณ์นั้นจะถูกส่งให้ relic นี้ด้วย",
   "tooltip.relics.leafy_ring.description": "[WIP]",
-  "info.relics.researching.wrong_container": "ทำงานกับ relic ในช่องเก็บของนี้ไม่ได้ ย้ายไอเทมไปช่องเก็บของหลักของผู้เล่นแล้วลองใหม่"
+  "info.relics.researching.wrong_container": "ทำงานกับ relic ในช่องเก็บของนี้ไม่ได้ ย้ายไอเทมไปช่องเก็บของหลักของผู้เล่นแล้วลองใหม่",
+  "curios.identifier.feet": "เท้า"
 }

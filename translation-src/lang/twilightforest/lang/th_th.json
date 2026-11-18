@@ -77,5 +77,12 @@
   "travellers_gear.modifier.twilightforest.water_walk.description": "ให้เดินบนน้ำได้",
   "travellers_gear.shift_info": "กด %s ค้างเพื่อดูข้อมูล",
   "twilightforest.tips.casket_usage": "Keepsake Casket ทำหน้าที่เป็นหลุมศพที่ใช้ได้จำกัด หากอยู่ในช่องเก็บของเมื่อตาย มันจะวางตัวเองและเก็บไอเทมทั้งหมดของคุณไว้ข้างใน",
-  "twilightforest.tips.the_lore": "เรื่องราวอยู่ที่นี่ทั้งหมด คุณแค่ต้องไขมันด้วยตัวเอง!"
+  "twilightforest.tips.the_lore": "เรื่องราวอยู่ที่นี่ทั้งหมด คุณแค่ต้องไขมันด้วยตัวเอง!",
+  "jade.drying_rack.remaining": "เหลืออีก %s",
+  "magic_painting.twilightforest.darkness.title": "ความมืด",
+  "misc.twilightforest.ore_meter_header_block": "บล็อก",
+  "misc.twilightforest.ore_meter_header_count": "จำนวน",
+  "travellers_gear.broken": " (พัง)",
+  "travellers_gear.modifier.empty": "ว่าง",
+  "travellers_gear.modifier.twilightforest.swap_hotbar": "สลับ Hotbar (ปุ่มลัด: ${tfkeybinds/key.twilightforest.swap_hotbar})"
 }

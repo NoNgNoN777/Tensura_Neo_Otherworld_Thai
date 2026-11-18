@@ -203,5 +203,6 @@
   "kaleidoscope_cookery.ponder.recipe_item.text_1": "เมื่อมีวัตถุดิบอยู่ในกระทะหรือหม้อต้มซุป ให้คลิกขวาด้วยสูตรเปล่าเพื่อบันทึกสิ่งที่อยู่ข้างใน",
   "kaleidoscope_cookery.ponder.recipe_item.text_2": "ในภายหลัง คลิกขวาที่กระทะหรือหม้อต้มซุปด้วยสูตรนั้นอีกครั้ง จะเติมวัตถุดิบที่บันทึกไว้ทั้งหมดในสูตรโดยใช้ไอเทมจากช่องเก็บของของคุณ",
   "kaleidoscope_cookery.ponder.tag.kitchen_blocks": "พื้นฐานห้องครัว",
-  "kaleidoscope_cookery.ponder.tag.kitchen_blocks.description": "ก้าวสู่เส้นทางของปรมาจารย์แห่งการครัว!"
+  "kaleidoscope_cookery.ponder.tag.kitchen_blocks.description": "ก้าวสู่เส้นทางของปรมาจารย์แห่งการครัว!",
+  "jade.kaleidoscope_cookery.enamel_basin.oil_count": "จำนวนน้ำมัน: %d"
 }

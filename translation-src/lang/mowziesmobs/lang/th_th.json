@@ -6,5 +6,6 @@
   "effect.mowziesmobs.poison_resist.description": "ป้องกันสถานะเอฟเฟกต์ Poison",
   "effect.mowziesmobs.eclipsed.description": "ป้องกันสถานะเอฟเฟกต์อื่นทั้งหมดขณะที่ทำงานอยู่",
   "effect.mowziesmobs.fragility.description": "เพิ่มความเสียหายที่ได้รับ",
-  "entity.mowziesmobs.sculptor.boss_info.timer.text": "เวลาที่เหลือ"
+  "entity.mowziesmobs.sculptor.boss_info.timer.text": "เวลาที่เหลือ",
+  "entity.mowziesmobs.umvuthi.trade.button.text": "แลกเปลี่ยน"
 }

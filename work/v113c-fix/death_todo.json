@@ -1,0 +1,2362 @@
+[
+{
+"en": "%1$s was slain by %2$s using %3$s in a void strike",
+"keys": [
+"tensura_blade|death.attack.tensura_blade.sword_saint_void.item"
+]
+},
+{
+"en": "%1$s was slain by %2$s with a void strike",
+"keys": [
+"tensura_blade|death.attack.tensura_blade.sword_saint_void",
+"tensura_blade|death.attack.tensura_blade.sword_saint_void.player"
+]
+},
+{
+"en": "%1$s fell to %2$s and the Dragon Sword",
+"keys": [
+"tensura_blade|death.attack.reinhard_burst"
+]
+},
+{
+"en": "%1$s was slain by %2$s's phoenix slash",
+"keys": [
+"tensura_blade|death.attack.reinhard_phoenix_slash"
+]
+},
+{
+"en": "%1$s died from death poison",
+"keys": [
+"foxablazeultimate|death.attack.foxablazeultimate.samael_adaptation"
+]
+},
+{
+"en": "%1$s died from %2$s's death poison",
+"keys": [
+"foxablazeultimate|death.attack.foxablazeultimate.samael_adaptation.player"
+]
+},
+{
+"en": "%1$s died from death poison applied by %2$s using %3$s",
+"keys": [
+"foxablazeultimate|death.attack.foxablazeultimate.samael_adaptation.item"
+]
+},
+{
+"en": "%1$s's flesh was completely reduced to ash by Brimstone Flames",
+"keys": [
+"mysticism|death.attack.mysticism.brimstone_flames"
+]
+},
+{
+"en": "%1$s's flesh was completely reduced to ash by Brimstone Flames whilst fighting %2$s wielding %3$s",
+"keys": [
+"mysticism|death.attack.mysticism.brimstone_flames.item"
+]
+},
+{
+"en": "%1$s's flesh was completely reduced to ash by Brimstone Flames whilst fighting %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.brimstone_flames.player"
+]
+},
+{
+"en": "%1$s's flesh was completely reduced to ash by %2$s's Brimstone Flames",
+"keys": [
+"mysticism|death.attack.mysticism.brimstone_flames.source"
+]
+},
+{
+"en": "%1$s's flesh was completely reduced to ash by %2$s's Brimstone Flames using %3$",
+"keys": [
+"mysticism|death.attack.mysticism.brimstone_flames.source.item"
+]
+},
+{
+"en": "%1$s's dreams turned into a nightmare by Dream Eater",
+"keys": [
+"mysticism|death.attack.mysticism.dream_eater"
+]
+},
+{
+"en": "%1$s's dreams turned into a nightmare by Dream Eater whilst fighting %2$s wielding %3$s",
+"keys": [
+"mysticism|death.attack.mysticism.dream_eater.item"
+]
+},
+{
+"en": "%1$s's dreams turned into a nightmare by Dream Eater whilst fighting %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.dream_eater.player"
+]
+},
+{
+"en": "%1$s's dreams turned into a nightmare by %2$s's Dream Eater",
+"keys": [
+"mysticism|death.attack.mysticism.dream_eater.source"
+]
+},
+{
+"en": "%1$s's dreams turned into a nightmare by %2$s's Dream Eater using %3$",
+"keys": [
+"mysticism|death.attack.mysticism.dream_eater.source.item"
+]
+},
+{
+"en": "%1$s's existence was removed in another reality",
+"keys": [
+"mysticism|death.attack.mysticism.repeated"
+]
+},
+{
+"en": "%1$s's existence was removed in another reality whilst fighting %2$s wielding %3$s",
+"keys": [
+"mysticism|death.attack.mysticism.repeated.item"
+]
+},
+{
+"en": "%1$s's existence was removed in another reality whilst fighting %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.repeated.player"
+]
+},
+{
+"en": "%1$s's existence was removed in another reality by %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.repeated.source"
+]
+},
+{
+"en": "%1$s's existence was removed in another reality by %2$s using %3$",
+"keys": [
+"mysticism|death.attack.mysticism.repeated.source.item"
+]
+},
+{
+"en": "%1$s's veins were ruptured",
+"keys": [
+"mysticism|death.attack.mysticism.ruptured_veins"
+]
+},
+{
+"en": "%1$s's veins were ruptured whilst fighting %2$s wielding %3$s",
+"keys": [
+"mysticism|death.attack.mysticism.ruptured_veins.item"
+]
+},
+{
+"en": "%1$s's veins were ruptured whilst fighting %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.ruptured_veins.player"
+]
+},
+{
+"en": "%1$s's veins were ruptured by %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.ruptured_veins.source"
+]
+},
+{
+"en": "%1$s's veins were ruptured by %2$s using %3$",
+"keys": [
+"mysticism|death.attack.mysticism.ruptured_veins.source.item"
+]
+},
+{
+"en": "%1$s was collapsed into the void",
+"keys": [
+"mysticism|death.attack.mysticism.void"
+]
+},
+{
+"en": "%1$s was collapsed into the void whilst fighting %2$s wielding %3$s",
+"keys": [
+"mysticism|death.attack.mysticism.void.item"
+]
+},
+{
+"en": "%1$s was collapsed into the void whilst fighting %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.void.player"
+]
+},
+{
+"en": "%1$s was collapsed into the void by %2$s",
+"keys": [
+"mysticism|death.attack.mysticism.void.source"
+]
+},
+{
+"en": "%1$s was collapsed into the void by %2$s using %3$",
+"keys": [
+"mysticism|death.attack.mysticism.void.source.item"
+]
+},
+{
+"en": "[%s] died from magical overload",
+"keys": [
+"tennogamenolife|death.attack.magicule_explosion",
+"tennogamenolife|death.attack.magicule_explosion.player"
+]
+},
+{
+"en": "%1$s was pierced by a Black Arrow",
+"keys": [
+"tennogamenolife|death.attack.tennogamenolife.black_arrow_physical"
+]
+},
+{
+"en": "%1$s was pierced by %2$s's Black Arrow",
+"keys": [
+"tennogamenolife|death.attack.tennogamenolife.black_arrow_physical.player"
+]
+},
+{
+"en": "%1$s was shot by an Aura Bullet",
+"keys": [
+"tensura|death.attack.tensura.aura_bullet"
+]
+},
+{
+"en": "%1$s was shot by an Aura Bullet whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.aura_bullet.item"
+]
+},
+{
+"en": "%1$s was shot by an Aura Bullet whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.aura_bullet.player"
+]
+},
+{
+"en": "%1$s was shot by %2$s's Aura",
+"keys": [
+"tensura|death.attack.tensura.aura_bullet.source"
+]
+},
+{
+"en": "%1$s was shot by %2$s's Aura using %3$s",
+"keys": [
+"tensura|death.attack.tensura.aura_bullet.source.item"
+]
+},
+{
+"en": "%1$s was sliced by an Aura Blade",
+"keys": [
+"tensura|death.attack.tensura.aura_slash"
+]
+},
+{
+"en": "%1$s was sliced by an Aura Blade whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.aura_slash.item"
+]
+},
+{
+"en": "%1$s was sliced by an Aura Blade whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.aura_slash.player"
+]
+},
+{
+"en": "%1$s was sliced by %2$s's Aura",
+"keys": [
+"tensura|death.attack.tensura.aura_slash.source"
+]
+},
+{
+"en": "%1$s was sliced by %2$s's Aura using %3$s",
+"keys": [
+"tensura|death.attack.tensura.aura_slash.source.item"
+]
+},
+{
+"en": "%1$s was scorched by the Flame of Hell",
+"keys": [
+"tensura|death.attack.tensura.black_flame"
+]
+},
+{
+"en": "%1$s was scorched by the Flame of Hell whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.black_flame.item"
+]
+},
+{
+"en": "%1$s was scorched by the Flame of Hell whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.black_flame.player"
+]
+},
+{
+"en": "%1$s was scorched by %2$s's Flame of Hell",
+"keys": [
+"tensura|death.attack.tensura.black_flame.source"
+]
+},
+{
+"en": "%1$s was scorched by %2$s's Flame of Hell using %3$s",
+"keys": [
+"tensura|death.attack.tensura.black_flame.source.item"
+]
+},
+{
+"en": "%1$s was obliterated into dust by Black Lightning",
+"keys": [
+"tensura|death.attack.tensura.black_lightning"
+]
+},
+{
+"en": "%1$s was obliterated into dust by Black Lightning whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.black_lightning.item"
+]
+},
+{
+"en": "%1$s was obliterated into dust by Black Lightning whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.black_lightning.player"
+]
+},
+{
+"en": "%1$s was obliterated into dust by %2$s's Black Lightning",
+"keys": [
+"tensura|death.attack.tensura.black_lightning.source"
+]
+},
+{
+"en": "%1$s was obliterated into dust by %2$s's Black Lightning using %3$s",
+"keys": [
+"tensura|death.attack.tensura.black_lightning.source.item"
+]
+},
+{
+"en": "%1$s was out of blood",
+"keys": [
+"tensura|death.attack.tensura.blood_drain"
+]
+},
+{
+"en": "%1$s was out of blood whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.blood_drain.item"
+]
+},
+{
+"en": "%1$s was out of blood whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.blood_drain.player"
+]
+},
+{
+"en": "%1$s's blood was drained by %2$s",
+"keys": [
+"tensura|death.attack.tensura.blood_drain.source"
+]
+},
+{
+"en": "%1$s's blood was drained by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.blood_drain.source.item"
+]
+},
+{
+"en": "%1$s was pierced through by a Blood Ray",
+"keys": [
+"tensura|death.attack.tensura.blood_ray"
+]
+},
+{
+"en": "%1$s was pierced through by a Blood Ray whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.blood_ray.item"
+]
+},
+{
+"en": "%1$s was pierced through by a Blood Ray whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.blood_ray.player"
+]
+},
+{
+"en": "%1$s was pierced through by %2$s's Blood Ray",
+"keys": [
+"tensura|death.attack.tensura.blood_ray.source"
+]
+},
+{
+"en": "%1$s was pierced through by %2$s's Blood Ray using %3$s",
+"keys": [
+"tensura|death.attack.tensura.blood_ray.source.item"
+]
+},
+{
+"en": "%1$s was shot",
+"keys": [
+"tensura|death.attack.tensura.bullet"
+]
+},
+{
+"en": "%1$s was shot whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.bullet.item"
+]
+},
+{
+"en": "%1$s was shot whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.bullet.player"
+]
+},
+{
+"en": "%1$s was shot by %2$s",
+"keys": [
+"tensura|death.attack.tensura.bullet.source"
+]
+},
+{
+"en": "%1$s was shot by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.bullet.source.item"
+]
+},
+{
+"en": "%1$s was shot with a magic bullet",
+"keys": [
+"tensura|death.attack.tensura.bullet_magic"
+]
+},
+{
+"en": "%1$s was shot with a magic bullet whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.bullet_magic.item"
+]
+},
+{
+"en": "%1$s was shot with a magic bullet whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.bullet_magic.player"
+]
+},
+{
+"en": "%1$s was shot by %2$s with a magic bullet",
+"keys": [
+"tensura|death.attack.tensura.bullet_magic.source"
+]
+},
+{
+"en": "%1$s was shot by %2$s with a magic bullet using %3$s",
+"keys": [
+"tensura|death.attack.tensura.bullet_magic.source.item"
+]
+},
+{
+"en": "%1$s was burnt alive",
+"keys": [
+"tensura|death.attack.tensura.burn"
+]
+},
+{
+"en": "%1$s was burnt alive whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.burn.item"
+]
+},
+{
+"en": "%1$s was burnt alive whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.burn.player"
+]
+},
+{
+"en": "%1$s was burnt alive by %2$s",
+"keys": [
+"tensura|death.attack.tensura.burn.source"
+]
+},
+{
+"en": "%1$s was burnt alive by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.burn.source.item"
+]
+},
+{
+"en": "%1$s corroded to death",
+"keys": [
+"tensura|death.attack.tensura.corrosion"
+]
+},
+{
+"en": "%1$s corroded to death whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.corrosion.item"
+]
+},
+{
+"en": "%1$s corroded to death whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.corrosion.player"
+]
+},
+{
+"en": "%1$s corroded to death by %2$s",
+"keys": [
+"tensura|death.attack.tensura.corrosion.source"
+]
+},
+{
+"en": "%1$s corroded to death by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.corrosion.source.item"
+]
+},
+{
+"en": "%1$s died of curse",
+"keys": [
+"tensura|death.attack.tensura.curse"
+]
+},
+{
+"en": "%1$s died of curse whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.curse.item"
+]
+},
+{
+"en": "%1$s died of curse whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.curse.player"
+]
+},
+{
+"en": "%1$s was cursed by %2$s",
+"keys": [
+"tensura|death.attack.tensura.curse.source"
+]
+},
+{
+"en": "%1$s was cursed by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.curse.source.item"
+]
+},
+{
+"en": "%1$s was sent to the abyss",
+"keys": [
+"tensura|death.attack.tensura.darkness_elemental"
+]
+},
+{
+"en": "%1$s was sent to the abyss whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.darkness_elemental.item"
+]
+},
+{
+"en": "%1$s was sent to the abyss whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.darkness_elemental.player"
+]
+},
+{
+"en": "%1$s was sent to the abyss by %2$s",
+"keys": [
+"tensura|death.attack.tensura.darkness_elemental.source"
+]
+},
+{
+"en": "%1$s was sent to the abyss by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.darkness_elemental.source.item"
+]
+},
+{
+"en": "%1$s was gently put to sleeps",
+"keys": [
+"tensura|death.attack.tensura.death_bless"
+]
+},
+{
+"en": "%1$s was gently put to sleeps whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.death_bless.item"
+]
+},
+{
+"en": "%1$s was gently put to sleeps whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.death_bless.player"
+]
+},
+{
+"en": "%1$s was gently put to sleep by %2$s",
+"keys": [
+"tensura|death.attack.tensura.death_bless.source"
+]
+},
+{
+"en": "%1$s was gently put to sleep by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.death_bless.source.item"
+]
+},
+{
+"en": "%1$s's Death Wish was granted",
+"keys": [
+"tensura|death.attack.tensura.death_wish"
+]
+},
+{
+"en": "%1$s's Death Wish was granted whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.death_wish.item"
+]
+},
+{
+"en": "%1$s's Death Wish was granted whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.death_wish.player"
+]
+},
+{
+"en": "%1$s's Death Wish was granted by %2$s",
+"keys": [
+"tensura|death.attack.tensura.death_wish.source"
+]
+},
+{
+"en": "%1$s's Death Wish was granted by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.death_wish.source.item"
+]
+},
+{
+"en": "%1$s was devoured alive",
+"keys": [
+"tensura|death.attack.tensura.devoured"
+]
+},
+{
+"en": "%1$s was devoured alive whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.devoured.item"
+]
+},
+{
+"en": "%1$s was devoured alive whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.devoured.player"
+]
+},
+{
+"en": "%1$s was devoured alive by %2$s",
+"keys": [
+"tensura|death.attack.tensura.devoured.source"
+]
+},
+{
+"en": "%1$s was devoured alive by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.devoured.source.item"
+]
+},
+{
+"en": "%1$s was torn to shreds by Dimension Rays",
+"keys": [
+"tensura|death.attack.tensura.dimension_ray"
+]
+},
+{
+"en": "%1$s was torn to shreds by Dimension Rays whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.dimension_ray.item"
+]
+},
+{
+"en": "%1$s was torn to shreds by Dimension Rays whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.dimension_ray.player"
+]
+},
+{
+"en": "%1$s was torn to shreds by %2$s's Dimension Rays",
+"keys": [
+"tensura|death.attack.tensura.dimension_ray.source"
+]
+},
+{
+"en": "%1$s was torn to shreds by %2$s's Dimension Rays using %3$s",
+"keys": [
+"tensura|death.attack.tensura.dimension_ray.source.item"
+]
+},
+{
+"en": "%1$s was reduced to ashes after feeling the embrace of the divine",
+"keys": [
+"tensura|death.attack.tensura.disintegration"
+]
+},
+{
+"en": "%1$s was reduced to ashes after feeling the embrace of the divine whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.disintegration.item"
+]
+},
+{
+"en": "%1$s was reduced to ashes after feeling the embrace of the divine whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.disintegration.player"
+]
+},
+{
+"en": "%1$s was reduced to ashes after feeling the embrace of the divine from %2$s",
+"keys": [
+"tensura|death.attack.tensura.disintegration.source"
+]
+},
+{
+"en": "%1$s was reduced to ashes after feeling the embrace of the divine from %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.disintegration.source.item"
+]
+},
+{
+"en": "%1$s drifted into a deep sleep",
+"keys": [
+"tensura|death.attack.tensura.drowsy"
+]
+},
+{
+"en": "%1$s drifted into a deep sleep whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.drowsy.item"
+]
+},
+{
+"en": "%1$s drifted into a deep sleep whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.drowsy.player"
+]
+},
+{
+"en": "%1$s drifted into a deep sleep by %2$s",
+"keys": [
+"tensura|death.attack.tensura.drowsy.source"
+]
+},
+{
+"en": "%1$s drifted into a deep sleep by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.drowsy.source.item"
+]
+},
+{
+"en": "%1$s was buried in the ground",
+"keys": [
+"tensura|death.attack.tensura.earth_elemental"
+]
+},
+{
+"en": "%1$s was buried in the ground whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.earth_elemental.item"
+]
+},
+{
+"en": "%1$s was buried in the ground whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.earth_elemental.player"
+]
+},
+{
+"en": "%1$s was buried in the ground by %2$s",
+"keys": [
+"tensura|death.attack.tensura.earth_elemental.source"
+]
+},
+{
+"en": "%1$s was buried in the ground by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.earth_elemental.source.item"
+]
+},
+{
+"en": "%1$s was out of energy",
+"keys": [
+"tensura|death.attack.tensura.energy_drain"
+]
+},
+{
+"en": "%1$s was out of energy whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.energy_drain.item"
+]
+},
+{
+"en": "%1$s was out of energy whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.energy_drain.player"
+]
+},
+{
+"en": "%1$s's life energy was drained by %2$s",
+"keys": [
+"tensura|death.attack.tensura.energy_drain.source"
+]
+},
+{
+"en": "%1$s's life energy was drained by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.energy_drain.source.item"
+]
+},
+{
+"en": "%1$s's Energy Source was cut off",
+"keys": [
+"tensura|death.attack.tensura.energy_source_lost"
+]
+},
+{
+"en": "%1$s's Energy Source was cut off whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.energy_source_lost.item"
+]
+},
+{
+"en": "%1$s's Energy Source was cut off whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.energy_source_lost.player"
+]
+},
+{
+"en": "%1$s's Energy Source was cut off by %2$s",
+"keys": [
+"tensura|death.attack.tensura.energy_source_lost.source"
+]
+},
+{
+"en": "%1$s's Energy Source was cut off by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.energy_source_lost.source.item"
+]
+},
+{
+"en": "%1$s died of poison",
+"keys": [
+"tensura|death.attack.tensura.fatal_poison"
+]
+},
+{
+"en": "%1$s died of poison whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.fatal_poison.item"
+]
+},
+{
+"en": "%1$s died of poison whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.fatal_poison.player"
+]
+},
+{
+"en": "%1$s died of %2$s's poison",
+"keys": [
+"tensura|death.attack.tensura.fatal_poison.source"
+]
+},
+{
+"en": "%1$s died of %2$s's poison using %3$s",
+"keys": [
+"tensura|death.attack.tensura.fatal_poison.source.item"
+]
+},
+{
+"en": "%1$s died of fear",
+"keys": [
+"tensura|death.attack.tensura.fear"
+]
+},
+{
+"en": "%1$s died of fear whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.fear.item"
+]
+},
+{
+"en": "%1$s died of fear whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.fear.player"
+]
+},
+{
+"en": "%1$s was scared to death by %2$s",
+"keys": [
+"tensura|death.attack.tensura.fear.source"
+]
+},
+{
+"en": "%1$s was scared to death by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.fear.source.item"
+]
+},
+{
+"en": "%1$s was incinerated",
+"keys": [
+"tensura|death.attack.tensura.fire_elemental"
+]
+},
+{
+"en": "%1$s was incinerated whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.fire_elemental.item"
+]
+},
+{
+"en": "%1$s was incinerated whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.fire_elemental.player"
+]
+},
+{
+"en": "%1$s was incinerated by %2$s",
+"keys": [
+"tensura|death.attack.tensura.fire_elemental.source"
+]
+},
+{
+"en": "%1$s was incinerated by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.fire_elemental.source.item"
+]
+},
+{
+"en": "%1$s was scorched by a breath of fire",
+"keys": [
+"tensura|death.attack.tensura.flame_breath"
+]
+},
+{
+"en": "%1$s was scorched by a breath of fire whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.flame_breath.item"
+]
+},
+{
+"en": "%1$s was scorched by a breath of fire whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.flame_breath.player"
+]
+},
+{
+"en": "%1$s was scorched by %2$s's breath",
+"keys": [
+"tensura|death.attack.tensura.flame_breath.source"
+]
+},
+{
+"en": "%1$s was scorched by %2$s's breath using %3$s",
+"keys": [
+"tensura|death.attack.tensura.flame_breath.source.item"
+]
+},
+{
+"en": "%1$s was crushed under the pressure",
+"keys": [
+"tensura|death.attack.tensura.gravity_elemental"
+]
+},
+{
+"en": "%1$s was crushed under the pressure whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_elemental.item"
+]
+},
+{
+"en": "%1$s was crushed under the pressure whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_elemental.player"
+]
+},
+{
+"en": "%1$s was crushed under the pressure by %2$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_elemental.source"
+]
+},
+{
+"en": "%1$s was crushed under the pressure by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_elemental.source.item"
+]
+},
+{
+"en": "%1$s exploded from the inside out",
+"keys": [
+"tensura|death.attack.tensura.gravity_explode"
+]
+},
+{
+"en": "%1$s exploded from the inside out whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_explode.item"
+]
+},
+{
+"en": "%1$s exploded from the inside out whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_explode.player"
+]
+},
+{
+"en": "%1$s exploded from the inside out by %2$s's gravity",
+"keys": [
+"tensura|death.attack.tensura.gravity_explode.source"
+]
+},
+{
+"en": "%1$s exploded from the inside out by %2$s's gravity using %3$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_explode.source.item"
+]
+},
+{
+"en": "%1$s snapped under the pressure",
+"keys": [
+"tensura|death.attack.tensura.gravity_press"
+]
+},
+{
+"en": "%1$s snapped under the pressure whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_press.item"
+]
+},
+{
+"en": "%1$s snapped under the pressure whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_press.player"
+]
+},
+{
+"en": "%1$s snapped under the pressure from %2$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_press.source"
+]
+},
+{
+"en": "%1$s snapped under the pressure from %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.gravity_press.source.item"
+]
+},
+{
+"en": "%1$s's vital points were pierced",
+"keys": [
+"tensura|death.attack.tensura.hazy_blossom_thrust"
+]
+},
+{
+"en": "%1$s's vital points were pierced whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.hazy_blossom_thrust.item"
+]
+},
+{
+"en": "%1$s's vital points were pierced whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.hazy_blossom_thrust.player"
+]
+},
+{
+"en": "%1$s's vital points were pierced by %2$s",
+"keys": [
+"tensura|death.attack.tensura.hazy_blossom_thrust.source"
+]
+},
+{
+"en": "%1$s's vital points were pierced by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.hazy_blossom_thrust.source.item"
+]
+},
+{
+"en": "%1$s had their heart eaten",
+"keys": [
+"tensura|death.attack.tensura.heart_eat"
+]
+},
+{
+"en": "%1$s had their heart eaten whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.heart_eat.item"
+]
+},
+{
+"en": "%1$s had their heart eaten whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.heart_eat.player"
+]
+},
+{
+"en": "%1$s had their heart eaten by %2$s",
+"keys": [
+"tensura|death.attack.tensura.heart_eat.source"
+]
+},
+{
+"en": "%1$s had their heart eaten by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.heart_eat.source.item"
+]
+},
+{
+"en": "%1$s tried to surf the heat wave",
+"keys": [
+"tensura|death.attack.tensura.heat_wave"
+]
+},
+{
+"en": "%1$s tried to surf the heat wave whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.heat_wave.item"
+]
+},
+{
+"en": "%1$s tried to surf the heat wave whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.heat_wave.player"
+]
+},
+{
+"en": "%1$s couldn't stand %2$s's heat",
+"keys": [
+"tensura|death.attack.tensura.heat_wave.source"
+]
+},
+{
+"en": "%1$s couldn't stand %2$s's heat using %3$s",
+"keys": [
+"tensura|death.attack.tensura.heat_wave.source.item"
+]
+},
+{
+"en": "%1$s was purged from this world",
+"keys": [
+"tensura|death.attack.tensura.holy_damage"
+]
+},
+{
+"en": "%1$s was purged from this world whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.holy_damage.item"
+]
+},
+{
+"en": "%1$s was purged from this world whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.holy_damage.player"
+]
+},
+{
+"en": "%1$s was purged from this world by %2$s",
+"keys": [
+"tensura|death.attack.tensura.holy_damage.source"
+]
+},
+{
+"en": "%1$s was purged from this world by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.holy_damage.source.item"
+]
+},
+{
+"en": "%1$s was frozen by a breath of ice",
+"keys": [
+"tensura|death.attack.tensura.ice_breath"
+]
+},
+{
+"en": "%1$s was frozen by a breath of ice whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.ice_breath.item"
+]
+},
+{
+"en": "%1$s was frozen by a breath of ice whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.ice_breath.player"
+]
+},
+{
+"en": "%1$s was frozen by %2$s's breath",
+"keys": [
+"tensura|death.attack.tensura.ice_breath.source"
+]
+},
+{
+"en": "%1$s was frozen by %2$s's breath using %3$s",
+"keys": [
+"tensura|death.attack.tensura.ice_breath.source.item"
+]
+},
+{
+"en": "%1$s was frozen to death",
+"keys": [
+"tensura|death.attack.tensura.ice_elemental"
+]
+},
+{
+"en": "%1$s was frozen to death whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.ice_elemental.item"
+]
+},
+{
+"en": "%1$s was frozen to death whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.ice_elemental.player"
+]
+},
+{
+"en": "%1$s was frozen to death by %2$s",
+"keys": [
+"tensura|death.attack.tensura.ice_elemental.source"
+]
+},
+{
+"en": "%1$s was frozen to death by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.ice_elemental.source.item"
+]
+},
+{
+"en": "%1$s could not find the cure",
+"keys": [
+"tensura|death.attack.tensura.infection"
+]
+},
+{
+"en": "%1$s could not find the cure whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.infection.item"
+]
+},
+{
+"en": "%1$s could not find the cure whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.infection.player"
+]
+},
+{
+"en": "%1$s could not find the cure for %2$s's virus",
+"keys": [
+"tensura|death.attack.tensura.infection.source"
+]
+},
+{
+"en": "%1$s could not find the cure for %2$s's virus using %3$s",
+"keys": [
+"tensura|death.attack.tensura.infection.source.item"
+]
+},
+{
+"en": "%1$s was eaten out of existence",
+"keys": [
+"tensura|death.attack.tensura.infinite_eater"
+]
+},
+{
+"en": "%1$s was eaten out of existence whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.infinite_eater.item"
+]
+},
+{
+"en": "%1$s was eaten out of existence whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.infinite_eater.player"
+]
+},
+{
+"en": "%1$s was eaten out of existence by %2$s",
+"keys": [
+"tensura|death.attack.tensura.infinite_eater.source"
+]
+},
+{
+"en": "%1$s was eaten out of existence by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.infinite_eater.source.item"
+]
+},
+{
+"en": "%1$s crazed to death",
+"keys": [
+"tensura|death.attack.tensura.insanity"
+]
+},
+{
+"en": "%1$s crazed to death whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.insanity.item"
+]
+},
+{
+"en": "%1$s crazed to death whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.insanity.player"
+]
+},
+{
+"en": "%1$s crazed to death by %2$s",
+"keys": [
+"tensura|death.attack.tensura.insanity.source"
+]
+},
+{
+"en": "%1$s crazed to death by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.insanity.source.item"
+]
+},
+{
+"en": "%1$s was pierced by a kunai",
+"keys": [
+"tensura|death.attack.tensura.kunai"
+]
+},
+{
+"en": "%1$s was pierced by a kunai whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.kunai.item"
+]
+},
+{
+"en": "%1$s was pierced by a kunai whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.kunai.player"
+]
+},
+{
+"en": "%1$s was pierced by a kunai from %2$s",
+"keys": [
+"tensura|death.attack.tensura.kunai.source"
+]
+},
+{
+"en": "%1$s was pierced by a kunai from %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.kunai.source.item"
+]
+},
+{
+"en": "%1$s was dispersed under the light",
+"keys": [
+"tensura|death.attack.tensura.light_elemental"
+]
+},
+{
+"en": "%1$s was dispersed under the light whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.light_elemental.item"
+]
+},
+{
+"en": "%1$s was dispersed under the light whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.light_elemental.player"
+]
+},
+{
+"en": "%1$s was dispersed under %2$s's light",
+"keys": [
+"tensura|death.attack.tensura.light_elemental.source"
+]
+},
+{
+"en": "%1$s was dispersed under %2$s's light using %3$s",
+"keys": [
+"tensura|death.attack.tensura.light_elemental.source.item"
+]
+},
+{
+"en": "%1$s was struck by lightning",
+"keys": [
+"tensura|death.attack.tensura.lightning"
+]
+},
+{
+"en": "%1$s was struck by lightning whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.lightning.item"
+]
+},
+{
+"en": "%1$s was struck by lightning whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.lightning.player"
+]
+},
+{
+"en": "%1$s was struck by %2$s's lightning",
+"keys": [
+"tensura|death.attack.tensura.lightning.source"
+]
+},
+{
+"en": "%1$s was struck by %2$s's lightning using %3$s",
+"keys": [
+"tensura|death.attack.tensura.lightning.source.item"
+]
+},
+{
+"en": "%1$s was electrocuted",
+"keys": [
+"tensura|death.attack.tensura.lightning_elemental"
+]
+},
+{
+"en": "%1$s was electrocuted whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.lightning_elemental.item"
+]
+},
+{
+"en": "%1$s was electrocuted whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.lightning_elemental.player"
+]
+},
+{
+"en": "%1$s was electrocuted by %2$s",
+"keys": [
+"tensura|death.attack.tensura.lightning_elemental.source"
+]
+},
+{
+"en": "%1$s was electrocuted by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.lightning_elemental.source.item"
+]
+},
+{
+"en": "%1$s was killed by magic",
+"keys": [
+"tensura|death.attack.tensura.magic"
+]
+},
+{
+"en": "%1$s was killed by magic whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.magic.item"
+]
+},
+{
+"en": "%1$s was killed by magic whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.magic.player"
+]
+},
+{
+"en": "%1$s was killed by %2$s's magic",
+"keys": [
+"tensura|death.attack.tensura.magic.source"
+]
+},
+{
+"en": "%1$s was killed by %2$s's magic using %3$s",
+"keys": [
+"tensura|death.attack.tensura.magic.source.item"
+]
+},
+{
+"en": "%1$s died of Magicule Poison",
+"keys": [
+"tensura|death.attack.tensura.magicule_poison"
+]
+},
+{
+"en": "%1$s died of Magicule Poison whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.magicule_poison.item"
+]
+},
+{
+"en": "%1$s died of Magicule Poison whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.magicule_poison.player"
+]
+},
+{
+"en": "%1$s died of Magicule Poison by %2$s",
+"keys": [
+"tensura|death.attack.tensura.magicule_poison.source"
+]
+},
+{
+"en": "%1$s died of Magicule Poison by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.magicule_poison.source.item"
+]
+},
+{
+"en": "%1$s's brain was pierced through by Megiddo",
+"keys": [
+"tensura|death.attack.tensura.megiddo"
+]
+},
+{
+"en": "%1$s's brain was pierced through by Megiddo whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.megiddo.item"
+]
+},
+{
+"en": "%1$s's brain was pierced through by Megiddo whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.megiddo.player"
+]
+},
+{
+"en": "%1$s's brain was pierced through by %2$s's Megiddo",
+"keys": [
+"tensura|death.attack.tensura.megiddo.source"
+]
+},
+{
+"en": "%1$s's brain was pierced through by %2$s's Megiddo using %3$s",
+"keys": [
+"tensura|death.attack.tensura.megiddo.source.item"
+]
+},
+{
+"en": "%1$s's mind was crushed'",
+"keys": [
+"tensura|death.attack.tensura.mind_crush"
+]
+},
+{
+"en": "%1$s's mind was crushed' whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.mind_crush.item"
+]
+},
+{
+"en": "%1$s's mind was crushed' whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.mind_crush.player"
+]
+},
+{
+"en": "%1$s's mind was crushed by %2$s",
+"keys": [
+"tensura|death.attack.tensura.mind_crush.source"
+]
+},
+{
+"en": "%1$s's mind was crushed by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.mind_crush.source.item"
+]
+},
+{
+"en": "%1$s had their final requiem sung",
+"keys": [
+"tensura|death.attack.tensura.mind_requiem"
+]
+},
+{
+"en": "%1$s had their final requiem sung whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.mind_requiem.item"
+]
+},
+{
+"en": "%1$s had their final requiem sung whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.mind_requiem.player"
+]
+},
+{
+"en": "%1$s had their final requiem sung by %2$s",
+"keys": [
+"tensura|death.attack.tensura.mind_requiem.source"
+]
+},
+{
+"en": "%1$s had their final requiem sung by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.mind_requiem.source.item"
+]
+},
+{
+"en": "%1$s was paralyzed to death",
+"keys": [
+"tensura|death.attack.tensura.paralyzing"
+]
+},
+{
+"en": "%1$s was paralyzed to death whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.paralyzing.item"
+]
+},
+{
+"en": "%1$s was paralyzed to death whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.paralyzing.player"
+]
+},
+{
+"en": "%1$s was paralyzed to death by %2$s",
+"keys": [
+"tensura|death.attack.tensura.paralyzing.source"
+]
+},
+{
+"en": "%1$s was paralyzed to death by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.paralyzing.source.item"
+]
+},
+{
+"en": "%1$s was turned into stone",
+"keys": [
+"tensura|death.attack.tensura.petrification"
+]
+},
+{
+"en": "%1$s was turned into stone whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.petrification.item"
+]
+},
+{
+"en": "%1$s was turned into stone whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.petrification.player"
+]
+},
+{
+"en": "%1$s was turned into stone by %2$s",
+"keys": [
+"tensura|death.attack.tensura.petrification.source"
+]
+},
+{
+"en": "%1$s was turned into stone by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.petrification.source.item"
+]
+},
+{
+"en": "%1$s was corroded by breath of acid",
+"keys": [
+"tensura|death.attack.tensura.poisonous_breath"
+]
+},
+{
+"en": "%1$s was corroded by breath of acid whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.poisonous_breath.item"
+]
+},
+{
+"en": "%1$s was corroded by breath of acid whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.poisonous_breath.player"
+]
+},
+{
+"en": "%1$s was corroded by %2$s's breath of acid",
+"keys": [
+"tensura|death.attack.tensura.poisonous_breath.source"
+]
+},
+{
+"en": "%1$s was corroded by %2$s's breath of acid using %3$s",
+"keys": [
+"tensura|death.attack.tensura.poisonous_breath.source.item"
+]
+},
+{
+"en": "%1$s tasted their own medicine",
+"keys": [
+"tensura|death.attack.tensura.reflected"
+]
+},
+{
+"en": "%1$s tasted their own medicine whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.reflected.item"
+]
+},
+{
+"en": "%1$s tasted their own medicine whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.reflected.player"
+]
+},
+{
+"en": "%1$s was destroyed by %2$s's reflected attack",
+"keys": [
+"tensura|death.attack.tensura.reflected.source"
+]
+},
+{
+"en": "%1$s was destroyed by %2$s's reflected attack using %3$s",
+"keys": [
+"tensura|death.attack.tensura.reflected.source.item"
+]
+},
+{
+"en": "%1$s was severed",
+"keys": [
+"tensura|death.attack.tensura.severance"
+]
+},
+{
+"en": "%1$s was severed whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.severance.item"
+]
+},
+{
+"en": "%1$s was severed whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.severance.player"
+]
+},
+{
+"en": "%1$s was severed by %2$s",
+"keys": [
+"tensura|death.attack.tensura.severance.source"
+]
+},
+{
+"en": "%1$s was severed by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.severance.source.item"
+]
+},
+{
+"en": "%1$s was stricken by a flying blade",
+"keys": [
+"tensura|death.attack.tensura.severer_blade"
+]
+},
+{
+"en": "%1$s was stricken by a flying blade whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.severer_blade.item"
+]
+},
+{
+"en": "%1$s was stricken by a flying blade whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.severer_blade.player"
+]
+},
+{
+"en": "%1$s was stricken by a flying blade from %2$s",
+"keys": [
+"tensura|death.attack.tensura.severer_blade.source"
+]
+},
+{
+"en": "%1$s was stricken by a flying blade from %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.severer_blade.source.item"
+]
+},
+{
+"en": "%1$s was deprived of their Soul",
+"keys": [
+"tensura|death.attack.tensura.soul_consumed"
+]
+},
+{
+"en": "%1$s was deprived of their Soul whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.soul_consumed.item"
+]
+},
+{
+"en": "%1$s was deprived of their Soul whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.soul_consumed.player"
+]
+},
+{
+"en": "%1$s's Soul was deprived by %2$s",
+"keys": [
+"tensura|death.attack.tensura.soul_consumed.source"
+]
+},
+{
+"en": "%1$s's Soul was deprived by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.soul_consumed.source.item"
+]
+},
+{
+"en": "%1$s's soul was scattered",
+"keys": [
+"tensura|death.attack.tensura.soul_scatter"
+]
+},
+{
+"en": "%1$s's soul was scattered whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.soul_scatter.item"
+]
+},
+{
+"en": "%1$s's soul was scattered whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.soul_scatter.player"
+]
+},
+{
+"en": "%1$s's soul was scattered by %2$s",
+"keys": [
+"tensura|death.attack.tensura.soul_scatter.source"
+]
+},
+{
+"en": "%1$s's soul was scattered by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.soul_scatter.source.item"
+]
+},
+{
+"en": "%1$s was blasted apart by a deafening sonic blast",
+"keys": [
+"tensura|death.attack.tensura.sound_blast"
+]
+},
+{
+"en": "%1$s was blasted apart by a deafening sonic blast whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.sound_blast.item"
+]
+},
+{
+"en": "%1$s was blasted apart by a deafening sonic blast whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.sound_blast.player"
+]
+},
+{
+"en": "%1$s was blasted apart by %2$s's sonic blast",
+"keys": [
+"tensura|death.attack.tensura.sound_blast.source"
+]
+},
+{
+"en": "%1$s was blasted apart by %2$s's sonic blast using %3$s",
+"keys": [
+"tensura|death.attack.tensura.sound_blast.source.item"
+]
+},
+{
+"en": "%1$s was sliced into pieces",
+"keys": [
+"tensura|death.attack.tensura.space_elemental"
+]
+},
+{
+"en": "%1$s was sliced into pieces whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.space_elemental.item"
+]
+},
+{
+"en": "%1$s was sliced into pieces whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.space_elemental.player"
+]
+},
+{
+"en": "%1$s was sliced into pieces by %2$s",
+"keys": [
+"tensura|death.attack.tensura.space_elemental.source"
+]
+},
+{
+"en": "%1$s was sliced into pieces by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.space_elemental.source.item"
+]
+},
+{
+"en": "%1$s was speared",
+"keys": [
+"tensura|death.attack.tensura.spear"
+]
+},
+{
+"en": "%1$s was speared whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.spear.item"
+]
+},
+{
+"en": "%1$s was speared whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.spear.player"
+]
+},
+{
+"en": "%1$s was speared by %2$s",
+"keys": [
+"tensura|death.attack.tensura.spear.source"
+]
+},
+{
+"en": "%1$s was speared by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.spear.source.item"
+]
+},
+{
+"en": "%1$s was sliced into pieces by Steel Thread",
+"keys": [
+"tensura|death.attack.tensura.steel_thread"
+]
+},
+{
+"en": "%1$s was sliced into pieces by Steel Thread whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.steel_thread.item"
+]
+},
+{
+"en": "%1$s was sliced into pieces by Steel Thread whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.steel_thread.player"
+]
+},
+{
+"en": "%1$s was sliced into pieces by %2$s's Steel Thread",
+"keys": [
+"tensura|death.attack.tensura.steel_thread.source"
+]
+},
+{
+"en": "%1$s was sliced into pieces by %2$s's Steel Thread using %3$s",
+"keys": [
+"tensura|death.attack.tensura.steel_thread.source.item"
+]
+},
+{
+"en": "%1$s suffocated",
+"keys": [
+"tensura|death.attack.tensura.suffocate"
+]
+},
+{
+"en": "%1$s suffocated whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.suffocate.item"
+]
+},
+{
+"en": "%1$s suffocated whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.suffocate.player"
+]
+},
+{
+"en": "%1$s was suffocated by %2$s",
+"keys": [
+"tensura|death.attack.tensura.suffocate.source"
+]
+},
+{
+"en": "%1$s was suffocated by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.suffocate.source.item"
+]
+},
+{
+"en": "%1$s was forced to end their own life",
+"keys": [
+"tensura|death.attack.tensura.suicide"
+]
+},
+{
+"en": "%1$s was forced to end their own life whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.suicide.item"
+]
+},
+{
+"en": "%1$s was forced to end their own life whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.suicide.player"
+]
+},
+{
+"en": "%1$s was forced to end their own life by %2$s",
+"keys": [
+"tensura|death.attack.tensura.suicide.source"
+]
+},
+{
+"en": "%1$s was forced to end their own life by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.suicide.source.item"
+]
+},
+{
+"en": "%1$s was synthesised",
+"keys": [
+"tensura|death.attack.tensura.synthesise"
+]
+},
+{
+"en": "%1$s was synthesised whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.synthesise.item"
+]
+},
+{
+"en": "%1$s was synthesised whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.synthesise.player"
+]
+},
+{
+"en": "%1$s was synthesised with %2$s",
+"keys": [
+"tensura|death.attack.tensura.synthesise.source"
+]
+},
+{
+"en": "%1$s was synthesised with %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.synthesise.source.item"
+]
+},
+{
+"en": "%1$s was pierced by a tempest scale",
+"keys": [
+"tensura|death.attack.tensura.tempest_scale"
+]
+},
+{
+"en": "%1$s was pierced by a tempest scale whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.tempest_scale.item"
+]
+},
+{
+"en": "%1$s was pierced by a tempest scale whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.tempest_scale.player"
+]
+},
+{
+"en": "%1$s was pierced by a tempest scale from %2$s",
+"keys": [
+"tensura|death.attack.tensura.tempest_scale.source"
+]
+},
+{
+"en": "%1$s was pierced by a tempest scale from %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.tempest_scale.source.item"
+]
+},
+{
+"en": "%1$s was electrocuted by breath of thunder",
+"keys": [
+"tensura|death.attack.tensura.thunder_breath"
+]
+},
+{
+"en": "%1$s was electrocuted by breath of thunder whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.thunder_breath.item"
+]
+},
+{
+"en": "%1$s was electrocuted by breath of thunder whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.thunder_breath.player"
+]
+},
+{
+"en": "%1$s was electrocuted by %2$s's breath",
+"keys": [
+"tensura|death.attack.tensura.thunder_breath.source"
+]
+},
+{
+"en": "%1$s was electrocuted by %2$s's breath using %3$s",
+"keys": [
+"tensura|death.attack.tensura.thunder_breath.source.item"
+]
+},
+{
+"en": "%1$s saw the eye of the tornado",
+"keys": [
+"tensura|death.attack.tensura.tornado"
+]
+},
+{
+"en": "%1$s saw the eye of the tornado whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.tornado.item"
+]
+},
+{
+"en": "%1$s saw the eye of the tornado whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.tornado.player"
+]
+},
+{
+"en": "%1$s saw the eye of %2$s's tornado",
+"keys": [
+"tensura|death.attack.tensura.tornado.source"
+]
+},
+{
+"en": "%1$s saw the eye of %2$s's tornado using %3$s",
+"keys": [
+"tensura|death.attack.tensura.tornado.source.item"
+]
+},
+{
+"en": "%1$s was turned into glitter",
+"keys": [
+"tensura|death.attack.tensura.unicorn_horn"
+]
+},
+{
+"en": "%1$s was turned into glitter whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.unicorn_horn.item"
+]
+},
+{
+"en": "%1$s was turned into glitter whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.unicorn_horn.player"
+]
+},
+{
+"en": "%1$s was turned into glitter by %2$s",
+"keys": [
+"tensura|death.attack.tensura.unicorn_horn.source"
+]
+},
+{
+"en": "%1$s was turned into glitter by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.unicorn_horn.source.item"
+]
+},
+{
+"en": "%1$s was cut by a blade of water",
+"keys": [
+"tensura|death.attack.tensura.water_blade"
+]
+},
+{
+"en": "%1$s was cut by a blade of water whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.water_blade.item"
+]
+},
+{
+"en": "%1$s was cut by a blade of water whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.water_blade.player"
+]
+},
+{
+"en": "%1$s was cut by %2$s's blade of water",
+"keys": [
+"tensura|death.attack.tensura.water_blade.source"
+]
+},
+{
+"en": "%1$s was cut by %2$s's blade of water using %3$s",
+"keys": [
+"tensura|death.attack.tensura.water_blade.source.item"
+]
+},
+{
+"en": "%1$s was crushed by high-pressure water",
+"keys": [
+"tensura|death.attack.tensura.water_breath"
+]
+},
+{
+"en": "%1$s was crushed by high-pressure water whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.water_breath.item"
+]
+},
+{
+"en": "%1$s was crushed by high-pressure water whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.water_breath.player"
+]
+},
+{
+"en": "%1$s was crushed by %2$s's high-pressure water",
+"keys": [
+"tensura|death.attack.tensura.water_breath.source"
+]
+},
+{
+"en": "%1$s was crushed by %2$s's high-pressure water using %3$s",
+"keys": [
+"tensura|death.attack.tensura.water_breath.source.item"
+]
+},
+{
+"en": "%1$s couldn't handle the water's pressure",
+"keys": [
+"tensura|death.attack.tensura.water_elemental"
+]
+},
+{
+"en": "%1$s couldn't handle the water's pressure whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.water_elemental.item"
+]
+},
+{
+"en": "%1$s couldn't handle the water's pressure whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.water_elemental.player"
+]
+},
+{
+"en": "%1$s couldn't handle the water's pressure by %2$s",
+"keys": [
+"tensura|death.attack.tensura.water_elemental.source"
+]
+},
+{
+"en": "%1$s couldn't handle the water's pressure by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.water_elemental.source.item"
+]
+},
+{
+"en": "%1$s was blasted into bits by Wicked Light Ray",
+"keys": [
+"tensura|death.attack.tensura.wicked_light_ray"
+]
+},
+{
+"en": "%1$s was blasted into bits by Wicked Light Ray whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.wicked_light_ray.item"
+]
+},
+{
+"en": "%1$s was blasted into bits by Wicked Light Ray whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.wicked_light_ray.player"
+]
+},
+{
+"en": "%1$s was blasted into bits by %2$s's Wicked Light Ray",
+"keys": [
+"tensura|death.attack.tensura.wicked_light_ray.source"
+]
+},
+{
+"en": "%1$s was blasted into bits by %2$s's Wicked Light Ray using %3$s",
+"keys": [
+"tensura|death.attack.tensura.wicked_light_ray.source.item"
+]
+},
+{
+"en": "%1$s got caught up in roaring winds",
+"keys": [
+"tensura|death.attack.tensura.wind_breath"
+]
+},
+{
+"en": "%1$s got caught up in roaring winds whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.wind_breath.item"
+]
+},
+{
+"en": "%1$s got caught up in roaring winds whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.wind_breath.player"
+]
+},
+{
+"en": "%1$s got caught up in roaring winds by %2$s",
+"keys": [
+"tensura|death.attack.tensura.wind_breath.source"
+]
+},
+{
+"en": "%1$s got caught up in roaring winds by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.wind_breath.source.item"
+]
+},
+{
+"en": "%1$s was swept away",
+"keys": [
+"tensura|death.attack.tensura.wind_elemental"
+]
+},
+{
+"en": "%1$s was swept away whilst fighting %2$s wielding %3$s",
+"keys": [
+"tensura|death.attack.tensura.wind_elemental.item"
+]
+},
+{
+"en": "%1$s was swept away whilst fighting %2$s",
+"keys": [
+"tensura|death.attack.tensura.wind_elemental.player"
+]
+},
+{
+"en": "%1$s was swept away by %2$s",
+"keys": [
+"tensura|death.attack.tensura.wind_elemental.source"
+]
+},
+{
+"en": "%1$s was swept away by %2$s using %3$s",
+"keys": [
+"tensura|death.attack.tensura.wind_elemental.source.item"
+]
+},
+{
+"en": "%1$s died to deadly poison",
+"keys": [
+"tensura_kumodesu|death.attack.tensura_kumodesu.deadly_poison"
+]
+},
+{
+"en": "%1$s died to deadly spider poison",
+"keys": [
+"tensura_kumodesu|death.attack.tensura_kumodesu.deadly_spider_poison"
+]
+},
+{
+"en": "%1$s died to fatal spider poison",
+"keys": [
+"tensura_kumodesu|death.attack.tensura_kumodesu.fatal_spider_poison"
+]
+}
+]

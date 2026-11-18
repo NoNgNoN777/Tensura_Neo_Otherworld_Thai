@@ -11,5 +11,15 @@
   "tensurabarriers.skill.black_casing.description": "สร้างบาเรียร์ที่ทำลายไม่ได้ แต่ทำให้คุณขยับไม่ได้และดูดมาจิคูล 5% ต่อวินาที",
   "tensurabarriers.skill.barrier_formation.description": "สร้างบาเรียร์สำหรับตัวคุณเองหรือคุณและพันธมิตร HP ของบาเรียร์ถูกแบ่งระหว่างเป้าหมาย",
   "tensura.attribute.barrier_boost": "Barrier Boost",
-  "tensura.attribute.barrier_cost": "Barrier Cost"
+  "tensura.attribute.barrier_cost": "Barrier Cost",
+  "tensurabarriers.magic.barrier_dispel.needs_mastery": "ทำลาย infinity prison ได้เมื่อเชี่ยวชาญเท่านั้น",
+  "tensurabarriers.magic.barrier_dispel.nothing": "ไม่มีอะไรให้สลาย",
+  "tensurabarriers.magic.barrier_dispel.own": "นี่คือบาเรียของคุณเอง",
+  "tensurabarriers.magic.invasion.own_wall": "นี่คือบาเรียของคุณเอง",
+  "tensurabarriers.magic.invasion.anchored": "บุก Anchor ไม่ได้",
+  "tensurabarriers.magic.invasion.inside": "บุกจากด้านในไม่ได้",
+  "tensurabarriers.magic.invasion.no_wall": "ไม่มีบาเรีย ",
+  "tensurabarriers.magic.invasion.too_weak": "เจ้าของแข็งแกร่งเกินกว่าจะได้ผล",
+  "tensurabarriers.magic.invasion.unique": "บุกบาเรีย unique ไม่ได้",
+  "tensurabarriers.screen.barrier_creation": "การสร้างบาเรีย"
 }

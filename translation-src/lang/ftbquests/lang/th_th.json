@@ -641,5 +641,7 @@
   "ftbquests.event.move_chapter_across": "ย้าย %s '%s' -> %s '%s'",
   "ftbquests.event.move_object": "ย้าย %s '%s' %s",
   "ftbquests.event.move_movable": "ย้าย %s '%s'",
-  "ftbquests.event.update_translation": "อัปเดตคำแปล %s %s '%s'"
+  "ftbquests.event.update_translation": "อัปเดตคำแปล %s %s '%s'",
+  "sidebar_button.ftbquests.quests": "เควสต์",
+  "jei.ftbquests.lootcrates.chance": "โอกาส: %s"
 }

@@ -26,5 +26,10 @@
   "filter.ftbfiltersystem.max_stack_size.tooltip": "จับคู่กับขนาดสแต็กสูงสุดของไอเทม\nไอเทมที่ซ้อนไม่ได้มีขนาดสแต็กสูงสุด 1",
   "filter.ftbfiltersystem.mod.tooltip": "จับคู่กับม็อดที่เพิ่มไอเทมนั้น\nไอเทม vanilla อยู่ใน 'ม็อด' Minecraft",
   "filter.ftbfiltersystem.custom.tooltip": "ตัวกรองขั้นสูงสำหรับนักทำม็อดและผู้ทำ modpack\nยิง CustomFilterEvent เมื่อพยายามจับคู่ ตั้งผลลัพธ์ของอีเวนต์เพื่อบอกว่าจับคู่สำเร็จหรือล้มเหลว\nใช้ช่องข้อความเพื่อใส่ข้อความอิสระที่ส่งให้อีเวนต์เป็นพารามิเตอร์ 'data'",
-  "filter.ftbfiltersystem.expression.tooltip": "อนุญาตให้ป้อนนิพจน์ตัวกรองตามตัวอักษร หรือโหลดจากไอเทม Filter ในช่องเก็บของของคุณ\nการตั้งชื่อเองเพื่อความชัดเจนเป็นทางเลือก (แต่แนะนำ!)"
+  "filter.ftbfiltersystem.expression.tooltip": "อนุญาตให้ป้อนนิพจน์ตัวกรองตามตัวอักษร หรือโหลดจากไอเทม Filter ในช่องเก็บของของคุณ\nการตั้งชื่อเองเพื่อความชัดเจนเป็นทางเลือก (แต่แนะนำ!)",
+  "ftbfiltersystem.gui.delete": "ลบ",
+  "ftbfiltersystem.gui.configure": "กำหนดค่า...",
+  "ftbfiltersystem.gui.percentage": "เปอร์เซ็นต์",
+  "ftbfiltersystem.gui.item_source.mod": "ม็อด",
+  "ftbfiltersystem.gui.custom_name": "ชื่อที่กำหนดเอง"
 }

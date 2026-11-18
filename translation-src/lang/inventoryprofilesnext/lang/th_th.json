@@ -44,5 +44,15 @@
   "inventoryprofiles.gui.editor.name.help.move.keys": "ย้ายปุ่ม",
   "inventoryprofiles.gui.editor.description.help.move.keys": "ปุ่ม 'W','S','A','D' และปุ่มลูกศรจะย้ายปุ่มที่เลือก",
   "inventoryprofiles.gui.editor.name.help.move.speed": "ย้ายให้เร็วขึ้น!!!",
-  "inventoryprofiles.gui.editor.description.help.move.speed": "กด 'Shift' ค้างพร้อมปุ่มย้ายเพื่อให้ปุ่มเคลื่อนที่เร็วขึ้น"
+  "inventoryprofiles.gui.editor.description.help.move.speed": "กด 'Shift' ค้างพร้อมปุ่มย้ายเพื่อให้ปุ่มเคลื่อนที่เร็วขึ้น",
+  "inventoryprofiles.common.enum.modifier_key.normal": "ปกติ",
+  "inventoryprofiles.enum.sorting_method.item_name": "ชื่อไอเทม",
+  "inventoryprofiles.enum.sorting_method.item_id": "ID ไอเทม",
+  "inventoryprofiles.enum.post_action.none": "ไม่มี",
+  "inventoryprofiles.enum.switch_type.toggle": "สลับ",
+  "inventoryprofiles.enum.tool_replace_visual_notification.subtitle": "มาก",
+  "inventoryprofiles.enum.tool_replace_visual_notification.hotbar": "น้อย",
+  "inventoryprofiles.enum.merge_priority.internal": "ภายใน",
+  "inventoryprofiles.gui.editor.name.screen.ignore": "เพิกเฉย",
+  "inventoryprofiles.gui.editor.name.screen.force": "บังคับ"
 }

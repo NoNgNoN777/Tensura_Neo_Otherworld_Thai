@@ -41,5 +41,16 @@
   "ftblibrary.client_settings.tooltips.item_modname": "แสดงชื่อม็อดในหน้าจอเลือกไอเทม",
   "ftblibrary.client_settings.tooltips.fluid_modname": "แสดงชื่อม็อดในหน้าจอเลือกของเหลว",
   "ftblibrary.client_settings.tooltips.image_modname": "แสดงชื่อม็อดในหน้าจอเลือกรูปภาพ",
-  "ftblibrary.client_settings.tooltips.entity_modname": "แสดงชื่อม็อดในหน้าจอเลือกใบหน้าเอนทิตี"
+  "ftblibrary.client_settings.tooltips.entity_modname": "แสดงชื่อม็อดในหน้าจอเลือกใบหน้าเอนทิตี",
+  "ftblibrary.select_item.list_mode.all": "ไอเทมทั้งหมด",
+  "ftblibrary.select_item.list_mode.inv": "ช่องเก็บของ",
+  "ftblibrary.empty": "ว่าง",
+  "ftblibrary.gui.error": "ผิดพลาด!",
+  "ftblibrary.gui.search": "ค้นหา...",
+  "ftblibrary.gui.enabled": "เปิดใช้งาน",
+  "ftblibrary.gui.disabled": "ปิดใช้งาน",
+  "ftblibrary.panel.position.top": "ด้านบน",
+  "ftblibrary.panel.position.left": "ด้านซ้าย",
+  "ftblibrary.panel.position.right": "ด้านขวา",
+  "ftblibrary.panel.position.bottom": "ด้านล่าง"
 }

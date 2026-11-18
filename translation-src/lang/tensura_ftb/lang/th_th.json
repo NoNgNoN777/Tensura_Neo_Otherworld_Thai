@@ -16,5 +16,9 @@
   "ftbquests.task.tensura_ftb.spirit": "Elemental Spirit",
   "ftbquests.reward.tensura_ftb.race": "เผ่า",
   "ftbquests.task.tensura_ftb.race": "เผ่า",
-  "ftbquests.task.tensura_ftb.race.race": "เผ่า"
+  "ftbquests.task.tensura_ftb.race.race": "เผ่า",
+  "tensura_ftb.task.existence_value.type": "ชนิดการดำรงอยู่",
+  "tensura_ftb.task.spirit.element": "ธาตุวิญญาณ",
+  "tensura_ftb.task.spirit.level": "เลเวลวิญญาณ",
+  "tensura_ftb.task.existence_value.value": "ค่า"
 }

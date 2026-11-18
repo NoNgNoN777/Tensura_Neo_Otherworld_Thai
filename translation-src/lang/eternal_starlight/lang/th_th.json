@@ -118,5 +118,9 @@
   "gui.eternal_starlight.jei.category.drying": "Drying",
   "gui.eternal_starlight.jei.category.alloy": "Alloy",
   "gui.eternal_starlight.jei.category.alloy_furnace_cooling": "Alloy Furnace Cooling",
-  "gui.eternal_starlight.jei.category.alloy_furnace_cooling.efficiency": "เวลา Overheat %sx"
+  "gui.eternal_starlight.jei.category.alloy_furnace_cooling.efficiency": "เวลา Overheat %sx",
+  "structure.eternal_starlight.cursed_garden": "สวนต้องคำสาป (Cursed Garden)",
+  "mana_type.eternal_starlight.wind": "ลม",
+  "mana_type.eternal_starlight.water": "น้ำ",
+  "mana_type.eternal_starlight.light": "แสง"
 }

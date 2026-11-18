@@ -23,5 +23,15 @@
   "dialog.button.MAYBE": "อาจจะ",
   "dialog.button.CANCEL": "ยกเลิก",
   "dialog.button.ABORT": "หยุด",
-  "dialog.button.CONFIRM": "ยืนยัน"
+  "dialog.button.CONFIRM": "ยืนยัน",
+  "minecraft.fuel": "เชื้อเพลิง",
+  "collector.inventory": "ช่องเก็บของ",
+  "minecraft.block": "บล็อก",
+  "minecraft.item": "ไอเท็ม",
+  "facing.east": "ตะวันออก",
+  "facing.west": "ตะวันตก",
+  "facing.up": "ขึ้น",
+  "facing.down": "ลง",
+  "facing.south": "ใต้",
+  "facing.north": "เหนือ"
 }

@@ -2,5 +2,16 @@
   "configured.gui.info": "เมนูนี้ถูกสร้างขึ้นแบบไดนามิกโดย Configured คลิกที่นี่เพื่อเปิดหน้า CurseForge ของม็อดนี้!",
   "configured.gui.server_config_info": "การตั้งค่าฝั่งเซิร์ฟเวอร์เป็นเอกลักษณ์ในแต่ละโลก ซึ่งหมายความว่าการเปลี่ยนแปลงใดๆ ที่ทำกับการตั้งค่าจะมีผลเฉพาะโลกที่เลือกเท่านั้น",
   "configured.gui.restore_message": "คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตค่าทั้งหมด? หากคุณเล่นด้วยม็อดแพ็ก การตั้งค่านี้อาจถูกผู้สร้างแก้ไขไว้ และการคืนค่าจะทำให้ประสบการณ์ที่ผู้สร้างตั้งใจไว้เสียไป §6การกระทำนี้ไม่สามารถย้อนกลับได้!",
-  "configured.validator.range_hint": "ค่าต้องอยู่ระหว่าง %s ถึง %s (รวมค่าปลายทาง)"
+  "configured.validator.range_hint": "ค่าต้องอยู่ระหว่าง %s ถึง %s (รวมค่าปลายทาง)",
+  "configured.gui.search": "ค้นหา...",
+  "configured.gui.reset_all": "คืนค่าทั้งหมด",
+  "configured.gui.edit": "แก้ไข",
+  "configured.gui.reset": "รีเซ็ต",
+  "configured.gui.remove": "ถอดออก",
+  "configured.gui.modify": "แก้ไข",
+  "configured.gui.restore": "กู้คืน",
+  "configured.gui.save": "บันทึก",
+  "configured.gui.view": "มุมมอง",
+  "configured.gui.close": "ปิด",
+  "configured.gui.apply": "ใช้"
 }

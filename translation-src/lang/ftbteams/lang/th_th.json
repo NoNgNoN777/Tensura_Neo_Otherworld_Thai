@@ -35,5 +35,11 @@
   "ftbteams.message.set_property": "ตั้งคุณสมบัติ %s เป็น %s",
   "ftbteams.message.parse_failed": "แยกวิเคราะห์ค่าล้มเหลว: %s",
   "ftbteams.message.property_not_editable": "คุณสมบัติ %s แก้ไขไม่ได้!",
-  "ftbteams.click_show_info": "คลิกเพื่อแสดงข้อมูลทีม"
+  "ftbteams.click_show_info": "คลิกเพื่อแสดงข้อมูลทีม",
+  "ftbteams.privacy_mode.allies": "พันธมิตร",
+  "ftbteamsconfig.ftbteams.color": "สี",
+  "ftbteams.gui.create_party": "คำอธิบาย",
+  "ftbteams.gui.toggle_chat": "คลิกเพื่อสลับ",
+  "ftbteams.ranks.none": "ไม่มี",
+  "ftbteams.ranks.owner": "เจ้าของ"
 }

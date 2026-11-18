@@ -36,5 +36,9 @@
   "gui.chronodawn.chronicle.previous": "ก่อนหน้า",
   "gui.chronodawn.chronicle.next": "ถัดไป",
   "gui.chronodawn.chronicle.page": "หน้า %s จาก %s",
-  "gui.chronodawn.chronicle.select_category": "เลือกหมวดหมู่เพื่อเริ่มต้น"
+  "gui.chronodawn.chronicle.select_category": "เลือกหมวดหมู่เพื่อเริ่มต้น",
+  "direction.north": "เหนือ",
+  "direction.east": "ตะวันออก",
+  "direction.south": "ใต้",
+  "direction.west": "ตะวันตก"
 }

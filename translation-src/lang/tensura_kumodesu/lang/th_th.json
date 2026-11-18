@@ -34,5 +34,10 @@
   "tensura_kumodesu.skill.spider_movement.description": "ให้ผู้ใช้มองเห็นกลางคืน ภูมิคุ้มกันใยแมงมุม และการปีนพิเศษ",
   "tensura_kumodesu.skill.taboo.description": "เจ้าก่อบาปใดไว้?",
   "tensura_kumodesu.skill.weapon_creation.description": "ให้ผู้ใช้สร้างอาวุธเฉพาะตัวเพื่อใช้",
-  "tensura_kumodesu.skill.wondrous_weapon_creation.description": "ให้ผู้ใช้สร้างอาวุธอัศจรรย์เพื่อใช้"
+  "tensura_kumodesu.skill.wondrous_weapon_creation.description": "ให้ผู้ใช้สร้างอาวุธอัศจรรย์เพื่อใช้",
+  "tensura_kumodesu.ui.any_sin_requirement": "สกิล Deadly Sin ใดก็ได้",
+  "tensura_kumodesu.ui.lord_requirement": "Spirit Lord",
+  "death.attack.tensura_kumodesu.deadly_poison": "%1$s ตายเพราะพิษร้ายแรง",
+  "death.attack.tensura_kumodesu.deadly_spider_poison": "%1$s ตายเพราะพิษแมงมุมร้ายแรง",
+  "death.attack.tensura_kumodesu.fatal_spider_poison": "%1$s ตายเพราะพิษแมงมุมถึงตาย"
 }

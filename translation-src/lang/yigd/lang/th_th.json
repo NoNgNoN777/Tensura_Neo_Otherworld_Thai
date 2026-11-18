@@ -12,5 +12,9 @@
   "text.yigd.message.irl_time": " (%d %s, %d, %d:%d%s)",
   "text.yigd.message.grave_destroyed": "หลุมศพของคุณถูกทำลายโดยไม่คาดคิด หากมีสิทธิ์ที่เหมาะสม กู้คืนหลุมศพได้ด้วยคำสั่ง /yigd",
   "text.yigd.message.grave_relocated": "หลุมศพของคุณถูกย้ายไปที่ X: %d / Y: %d / Z: %d / %s",
-  "text.yigd.message.grave_generation_error": "สร้างหลุมศพล้มเหลว ทิ้งไอเทม"
+  "text.yigd.message.grave_generation_error": "สร้างหลุมศพล้มเหลว ทิ้งไอเทม",
+  "button.yigd.gui.restore": "กู้คืน",
+  "button.yigd.gui.delete": "ลบ",
+  "button.yigd.gui.locked": "ล็อกอยู่",
+  "button.yigd.gui.unlocked": "ปลดล็อกแล้ว"
 }

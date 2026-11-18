@@ -9,5 +9,21 @@
   "tooltips.bookshelf.loot.empty.desc": "อาจไม่มีอะไรดรอปเลยก็ได้!",
   "tooltips.bookshelf.loot.dynamic": "ดรอปแบบไดนามิก",
   "tooltips.bookshelf.loot.dynamic.desc": "ของดรอปบางอย่างขึ้นอยู่กับสถานการณ์",
-  "gui.jei.category.loot.name": "Loot Table"
+  "gui.jei.category.loot.name": "Loot Table",
+  "__Tags": "ชื่อแท็กสำหรับตัวดูสูตร",
+  "units.bookshelf.tick.plural": "ติ๊ก",
+  "units.bookshelf.second": "วินาที",
+  "units.bookshelf.second.plural": "วินาที",
+  "units.bookshelf.minute": "นาที",
+  "units.bookshelf.minute.plural": "นาที",
+  "units.bookshelf.hour": "ชั่วโมง",
+  "moon.phase.full": "จันทร์เต็มดวง",
+  "moon.phase.waxing.gibbous": "ข้างขึ้นค่อนดวง",
+  "moon.phase.first.quarter": "ข้างขึ้นครึ่งดวง",
+  "moon.phase.waxing.crescent": "ข้างขึ้นเสี้ยว",
+  "moon.phase.new": "จันทร์ดับ",
+  "moon.phase.waning.crescent": "ข้างแรมเสี้ยว",
+  "moon.phase.last.quarter": "ข้างแรมครึ่งดวง",
+  "moon.phase.waning.gibbous": "ข้างแรมค่อนดวง",
+  "font.minecraft.default": "ค่าเริ่มต้น"
 }

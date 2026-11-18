@@ -34,5 +34,11 @@
   "emi_loot.emi_loot_config.linkFormatting.desc": "รูปแบบที่ใช้กับ loot table ที่แสดงหัวข้อ 'ลิงก์'",
   "enchantment.emi_loot.random.desc": "สุ่มใส่เอนชานต์ที่ใช้ได้จากรายการลงในของดรอปนี้",
   "emi_loot.function.lore": "มีเนื้อเรื่องเฉพาะถูกเพิ่มให้ไอเทมนี้",
-  "emi_loot.function.toggle_tooltip": "เปิดหรือปิดส่วนต่างๆ ของทูลทิปไอเทม"
+  "emi_loot.function.toggle_tooltip": "เปิดหรือปิดส่วนต่างๆ ของทูลทิปไอเทม",
+  "emi.category.emi_loot.mob_drops": "ของดรอปจากม็อบ",
+  "emi_loot.condition.weather_check.raining_true": "ฝนตก",
+  "emi_loot.map.unknown": "ไม่ทราบ",
+  "emi_loot.chest.unknown": "ไม่ทราบ",
+  "emi_loot.gameplay.unknown": "ไม่ทราบ",
+  "emi_loot.archaeology.unknown": "ไม่ทราบ"
 }

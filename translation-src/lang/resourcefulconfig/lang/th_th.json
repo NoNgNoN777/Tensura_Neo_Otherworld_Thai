@@ -6,5 +6,9 @@
   "rconfig.server.properties.allow-flight.desc": "หากเปิด ผู้เล่นบินในเซิร์ฟเวอร์ได้ ซึ่งมักจำเป็นในเซิร์ฟเวอร์ม็อด",
   "rconfig.server.properties.pvp.desc": "หากเปิด ผู้เล่นโจมตีกันเองได้",
   "rconfig.server.properties.enforce-whitelist.desc": "หากเปิด เฉพาะผู้ใช้ในไวต์ลิสต์เท่านั้นที่เข้าเซิร์ฟเวอร์ได้ หากมีผู้ใช้ที่ไม่อยู่ในไวต์ลิสต์อยู่บนเซิร์ฟเวอร์ พวกเขาจะถูกเตะออก",
-  "rconfig.ui.constant.mod_configs.description": "เลือก config เพื่อดูหรือแก้ไข"
+  "rconfig.ui.constant.mod_configs.description": "เลือก config เพื่อดูหรือแก้ไข",
+  "rconfig.ui.constant.close": "ปิด",
+  "rconfig.ui.constant.reset": "รีเซ็ต",
+  "rconfig.ui.constant.edit": "แก้ไข",
+  "rconfig.color.preset.defaults": "ค่าเริ่มต้น"
 }

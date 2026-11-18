@@ -31,5 +31,20 @@
   "toast.jade.toggle_hint.1": "ปิด Jade แล้ว",
   "toast.jade.toggle_hint.2": "กด %s อีกครั้งเพื่อเปิดใหม่",
   "toast.jade.tts_hint.1": "เปิดตัวบรรยายเสียงของ Jade แล้ว",
-  "toast.jade.tts_hint.2": "กด %s อีกครั้งเพื่อปิด"
+  "toast.jade.tts_hint.2": "กด %s อีกครั้งเพื่อปิด",
+  "jade.theme.jade.dark": "ความมืด",
+  "narration.jade.armor": "เกราะ: %s",
+  "jade.horseStat.speed": "ความเร็ว: %s",
+  "jade.fluid.empty": "ว่าง",
+  "jade.owner": "เจ้าของ: %s",
+  "jade.distance2": "ระยะทาง: %s",
+  "jade.up": "ขึ้น",
+  "jade.down": "ลง",
+  "jade.north": "เหนือ",
+  "jade.south": "ใต้",
+  "jade.east": "ตะวันออก",
+  "jade.west": "ตะวันตก",
+  "jade.trial_spawner_cd": "คูลดาวน์: %s",
+  "jade.access.block.level": "เลเวล: %s",
+  "jade.theme.jade.create": "สร้าง"
 }

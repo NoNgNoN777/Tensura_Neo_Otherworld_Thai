@@ -85,5 +85,6 @@
   "entity.cataclysm.the_leviathan.defeat_message": "ห้วงลึกจ้องมองมาที่เจ้า Coral Golem จะปรากฏขึ้นในมหาสมุทรต่อจากนี้...",
   "ability.cataclysm.amethyst_cluster": "Amethyst Cluster",
   "ability.cataclysm.amethyst_cluster.desc": "ยิงกลุ่มอเมทิสต์รอบตัวที่สร้างความเสียหายแก่เอนทิตี",
-  "item.cataclysm.shift_desc": "กด [SHIFT] ค้างเพื่อดูรายละเอียด"
+  "item.cataclysm.shift_desc": "กด [SHIFT] ค้างเพื่อดูรายละเอียด",
+  "curios.identifier.feet": "เท้า"
 }

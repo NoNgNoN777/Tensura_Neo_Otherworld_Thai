@@ -1,0 +1,14 @@
+{
+  "string.explorerscompass.back": "ด้านหลัง",
+  "string.explorerscompass.selectStructure": "เลือกสิ่งก่อสร้าง",
+  "string.explorerscompass.structure": "สิ่งก่อสร้าง",
+  "string.explorerscompass.dimension": "มิติ",
+  "string.explorerscompass.distance": "ระยะทาง",
+  "string.explorerscompass.group": "กลุ่ม",
+  "string.explorerscompass.radius": "รัศมี",
+  "string.explorerscompass.search": "ค้นหา",
+  "string.explorerscompass.searching": "กำลัค้นหา",
+  "string.explorerscompass.sortBy": "เรียงตาม",
+  "string.explorerscompass.source": "แหล่งที่มา",
+  "string.explorerscompass.surface_structures": "พื้นผิว"
+}
