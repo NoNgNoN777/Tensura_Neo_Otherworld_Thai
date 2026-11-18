@@ -13,7 +13,7 @@
 
 ## สิ่งที่ครอบคลุม
 
-- ข้อความ lang 11,361 ข้อ (ม็อดทั้งหมดในแพ็ก รวมซับของ Great Sage)
+- ข้อความ lang 15,025 ข้อ (ม็อดทั้งหมดในแพ็ก รวมซับของ Great Sage)
 - เควส FTB 1,520 ระเบียน (ชื่อเควสเป็นรูป `ชื่อไทย (English)`)
 - คู่มือ Patchouli 150 ไฟล์ (Natures Aura, Mortal Cultivation, Ice and Fire)
 - Ponder 12 ไฟล์

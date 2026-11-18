@@ -582,5 +582,10 @@
   "tensuramoreskills.gui.nirvana.rename": "เปลี่ยนชื่อ",
   "tensuramoreskills.gui.nirvana.delete": "ลบ",
   "tensuramoreskills.gui.godly.search": "ค้นหา",
-  "tensuramoreskills.ewigkeit.mirror": "สะท้อน"
+  "tensuramoreskills.ewigkeit.mirror": "สะท้อน",
+  "skill.tensuramoreskills.ronova.incarnate_on": "Death Incarnate: ซ่อนแล้ว",
+  "skill.tensuramoreskills.ronova.incarnate_off": "Death Incarnate: เผยแล้ว",
+  "key.tensuramoreskills.ewigkeit_skip": "ข้ามฉาก Ewigkeit",
+  "tensuramoreskills.gui.nirvana.sort.name": "ชื่อ",
+  "tensuramoreskills.gui.gene_editor.header": "คลังยีน"
 }
