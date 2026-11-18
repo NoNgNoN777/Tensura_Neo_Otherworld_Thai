@@ -1,4 +1,5 @@
 {
   "item.tensura_boss_structure.slime_king_summon.desc": "คลิกขวาเพื่อเรียก Slime King บนพื้นผิว",
-  "item.tensura_boss_structure.slime_king_summon.message": "§cSlime King ตื่นขึ้นแล้ว!"
+  "item.tensura_boss_structure.slime_king_summon.message": "§cSlime King ตื่นขึ้นแล้ว!",
+  "item.tensura_boss_structure.map.not_found": "ไม่พบสิ่งก่อสร้างใกล้ๆ ลองไปให้ไกลขึ้นแล้วใช้อีกครั้ง"
 }

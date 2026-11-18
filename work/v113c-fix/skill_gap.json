@@ -1,0 +1,4094 @@
+[
+[
+"betterf3",
+"config.betterf3.auto_start.tooltip",
+"Automatically starts the debug menu when the game starts.",
+"missing"
+],
+[
+"crafttweaker",
+"crafttweaker.script.load.start",
+"Starting loading scripts for loader '%s'",
+"missing"
+],
+[
+"inventoryprofilesnext",
+"inventoryprofiles.config.description.ignore_durability",
+"If set to true Move Matching and Throw Matching operations will ignore the item durability when deciding what to move or throw.",
+"missing"
+],
+[
+"inventoryprofilesnext",
+"inventoryprofiles.config.description.audio_durability_notification",
+"If enabled a specific sound will be played when a tool durability is close to switch point.",
+"missing"
+],
+[
+"inventoryprofilesnext",
+"inventoryprofiles.config.description.type_visual_durability_notification",
+"Controls what type of visual alert is used in case a tool durability is close to switch point.",
+"missing"
+],
+[
+"inventoryprofilesnext",
+"inventoryprofiles.config.description.visual_durability_notification",
+"This enables visual notifications when a tool/armor durability is getting close to the level for replacement.",
+"missing"
+],
+[
+"inventoryprofilesnext",
+"inventoryprofiles.config.description.tool_max_durability_threshold",
+"Tools with maximum durability below this value will be allowed to break if the setting above is true.\nThe idea that most players don't really want to keep stone tools,\n but will be annoyed if they break a diamond one.",
+"missing"
+],
+[
+"jade",
+"config.jade.display_mode_desc",
+"The behavior of the tooltip in the usual situation and how the ${SHOW_DETAILS} works.",
+"missing"
+],
+[
+"jade",
+"config.jade.display_mode_toggle_desc",
+"Press ${SHOW_OVERLAY} will toggle it on and off.",
+"missing"
+],
+[
+"jade",
+"config.jade.display_mode_hold_key_desc",
+"${SHOW_OVERLAY} must be held.",
+"missing"
+],
+[
+"jade",
+"config.jade.display_mode_lite_desc",
+"Hold ${SHOW_DETAILS} to show further information.",
+"missing"
+],
+[
+"jade",
+"config.jade.perspective_mode_camera_desc",
+"Better compatibility with other mods that modify the behavior of the camera.",
+"missing"
+],
+[
+"jade",
+"config.jade.perspective_mode_eye_desc",
+"Better accuracy when the player is moving.",
+"missing"
+],
+[
+"jade",
+"config.jade.plugin_minecraft.tnt_stability_desc",
+"Warn player of special TNT that ignites when hit.",
+"missing"
+],
+[
+"netherexp",
+"advancements.nether.quartz_chasm.description",
+"Those who pride themselves in their greatness...",
+"missing"
+],
+[
+"netherexp",
+"netherexp.configuration.ectoSlabKnockbackResistancePerStack",
+"Ecto Slab Knockback Resistance per Stack",
+"missing"
+],
+[
+"cataclysm",
+"death.attack.cataclysm.maledictio_magicae",
+"%s was cursed by %s 's Magic",
+"missing"
+],
+[
+"shouldersurfing",
+"shouldersurfing.configuration.object_picker.custom_raytrace_distance.tooltip",
+"The raytrace distance used for the dynamic crosshair.",
+"missing"
+],
+[
+"shouldersurfing",
+"shouldersurfing.configuration.object_picker.use_custom_raytrace_distance.tooltip",
+"Whether or not to use the custom raytrace distance used for the dynamic crosshair.",
+"missing"
+],
+[
+"stextras",
+"ftbquests.task.stextras.config.race_id.tooltip",
+"Leave empty to accept any race prestige completion.",
+"missing"
+],
+[
+"stextras",
+"ftbquests.task.stextras.config.skill_id.tooltip",
+"Leave empty to accept any locked skill.",
+"missing"
+],
+[
+"vanillabackport",
+"advancements.adventure.heart_transplanter.description",
+"Place a Creaking Heart with the correct alignment between two Pale Oak Log blocks",
+"missing"
+],
+[
+"yungscavebiomes",
+"command.sandstorm.start",
+"Sandstorm started in all Lost Caves in %s.",
+"missing"
+],
+[
+"artifacts",
+"artifacts.advancements.adventurous_eater.description",
+"Eat an Artifact",
+"same"
+],
+[
+"artifacts",
+"artifacts.advancements.amateur_archaeologist.description",
+"Find an Artifact",
+"same"
+],
+[
+"artifacts",
+"artifacts.advancements.chest_slayer.description",
+"Kill a Mimic",
+"same"
+],
+[
+"artifacts",
+"artifacts.config.client.cooldownOverlayOffset.description.0",
+"Location of the artifact cooldown gui element",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.client.cooldownOverlayOffset.description.1",
+"Distance from the hotbar measured in pixels",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.client.cooldownOverlayOffset.description.2",
+"Negative values place the element left of the hotbar",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.client.enableCooldownOverlay.description",
+"Whether artifacts on cooldown should be displayed next to the hotbar",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.client.heliumFlamingoOverlayOffset.description",
+"Controls the vertical position of the Helium Flamingo's charge meter",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.client.showFirstPersonGloves.description",
+"Whether models for gloves are shown in first person",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.client.showTooltips.description",
+"Whether artifacts have tooltips explaining their effects",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.client.useModdedMimicTextures.description",
+"Whether mimics can use textures from Lootr or Quark",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.archaeologyChance.description",
+"The chance that an artifact generates in suspicious sand or gravel",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.artifactRarity.description.0",
+"Affects how common artifacts are in chests",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.artifactRarity.description.1",
+"Values above 1 will make artifacts rarer, values between 0 and 1 will make artifacts more common",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.artifactRarity.description.2",
+"Doubling this value will make artifacts approximately twice as hard to find, and vice versa",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.artifactRarity.description.3",
+"To prevent artifacts from appearing as chest loot, set this to 10000.",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.campsite.allowLightSources.description",
+"Whether campsites can contain blocks that emit light",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.campsite.campsiteCount.description.0",
+"How many times a campsite will attempt to generate per chunk",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.campsite.campsiteCount.description.1",
+"Set this to 0 to prevent campsites from generating",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.campsite.maxY.description",
+"The maximum height campsites can spawn at",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.campsite.mimicChance.description",
+"The probability that a campsite has a mimic instead of a chest",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.campsite.minY.description",
+"The minimum height campsites can spawn at",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.campsite.useModdedChests.description",
+"Whether to use wooden chests from other mods when generating campsites",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.entityEquipmentChance.description",
+"The chance that a skeleton, zombie or piglin spawns with an artifact equipped",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.addFaceSlot.description.0",
+"When enabled, adds a separate slot for the Snorkel and Night Vision Goggles",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.addFaceSlot.description.1",
+"(Trinkets only, currently not compatible with Curios or Accessories)",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.enableAccessoriesCompat.description.0",
+"Whether Artifacts should add slots to the Accessories menu,",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.enableAccessoriesCompat.description.1",
+"and allow artifacts to be equipped in them",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.enableCuriosCompat.description.0",
+"Whether Artifacts should add slots to the Curios menu,",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.enableCuriosCompat.description.1",
+"and allow artifacts to be equipped in them",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.enableTrinketsCompat.description.0",
+"Whether Artifacts should add slots to the Trinket menu,",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.enableTrinketsCompat.description.1",
+"and allow artifacts to be equipped in them",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.removeSlotRestrictions.description.0",
+"When enabled, allows any artifact to be equipped in any slot",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.general.slots.removeSlotRestrictions.description.1",
+"(Requires Curios or Trinkets, currently not compatible with Accessories)",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.generateAsLoot.description",
+"Whether this item can be found in structures or drop from entities",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.anglers_hat.luckOfTheSeaLevelBonus.description",
+"The amount of extra levels of luck of the sea that are granted by the Angler's Hat",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.anglers_hat.luckOfTheSeaLevelBonus.title",
+"Luck of the Sea Level Bonus",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.anglers_hat.lureLevelBonus.description",
+"The amount of extra levels of lure that are granted by the Angler's Hat",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.antidote_vessel.enabled.description",
+"Whether the Antidote Vessel reduces the duration of negative effects",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.antidote_vessel.maxEffectDuration.description",
+"The maximum duration in seconds negative mob effects can last when wearing the Antidote Vessel",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.aqua_dashers.enabled.description",
+"Whether the Aqua-Dashers allow the wearer to sprint on water",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.bunny_hoppers.fallDamageMultiplier.description.0",
+"How much the Bunny Hoppers reduce or increase fall damage",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.bunny_hoppers.fallDamageMultiplier.description.1",
+"Values between -1 and 0 reduce fall damage",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.bunny_hoppers.fallDamageMultiplier.description.2",
+"Values above 0 increase fall damage",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.bunny_hoppers.jumpStrengthBonus.description",
+"The amount of extra jump strength the Bunny Hoppers apply to players",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.bunny_hoppers.modifyHurtSounds.description",
+"Whether the Bunny Hoppers change the player's hurt sounds",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.bunny_hoppers.safeFallDistanceBonus.description",
+"The amount of extra safe fall distance in blocks that is granted by the Bunny Hoppers",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.charm_of_shrinking.scaleModifier.description.0",
+"How much the Charm of Shrinking decreases or increases the player's Scale",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.charm_of_shrinking.scaleModifier.description.1",
+"Values between -1 and 0 reduce the player's scale",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.charm_of_shrinking.scaleModifier.description.2",
+"Values above 0 increase the player's scale",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.charm_of_sinking.enabled.description",
+"Whether the Charm of Sinking removes the wearer's collision with water",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.charm_of_sinking.oxygenBonus.description",
+"How much longer players wearing the Charm of Sinking can stay underwater",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.charm_of_sinking.underwaterFallDamage.description",
+"Whether it is possible to take fall damage underwater when wearing the Charm of Sinking",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.chorus_totem.consumeOnUse.description",
+"Whether the Chorus Totem is consumed after activating",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.chorus_totem.cooldown.description",
+"The duration in seconds the Chorus Totem goes on cooldown for after activating",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.chorus_totem.healthRestored.description",
+"The amount of health points that are restored after the Chorus Totem activates",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.chorus_totem.teleportationChance.description",
+"The probability that the Chorus Totem activates when a player dies",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cloud_in_a_bottle.enabled.description",
+"Whether the Cloud in a Bottle allows the wearer to double jump",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cloud_in_a_bottle.fallDamageMultiplier.description",
+"How much fall damage is dealt when double jumping with the Cloud in a Bottle",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cloud_in_a_bottle.safeFallDistanceBonus.description",
+"The amount of extra safe fall distance in blocks that is granted by the Cloud in a Bottle",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cloud_in_a_bottle.sprintJumpHorizontalVelocity.description",
+"The amount of extra horizontal velocity that is applied to players that double jump while sprinting using the Cloud in a Bottle",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cloud_in_a_bottle.sprintJumpVerticalVelocity.description",
+"The amount of extra vertical velocity that is applied to players that double jump while sprinting using the Cloud in a Bottle",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cowboy_hat.mountSpeedBonus.description",
+"How much the Cowboy Hat increases the speed of ridden mounts",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cross_necklace.bonusInvincibilityTicks.description",
+"The amount of extra ticks the player stays invincible for after taking damage while wearing the Cross Necklace",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.cross_necklace.cooldown.description",
+"The duration in seconds the Cross Necklace goes on cooldown for after activating",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.crystal_heart.healthBonus.description",
+"The amount of extra health points that are granted by the Crystal Heart",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.digging_claws.blockBreakSpeedBonus.description",
+"How much the Digging Claws increase the wearer's mining speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.digging_claws.toolTier.description",
+"The tool tier that the Digging Claws increase the wearer's mining level to",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.eternal_steak.cooldown.description",
+"The duration in seconds the Eternal Steak goes on cooldown for after being eaten",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.eternal_steak.enabled.description",
+"Whether the Eternal Steak can be eaten",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.everlasting_beef.cooldown.description",
+"The duration in seconds the Everlasting Beef goes on cooldown for after being eaten",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.everlasting_beef.dropRate.description",
+"The probability that Everlasting Beef drops when a cow or mooshroom is killed by a player",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.everlasting_beef.enabled.description",
+"Whether the Everlasting Beef can be eaten",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.feral_claws.attackSpeedBonus.description",
+"How much the Feral Claws increase the wearer's attack speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.fire_gauntlet.fireDuration.description",
+"How long an entity is set on fire for after being attacked by an entity wearing the Fire Gauntlet",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.flame_pendant.cooldown.description",
+"The duration in seconds the Flame Pendant goes on cooldown for after setting an entity on fire",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.flame_pendant.fireDuration.description",
+"How long an attacking entity is set on fire for when the Flame Pendant activates",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.flame_pendant.grantFireResistance.description",
+"Whether the Flame Pendant grants Fire Resistance after igniting an entity",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.flame_pendant.strikeChance.description",
+"The probability that the Flame Pendant lights an attacker on fire",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.flippers.swimSpeedBonus.description",
+"How much the Flippers increase the wearer's swim speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.golden_hook.entityExperienceBonus.description",
+"The amount of extra experience dropped by entities that are killed by players wearing the Golden Hook",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.helium_flamingo.cooldown.description",
+"The duration in seconds the Helium Flamingo goes on cooldown for when stopping flight",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.helium_flamingo.flightDuration.description",
+"The amount of time in seconds a player can fly with the Helium Flamingo before needing to recharge",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.helium_flamingo.rechargeDuration.description",
+"The amount of time in seconds it takes for the Helium Flamingo to recharge",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.kitty_slippers.modifyHurtSounds.description",
+"Whether the Kitty Slippers change the player's hurt sounds",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.kitty_slippers.repelCreepers.description",
+"Whether the Kitty Slippers scare nearby creepers",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.kitty_slippers.repelPhantoms.description",
+"Whether the Kitty Slippers hiss at nearby phantoms",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.lucky_scarf.fortuneLevelBonus.description",
+"The amount of extra levels of fortune that are granted by the Lucky Scarf",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.night_vision_goggles.strength.description",
+"The strength of the night vision effect applied by the Night Vision Goggles",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.novelty_drinking_hat.drinkingSpeedBonus.description",
+"How much the Novelty Drinking Hat increases the wearer's drinking speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.novelty_drinking_hat.eatingSpeedBonus.description",
+"How much the Novelty Drinking Hat increases the wearer's eating speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.obsidian_skull.cooldown.description",
+"The amount of time in seconds the Obsidian Skull goes on cooldown for after taking fire damage",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.obsidian_skull.fireResistanceDuration.description",
+"The duration of the fire resistance effect that is applied when taking fire damage while wearing the Obsidian Skull",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.onion_ring.hasteDurationPerFoodPoint.description",
+"The duration of haste that is applied per food point eaten while wearing the Onion Ring",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.onion_ring.hasteLevel.description",
+"The level of the haste effect that is applied by the Onion Ring",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.panic_necklace.cooldown.description",
+"The duration in seconds the Panic Necklace goes on cooldown for after taking damage",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.panic_necklace.speedDuration.description",
+"The duration in seconds of the speed effect that is applied when taking damage while wearing the Panic Necklace",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.panic_necklace.speedLevel.description",
+"The level of the speed effect that is applied by the Panic Necklace",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.pickaxe_heater.enabled.description",
+"Whether the Pickaxe Heater smelts mined ores",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.plastic_drinking_hat.drinkingSpeedBonus.description",
+"How much the Plastic Drinking Hat increases the wearer's drinking speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.plastic_drinking_hat.eatingSpeedBonus.description",
+"How much the Plastic Drinking Hat increases the wearer's eating speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.pocket_piston.attackKnockbackBonus.description",
+"The amount of extra knockback that is granted by the Pocket Piston",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.power_glove.attackDamageBonus.description",
+"The amount of extra damage that is dealt by melee attacks from players wearing the Power Glove",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.rooted_boots.enabled.description",
+"Whether the Rooted Boots replenish hunger when standing on grass",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.rooted_boots.growPlantsAfterEating.description",
+"Whether the Rooted Boots apply a bone meal effect after eating food",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.rooted_boots.hungerReplenishingDuration.description",
+"The amount of time in seconds it takes to replenish a single point of hunger while wearing the Rooted Boots",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.running_shoes.sprintingSpeedBonus.description",
+"How much the Running Shoes increase the wearer's sprinting speed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.running_shoes.sprintingStepHeightBonus.description",
+"How much the Running Shoes increase the wearer's step height while sprinting",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.scarf_of_invisibility.enabled.description",
+"Whether the Scarf of Invisibility makes players invisible",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.scarf_of_invisibility.hideWhenInvisible.description",
+"Whether the Scarf of Invisibility is hidden when the wearer is invisible",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.shock_pendant.cancelLightningDamage.description",
+"Whether the Shock Pendant cancels damage from lightning",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.shock_pendant.cooldown.description",
+"The amount of time in seconds the Shock Pendant goes on cooldown for after striking an attacker with lightning",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.shock_pendant.strikeChance.description",
+"The probability that the Shock Pendant strikes an attacking entity with lightning",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.snorkel.isInfinite.description",
+"Whether the Snorkel's water breathing effect depletes when underwater",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.snorkel.waterBreathingDuration.description",
+"The duration of the water breathing effect that is applied by the Snorkel",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.snowshoes.allowWalkingOnPowderedSnow.description",
+"Whether the Snowshoes allow the wearer to walk on powdered snow",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.snowshoes.movementSpeedOnSnowBonus.description",
+"How much the Snowshoes increase the wearer's movement speed on snow blocks",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.steadfast_spikes.knockbackResistance.description",
+"How much knockback resistance is granted by the Steadfast Spikes",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.steadfast_spikes.slipperinessReduction.description",
+"How much the Steadfast Spikes reduce the slipperiness of ice",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.strider_shoes.cancelHotFloorDamage.description",
+"Whether the Strider Shoes make the wearer immune to hot floor damage",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.strider_shoes.enabled.description",
+"Whether the Strider Shoes allow sneaking on lava",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.superstitious_hat.lootingLevelBonus.description",
+"The amount of extra levels of Looting that are granted by the Superstitious Hat",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.thorn_pendant.cooldown.description",
+"The duration in seconds the Thorn Pendant goes on cooldown for after activating",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.thorn_pendant.maxDamage.description",
+"The minimum amount of damage that is dealt when the Thorn Pendant activates",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.thorn_pendant.minDamage.description",
+"The maximum amount of damage that is dealt when the Thorn Pendant activates",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.thorn_pendant.strikeChance.description",
+"The probability that the Thorn Pendant damages an attacking entity",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.umbrella.isGlider.description",
+"Whether the Umbrella slows the player's falling speed when held",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.umbrella.isShield.description",
+"Whether the Umbrella can be used as a shield",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.universal_attractor.magnetismLevel.description",
+"The level of the magnetism effect that is applied by the Universal Attractor",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.vampiric_glove.absorptionChance.description",
+"The probability that damage is absorbed when attacking an entity with the Vampiric Gloves",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.vampiric_glove.absorptionRatio.description",
+"The proportion of melee damage dealt that is absorbed by the Vampiric Gloves",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.vampiric_glove.maxHealingPerHit.description",
+"The maximum amount of healing that can be absorbed in a single hit when attacking an entity while wearing the Vampiric Glove",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.villager_hat.reputationBonus.description",
+"The amount of extra reputation that is granted by the Villager Hat when trading with villagers",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.warp_drive.cooldown.description",
+"The duration Ender Pearls go on cooldown for after being thrown using the Warp Drive",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.warp_drive.enabled.description",
+"Whether the Warp Drive causes ender pearls to not be consumed",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.warp_drive.hungerCost.description",
+"How many hunger points it costs to throw an Ender Pearl using the Warp Drive",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.warp_drive.nullifyEnderPearlDamage.description",
+"Whether the Warp Drive causes Ender Pearls not to deal any damage",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.whoopee_cushion.fartChance.description",
+"The probability that a fart sound plays when sneaking or double jumping while wearing the Whoopee Cushion",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.withered_bracelet.cooldown.description",
+"The duration the Withered Bracelet goes on cooldown for after inflicting wither on an entity",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.withered_bracelet.witherChance.description",
+"The probability that the Withered Bracelet inflicts a wither effect",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.withered_bracelet.witherDuration.description",
+"The duration of the wither effect applied by the Withered Bracelet",
+"missing"
+],
+[
+"artifacts",
+"artifacts.config.items.withered_bracelet.witherLevel.description",
+"The level of the wither effect that is inflicted by the Withered Bracelet",
+"missing"
+],
+[
+"bookshelf",
+"table.minecraft.chests.trial_chambers.reward_ominous_unique.name",
+"Trial Chamber - Ominous Reward - Unique",
+"missing"
+],
+[
+"bookshelf",
+"table.minecraft.gameplay.hero_of_the_village.cartographer_gift.name",
+"Hero Of The Village - Cartographer",
+"missing"
+],
+[
+"chat_heads",
+"text.autoconfig.chat_heads.option.smartHeuristics.@Tooltip",
+"Turn off heuristics if the server is known to send UUIDs.\n(Applies to the \"UUID and heuristic\" sender detection)",
+"missing"
+],
+[
+"chronodawn",
+"advancements.chronodawn.ultimate_artifacts.description",
+"Craft an ultimate artifact from Stasis Core Shards",
+"missing"
+],
+[
+"cloth-config2",
+"text.cloth-config.restart_required_sub",
+"One of your modified settings requires Minecraft to be restarted. Do you want to proceed?",
+"missing"
+],
+[
+"configured",
+"configured.gui.requires_game_restart",
+"If this property is changed, you will have to restart your game for it to take effect.",
+"missing"
+],
+[
+"configured",
+"configured.gui.requires_world_restart",
+"If this property is changed, you will have to reload your world for it to take effect.",
+"missing"
+],
+[
+"configured",
+"configured.gui.world_restart_needed",
+"The world will need to be reloaded for all changes to take effect",
+"missing"
+],
+[
+"configured",
+"configured.gui.game_restart_needed",
+"The game will need to be restarted for all changes to take effect",
+"missing"
+],
+[
+"emi",
+"emi.edit_mode.hide_all",
+"Press %s to hide stacks by ID",
+"missing"
+],
+[
+"emi_loot",
+"emi_loot.function.custom_model_data",
+"Gives the drop a custom item model",
+"missing"
+],
+[
+"emi_loot",
+"emi_loot.item_predicate.durability",
+"with a certain durability between %1$s and %2$s",
+"missing"
+],
+[
+"eternal_starlight",
+"advancements.eternal_starlight.obtain_thioquartz_shard.description",
+"Obtain a Thioquartz Shard",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.actions.manage_resource_pack.edit.mode.desc",
+"Choose whether this action enables, disables, or toggles the selected pack.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.actions.write_file.edit.mode.desc",
+"Choose whether to override the entire file content or append to the existing content.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.backgrounds.image.restart_animated_on_menu_load",
+"Restart Animated Textures When Opening Screen: %s",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.custom_guis.build.popup_mode.desc",
+"If the Custom GUI should work like a popup menu that gets opened on top of the parent screen.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.custom_guis.build.popup_mode_background_overlay.desc",
+"If there should be an overlay rendered over the screen in the background of the popup menu.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.editor.anchor_overlay.visibility_mode.keybind",
+"Show On Key Press (Key \"O\")",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.element.rotation.advanced_mode.desc",
+"Enabling this allows you to use placeholders in the element's\nrotation degrees value, but it will also disable rotation grabbers.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.element.tilt.horizontal.advanced_mode.desc",
+"Enabling this allows you to use placeholders in the element's\nhorizontal tilt degrees value, but it will also disable tilt grabbers.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.element.tilt.vertical.advanced_mode.desc",
+"Enabling this allows you to use placeholders in the element's\nvertical tilt degrees value, but it will also disable tilt grabbers.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.elements.animation_controller.keyframe_manager.offset_mode.desc",
+"In offset mode, the target elements will use their\nnormal position as origin and get animated starting from this\nposition instead of getting their position completely overridden.\n\nIn this mode, keyframes get saved in a different way.\nThe middle of the screen (crosshair) stands for\nthe target element and you should record keyframes\naround this crosshair.\nKeyframes recorded in offset mode are not compatible\nwith the normal mode an vice-versa, so you should\nchoose a mode before start recording.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.elements.buttons.textures.restart_animated_on_hover",
+"Restart Animated Textures On Hover: %s",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.elements.cursor.editor_preview_mode.desc",
+"Shows the custom cursor in the editor\nwhen hovering over the cursor element.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.elements.image.restart_animated_on_menu_load",
+"Restart Animated Textures When Opening Screen: %s",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.elements.text.source_mode.desc",
+"§zDirect Text:\nDirectly input a text to render.\n\n§zLocal Source:\nUse a TXT file as source.\n\n§zWeb Source:\nUse the plain text content\nof a website as source.\n\n§xChanging the source mode will\n§xreset the text content!\n\n§xYou can undo source changing\n§xby pressing §lCTRL + Z§r§x!",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.elements.text.v2.source_mode.desc",
+"§lDirect: §rInput text content via text editor.\n§lResource: §rSet a source file to get the text content from.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.elements.ticker.tick_mode.desc",
+"§lNormal: §rTicker ticks every tick.\n\n§lSession: §rTicker ticks once per game session.\n\n§lOn Load Screen: §rTicker ticks once every time you load the screen.\nKeep in mind that screens also get\nreloaded when resizing the game window.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.fancymenu.editor.layoutoptions.randommode.desc",
+"Add this layout to a group to randomly\npick one of the group's layouts\nwhen opening the screen.\n\nCan be used to randomize\nbackgrounds and other elements.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.fancymenu.editor.layoutoptions.randommode.onlyfirsttime.desc",
+"If layouts of this random group\nshould be random everytime the\nscreen gets opened or if only one layout\nshould be picked the first time\nthe screen gets opened.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.fancymenu.editor.layoutoptions.randommode.setgroup.desc",
+"Set the group of this layout.\nOne layout per group gets picked\nwhen opening the screen.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_entity_starts_being_in_sight",
+"On Entity Starts Being In Sight",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_entity_starts_being_in_sight.desc",
+"This listener triggers once when an entity first becomes visible in the player's field of view (and is not farther away than 200 blocks).\n\nIt provides the following variables for its actions and requirements:\n\n- §z$$entity_key §r= The resource location of the visible entity type\n- §z$$distance_to_player §r= The distance from the player's eyes to the entity\n- §z$$entity_pos_x §r= The entity's X coordinate\n- §z$$entity_pos_y §r= The entity's Y coordinate\n- §z$$entity_pos_z §r= The entity's Z coordinate\n- §z$$entity_uuid §r= The UUID of the visible entity",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_music_track_started.desc",
+"This listener triggers once when a new music track starts playing.\n\nIt provides the following variables for its actions and requirements:\n\n- §z$$track_resource_location §r= The resolved resource location of the audio file that started\n- §z$$track_display_name §r= Human-readable track name when available, otherwise UNKNOWN\n- §z$$track_artist §r= Reported track artist when available, otherwise UNKNOWN\n- §z$$track_duration_ms §r= Track duration expressed in milliseconds (0 when unknown)",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_start_looking_at_block.desc",
+"This listener triggers once when the crosshair starts pointing at a block in the world.\n\nIt only detects blocks within a maximum distance of 20 blocks from the player's eyes.\n\nIt provides the following variables for its actions and requirements:\n\n- §z$$block_key §r= The resource location of the targeted block\n- §z$$block_pos_x §r= The X coordinate of the targeted block\n- §z$$block_pos_y §r= The Y coordinate of the targeted block\n- §z$$block_pos_z §r= The Z coordinate of the targeted block\n- §z$$distance_to_player §r= The distance from the player's eyes to the block hit position",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_start_looking_at_entity.desc",
+"This listener triggers once when the crosshair starts pointing at an entity.\n\nIt only detects entities within a maximum distance of 20 blocks from the player's eyes.\n\nIt provides the following variables for its actions and requirements:\n\n- §z$$entity_key §r= The resource location of the targeted entity type\n- §z$$distance_to_player §r= The distance from the player's eyes to the entity hit position\n- §z$$entity_pos_x §r= The entity's X coordinate\n- §z$$entity_pos_y §r= The entity's Y coordinate\n- §z$$entity_pos_z §r= The entity's Z coordinate\n- §z$$entity_uuid §r= The UUID of the targeted entity",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_start_swimming.desc",
+"This listener triggers once when the player starts swimming.\n\nIt provides the following variables for its actions and requirements:\n\n- §z$$fluid_type §r= The resource location of the fluid the player started swimming in",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_start_touching_fluid.desc",
+"This listener triggers once when the player starts touching a fluid.\n\nIt provides the following variables for its actions and requirements:\n\n- §z$$fluid_type §r= The resource location of the fluid the player touched",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_started_burning.desc",
+"This listener triggers once when the player starts burning.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_started_drowning.desc",
+"This listener triggers once when the player begins taking drowning damage.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_started_freezing.desc",
+"This listener triggers once when the player starts freezing.\n\nIt provides the following variables for its actions and requirements:\n\n- §z$$freezing_intensity §r= The current freezing intensity (0.0 = no freeze, 1.0 = fully frozen)",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.listeners.on_started_running.desc",
+"This listener triggers once when the player starts sprinting.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.overlay.menu_bar.customization.settings.advanced_customization_mode.tooltip",
+"This is only for advanced users!\n\n§xYou can break your game with that stuff!",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.placeholders.world.player_gamemode.desc",
+"Returns the current game mode of the player.\nReturns an empty value when not in a world.\nPossible Values: survival, creative, adventure, spectator",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.gamemode.is_adventure.desc",
+"Check if the player is\ncurrently in adventure mode.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.gamemode.is_creative.desc",
+"Check if the player is\ncurrently in creative mode.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.gamemode.is_spectator.desc",
+"Check if the player is\ncurrently in spectator mode.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.gamemode.is_survival.desc",
+"Check if the player is\ncurrently in survival mode.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.screens.build_group_screen.mode.desc",
+"The group mode defines how the group\nshould handle its requirements.\n\n§zAND §rmeans, ALL requirements need\nto be TRUE, which basically just\nmeans they need to say \"Yes, load!\".\n\n§zOR §rmeans, only ONE requirement\nneeds to be TRUE.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.screens.build_screen.requirement_mode.desc",
+"The requirement mode defines what\nthe requirement should tell its parent\nwhen its condition is met.\n\n§zNORMAL §rmeans, it returns TRUE (\"Yes, load!\")\nwhen its condition is met.\n\n§zOPPOSITE §rmeans, it returns TRUE when\nits condition is NOT met.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.world.has_player_absorption_hearts.desc",
+"If the player has absorption hearts.\nReturns false when no world is loaded.",
+"missing"
+],
+[
+"fancymenu",
+"fancymenu.requirements.world.is_gamemode.desc",
+"If the player is in a certain game mode.\nTakes the name of a game mode as value.\nReturns false when no world is loaded.",
+"missing"
+],
+[
+"foxablazeaqzl_wiki",
+"foxablazeaqzl_wiki.command.missing_skills.success",
+"Exported %s missing wiki skills to %s",
+"missing"
+],
+[
+"foxablazeaqzl_wiki",
+"foxablazeaqzl_wiki.command.missing_skills.failure",
+"Failed to export missing wiki skills to %s",
+"missing"
+],
+[
+"foxablazeaqzl_wiki",
+"foxablazeaqzl_wiki.wiki.skill.tensuramoreskills.i_want_to_be_just_like_you.name",
+"I Want to Be Just Like You",
+"missing"
+],
+[
+"foxablazeaqzl_wiki",
+"foxablazeaqzl_wiki.wiki.skill.trnightmare.hive_king.name",
+"Little Hive king of Living Veins",
+"missing"
+],
+[
+"foxablazeultimate",
+"foxablazeultimate.predation_filter.command.added",
+"Added %s predation filter slots for %s. Current total: %s (admin bonus: %s)",
+"missing"
+],
+[
+"foxablazeultimate",
+"foxablazeultimate.predation_filter.command.no_raphael",
+"%s does not have Raphael, so predation filter slots cannot be added.",
+"missing"
+],
+[
+"foxboss_leon_cromwell",
+"command.foxboss_leon_cromwell.spiritron.cannot_start",
+"Cannot activate: Leon must be alive, awake and standing, hold a sword for Sword mode, and have enough MP.",
+"missing"
+],
+[
+"foxboss_leon_cromwell",
+"command.foxboss_leon_cromwell.spiritron.started",
+"Activated %s for %s Leon entities.",
+"missing"
+],
+[
+"friendsandfoes",
+"advancements.friendsandfoes.adventure.the_magicians.description",
+"Kill all three illager magicians",
+"missing"
+],
+[
+"ftbchunks",
+"ftbchunks.config.server.force_loading.force_load_mode.tooltip",
+"NEVER: only allow chunk force-loading if the owning team has at least one online player\nALWAYS: always allow force-loading, even if no players are online\nDEFAULT: allow force-loading IF the team has at least one player with the FTB Ranks 'ftbchunks.chunk_load_offline' permission",
+"missing"
+],
+[
+"ftbchunks",
+"ftbchunks.config.server.pvp_mode",
+"Allow PvP Combat in Claimed Chunks",
+"missing"
+],
+[
+"ftbchunks",
+"ftbchunks.config.server.pvp_mode.tooltip",
+"ALWAYS: allow PvP combat in all claimed chunks\nNEVER: prevent PvP in all claimed chunks\nPER_TEAM: teams can decide if PvP is allowed in their claims via team property",
+"missing"
+],
+[
+"ftbchunks",
+"ftbchunks.config.server.ally_mode",
+"Allow Player to Change Ally Settings",
+"missing"
+],
+[
+"ftbchunks",
+"ftbchunks.config.server.ally_mode.tooltip",
+"DEFAULT: FTB Teams ally status is checked to decide if players are allied\nFORCED_ALL: all players are always considered to be allied\nFORCED_NONE: no players are ever considered to be allied",
+"missing"
+],
+[
+"ftbchunks",
+"ftbchunks.config.server.claiming.party_limit_mode.tooltip",
+"Method by which party claim & force-load limits are calculated.\nLARGEST: use the limits of the member with the largest limits\nSUM: add up all the members' limits\nOWNER: use the party owner's limits only\nAVERAGE: use the average of all members' limits.",
+"missing"
+],
+[
+"ftbchunks",
+"ftbchunks.config.server.location_mode_override.tooltip",
+"If true, team \"Location Visibility\" settings are ignored, and all players can see each other anywhere on the map",
+"missing"
+],
+[
+"ftbteams",
+"ftbteams.already_in_party",
+"You are already in a party!",
+"missing"
+],
+[
+"ftbteams",
+"ftbteams.player_already_in_party",
+"Player '%s' is already in a party!",
+"missing"
+],
+[
+"ftbteams",
+"ftbteams.not_in_party",
+"You haven't created or joined a party!",
+"missing"
+],
+[
+"ftbteams",
+"ftbteams.party_full",
+"Cannot add new players, your party is full! Max size is %s member(s)",
+"missing"
+],
+[
+"ftbteams",
+"ftbteams.party_api_only",
+"In this modpack you cannot create party teams directly!\n%s",
+"missing"
+],
+[
+"ftbteams",
+"ftbteams.config.server.max_party_size.tooltip",
+"If >0, party teams can contain no more than this number of players.\nIf 0, there is no limit to team sizes.\nNote: if this setting is altered and teams larger than the new value already exist on the server, they will be allowed to continue at their current size, but not able to invite new members.",
+"missing"
+],
+[
+"fzzy_config",
+"fc.config.restart.warning",
+"Changing this setting will require a restart!",
+"missing"
+],
+[
+"fzzy_config",
+"fc.config.restart.warning.section",
+"Some settings within this section will require a restart if changed!",
+"missing"
+],
+[
+"fzzy_config",
+"fc.config.restart.warning.config",
+"Some settings within this config will require a restart if changed!",
+"missing"
+],
+[
+"fzzy_config",
+"fc.config.restart.update",
+"You have received a configuration update that may require a client restart. Please contact a Server Operator if you have any questions.",
+"missing"
+],
+[
+"fzzy_config",
+"fc.config.restart.update.client",
+"You have made changes to configuration(s) that require a client restart.",
+"missing"
+],
+[
+"fzzy_config",
+"fc.config.restart.update.server",
+"You have made changes to configuration(s) that require a server restart. Connected clients have been automatically updated and notified; please follow up with players and/or staff members to schedule a restart.",
+"missing"
+],
+[
+"fzzy_config",
+"fc.config.restart.sync",
+"Settings received during synchronization require a client restart. Proceed?",
+"missing"
+],
+[
+"iris",
+"iris.shaders.debug.restart",
+"You do not have a debug context, please restart to enable OpenGL client debugging.",
+"missing"
+],
+[
+"iris",
+"iris.shaders.debug.restartNoDebug",
+"Shader debugging has been enabled; OpenGL debugging is unsupported on NeoForge.",
+"missing"
+],
+[
+"jei",
+"jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey",
+"Press \"%s\" here to toggle it.",
+"missing"
+],
+[
+"jei",
+"key.jei.toggleCheatMode.description",
+"Turn cheat mode on or off.",
+"missing"
+],
+[
+"jei",
+"key.jei.toggleCheatModeConfigButton.description",
+"Turn cheat mode on or off.",
+"missing"
+],
+[
+"jei",
+"key.jei.toggleCheatModeConfigButton.context",
+"hovering over the JEI config button",
+"missing"
+],
+[
+"jei",
+"key.jei.toggleEditMode.description",
+"Turn hide ingredients mode on or off.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.cheating.cheatModeEnabled.description",
+"Turn cheat mode on or off for the current session. This value is not saved to the configuration file. The server must allow JEI cheats.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.cheating.cheatModeEnabled.value.true.description",
+"Enable cheat mode, subject to server permission.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.cheating.cheatModeEnabled.value.false.description",
+"Disable cheat mode.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.advanced.editModeEnabled.description",
+"Turn ingredient hiding mode on or off for the current session. This value is not saved to the configuration file.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.advanced.editModeEnabled.value.true.description",
+"Allow ingredients to be hidden or unhidden from JEI.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.advanced.editModeEnabled.value.false.description",
+"Use ingredients normally without hiding or unhiding them.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.cheating.giveMode.description",
+"Choose where cheated ingredients go after they are taken from JEI.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.cheating.giveMode.inventory.description",
+"Add cheated ingredients directly to your inventory.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.cheating.giveMode.mouse_pickup.description",
+"Put cheated ingredients on your cursor, as if picked up from a slot.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.ingredientList.ingredientSortStages.max_durability.description",
+"Show items with higher maximum durability first.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.modNameSearchMode.description",
+"Search by the name of the mod that adds each ingredient. Prefix: @",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.modNameSearchMode.enabled.description",
+"Match mod names from normal search text.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.modNameSearchMode.require_prefix.description",
+"Match mod names only when @ is typed first, like @minecraft.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.modNameSearchMode.disabled.description",
+"Do not search mod names.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tagSearchMode.description",
+"Search tags that group related ingredients, such as logs or ingots. Prefix: #",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tagSearchMode.enabled.description",
+"Match ingredient tags from normal search text.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tagSearchMode.require_prefix.description",
+"Match ingredient tags only when # is typed first, like #forge.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tagSearchMode.disabled.description",
+"Do not search ingredient tags.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tooltipSearchMode.description",
+"Search words shown in ingredient tooltips. Prefix: $",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tooltipSearchMode.enabled.description",
+"Match tooltip text from normal search text.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tooltipSearchMode.require_prefix.description",
+"Match tooltip text only when $ is typed first, like $damage.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.tooltipSearchMode.disabled.description",
+"Do not search ingredient tooltips.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.colorSearchMode.description",
+"Search ingredients by their main color. Prefix: ^",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.colorSearchMode.enabled.description",
+"Match color names from normal search text.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.colorSearchMode.require_prefix.description",
+"Match color names only when ^ is typed first, like ^red.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.colorSearchMode.disabled.description",
+"Do not search ingredients by color name.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.resourceLocationSearchMode.description",
+"Search ingredient IDs like minecraft:stone. Prefix: &",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.resourceLocationSearchMode.enabled.description",
+"Match ingredient IDs from normal search text.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.resourceLocationSearchMode.require_prefix.description",
+"Match ingredient IDs only when & is typed first, like &minecraft:stone.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.resourceLocationSearchMode.disabled.description",
+"Do not search ingredient IDs.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.creativeTabSearchMode.description",
+"Search by the creative inventory tab that contains an ingredient. Prefix: %",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.creativeTabSearchMode.enabled.description",
+"Match creative inventory tab names from normal search text.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.creativeTabSearchMode.require_prefix.description",
+"Match creative inventory tab names only when % is typed first, like %building.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.search.creativeTabSearchMode.disabled.description",
+"Do not search creative inventory tab names.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.lists.navigationMode.description",
+"Choose how to move through the ingredient and bookmark lists.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.lists.navigationMode.paged.description",
+"Use page buttons to move through both lists.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.lists.navigationMode.scrolling.description",
+"Use scroll bars to move through both lists.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.ingredientList.layoutMode.description",
+"Choose how the ingredient list uses the available screen space.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.ingredientList.layoutMode.rectangular.description",
+"Keep navigation aligned to a rectangular grid while allowing excluded slots to be cut out.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.ingredientList.layoutMode.maximize_available_space.description",
+"Resize and shift navigation around excluded areas to use more space.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.bookmarkList.layoutMode.description",
+"Choose how the bookmark list uses the available screen space.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.bookmarkList.layoutMode.rectangular.description",
+"Keep navigation aligned to a rectangular grid while allowing excluded slots to be cut out.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.bookmarkList.layoutMode.maximize_available_space.description",
+"Resize and shift navigation around excluded areas to use more space.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.recipes.navigationMode.description",
+"Choose how to move through recipes within a category. Categories always use pages.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.recipes.navigationMode.paged.description",
+"Use page buttons to move through recipes.",
+"missing"
+],
+[
+"jei",
+"jei.config.client.recipes.navigationMode.scrolling.description",
+"Use the mouse wheel or scroll bar to move through recipes within the selected category.",
+"missing"
+],
+[
+"jei",
+"jei.config.server.permissions.enableCheatModeForOp.description",
+"Allow players with operator status (/op) to use JEI cheat mode.",
+"missing"
+],
+[
+"jei",
+"jei.config.server.permissions.enableCheatModeForCreative",
+"Allow Cheat Mode in Creative Mode",
+"missing"
+],
+[
+"jei",
+"jei.config.server.permissions.enableCheatModeForCreative.description",
+"Allow players in Creative Mode to use JEI cheat mode.",
+"missing"
+],
+[
+"jei",
+"jei.config.server.permissions.enableCheatModeForGive",
+"Allow Cheat Mode with Give Permission",
+"missing"
+],
+[
+"jei",
+"jei.config.server.permissions.enableCheatModeForGive.description",
+"Allow players who can use the /give command to use JEI cheat mode.",
+"missing"
+],
+[
+"mezz_config",
+"mezz_config.config.requiresWorldRestart",
+"Requires a world restart to take effect.",
+"missing"
+],
+[
+"mezz_config",
+"mezz_config.config.requiresGameRestart",
+"Requires a game restart to take effect.",
+"missing"
+],
+[
+"lambdynlights",
+"lambdynlights.tooltip.mode.1",
+"Enables dynamic lights. For example, if enabled, a torch held by a player will light up the area.",
+"missing"
+],
+[
+"lambdynlights",
+"lambdynlights.tooltip.mode.2",
+"%s and %s will lag a bit behind but minimizes light updates.",
+"missing"
+],
+[
+"lambdynlights",
+"lambdynlights.tooltip.mode.3",
+"%s is smooth dynamic lighting.",
+"missing"
+],
+[
+"lootr",
+"tag.entity_type.lootr.convert.minecarts",
+"Minecarts that can convert to Lootr carts",
+"missing"
+],
+[
+"modernfix",
+"modernfix.jei_load",
+"Loading JEI, this may take a while",
+"missing"
+],
+[
+"modernfix",
+"modernfix.no_lazydfu",
+"LazyDFU is not installed. If Minecraft needs to update game data from an older version, there may be noticeable lag.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.no_ferritecore",
+"FerriteCore is not installed. Memory usage will be very high.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.connectedness_dynresoruces",
+"Connectedness and ModernFix's dynamic resources option are not compatible. Remove Connectedness or disable dynamic resources in the ModernFix config.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.perf_mod_warning",
+"ModernFix mod warnings can be disabled by turning off mixin.feature.warn_missing_perf_mods in the ModernFix config.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.redirector_installed",
+"ModernFix detected that Redirector is installed. Redirector is known to cause many strange and hard-to-debug issues, and removing it is strongly recommended.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.message.reload_config",
+"A mod config file change was detected. To prevent loading files that aren't done saving, reloading must be triggered by running /mfrc.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.category.performance.description",
+"Features that help improve game/launch performance",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.category.bugfixes.description",
+"Core bugfixes to improve game stability",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.category.troubleshooting.description",
+"Features intended to assist in diagnosing problems",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.category.expert_only.description",
+"Do not change unless you know what you are doing",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.async_jei",
+"1.16 only. **A key optimization.** Patches JEI to perform its reloading on a background thread, completely eliminating the long delay it adds to world loading.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.async_locator",
+"1.16 only. Backports the Async Locator mod's patches to eliminate server freezes associated with `/locate`, loot table generation, etc.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.biome_zoomer",
+"1.16 only. Minor optimization to improve the performance of the biome zoomer using logic from 1.18.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.blast_search_trees",
+"All versions. If REI or JEI are installed, construction of the vanilla search trees for creative searching is disabled, and searching is instead done using these mods' search implementations. This saves several seconds during world loading, and probably also saves some RAM as well (although I have not measured).",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.boost_worker_count",
+"1.16 only. Removes the hardcoded cap on worker thread count, similarly to what Mojang did in 1.18.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.cache_blockstate_cache_arrays",
+"All versions. Avoids creating fresh copies of enum arrays each time a blockstate cache is initialized. Minor optimization, but easy to do.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.cache_model_materials",
+"All versions. Memoizes the `RenderMaterial` (texture) collection and dependency list that models return instead of requiring them to be recalculated on each request. Helps accelerate the model load/bake process.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.cache_strongholds",
+"All versions. Saves the generated list of stronghold positions with the world, instead of regenerating it on every world load. Saves a little bit of time on 1.16, and quite a bit more on 1.18 and 1.19.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.cache_upgraded_structures",
+"All versions. Many mods ship outdated structure files, which requires the game to upgrade them using DFU every single time they are loaded. This can be quite slow. This patch adds logic to instead save the upgraded version of the structure, and reuse it on the next load. To handle the case that the mod changes a structure file but not the name, the original file's hash is compared against the cached version, and if they do not match the structure will be upgraded again.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.compress_biome_container",
+"1.16 only. Minor optimization borrowed from Hydrogen, which attempts to save space in the biome container when possible. This gets disabled automatically if conflicting mods like BetterEnd or Chocolate are installed.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.datapack_reload_exceptions",
+"All versions. Reduces log spam and possibly slightly improves loading speed by not printing the stacktraces for some commonly thrown exceptions during datapack reload (e.g. missing items in loot tables/recipes). The message is still printed.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dedicated_reload_executor",
+"All versions. Moves resource pack and data pack reloading to a dedicated worker pool instead of using the default `Worker-Main` threads. This allows mods to Smooth Boot to still potentially improve singleplayer performance at runtime while not slowing down launch due to a limited thread count.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.deduplicate_location",
+"All versions, but disabled by default due to load time impact. Deduplicates resource location namespaces and paths. This saves RAM but also increases the cost of constructing a new `ResourceLocation` by quite a bit.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_dfu",
+"All versions. Modifies DFU initialization to happen the first time something needs to be upgraded. This sounds similar to LazyDFU but is distinctly implemented, as it avoids loading *any* DFU classes/data structures, while LazyDFU only disables rule optimization. Essentially, this option is a safer version of DataFixerSlayer as it will still load DFU when needed.\n\nYou should typically continue to use LazyDFU even with this option enabled, as otherwise DFU rule optimization will cause lag.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_sounds",
+"All versions. Allows the game to unload sounds, instead of sounds indefinitely persisting after being loaded.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_structure_manager",
+"All versions. Allows the game to unload structure files after generation concludes instead of keeping them loaded forever.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.fast_registry_validation",
+"All versions. Forge needlessly looks up a method via reflection every single time a registry is validated. This patch simply caches the returned value since it will be the same every time.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.faster_font_loading",
+"All versions. Optimizes the font renderer to load fonts faster, speeding up resource reload.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.faster_item_rendering",
+"All versions. Avoids rendering the sides of items in GUIs. (Yes, vanilla appears to do that.)\n\nThis can triple FPS with a mod like REI/JEI installed on weaker GPUs, if enough items are visible. Disabled by default since it's new and not tested much, but should be safe. The most likely issue is items being completely invisible in GUIs, or appearing flat in the world.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.faster_texture_loading",
+"All versions pre 1.19.4. Avoids reading textures twice (the first time using a very slow code path) and instead does one faster load (similar to 1.19.3+).",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.faster_texture_stitching",
+"All versions. Enables the game to use a faster texture stitching system originally written by SuperCoder79 for lwjgl3ify on 1.7.10, which can save some time during loading. Rarely, it's been reported to cause weird artifacts on blocks or in GUIs, this may be a Sodium bug.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.jeresources_startup",
+"1.16 only. Optimizes Just Enough Resources to not needlessly recreate villager entities many times for the same profession, which saves time during JEI startup.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.kubejs",
+"1.16 only. Optimizations to KubeJS to avoid needless `ItemStack` copying, etc., which reduces the time taken to load datapacks.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.model_optimizations",
+"All versions. Implements optimizations to speed up the model loading process.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.nbt_memory_usage",
+"All versions. Uses a more efficient backing map for compound NBT tags that deduplicates key names and also uses an array map for very small compounds. This reduces the overhead of storing many compound tags in memory.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.nuke_empty_chunk_sections",
+"1.16 only, inspired by Hydrogen. Avoids storing chunk sections that are full of air in memory, instead marking them as empty.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.reduce_blockstate_cache_rebuilds",
+"All versions. **A key optimization.** Newer Minecraft versions (after 1.12) implemented a blockstate cache system that caches frequently used information about a blockstate, such as whether it is solid, its collision shape, etc. Rebuilding this cache is quite fast in vanilla (it takes only a second or two) but is quite slow with many mods installed, as there are many more blockstates present in the game which all must have their caches rebuilt.\n\nThis problem is exacerbated by Forge as the cache is rebuilt at many points when the data would almost certainly be unused before the next rebuild. Examples include right before reaching the main menu (during the \"Freezing data\" stage), as well as multiple (!) times when a world is being loaded.\n\nModernFix solves this performance bottleneck by instead making cache rebuilds lazy. Each blockstate rebuilds its cache the first time the data would be accessed. At any point when vanilla or Forge would attempt to rebuild caches for all blockstates, this is redirected to simply invalidate the cache on each blockstate instead.\n\nThis should not have any impact on TPS after startup concludes.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.remove_biome_temperature_cache",
+"All versions. Removes the biome temperature cache as Lithium does on modern versions.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.resourcepacks",
+"All versions. **A key optimization.** Launches on modern versions are heavily bottlenecked by filesystem access. Many requests are frequently made to resource packs to list resources or check if a given resource exists, and each of these result in a very slow file API call.\n\nModernFix completely eliminates most of the bottleneck here by simply caching a listing of all resources that exist within mod-provided and vanilla resourcepacks. The cache is rebuilt on resource reload (except for the vanilla resources, since they should never change while the game is running).\n\nThere are no known compatibility issues with this patch except for OptiFine (its CTM resources do not load correctly). However I do not recommend using OptiFine in any scenario, as it adds several minutes to launch time by itself and is not tested with ModernFix at all.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.reuse_datapacks",
+"1.16 only. Attempts to speed up switching between singleplayer worlds by skipping the datapack reload when possible. May cause compatibility issues with some mods, but is currently enabled by default.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.rewrite_registry",
+"All versions. **Currently semi-broken.** Aggressively replaces some internals of the Forge registry system with faster versions, however it currently causes freezes when loading some modpacks. Off by default for obvious reasons.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.skip_first_datapack_reload",
+"1.16 & 1.19 only. **A key optimization.**\n\nIn the middle of the 1.16 development cycle, Forge patched the game to reload datapacks twice when loading an existing world, in order to fix an issue with biome ID shifting. Unfortunately, datapack reloads often take upwards of 30 seconds and so this very severely affects world loading times.\n\nModernFix makes the necessary changes to avoid this reload, based on the unfinished Forge PR #8163.\n\nThis change was removed by Forge in 1.18, but then a similar patch was added *again* in 1.19 to fix mod datapacks not being loaded when creating new singleplayer worlds. Fortunately, the issue is localized to the world creation screen in 1.19, and existing worlds only require a single reload. However, this still doubles the length of the lag spike when clicking \"Create New World\" in 1.19, and so ModernFix again makes changes to not perform a redundant reload.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.state_definition_construct",
+"All versions. Enabled only if FerriteCore is installed. Takes advantage of FerriteCore's handling of blockstates to speed up their creation. This can help speed up launch with mods that add lots of blockstates, such as furniture mods.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.sync_executor_sleep",
+"All versions. Avoids having the main thread spin idly consuming one CPU core while waiting for the modloading workers to finish.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.thread_priorities",
+"All versions. Adjusts the worker and server thread priorities to be lower than the client thread. This helps improve FPS stability on machines with few CPU cores, provided that the Java implementation in use respects priorities.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.use_integrated_resources",
+"Mostly for 1.16. Patches JEResources to use the integrated server's loot table data if playing singleplayer, rather than pointlessly reloading loot tables. Saves a couple more seconds during JEI startup.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.concurrency",
+"The patches in this group fix concurrency-related issues within Minecraft and/or Forge. Most of them result in rare, hard-to-diagnose crashes during loading.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.edge_chunk_not_saved",
+"This option is a port of SuperCoder's Chunk Saving Fix mod (because I didn't realize it was already available for Forge at the time).",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.mc218112",
+"This option fixes a deadlock that can occur if an exception is thrown while processing entity data. Vanilla does not correctly unlock the data manager when it should. This is tracked as MC-218112 on the bug tracker, and was fixed by Mojang in 1.17.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.packet_leak",
+"**Experimental**, not enabled by default. An attempted fix for the memory leak issue that occurs after playing long enough on 1.16.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.paper_chunk_patches",
+"1.18 and newer. **A key optimization.** Ports a patch from Paper that fixes issues on 1.17 with chunkloading requiring huge amounts of memory and generating many `CompletableFuture` instances. 1.18+ are now able to load worlds on only 400MB of memory like 1.16 could.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.tf_cme_on_load",
+"Patches Twilight Forest to perform non-thread-safe client setup using the main thread as it should, rather than the FML worker thread.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.branding",
+"Adds ModernFix to the branding list on the title screen, and also to the F3 screen.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.direct_stack_trace",
+"Normally off, can be enabled to force the raw stack trace to be dumped to the log when a crash occurs. Occasionally vanilla's crash report system fails to work properly and gives an entirely irrelevant stack trace/report.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.measure_time",
+"Uses a couple injections to measure world load time, datapack reload time, resource reload time, bootstrap time, and adds the necessary hooks to enable vanilla's unused profiler logic for resource reloading if so configured.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.spam_thread_dump",
+"**To be used for debugging purposes only.** Causes a thread dump to be output to the log every 60 seconds. This can help to diagnose unexplained freezes during loading/gameplay.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.chunk_deadlock",
+"Attempts to prevent chunk system deadlocks or provide additional debug information in the log when they occur. These deadlocks usually manifest as the server freezing indefinitely (e.g. entities not moving), while the client continues to work just fine.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.chunk_deadlock.valhesia",
+"Patches Valhesia Structures to fix an issue in its code that causes frequent worldgen/chunkloading deadlocks.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.cofh_core_crash",
+"Fixes a multithreading issue in CoFH Core that can cause rare crashes during launch.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.ctm_resourceutil_cme",
+"Fixes a multithreading issue in ConnectedTexturesMod that can cause rare crashes during launch.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.ender_dragon_leak",
+"Fixes a memory leak in vanilla caused by the ender dragon retaining a reference to the previous client world.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.entity_load_deadlock",
+"Fixes many issues where EntityJoinWorldEvent/EntityJoinLevelEvent cause a worldgen deadlock, by slightly deferring entity loading. Should not, however, cause any noticeable behavior changes in-game.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.fix_config_crashes",
+"Fixes Forge configs occasionally becoming corrupted when launching the game.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.preserve_early_window_pos",
+"Makes the game window retain its existing size when control is handed over from Forge's early loading to Minecraft code. Fixes the window teleporting back to the center of the screen after being dragged, etc.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.refinedstorage.te_bug",
+"Fixes Refined Storage external storage blocks occasionally failing to show contents of drawers, etc. when loaded. Backport of Refined Storage PR #3435, which was only applied to 1.18 and later.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.remove_block_chunkloading",
+"Fixes zombie pigmen keeping the 0, 0 chunk loaded perpetually on Forge. Backport of Forge PR #8583.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.starlight_emptiness",
+"Fixes an occasional Starlight crash due to emptiness maps not being initialized. Backport of the same fix in Starlight for 1.18.x.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.core",
+"Core patches required for ModernFix to work",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.devenv",
+"Patches used when running in a development environment, for speed improvement and/or testing",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.safety",
+"Concurrency patches to prevent crashes during launch",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.integrated_server_watchdog",
+"Adds the vanilla watchdog to singleplayer worlds as well, but just prints out the stacktraces rather than forcefully terminating the world. This version includes the functionality of Fullstack Watchdog, but the latter is still needed for multiplayer.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.snapshot_easter_egg",
+"Adds easter egg features (does not affect any vanilla visuals or behavior) when running on a snapshot version.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.spark_profile_launch",
+"If enabled, and a compatible version of Spark is installed, the entire launch sequence will be profiled until the main menu.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.warn_missing_perf_mods",
+"Shows a warning on startup if other performance mods considered essential and highly compatible are not present",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.launch.class_search_cache",
+"Replaces Forge's resource finder (used to find game and a mod code) with a significantly faster version, speeding up launch",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.clear_fabric_mapping_tables",
+"Reduces memory usage by clearing mapping data structures in Fabric Loader that are either redundant or rarely used by mods. Off by default for compatibility reasons.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.clear_mixin_classinfo",
+"Force-loads all mixins when launch finishes and then clears out mixin data structures to remove most of Mixin's memory footprint. Disabled by default for compatibility reasons.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.deduplicate_wall_shapes",
+"Makes most wall blocks share the same shape object instead of each one having its own copy. Can reduce memory usage substantially when lots of wall blocks are added by mods.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_resources.ae2",
+"AE2 compatibility patch for dynamic resources",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_resources.ctm",
+"CTM compatibility patch for dynamic resources",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_resources.ldlib",
+"LDLib compatibility patch for dynamic resources",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_resources.rs",
+"Refined Storage compatibility patch for dynamic resources",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_resources.supermartijncore",
+"SuperMartijn642CoreLib compatibility patch for dynamic resources",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_resources.diagonalfences",
+"Diagonal Fences compatibility patch for dynamic resources",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.faster_advancements",
+"Rewrites the advancement checking logic to be faster and not cause StackOverflowError in large packs. Port of Advancements Debug from Fabric.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.patchouli_deduplicate_books",
+"Fix Patchouli books storing many empty items with NBT tags, reducing memory usage.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.remove_spawn_chunks",
+"Completely removes spawn chunks from the game. They are no longer loaded at all, unlike Ksyxis.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.blueprint_modif_memory_leak",
+"Fixes Blueprint's ObjectModificationManager leaking vanilla resources, reducing memory usage. Despite the fix being contributed in PR #195 a release was not yet made.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.removed_dimensions",
+"Fixes the game failing to load worlds if dimension mods are removed. Backport of Forge PR #8959.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.compact_bit_storage",
+"Fixes memory waste caused by some legacy servers (e.g. Hypixel) sending empty chunks as if they contain blocks. Reduces memory usage significantly on these servers.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.deduplicate_climate_parameters",
+"Deduplicates climate parameter objects used by the new biome system, can save ~2MB but also slows down datapack reload somewhat.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_entity_renderers",
+"Constructs entity models the first time they are seen instead of during launch. Some mods are not compatible with this option and will cause EntityRenderer crashes.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.twilightforest.structure_spawn_fix",
+"Fixes lag caused by Twilight Forest worldgen checking structures very inefficiently",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.fast_forge_dummies",
+"Speeds up Forge registry freezing during launch by using a faster code path",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.tag_id_caching",
+"Speeds up uses of tag entries by caching the location object instead of recreating it every time",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.compress_unihex_font",
+"Stores the glyphs for the Unicode font more efficiently. Kudos to @AnAwesomGuy for the trick.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.world_leaks",
+"Reduces the memory usage of old client-side worlds that aren't needed after switching dimensions. These are normally garbage collected in vanilla, but mods sometimes retain references to them.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.compact_mojang_registries",
+"(Fabric) Experimental option that reduces the memory usage of registries by roughly 50%. Not useful in most modpacks unless they contain millions of blocks and items.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.dynamic_block_codecs",
+"Avoids storing a codec for every block(state) and instead generates and caches it on the fly when needed. Generally not worth enabling unless you have a million blocks/items.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.faster_command_suggestions",
+"Mitigate lag when there are hundreds of thousands of suggestions while typing a command",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.mojang_registry_size",
+"Fixes an issue causing registration of blocks/items to slow down proportional to the number already registered. This improves startup time.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.cache_profile_texture_url",
+"Avoids pointlessly creating a URL object and speeds up skull block rendering.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.entity_pose_stack",
+"Fixes Forge issue #9118, where mods can cause undebuggable render crashes by pushing the matrix stack without popping it.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.file_dialog_title",
+"Fixes a security issue with the worldgen settings file dialog",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.forge_vehicle_packets",
+"Fixes a bug introduced by a Forge patch that causes excessive amounts of chunk data packets to be sent to the player if they are riding a vehicle on a chunk border.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.mantle_model_cme",
+"Fixes a bug in Mantle that can cause random ConcurrentModificationException crashes when rendering Tinkers Construct content.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.model_data_manager_cme",
+"Works around design flaws in the Forge ModelDataManager system that can cause unexpected concurrency issues.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.recipe_book_type_desync",
+"Fixes Forge clients being disconnected when connecting to a vanilla server if mods add custom recipe book entry types.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.unsafe_modded_shape_caches",
+"Fixes various ConcurrentModificationExceptions that can occur in content mods when computing block shapes",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.stalled_chunk_load_detection",
+"This option may help to detect the cause of chunkloading freezes. However, leaving it enabled may cause slightly worse performance.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.fix_loop_spin_waiting",
+"Fixes Minecraft's built-in wait function consuming excessive amounts of CPU resources.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.forge_cap_retrieval",
+"Small micro-optimization that makes retrieving custom entity data slightly more efficient on Forge.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.forge_registry_lambda",
+"Fixes oversights in Forge that lead to excessive allocation in hot registry methods.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.restore_old_dragon_movement",
+"Fixes MC-272431, which tracks the ender dragon being unable to dive to the portal as it did in 1.13 and older. This causes the dragon to fly quite a bit differently from what modern players are used to and also patches out one-cycling, so it's not enabled by default. Thanks to Jukitsu for identifying the regression in the vanilla code.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.missing_block_entities",
+"Hypixel sends chunks to the client that are missing some block entity data, which makes chests etc. appear invisible. This 'fixes' the problem by creating the needed data on the client. Has no effect for properly behaved servers or in singleplayer.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.buffer_builder_leak",
+"Attempts to work around mods constructing BufferBuilder objects that leak memory. This can cause the JVM to crash with an hs_err_pid file in some rare cases. If you experience this type of crash, try disabling this option.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.extra_experimental_screen",
+"Fixes the experimental feature warning being shown still being shown the first time you reopen a world that was created as experimental.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.forge_at_inject_error",
+"Fixes a major oversight in Forge's early error handling code that causes some parts of mods to load, but not others, which usually results in the game crashing rather than displaying the intended error screen. This issue was fixed in NeoForge, and eventually fixed in new enough versions of Forge.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.bugfix.world_screen_skipped",
+"Fixes MC-251068, where deleting the last world takes you back to an empty world list.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.blockentity_incorrect_thread",
+"**This is a debug option and should not be enabled for regular gameplay.** Attempts to detect mods interacting with block entities on the wrong thread and crash the game with more information, rather than an unclear ConcurrentModificationException",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.cause_lag_by_disabling_threads",
+"Disables the game's use of worker threads for the server and for chunk rendering. **This will make performance worse on almost all hardware**, and should only be enabled on a client, when you know exactly what you are doing, and probably only on hardware with very few (2 or less) physical CPU cores. In those rare cases, it can reduce lag spikes since there is less contention over the limited cores.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.registry_event_progress",
+"Runs the Forge loading screen on a background thread for part of the loading process, to allow progress to be shown while content is being registered. May have compatibility issues with some GPU drivers (e.g. macOS), so do not enable it by default in a modpack.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.remove_chat_signing",
+"Prevents the Minecraft client from obtaining the keypair for chat signing. This disables the client's ability to sign chat messages (like No Chat Reports, but in a simpler, albeit less user-friendly way).",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.remove_telemetry",
+"Prevents the Minecraft client from sending telemetry to Mojang. The telemetry is generally not relevant to them anyway for a modded instance.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.chunk_meshing",
+"Implements some minor optimizations to the vanilla chunk meshing logic (they will have no effect with a mod that replaces chunk rendering entirely).",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.faster_structure_location",
+"Improves the speed at which structures like buried treasure can be located.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.forge_registry_alloc",
+"Fixes more oversights in Forge that lead to excessive allocation in hot registry methods.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.memoize_creative_tab_build",
+"Improves on vanilla's existing caching for creative tab contents in a way that is compatible with the timing requirements of mods like JEI/EMI. This can reduce the lag spike when opening the creative inventory for the first time in a modpack.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.potential_spawns_alloc",
+"Optimizes the Forge event for finding potential mobs that can spawn. This reduces allocations and the overhead of rebuilding a weighted list when no mods modify the potential spawns.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.ticking_chunk_alloc",
+"Optimizes chunk ticking in vanilla to reduce allocations.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.perf.worldgen_allocation",
+"Optimizes some world generation logic in vanilla to reduce object allocations.",
+"missing"
+],
+[
+"modernfix",
+"modernfix.option.mixin.feature.suppress_narrator_stacktrace",
+"Prevents the game from logging a very long stacktrace when the narrator fails to load on Linux (usually caused by not having libflite installed).",
+"missing"
+],
+[
+"modernworldcreation",
+"modernworldcreation.arrow_button.left",
+"Select next game mode to the left side",
+"missing"
+],
+[
+"modernworldcreation",
+"modernworldcreation.arrow_button.right",
+"Select next game mode to the right side",
+"missing"
+],
+[
+"moreculling",
+"moreculling.config.option.entityModelCulling.tooltip",
+"This only helps if your gpu is the bottleneck and your cpu has some performance to spare!",
+"missing"
+],
+[
+"morerelics",
+"tooltip.relics.king_crimson.ability.the_court",
+"The Court Of The Crimson King",
+"same"
+],
+[
+"mortal_cultivation",
+"mortal_cultivation.command.debug.great_sage_evolution.title",
+"========== Great Sage Evolution Tracker ==========",
+"missing"
+],
+[
+"mortal_cultivation",
+"mortal_cultivation.command.debug.great_sage_evolution.ready",
+"★ Ready to evolve into Great Sage! ★",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.dart.text.0",
+"Can only be used with blowgun",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.grant_suns_blessing.text.2",
+"Countdown only begins once you use an ability\n",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.grant_suns_blessing.text.3",
+"§lSunstrike§r§7\nWith empty hand, right-click the ground to call a strike from the sky\n",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.grant_suns_blessing.text.4",
+"§lSolar Flare§r§7\nWith empty hand, sneak-left-click to knock opponents away\n",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.grant_suns_blessing.text.5",
+"§lSolar Beam§r§7\nWith empty hand, sneak-right-click to fire a beam in the direction you are looking (costs",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.grant_suns_blessing.text.7",
+"§lSupernova§r§7\nWith empty hand, sneak, then left and right click at the same time to create a massive explosion around you (costs",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.earthrend_gauntlet.text.0",
+"§lBoulder Lift§r§7\nRight-click earthen ground to lift a boulder\nPunch boulder to fire it as projectile\nCharge right-click to lift bigger boulders\n",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.earthrend_gauntlet.text.1",
+"§lTunnel§r§7\nRight-click the air to start tunneling through the ground\nHold right-click and look in the direction you'd like to dig\nRelease right-click to surface and stop tunneling\n",
+"missing"
+],
+[
+"mowziesmobs",
+"item.mowziesmobs.earthrend_gauntlet.text.2",
+"§lPillar Rise§r§7\nHold both Sneak and Jump to rise upward on a pillar of earth\nThe pillar's width increases if it grows through geomancy boulders",
+"missing"
+],
+[
+"mowziesmobs",
+"config.mowziesmobs.tools_and_abilities.tooltip",
+"Controls for mob drops, weapons, powers, and other loot used by players",
+"missing"
+],
+[
+"mowziesmobs",
+"advancements.mowziesmobs.suns_blessing.description",
+"Receive the Sun's Blessing",
+"missing"
+],
+[
+"mysticism",
+"mysticism.race.army_wasp_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.army_wasp_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.blue_centipede_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.blue_centipede_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.corrosion_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.divine_blue_centipede.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.gravity_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.lixivant_mantis_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.lixivant_mantis_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.loxodrome_scorpion_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.loxodrome_scorpion_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.paralysis_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.poison_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.preying_mantis_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.preying_mantis_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.purple_centipede_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.purple_centipede_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.queen_wasp_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.queen_wasp_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.singularity_scorpion_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.singularity_scorpion_savant.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.spatial_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.star_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.steel_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.water_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.wind_soul_insect.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.yellow_centipede_insectar.description",
+"WIP",
+"same"
+],
+[
+"mysticism",
+"mysticism.race.yellow_centipede_savant.description",
+"WIP",
+"same"
+],
+[
+"oneenoughitem",
+"oneenoughitem.modernfix.warning.line2",
+"To ensure replacements work after changing items,",
+"missing"
+],
+[
+"oneenoughitem",
+"oneenoughitem.modernfix.warning.hover",
+"Click to open config file: %s",
+"missing"
+],
+[
+"particle_effects",
+"modmenu.descriptionTranslation.particle_effects",
+"Visual Fabric Mod that adds unique textured particles for every effect in vanilla Minecraft!",
+"missing"
+],
+[
+"regions_unexplored",
+"config.regions_unexplored.option.branch_mode.dont_place.tooltip",
+"Don't place any branches on trees that would usually have dedicated branch blocks.",
+"missing"
+],
+[
+"regions_unexplored",
+"config.regions_unexplored.option.branch_mode.place_branches.tooltip",
+"Place RU's dedicated branch blocks on some trees.",
+"missing"
+],
+[
+"regions_unexplored",
+"config.regions_unexplored.option.branch_mode.place_logs.tooltip",
+"Place log blocks in place of branch blocks on some trees.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.ambient_entity_effect.tooltip",
+"Emitted by beacons and their status effects.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.angry_villager.tooltip",
+"Produced when villagers fail to breed or when a job site becomes unclaimed because it is unreachable.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.ash.tooltip",
+"Floats in the air in the Soul Sand Valley biome.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.barrier.tooltip",
+"Appears when holding a Barrier item.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.block.tooltip",
+"Produced when blocks are broken or brushed, when iron golems walk, when entities fall from heights, when players or cats sprint, when armor stands break, and when sheep eat grass.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.block_crumble.tooltip",
+"Produced when a Creaking Heart is destroyed, along with its Creaking.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.block_marker.tooltip",
+"Marks barrier and light blocks when they are held in the main hand.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.bubble.tooltip",
+"Appears around splashing entities and underwater movement. Also emitted by guardian lasers, fishing bobbers, fish trails, underwater projectiles, and Eyes of Ender.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.bubble_column_up.tooltip",
+"Represents upward bubble columns.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.bubble_pop.tooltip",
+"Produced when bubbles pop.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.campfire_cosy_smoke.tooltip",
+"Emitted by campfires and soul campfires.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.campfire_signal_smoke.tooltip",
+"Emitted by campfires and soul campfires placed over hay bales.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.cherry_leaves.tooltip",
+"Falls from cherry leaves.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.cloud.tooltip",
+"Produced when wet sponges dry in the Nether and when entering a village with Bad Omen.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.composter.tooltip",
+"Produced when adding items to a composter.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.copper_fire_flame.tooltip",
+"Emitted by copper torches.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.crimson_spore.tooltip",
+"Floats in the air in the Crimson Forest biome.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.crit.tooltip",
+"Produced by critical hits and certain attacks. Also trails behind crossbow shots and fully charged arrows.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.current_down.tooltip",
+"Represents downward bubble columns.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.damage_indicator.tooltip",
+"Produced when a melee attack damages an entity.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dolphin.tooltip",
+"Trails behind dolphins.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dragon_breath.tooltip",
+"Emitted by the Ender Dragon’s breath attacks, dragon fireballs, and lingering Dragon’s Breath clouds.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dripping_dripstone_lava.tooltip",
+"Represents lava droplets forming on pointed dripstone before they fall.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dripping_dripstone_water.tooltip",
+"Represents water droplets forming on pointed dripstone before they fall.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dripping_honey.tooltip",
+"Represents honey droplets forming under full bee nests and beehives before they fall.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dripping_lava.tooltip",
+"Represents lava droplets forming under blocks with lava above before they fall.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dripping_obsidian_tear.tooltip",
+"Represents tears forming on crying obsidian before they fall.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dripping_water.tooltip",
+"Represents water droplets forming on leaves during rain, blocks with water above, and wet sponges before they fall.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dust.tooltip",
+"Emitted by powered redstone components such as dust, torches, repeaters, levers, and redstone ore.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dust_color_transition.tooltip",
+"Emitted by activated sculk sensors.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dust_pillar.tooltip",
+"Produced by mace smash attacks.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.dust_plume.tooltip",
+"Produced when adding items to decorated pots.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.effect.tooltip",
+"Produced by splash potions.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.egg_crack.tooltip",
+"Produced when sniffer eggs are placed on moss blocks and when they crack.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.elder_guardian.tooltip",
+"Displayed when an Elder Guardian inflicts Mining Fatigue.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.electric_spark.tooltip",
+"Produced by lightning rods during thunderstorms and when lightning strikes copper.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.enchant.tooltip",
+"Floats from bookshelves to enchanting tables.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.enchanted_hit.tooltip",
+"Produced when hitting an entity with certain damage enchants (e.g., Sharpness, Smite, Bane of Arthropods, or Impaling).",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.end_rod.tooltip",
+"Emitted by end rods and trails behind shulker bullets.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.entity_effect.tooltip",
+"Emitted by tipped arrows, area effect clouds, lingering potions, spellcasting, and many status-effect sources other than beacons and conduits.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.explosion.tooltip",
+"Produced by explosions and explosion emitters. Also appears during certain large impacts and Ender Dragon death effects.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.explosion_emitter.tooltip",
+"Emitted during explosions.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_dripstone_lava.tooltip",
+"Produced when lava droplets fall from pointed dripstone.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_dripstone_water.tooltip",
+"Produced when water droplets fall from pointed dripstone.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_dust.tooltip",
+"Falls from gravity-affected blocks such as sand and gravel.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_honey.tooltip",
+"Produced when honey drips fall from full bee nests and beehives.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_lava.tooltip",
+"Produced when lava droplets fall from blocks with lava above.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_nectar.tooltip",
+"Falls from bees carrying pollen.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_obsidian_tear.tooltip",
+"Produced when tears fall from crying obsidian.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_spore_blossom.tooltip",
+"Falls from spore blossoms.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.falling_water.tooltip",
+"Produced when water droplets fall from blocks with water above, from leaves during rain, and from wet sponges.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.firefly.tooltip",
+"Spawns from firefly bushes when the internal light level is 13 or lower.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.firework.tooltip",
+"Trails behind fireworks and is produced when firework stars explode.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.fishing.tooltip",
+"Represents the fish trail while fishing.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.flame.tooltip",
+"Emitted by torches, furnaces, and other fire sources. Also appears in spawners and around magma cubes.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.flash.tooltip",
+"Produced when fireworks with firework stars explode.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.glow.tooltip",
+"Emitted by glow squid.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.glow_squid_ink.tooltip",
+"Produced when a glow squid is hit.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.gust.tooltip",
+"Created when a wind charge impacts a block.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.gust_emitter_large.tooltip",
+"Created when a wind charge impacts a block and emits multiple gust particles.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.gust_emitter_small.tooltip",
+"Created when a wind charge impacts a block and emits a small burst of gust particles.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.happy_villager.tooltip",
+"Produced during positive interactions such as bone-mealing plants, trading, feeding animals, pollination, claiming job sites or beds, and turtle egg placement or hatching.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.heart.tooltip",
+"Produced when taming, breeding, feeding, and when allays duplicate.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.infested.tooltip",
+"Emitted by entities with the Infested effect.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.instant_effect.tooltip",
+"Produced when Instant Health or Instant Damage potions break and trails behind spectral arrows.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.item.tooltip",
+"Produced when tools break, when eating, and when certain thrown or used items break (e.g., potions and Eyes of Ender).",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.item_cobweb.tooltip",
+"Produced by entities with the Weaving effect.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.item_slime.tooltip",
+"Produced by slimes and by entities with the Oozing effect.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.item_snowball.tooltip",
+"Produced when a thrown snowball breaks.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.landing_honey.tooltip",
+"Produced when falling honey droplets land.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.landing_lava.tooltip",
+"Produced when falling lava droplets land.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.landing_obsidian_tear.tooltip",
+"Produced when falling obsidian tears land.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.large_smoke.tooltip",
+"Emitted by large fire sources such as blazes and fires. Also appears when water is placed in the Nether and when lava and water create stone variants.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.lava.tooltip",
+"Emitted by lava and campfires.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.light_block.tooltip",
+"Appears when holding a Light item of any level.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.mycelium.tooltip",
+"Appears above mycelium and trails behind phantoms’ wings.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.nautilus.tooltip",
+"Floats toward conduits and toward entities targeted by a conduit.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.note",
+"Note",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.note.tooltip",
+"Produced by note blocks and jukeboxes.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.ominous_spawning.tooltip",
+"Produced when an ominous item spawner spawns an item during an ominous event.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.pale_oak_leaves.tooltip",
+"Falls from pale oak leaves.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.poof.tooltip",
+"Produced when mobs die and during various vanish or burst effects (e.g., silverfish entering stone, spawner spawns, certain roars, and fireworks expiring without stars).",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.portal.tooltip",
+"Produced by portals and teleportation. Also trails behind Eyes of Ender and appears around Ender Pearls, Ender Chests, Endermen, and Endermites.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.raid_omen.tooltip",
+"Emitted by entities with the Raid Omen effect.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.rain.tooltip",
+"Appears on the ground during rain.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.reverse_portal.tooltip",
+"Emitted by charged respawn anchors.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.scrape.tooltip",
+"Produced when scraping oxidation from copper.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.sculk_charge.tooltip",
+"Marks the path of a sculk charge.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.sculk_charge_pop.tooltip",
+"Produced when a sculk charge ends.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.sculk_soul.tooltip",
+"Appears above sculk catalysts when activated.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.shriek.tooltip",
+"Emitted by activated sculk shriekers.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.small_flame.tooltip",
+"Emitted by candles.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.small_gust.tooltip",
+"Emitted by entities with the Wind Charged effect.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.smoke.tooltip",
+"Emitted by many heat and magic sources (e.g., torches, campfires, furnaces, brewing stands, blazes, ghasts, withers, and lava). Also appears during certain actions such as primed TNT and portal-related effects.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.sneeze.tooltip",
+"Produced when pandas sneeze.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.snowflake.tooltip",
+"Produced by entities inside powder snow.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.sonic_boom.tooltip",
+"Produced by the Warden’s sonic boom attack.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.soul.tooltip",
+"Produced when running with Soul Speed on soul sand or soul soil.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.soul_fire_flame.tooltip",
+"Emitted by soul torches and other soul fire sources.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.spit.tooltip",
+"Produced when llamas spit.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.splash.tooltip",
+"Produced by water splashes, rain splashes, fishing activity, and certain water-impact effects. Also produced when wolves shake off water.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.spore_blossom_air.tooltip",
+"Floats in the air around spore blossoms.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.squid_ink.tooltip",
+"Produced when a squid is hit.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.sweep_attack.tooltip",
+"Produced when performing a sweeping attack.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.tinted_leaves.tooltip",
+"Falls from most leaf blocks (except pale oak and cherry) and matches the source leaf’s color.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.totem_of_undying.tooltip",
+"Produced when a Totem of Undying activates.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.trail.tooltip",
+"Draws a line between two points, such as between the Creaking and its heart or when eyeblossoms open and close.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.trial_omen.tooltip",
+"Emitted by entities with the Trial Omen effect.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.trial_spawner_detection.tooltip",
+"Produced when a trial spawner activates.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.trial_spawner_detection_ominous.tooltip",
+"Produced when an ominous trial spawner activates.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.underwater.tooltip",
+"Floats in the air underwater.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.vault_connection.tooltip",
+"Produced when a player is near a vault.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.vibration.tooltip",
+"Travels from sound sources to sculk sensors or the Warden, and from note blocks to allays.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.warped_spore.tooltip",
+"Floats in the air in Warped Forest biomes.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.wax_off.tooltip",
+"Produced when scraping wax off copper.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.wax_on.tooltip",
+"Produced when applying wax to copper with honeycomb.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.white_ash.tooltip",
+"Floats in the air in Basalt Deltas biomes.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.white_smoke.tooltip",
+"Emitted by crafters when ejecting an item.",
+"missing"
+],
+[
+"sodium-extra",
+"options.particles.minecraft.witch.tooltip",
+"Emitted by witches.",
+"missing"
+],
+[
+"sodium-extra",
+"sodium-extra.option.fog_start.tooltip",
+"Controls how close to the player atmospheric terrain fog begins.",
+"missing"
+],
+[
+"sodium-extra",
+"sodium-extra.option.fog_type.environment_start.tooltip",
+"Controls when environment fog begins (start multiplier).",
+"missing"
+],
+[
+"sodium-extra",
+"sodium-extra.option.fog_type.render_distance_start.tooltip",
+"Controls the render-distance border fade (start multiplier).",
+"missing"
+],
+[
+"sodium-extra",
+"sodium-extra.option.particles_all.tooltip",
+"Processes all particles.",
+"missing"
+],
+[
+"sodium",
+"sodium.options.particle_quality.tooltip",
+"Controls the maximum number of particles which can be present on screen at any one time.",
+"missing"
+],
+[
+"sodium",
+"sodium.console.game_restart",
+"The game must be restarted to apply one or more video settings!",
+"missing"
+],
+[
+"tensura",
+"block.tensura.chiseled_high_quality_magic_crystal_bricks",
+"Chiseled High Quality Magic Crystal Bricks",
+"missing"
+],
+[
+"tensura",
+"block.tensura.chiseled_low_quality_magic_crystal_bricks",
+"Chiseled Low Quality Magic Crystal Bricks",
+"missing"
+],
+[
+"tensura",
+"block.tensura.chiseled_medium_quality_magic_crystal_bricks",
+"Chiseled Medium Quality Magic Crystal Bricks",
+"missing"
+],
+[
+"tensura",
+"block.tensura.high_quality_magic_crystal_brick_slab",
+"High Quality Magic Crystal Brick Slab",
+"missing"
+],
+[
+"tensura",
+"block.tensura.high_quality_magic_crystal_brick_stairs",
+"High Quality Magic Crystal Brick Stairs",
+"missing"
+],
+[
+"tensura",
+"block.tensura.high_quality_magic_crystal_brick_wall",
+"High Quality Magic Crystal Brick Wall",
+"missing"
+],
+[
+"tensura",
+"block.tensura.high_quality_magic_crystal_bricks_magic_engine",
+"High Quality Magic Crystal Bricks Magic Engine",
+"missing"
+],
+[
+"tensura",
+"block.tensura.low_quality_magic_crystal_brick_slab",
+"Low Quality Magic Crystal Brick Slab",
+"missing"
+],
+[
+"tensura",
+"block.tensura.low_quality_magic_crystal_brick_stairs",
+"Low Quality Magic Crystal Brick Stairs",
+"missing"
+],
+[
+"tensura",
+"block.tensura.low_quality_magic_crystal_brick_wall",
+"Low Quality Magic Crystal Brick Wall",
+"missing"
+],
+[
+"tensura",
+"block.tensura.low_quality_magic_crystal_bricks_magic_engine",
+"Low Quality Magic Crystal Bricks Magic Engine",
+"missing"
+],
+[
+"tensura",
+"block.tensura.medium_quality_magic_crystal_brick_slab",
+"Medium Quality Magic Crystal Brick Slab",
+"missing"
+],
+[
+"tensura",
+"block.tensura.medium_quality_magic_crystal_brick_stairs",
+"Medium Quality Magic Crystal Brick Stairs",
+"missing"
+],
+[
+"tensura",
+"block.tensura.medium_quality_magic_crystal_brick_wall",
+"Medium Quality Magic Crystal Brick Wall",
+"missing"
+],
+[
+"tensura",
+"block.tensura.medium_quality_magic_crystal_bricks_magic_engine",
+"Medium Quality Magic Crystal Bricks Magic Engine",
+"missing"
+],
+[
+"tensura",
+"tensura.skill.mode.body_double.main_too_far",
+"The main body is too far away.",
+"same"
+],
+[
+"tensura",
+"tensura.skill.mode.changed",
+"Changed the mode of %s to %s.",
+"same"
+],
+[
+"tensura",
+"tensura.skill.mode.observer.presence.all",
+"Changed Presence Sense Mode to All Entities.",
+"same"
+],
+[
+"tensura",
+"tensura.skill.mode.observer.presence.monster",
+"Changed Presence Sense Mode to Monsters Only.",
+"same"
+],
+[
+"tensura",
+"tensura.skill.mode.observer.presence.traps",
+"Changed Presence Sense Mode to Traps.",
+"same"
+],
+[
+"tensura",
+"tensura.skill.mode.observer.presence.treasures",
+"Changed Presence Sense Mode to Treasures.",
+"same"
+],
+[
+"tensura",
+"tensura.skill.mode.unyielding.check_point",
+"The number of Unyielding Points with %s: %s",
+"same"
+],
+[
+"tensura_tno",
+"tensura_tno.compat.tensuramoreskills.hardcoded.e134609eee0664fb",
+"Commands Available In Code: commandMarkConquestTarget, commandRootTunnel, commandBloodTide, commandBloomEruption, commandWorldHeartPulse, commandHarvestBloomNetwork",
+"missing"
+],
+[
+"tensura_tno",
+"tensura_tno.compat.tensuramoreskills.hardcoded.ee21029439e60749",
+"Feldway, Lord of the Four Shades",
+"missing"
+],
+[
+"tensura_tno",
+"tensura_tno.compat.tensuramoreskills.hardcoded.a5d2c14b767dd641",
+"'s Mitama worship was cleared by reset.",
+"missing"
+],
+[
+"tensuramoreskills",
+"tensuramoreskills.skill.i_want_to_be_just_like_you",
+"I Want to Be Just Like You!",
+"missing"
+],
+[
+"tensuramoreskills",
+"tensuramoreskills.skill.arthur_once_and_future_king",
+"Arthur, The Once and Future King",
+"missing"
+],
+[
+"tensuramoreskills",
+"tensuramoreskills.skill.avalon_god_of_eternal_kingdom",
+"Avalon, God of the Eternal Kingdom",
+"missing"
+],
+[
+"tensuramoreskills",
+"tensuramoreskills.skill.ewigkeit",
+"Ewigkeit, Archivist of a Thousand Years",
+"missing"
+],
+[
+"tensuramoreskills",
+"tensuramoreskills.skill.ewigkeit.description",
+"Magik.",
+"same"
+],
+[
+"tr_unique_monsters",
+"tr_unique_monsters.deny.unique.tameable",
+"§cYou can't tame a unique mob",
+"missing"
+],
+[
+"twilightforest",
+"advancement.twilightforest.magic_map.desc",
+"Craft the %s",
+"missing"
+],
+[
+"twilightforest",
+"advancement.twilightforest.magic_map_focus.desc",
+"Craft the %s with a %s, %s, and %s",
+"missing"
+],
+[
+"twilightforest",
+"commands.tffeature.ability_modifier",
+"Abilities cannot be added or removed from Traveller's Gear",
+"missing"
+],
+[
+"twilightforest",
+"config.twilightforest.magic_trees.tooltip",
+"Settings for all things related to the magic trees.",
+"missing"
+],
+[
+"twilightforest",
+"misc.twilightforest.magic_map_fail",
+"The Magic faltered. Perhaps it doesn't work here?",
+"missing"
+],
+[
+"twilightforest",
+"twilightforest.tips.magic_beans",
+"Planting Magic Beans on Uberous Soil sprouts a mighty beanstalk.",
+"missing"
+],
+[
+"twilightforest",
+"twilightforest.tips.magic_leaves",
+"Magic Tree Leaves won't drop saplings when broken.",
+"missing"
+],
+[
+"twilightforest",
+"twilightforest.tips.magic_map",
+"Magic Maps are used to easily locate structures.",
+"missing"
+],
+[
+"twilightforest",
+"twilightforest.tips.magic_saplings",
+"Special magic saplings can be found inside Hollow Oak trees.",
+"missing"
+],
+[
+"waystones",
+"waystones.configuration.worldGen.nameGenerationMode.tooltip",
+"Set to 'PRESET_FIRST' to first use names from the nameGenerationPresets. Set to 'PRESET_ONLY' to use only those custom names. Set to 'MIXED' to have some waystones use custom names, and others random names.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_safe_mode_box",
+"Use Java-based (CPU) equivalent of this mod instead of the default, OpenGL-based (GPU) one. Safe mode is a plan B in case the mod does not function correctly. Not all features work in the safe mode. Do not use unless you have to.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_start_fading_at",
+"Min Y Distance For Depth Fade",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_box_start_fading_at",
+"Minimum Y level difference requirement for an entity to start darkening on the radar when the \"Show Entity Depth\" setting is enabled.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_partial_y_teleportation",
+"Use Y With Partial When TP",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_box_partial_y_teleportation",
+"When teleporting to a waypoint, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_box_manual_cave_mode_start",
+"Which Y level to start mapping blocks from when the manual cave mode is enabled. Manual cave mode can be toggled with a key binding. For the \"Auto\" option, go all the way to the left.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_box_cave_mode_toggle_timer",
+"The minimum time to wait between toggles of cave mode to prevent flickering when quickly switching between being under blocks and not. The latest world map mod has a separate setting for this as well.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_config_redirect_safe_mode",
+"This value cannot be modified when the minimap is in safe mode.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_box_cave_mode_allowed_dimensions",
+"A list of dimension IDs, separated by comas, where cave mode should work. If the list is empty (just []), cave mode works in every dimension.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_mm_box_auto_cave_mode",
+"Enable cave mode automatically based on what's above you. The ceiling size refers to the size of a square ceiling of solid blocks that has to be detected above you to activate the cave mode. The solid blocks don't have to be on the same Y level.",
+"missing"
+],
+[
+"xaerominimap",
+"gui.xaero_box_cave_mode_allowed",
+"Mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. Cave mode is usually enabled automatically (see \"Auto Cave Mode\"), but can also be toggled manually with a key binding (see \"Manual Cave Mode Start Y\").",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_wm_partial_y_teleportation",
+"Use Y With Partial When TP",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_wm_box_partial_y_teleportation",
+"When teleporting to a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_box_cave_mode_not_allowed",
+"Cave Mode (not allowed in settings)",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_wm_box_cave_mode_type",
+"The cave mode type to use when cave mode is enabled. \n \n OFF - display above ground even when cave mode is automatically or manually enabled (same as old world map versions without cave mode) \n Layered - separate cave maps into multiple layers depending on the used top Y \n Full - ignore the used top Y, use a single layer for cave maps and map everything from the world top to the world bottom",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_wm_box_default_cave_mode_type",
+"The default cave mode type assigned to dimensions visited for the first time in a world/server. You can read more about cave mode types by clicking the cave mode icon on the map screen.",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_box_auto_cave_mode",
+"How the mod should determine the \"auto\" top Y when viewing the full screen map. The ceiling size refers to the size of a square ceiling of solid blocks that has to be detected above you to activate the cave mode. The solid blocks don't have to be on the same Y level. \n \n Minimap - if installed, match the minimap mod's cave mode, otherwise use the ceiling size 3x3",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_wm_box_cave_mode_toggle_timer",
+"The minimum time to wait between toggles of cave mode to prevent flickering when quickly switching between being under blocks and not. This only applies when \"Auto Cave Mode\" isn't redirecting to the minimap mod. The latest minimap mod has a separate setting for this as well.",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_wm_box_cave_mode_allowed",
+"Cave mode on the full screen world map. It's a mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. Cave mode is usually enabled automatically (see \"Auto Cave Mode\"), but can also be enabled manually on the world map screen.",
+"missing"
+],
+[
+"xaeroworldmap",
+"gui.xaero_wm_box_cave_mode_allowed_dimensions",
+"A list of dimension IDs, separated by comas, where cave mode should work on the full screen world map. If the list is empty (just []), cave mode works in every dimension.",
+"missing"
+],
+[
+"yet_another_config_lib_v3",
+"yacl.restart.message",
+"One or more options needs you to restart the game to apply the changes.",
+"missing"
+]
+]

@@ -1,3 +1,4 @@
 {
-  "tr_unique_monsters.skill.appraisal_eye.description": "เผยการปรากฏตัวที่ซ่อนอยู่และวิเคราะห์เอนทิตีระยะไกล"
+  "tr_unique_monsters.skill.appraisal_eye.description": "เผยการปรากฏตัวที่ซ่อนอยู่และวิเคราะห์เอนทิตีระยะไกล",
+  "tr_unique_monsters.deny.unique.tameable": "§cคุณเลี้ยงม็อบ unique ไม่ได้"
 }

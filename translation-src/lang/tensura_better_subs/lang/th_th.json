@@ -4,5 +4,14 @@
   "tensura.skill.mode.thought_communication.select_subordinate": "เลือกผู้ใต้บังคับบัญชา",
   "tensura.skill.mode.thought_communication.use_skill": "ใช้สกิล",
   "tensura_better_subs.ability_selection.magicule_cost": "ต้นทุนมาจิคูล: %s",
-  "tensura_better_subs.targeting.sub_selected": "เลือก %s แล้ว"
+  "tensura_better_subs.targeting.sub_selected": "เลือก %s แล้ว",
+  "tensura_better_subs.main_menu.health": "พลังชีวิต: %s/%s",
+  "tensura_better_subs.main_menu.spiritual_health": "พลังชีวิตวิญญาณ: %s/%s",
+  "tensura_better_subs.main_menu.spiritual_health.short": "HP วิญญาณ: %s/%s",
+  "tensura_better_subs.skill.request_skill_use_failure": "%s ใช้ %s ไม่สำเร็จ",
+  "tensura_better_subs.skill.request_skill_use_successful": "%s ใช้ %s สำเร็จ",
+  "tensura_better_subs.skill.subordinate_acquire_skill": "%s ได้รับ %s จาก %s แล้ว",
+  "tensura_better_subs.skill_grant_menu": "การมอบสกิล",
+  "tensura_better_subs.skill_source.food_chain": "ห่วงโซ่อาหาร",
+  "tensura_better_subs.skill_source.learning": "การเรียนรู้"
 }
