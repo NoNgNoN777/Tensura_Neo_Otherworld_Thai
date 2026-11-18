@@ -40,7 +40,9 @@ def patchouli_files():
       th=tr[key];used.add(key)
       assert MACRO.findall(v)==MACRO.findall(th),'Patchouli macro mismatch: '+key
       if v.startswith('#'):assert th==v,'Patchouli template ref changed: '+key
-      x[k]=th
+      # FONTTHAI-DM uses the default Thai typeface; suppress synthetic emphasis in Thai prose.
+      # Validate the original macro sequence above, then remove only the visual style switches.
+      x[k]=re.sub(r'\$\((?:l|o|bold|italic)\)', '', th) if re.search(r'[\u0e00-\u0e7f]', th) else th
      else:walk(v,path+[k])
    elif isinstance(x,list):
     for i,v in enumerate(x):walk(v,path+[i])
