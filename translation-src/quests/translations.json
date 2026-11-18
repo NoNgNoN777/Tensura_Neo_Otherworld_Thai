@@ -23,7 +23,7 @@
     "chapter.6D1E113C31F1CFA9.title": "Nature's Aura",
     "chapter.7009AB611A9B9695.title": "แสงดาวนิรันดร์และสนธยาอันไม่สิ้นสุด",
     "chapter.7D3E9A1B5C8F2046.title": "{translate:\"chapter.7D3E9A1B5C8F2046.title\"}",
-    "chapter.C48F1E97B320A65D.title": "&f⌈เส้นทางวิวัฒนาการ⌋Spider Race & Ogre Race",
+    "chapter.C48F1E97B320A65D.title": "&f⌈เส้นทางวิวัฒนาการ⌋Spider Race \\& Ogre Race",
     "chapter_group.13F20E01BC3FA737.title": "&fNew Otherworld: ผจญภัยในต่างโลก【Overworld】",
     "chapter_group.3535525D866EB536.title": "&6Tensura: New Otherworld【เควสหลัก】",
     "chapter_group.78C5E38A2D65F821.title": "&6Tensura: New Otherworld【บทสอนเล่น】",
@@ -82,7 +82,7 @@
     "quest.02B3F8BFAE686637.quest_subtitle": "โลกจิ๋ว",
     "quest.03339785C2F33E9D.title": "【Iron Knight】Puppet Incarnation",
     "quest.033E7759B64F002C.quest_desc": [
-      "วิธีได้รับ: ใช้ Absorb & Dissolve ของ Slime, Predator หรือความสามารถอื่นที่ดึงสกิลจากเป้าหมายได้ กับ Hover Lizard, Leech Lizard หรือ Tempest Serpent",
+      "วิธีได้รับ: ใช้ Absorb \\& Dissolve ของ Slime, Predator หรือความสามารถอื่นที่ดึงสกิลจากเป้าหมายได้ กับ Hover Lizard, Leech Lizard หรือ Tempest Serpent",
       "",
       "[ติดตัว - เปิดปิดได้]:&r เมื่อเปิดใช้ สิ่งมีชีวิตที่ระบุว่าเป็น “สัตว์เลือดอุ่น” ภายในรัศมี 20 บล็อกจะมีเส้นขอบสีแดง สัตว์เลือดเย็นจะไม่แสดงเส้นขอบ ส่วนสิ่งมีชีวิตที่เป็นแหล่งความเย็น เช่น Snow Golem จะมีเส้นขอบสีฟ้า ไม่ทำงานใน Nether"
     ],
@@ -1197,7 +1197,7 @@
     "quest.57DB5A8781F58A99.quest_subtitle": "[เลือกเส้นทาง คุณยังท้าทายทั้งหมดคนเดียวได้ด้วย]",
     "quest.57EB4AAC9C405916.quest_subtitle": "อ่อนกว่าชุดเกราะเพชรเล็กน้อย",
     "quest.58020190DBD3261D.quest_desc": [
-      "การได้รับ: มี Magic Sense + ชำนาญ Danger Sense หรือใช้ Absorb & Dissolve ของ Slime, Predator หรือความสามารถอื่นที่สกัดสกิลของเป้าหมายได้ กับ Bat, Warden หรือ Giant Bat",
+      "การได้รับ: มี Magic Sense + ชำนาญ Danger Sense หรือใช้ Absorb \\& Dissolve ของ Slime, Predator หรือความสามารถอื่นที่สกัดสกิลของเป้าหมายได้ กับ Bat, Warden หรือ Giant Bat",
       "",
       "[พาสซีฟ - สลับ]: &r",
       "เมื่อเปิด เอนทิตีที่ส่งเสียงภายในรัศมี 20 บล็อกจะถูกไฮไลต์ด้วยเส้นขอบสีเขียว"
@@ -1947,7 +1947,7 @@
     ],
     "quest.06D1B9E52BAEA193.quest_desc": [
       "&6มีโอกาสดรอปวัตถุดิบนี้เมื่อสังหารมอนสเตอร์&r",
-      "ดูดกลืนได้ด้วยสกิล “&bAbsorb & Dissolve&r”",
+      "ดูดกลืนได้ด้วยสกิล “&bAbsorb \\& Dissolve&r”",
       "วัตถุดิบจำเป็นสำหรับสร้าง Magic Bottle of Water ซึ่งใช้ปรุง Magic Recovery Potion"
     ],
     "quest.06EAE9E79B48163A.quest_subtitle": "คุณมองไม่เห็นฉันหรอก!",
@@ -2854,7 +2854,7 @@
     "quest.61A6D0A00AC7F345.title": "Taratect",
     "quest.61D5F38862A9CCFB.quest_desc": [
       "&6การสังหารมอนสเตอร์มีโอกาสดรอปวัสดุนี้&r",
-      "ดูดซับได้ด้วยสกิล\"&bAbsorb & Dissolve&r\"",
+      "ดูดซับได้ด้วยสกิล\"&bAbsorb \\& Dissolve&r\"",
       "",
       "วัสดุจำเป็นสำหรับทำ Magic Bottle of Water และเป็นหนึ่งในวัสดุสำหรับปรุง Magic Recovery Potion"
     ],
@@ -2904,7 +2904,7 @@
     ],
     "quest.658BA859C44C25BF.title": "หนึ่งใน Octagram Demon Lord (One of the Octagram Demon Lords)",
     "quest.65FF1BAAC4E9B133.quest_desc": [
-      "คุณจะพบว่าเมื่อสิ่งมีชีวิตตาย มันจะดรอปคริสตัลนี้ คริสตัลมีประโยชน์มาก ไม่เพียงแลกเปลี่ยนกับชาวบ้านเพื่อรับสกุลเงินได้ แต่ยังดูดซับได้ด้วยสกิล \"&bAbsorb & Dissolve&r\"",
+      "คุณจะพบว่าเมื่อสิ่งมีชีวิตตาย มันจะดรอปคริสตัลนี้ คริสตัลมีประโยชน์มาก ไม่เพียงแลกเปลี่ยนกับชาวบ้านเพื่อรับสกุลเงินได้ แต่ยังดูดซับได้ด้วยสกิล \"&bAbsorb \\& Dissolve&r\"",
       "",
       "วัสดุจำเป็นสำหรับทำ Magic Bottle of Water และเป็นหนึ่งในวัสดุสำหรับปรุง Magic Recovery Potion"
     ],
@@ -2926,7 +2926,7 @@
       "วิธีโจมตีของมัน:&r",
       "สร้างความเสียหายแบบกัดกร่อน (แต่ไม่ใช่เอฟเฟกต์กัดกร่อน) ดังนั้นหากคุณมี Corrosion Resistance หรือ Corrosion Nullification คุณจะภูมิคุ้มกันความเสียหายของ Slime",
       "",
-      "หลังเอาชนะมัน &bSlime Core&r ดูดซับได้ด้วยสกิลติดตัวของเผ่า Slime คือ Absorb & Dissolve เพื่อเพิ่มหรือลดขนาดตัว ยังใช้คราฟต์ Staff of Slime เพื่ออัญเชิญ Slime เป็นทหารแนวหน้าที่สละได้"
+      "หลังเอาชนะมัน &bSlime Core&r ดูดซับได้ด้วยสกิลติดตัวของเผ่า Slime คือ Absorb \\& Dissolve เพื่อเพิ่มหรือลดขนาดตัว ยังใช้คราฟต์ Staff of Slime เพื่ออัญเชิญ Slime เป็นทหารแนวหน้าที่สละได้"
     ],
     "quest.69A16C2D76C41BDE.title": "&6【ล่าบอส①】&rให้การต่อสู้เริ่มต้น! เอาชนะ Slime King (Let the Battle Begin! Defeat the Slime King)",
     "quest.6A183D91CE6AF375.quest_desc": [
@@ -3122,7 +3122,7 @@
       "&6EP ได้จากการสังหารมอนสเตอร์ ในสถานการณ์ปกติจะได้ 3% ของค่า EP ของมอนสเตอร์ที่สังหาร",
       "&r",
       "2. บริโภค [ไอเทม]",
-      "&6คุณต้องคลิกขวาที่ไอเทมเพื่อกิน (ส่วนใหญ่) หากกินไม่ได้ มักต้องใช้สกิล Absorb & Dissolve ถือไอเทมที่ตรงกันและกดปุ่มสกิล&r",
+      "&6คุณต้องคลิกขวาที่ไอเทมเพื่อกิน (ส่วนใหญ่) หากกินไม่ได้ มักต้องใช้สกิล Absorb \\& Dissolve ถือไอเทมที่ตรงกันและกดปุ่มสกิล&r",
       "",
       "3. สังหารผู้นำ/บอส",
       "&6เป็นบอสตัวใดก็ได้&4แต่ทำซ้ำไม่ได้&6",
