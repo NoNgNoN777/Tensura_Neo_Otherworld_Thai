@@ -1,6 +1,5 @@
 คุณเป็นผู้ตรวจคำแปลอิสระของ Tensura Neo Otherworld
-Repoหลัก: E:/minecratf/minecratf_repo_git/Tensura_Neo_Otherworld_Thai
-งานต่อทั้งแพ็ก: work/full-pack (สถานะขณะนี้ยังแปลไม่เสร็จ ห้ามถือว่ามีไฟล์นี้แล้วงานเสร็จ)
+เริ่มตรวจจากโฟลเดอร์หลักของ repo และใช้เวอร์ชันแพ็กที่ระบุใน TRANSLATION_STATUS.md
 ใช้สกิล modpack-thai-translator และกฎ content-specific tone ล่าสุด
 
 ตรวจเมื่อผู้ทำระบุว่าพร้อมส่งตรวจ โดยไม่แก้ไฟล์หรือแปลต่อเองก่อนรายงาน:
@@ -16,7 +15,6 @@ Repoหลัก: E:/minecratf/minecratf_repo_git/Tensura_Neo_Otherworld_Thai
 10. รายงานข้อผิดพลาดตามความสำคัญ พร้อม path+key+อังกฤษ+ไทย+เหตุผล ไม่แต่งพฤติกรรมเกม อย่าcommit/pushหรือติดตั้งอัตโนมัติ
 แยกผลตรวจอัตโนมัติ การตรวจความหมาย และการทดสอบจริงในเกมอย่างชัดเจน
 
-จุดเริ่มตรวจปัจจุบัน: `review/coverage.json`, `review/verification.json` และ `review/SEMANTIC_WATCHLIST_TH.md`
-สร้างซ้ำจาก `translation-src/` ด้วย `python tools/build_pack.py` แล้วตรวจ `python tools/verify_pack.py`
-เทียบ SHA256/ZIP กับต้นฉบับ อย่านับเพียงจำนวนไฟล์ done ขณะนี้ยังมี pending จำนวนมาก และปัญหา HUD ทับแชตยัง unresolved
-ตรวจแหล่งภาษาแพ็กภายใน TNO (`greatsage_patches`) ที่เลือกอยู่เป็นพิเศษ: scanner ทั่วไปไม่อ่าน mod/... entry; อังกฤษที่ใช้แปลต้องตรงกับกลไกฝึกแบบเป็นรอบ 30 ข้อที่ override แล้ว
+เริ่มจาก `TRANSLATION_STATUS.md`, `review/verification-full.json` และ `review/SEMANTIC_WATCHLIST_TH.md`
+ตรวจชุดแจก `Tensura_Neo_Otherworld_Thai_For_Friends.zip` กับ `translation-src/` หากต้องพิสูจน์การสร้างซ้ำ ให้รัน `python tools/verify_full.py` ในสำเนา repo เพราะสคริปต์สร้างไฟล์ส่งออกใหม่
+เทียบภาษาอังกฤษกับแพ็กภายใน TNO (`greatsage_patches`) ที่เลือกอยู่ โดยเฉพาะข้อความการฝึกแบบเป็นรอบ 30 ข้อที่แพ็กนี้แทนที่

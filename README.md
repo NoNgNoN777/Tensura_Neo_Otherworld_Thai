@@ -1,17 +1,42 @@
-# Tensura Neo Otherworld Thai
+# Tensura Neo Otherworld ภาษาไทย
 
-ภาษาไทยสำหรับ Tensura Neo Otherworld 1.1.3c / Minecraft 1.21.1 NeoForge โดยเล่นด้วยภาษาเกม English (US) และคงชื่ออุปกรณ์/สกิลเฉพาะเป็นอังกฤษ
+ชุดภาษาไทยสำหรับ **Tensura Neo Otherworld 1.1.3c** บน Minecraft Java **1.21.1 · NeoForge** อ่านเควส คำอธิบายสกิล และคู่มือเป็นไทย โดยยังค้นชื่อไอเทม ม็อบ และสกิลด้วยชื่ออังกฤษได้
 
-**ยังไม่รับรองว่าแปลครบ: พบ UI ที่หลุดจากตัวกรองเดิม และกำลังตรวจข้อความเพิ่มเติม** ดู [สถานะล่าสุด](TRANSLATION_STATUS.md) และ [รายการที่ต้องตรวจบริบท](review/SEMANTIC_WATCHLIST_TH.md)
+**[⬇ ดาวน์โหลดชุดภาษาไทยสำหรับผู้เล่น (.zip)](https://github.com/NoNgNoN777/Tensura_Neo_Otherworld_Thai/raw/refs/heads/main/Tensura_Neo_Otherworld_Thai_For_Friends.zip)** · [คู่มือติดตั้งและย้อนกลับ](INSTALL_TH.md) · [สถานะงานแปล](TRANSLATION_STATUS.md)
 
-- ชุดสำหรับลอง: `Tensura_Neo_Otherworld_Thai_For_Friends.zip`
-- ติดตั้งและย้อนกลับ: [INSTALL_TH.md](INSTALL_TH.md)
-- ต้นฉบับ: `translation-src/` รวมภาษา Resource Pack, ฟอนต์อ้างอิง, ต้นฉบับ SNBT และคำแปล, Ponder config
-- สร้าง: `python tools/build_full.py` (Python 3.10+ ไม่ใช้แพ็กเกจภายนอก ไม่ต้องมีเกม)
-- ตรวจไฟล์และความคงที่ของ build: `python tools/verify_full.py`
-- ผลตรวจและงานค้าง: `review/` ไม่ถือว่าไฟล์ ZIP สร้างผ่านแล้วแปลครบ
-- พรอมป์ต์ตรวจอิสระภายหลัง: [REVIEW_PROMPT_TH.md](REVIEW_PROMPT_TH.md)
+## วิธีติดตั้ง
 
-ไม่มีไฟล์ม็อดหรือฟอนต์ของผู้อื่นแนบมา ผู้เล่นต้องมีฟอนต์ไทยที่ใช้ได้อยู่แล้ว แพ็กนี้อ้างอิง default font ของเกม ยังไม่ได้ยืนยันผลในเกมกับหน้าต่างทุกชนิด
+1. ปิดเกม แล้วเปิดโฟลเดอร์ instance ของ **Tensura Neo Otherworld 1.1.3c** ที่มี `mods` และ `config` สำรองไฟล์ภาษาเควสและสคริปต์ Ponder ตาม [คู่มือติดตั้ง](INSTALL_TH.md)
+2. แตก ZIP ที่ดาวน์โหลด แล้วคัดลอก **ทั้ง `config` และ `resourcepacks`** ลงใน instance เดิม ให้โฟลเดอร์รวมกับของเดิม เก็บไฟล์ ZIP ที่อยู่ข้างใน `resourcepacks` ไว้ทั้งไฟล์
+3. เปิดเกม เลือก **Options → Language → English (US)** จากนั้นไปที่ **Resource Packs** เปิด `Tensura_Neo_Otherworld_Thai.zip` และจัดไว้เหนือแพ็กภาษาอื่น หากใช้แพ็กฟอนต์ไทย ให้เปิดฟอนต์ของคุณด้วย
 
-งานเดิมของผู้ร่วมแปลยังอยู่ใน `work/` และงานรอบเต็มใน `work/claude-full/` ไม่มีการ commit หรือ push อัตโนมัติ
+## ข้างในมีอะไร
+
+| ส่วนของเกม | เนื้อหาในชุดแจก |
+| --- | --- |
+| สกิล เผ่า และหน้าจอม็อด | ข้อความภาษา 15,025 คีย์ รวมคำอธิบายสกิล แจ้งเตือนคูลดาวน์ บาเรียร์ และซับ Great Sage |
+| สมุดเควส FTB Quests | ข้อมูลภาษา 1,520 ระเบียน รวมชื่อเควสและคำอธิบาย |
+| หนังสือ Patchouli | คู่มือ 150 ไฟล์ รวม 619 ข้อความ |
+| ฉากสาธิต Ponder | 12 ไฟล์ รวม 43 ข้อความ |
+
+**ตัวอย่างจากแพ็ก** · เควส *Kill Yuuki* แสดงเป็น “สังหาร Yuuki” และเมื่อใช้สกิลตอนมาจิคูลหมด ข้อความ *Out of Magicule.* แสดงเป็น “มาจิคูลหมด”
+
+## ถ้าเข้าเกมแล้วเจอภาษาอังกฤษ
+
+- **เมนูเป็นไทย แต่เควสหรือ Ponder ยังเป็นอังกฤษ** — ปิดเกม ตรวจว่าได้คัดลอก `config` ลงใน instance ที่เปิดเล่น แล้วเปิดเกมใหม่
+- **ชื่อไอเทม สกิล เผ่า และ advancements** — ชุดนี้ตั้งใจคงอังกฤษ บางข้อความของ Nirvana, FTB และปุ่มในหนังสือ Patchouli ก็ยังรอแปล
+- **ตัวอักษรไทยหรือซับ Great Sage แสดงผิดตำแหน่ง** — ชุดแจกผ่านการตรวจไฟล์แล้ว การแสดงฟอนต์ การตัดบรรทัด และซับทับแชตยังรอตรวจในเกม หากพบปัญหา แนบภาพหน้าจอ ชื่อสกิลหรือเควส และเวอร์ชันม็อดแพ็กได้ที่ [Issues](https://github.com/NoNgNoN777/Tensura_Neo_Otherworld_Thai/issues)
+
+<details>
+<summary>สำหรับผู้ร่วมแปลและผู้ที่ต้องการสร้าง ZIP เอง</summary>
+
+ต้นฉบับอยู่ใน [translation-src/](translation-src/) ใช้ Python 3.10 ขึ้นไป รันจากโฟลเดอร์หลักของ repo
+
+```sh
+python tools/build_full.py
+python tools/verify_full.py
+```
+
+ผลตรวจอยู่ใน [verification-full.json](review/verification-full.json) และ [build-report-full.json](review/build-report-full.json) ส่วน [work/](work/) เก็บงานแปลระหว่างทางและข้อมูลของเวอร์ชันก่อน
+
+</details>
